@@ -80,3 +80,7 @@ MIT (`LICENSE`). Third-party checkpoints and software keep their own licenses (`
   primaryClass = {cs.RO}
 }
 ```
+
+## Development note
+
+The code in this repository was written, and the experiments were run, by the authors working with Claude Code (Anthropic).
