@@ -39,7 +39,7 @@ Both experiments need a GPU, the simulator, and the public checkpoints.
 
 | Path | What it holds |
 |---|---|
-| `libero_goal/wnta/` | Evaluation kit for LIBERO-Goal: episode worker, adapters for six public checkpoints (GR00T N1.7 official, pi0.5, SmolVLA, Fast-WAM, Evo-1, OpenVLA-OFT), wire protocol, adapter conformance test, scorer |
+| `libero_goal/wnta/` | Evaluation kit for LIBERO-Goal (`wnta` stands for When Not To Act): episode worker, adapters for six public checkpoints (GR00T N1.7 official, pi0.5, SmolVLA, Fast-WAM, Evo-1, OpenVLA-OFT), wire protocol, adapter conformance test, scorer |
 | `libero_goal/table1.py` | Table I from the episode records or from new worker output |
 | `gr1/` | GR-1 policy server, episode worker, runner, gate calibration, Table II script (`table2.py`), full analysis (`analyze_gr1.py`), scene list and instruction strings |
 | `data/` | Episode records of both experiments (`data/README.md` describes the columns) |
@@ -48,7 +48,7 @@ Both experiments need a GPU, the simulator, and the public checkpoints.
 
 ## Coming soon
 
-Code and episode records for the other experiments of the paper will be added:
+Code and episode records for the other experiments of the paper will be added. The full set will be released under the name WNTA-Bench (When Not To Act Benchmark):
 
 - Instruction prefix on LIBERO-Goal (a sentence that tells the policy to stay still without a task).
 - Action-difference gate on LIBERO-Goal, including the gate calibration and the recalibration on held-out states.
