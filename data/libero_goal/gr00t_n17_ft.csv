@@ -1,0 +1,1201 @@
+checkpoint,cond,g,task,j,text,named_task,outcome,outcome_step,first_contact,max_disp,non_start
+gr00t_n17_ft,none/original,0,0,0,open the middle drawer of the cabinet,,0,140,wooden_cabinet_1,0.3134,0
+gr00t_n17_ft,none/original,1,0,1,open the middle drawer of the cabinet,,0,129,wooden_cabinet_1,0.3240,0
+gr00t_n17_ft,none/original,2,0,2,open the middle drawer of the cabinet,,0,125,wooden_cabinet_1,0.3018,0
+gr00t_n17_ft,none/original,3,0,3,open the middle drawer of the cabinet,,0,117,wooden_cabinet_1,0.3157,0
+gr00t_n17_ft,none/original,4,0,4,open the middle drawer of the cabinet,,0,119,wooden_cabinet_1,0.3101,0
+gr00t_n17_ft,none/original,5,0,5,open the middle drawer of the cabinet,,0,121,wooden_cabinet_1,0.3107,0
+gr00t_n17_ft,none/original,6,0,6,open the middle drawer of the cabinet,,0,116,wooden_cabinet_1,0.3172,0
+gr00t_n17_ft,none/original,7,0,7,open the middle drawer of the cabinet,,0,117,wooden_cabinet_1,0.3242,0
+gr00t_n17_ft,none/original,8,0,8,open the middle drawer of the cabinet,,none,,wooden_cabinet_1,0.4320,0
+gr00t_n17_ft,none/original,9,0,9,open the middle drawer of the cabinet,,0,130,wooden_cabinet_1,0.3043,0
+gr00t_n17_ft,none/original,10,0,10,open the middle drawer of the cabinet,,0,119,wooden_cabinet_1,0.3127,0
+gr00t_n17_ft,none/original,11,0,11,open the middle drawer of the cabinet,,0,117,wooden_cabinet_1,0.3007,0
+gr00t_n17_ft,none/original,12,0,12,open the middle drawer of the cabinet,,0,121,wooden_cabinet_1,0.3261,0
+gr00t_n17_ft,none/original,13,0,13,open the middle drawer of the cabinet,,0,124,wooden_cabinet_1,0.3247,0
+gr00t_n17_ft,none/original,14,0,14,open the middle drawer of the cabinet,,0,122,wooden_cabinet_1,0.3143,0
+gr00t_n17_ft,none/original,15,0,15,open the middle drawer of the cabinet,,0,128,wooden_cabinet_1,0.3268,0
+gr00t_n17_ft,none/original,16,0,16,open the middle drawer of the cabinet,,0,114,wooden_cabinet_1,0.3228,0
+gr00t_n17_ft,none/original,17,0,17,open the middle drawer of the cabinet,,0,127,wooden_cabinet_1,0.3068,0
+gr00t_n17_ft,none/original,18,0,18,open the middle drawer of the cabinet,,0,116,wooden_cabinet_1,0.3105,0
+gr00t_n17_ft,none/original,19,0,19,open the middle drawer of the cabinet,,0,117,wooden_cabinet_1,0.3216,0
+gr00t_n17_ft,none/original,50,1,0,put the bowl on the stove,,1,86,akita_black_bowl_1,0.3420,0
+gr00t_n17_ft,none/original,51,1,1,put the bowl on the stove,,1,88,akita_black_bowl_1,0.3121,0
+gr00t_n17_ft,none/original,52,1,2,put the bowl on the stove,,1,80,akita_black_bowl_1,0.3026,0
+gr00t_n17_ft,none/original,53,1,3,put the bowl on the stove,,1,84,akita_black_bowl_1,0.3228,0
+gr00t_n17_ft,none/original,54,1,4,put the bowl on the stove,,1,82,akita_black_bowl_1,0.3162,0
+gr00t_n17_ft,none/original,55,1,5,put the bowl on the stove,,1,91,akita_black_bowl_1,0.3278,0
+gr00t_n17_ft,none/original,56,1,6,put the bowl on the stove,,1,83,akita_black_bowl_1,0.3086,0
+gr00t_n17_ft,none/original,57,1,7,put the bowl on the stove,,1,80,akita_black_bowl_1,0.3253,0
+gr00t_n17_ft,none/original,58,1,8,put the bowl on the stove,,1,81,cream_cheese_1,0.3159,0
+gr00t_n17_ft,none/original,59,1,9,put the bowl on the stove,,1,93,akita_black_bowl_1,0.3408,0
+gr00t_n17_ft,none/original,60,1,10,put the bowl on the stove,,1,84,akita_black_bowl_1,0.3386,0
+gr00t_n17_ft,none/original,61,1,11,put the bowl on the stove,,1,97,akita_black_bowl_1,0.3748,0
+gr00t_n17_ft,none/original,62,1,12,put the bowl on the stove,,1,97,akita_black_bowl_1,0.3515,0
+gr00t_n17_ft,none/original,63,1,13,put the bowl on the stove,,1,86,akita_black_bowl_1,0.3064,0
+gr00t_n17_ft,none/original,64,1,14,put the bowl on the stove,,1,90,akita_black_bowl_1,0.3245,0
+gr00t_n17_ft,none/original,65,1,15,put the bowl on the stove,,1,90,akita_black_bowl_1,0.3338,0
+gr00t_n17_ft,none/original,66,1,16,put the bowl on the stove,,1,90,akita_black_bowl_1,0.3406,0
+gr00t_n17_ft,none/original,67,1,17,put the bowl on the stove,,1,90,akita_black_bowl_1,0.3231,0
+gr00t_n17_ft,none/original,68,1,18,put the bowl on the stove,,1,84,akita_black_bowl_1,0.3103,0
+gr00t_n17_ft,none/original,69,1,19,put the bowl on the stove,,1,84,akita_black_bowl_1,0.3066,0
+gr00t_n17_ft,none/original,100,2,0,put the wine bottle on top of the cabinet,,2,72,wine_bottle_1,0.2906,0
+gr00t_n17_ft,none/original,101,2,1,put the wine bottle on top of the cabinet,,2,81,wine_bottle_1,0.3068,0
+gr00t_n17_ft,none/original,102,2,2,put the wine bottle on top of the cabinet,,2,78,wine_bottle_1,0.2781,0
+gr00t_n17_ft,none/original,103,2,3,put the wine bottle on top of the cabinet,,none,,,0.4310,0
+gr00t_n17_ft,none/original,104,2,4,put the wine bottle on top of the cabinet,,2,87,wine_bottle_1,0.3158,0
+gr00t_n17_ft,none/original,105,2,5,put the wine bottle on top of the cabinet,,2,95,wine_bottle_1,0.2783,0
+gr00t_n17_ft,none/original,106,2,6,put the wine bottle on top of the cabinet,,2,96,wine_bottle_1,0.3103,0
+gr00t_n17_ft,none/original,107,2,7,put the wine bottle on top of the cabinet,,2,104,wine_bottle_1,0.2528,0
+gr00t_n17_ft,none/original,108,2,8,put the wine bottle on top of the cabinet,,2,89,wine_bottle_1,0.2626,0
+gr00t_n17_ft,none/original,109,2,9,put the wine bottle on top of the cabinet,,2,102,wine_bottle_1,0.2589,0
+gr00t_n17_ft,none/original,110,2,10,put the wine bottle on top of the cabinet,,2,102,wine_bottle_1,0.2769,0
+gr00t_n17_ft,none/original,111,2,11,put the wine bottle on top of the cabinet,,2,97,wine_bottle_1,0.3277,0
+gr00t_n17_ft,none/original,112,2,12,put the wine bottle on top of the cabinet,,2,82,wine_bottle_1,0.3309,0
+gr00t_n17_ft,none/original,113,2,13,put the wine bottle on top of the cabinet,,2,97,wine_bottle_1,0.2700,0
+gr00t_n17_ft,none/original,114,2,14,put the wine bottle on top of the cabinet,,2,88,wine_bottle_1,0.3200,0
+gr00t_n17_ft,none/original,115,2,15,put the wine bottle on top of the cabinet,,2,94,wine_bottle_1,0.2979,0
+gr00t_n17_ft,none/original,116,2,16,put the wine bottle on top of the cabinet,,2,97,wine_bottle_1,0.2781,0
+gr00t_n17_ft,none/original,117,2,17,put the wine bottle on top of the cabinet,,2,94,wine_bottle_1,0.3047,0
+gr00t_n17_ft,none/original,118,2,18,put the wine bottle on top of the cabinet,,2,100,wine_bottle_1,0.2928,0
+gr00t_n17_ft,none/original,119,2,19,put the wine bottle on top of the cabinet,,2,90,wine_bottle_1,0.3137,0
+gr00t_n17_ft,none/original,150,3,0,open the top drawer and put the bowl inside,,3,199,wooden_cabinet_1,0.2853,0
+gr00t_n17_ft,none/original,151,3,1,open the top drawer and put the bowl inside,,3,186,wooden_cabinet_1,0.2863,0
+gr00t_n17_ft,none/original,152,3,2,open the top drawer and put the bowl inside,,3,190,wooden_cabinet_1,0.2902,0
+gr00t_n17_ft,none/original,153,3,3,open the top drawer and put the bowl inside,,3,169,wooden_cabinet_1,0.2894,0
+gr00t_n17_ft,none/original,154,3,4,open the top drawer and put the bowl inside,,3,185,wooden_cabinet_1,0.2871,0
+gr00t_n17_ft,none/original,155,3,5,open the top drawer and put the bowl inside,,3,172,wooden_cabinet_1,0.2818,0
+gr00t_n17_ft,none/original,156,3,6,open the top drawer and put the bowl inside,,3,177,wooden_cabinet_1,0.2899,0
+gr00t_n17_ft,none/original,157,3,7,open the top drawer and put the bowl inside,,4,179,wooden_cabinet_1,0.2902,0
+gr00t_n17_ft,none/original,158,3,8,open the top drawer and put the bowl inside,,3,196,wooden_cabinet_1,0.2850,0
+gr00t_n17_ft,none/original,159,3,9,open the top drawer and put the bowl inside,,3,193,wooden_cabinet_1,0.2839,0
+gr00t_n17_ft,none/original,160,3,10,open the top drawer and put the bowl inside,,3,185,wooden_cabinet_1,0.2934,0
+gr00t_n17_ft,none/original,161,3,11,open the top drawer and put the bowl inside,,3,176,wooden_cabinet_1,0.2780,0
+gr00t_n17_ft,none/original,162,3,12,open the top drawer and put the bowl inside,,3,183,wooden_cabinet_1,0.3045,0
+gr00t_n17_ft,none/original,163,3,13,open the top drawer and put the bowl inside,,3,174,wooden_cabinet_1,0.2854,0
+gr00t_n17_ft,none/original,164,3,14,open the top drawer and put the bowl inside,,3,184,wooden_cabinet_1,0.2852,0
+gr00t_n17_ft,none/original,165,3,15,open the top drawer and put the bowl inside,,3,174,wooden_cabinet_1,0.2908,0
+gr00t_n17_ft,none/original,166,3,16,open the top drawer and put the bowl inside,,none,,wooden_cabinet_1,0.2834,0
+gr00t_n17_ft,none/original,167,3,17,open the top drawer and put the bowl inside,,3,176,wooden_cabinet_1,0.2812,0
+gr00t_n17_ft,none/original,168,3,18,open the top drawer and put the bowl inside,,3,184,wooden_cabinet_1,0.2908,0
+gr00t_n17_ft,none/original,169,3,19,open the top drawer and put the bowl inside,,none,,wooden_cabinet_1,0.3230,0
+gr00t_n17_ft,none/original,200,4,0,put the bowl on top of the cabinet,,4,87,akita_black_bowl_1,0.2810,0
+gr00t_n17_ft,none/original,201,4,1,put the bowl on top of the cabinet,,4,82,akita_black_bowl_1,0.2835,0
+gr00t_n17_ft,none/original,202,4,2,put the bowl on top of the cabinet,,4,83,akita_black_bowl_1,0.2996,0
+gr00t_n17_ft,none/original,203,4,3,put the bowl on top of the cabinet,,4,87,akita_black_bowl_1,0.2919,0
+gr00t_n17_ft,none/original,204,4,4,put the bowl on top of the cabinet,,4,88,akita_black_bowl_1,0.2827,0
+gr00t_n17_ft,none/original,205,4,5,put the bowl on top of the cabinet,,4,75,akita_black_bowl_1,0.2783,0
+gr00t_n17_ft,none/original,206,4,6,put the bowl on top of the cabinet,,4,80,akita_black_bowl_1,0.2829,0
+gr00t_n17_ft,none/original,207,4,7,put the bowl on top of the cabinet,,4,89,akita_black_bowl_1,0.2933,0
+gr00t_n17_ft,none/original,208,4,8,put the bowl on top of the cabinet,,4,86,akita_black_bowl_1,0.2877,0
+gr00t_n17_ft,none/original,209,4,9,put the bowl on top of the cabinet,,4,88,akita_black_bowl_1,0.2824,0
+gr00t_n17_ft,none/original,210,4,10,put the bowl on top of the cabinet,,4,86,akita_black_bowl_1,0.2919,0
+gr00t_n17_ft,none/original,211,4,11,put the bowl on top of the cabinet,,4,89,akita_black_bowl_1,0.2922,0
+gr00t_n17_ft,none/original,212,4,12,put the bowl on top of the cabinet,,none,,akita_black_bowl_1,0.3595,0
+gr00t_n17_ft,none/original,213,4,13,put the bowl on top of the cabinet,,4,76,akita_black_bowl_1,0.2724,0
+gr00t_n17_ft,none/original,214,4,14,put the bowl on top of the cabinet,,4,88,akita_black_bowl_1,0.2924,0
+gr00t_n17_ft,none/original,215,4,15,put the bowl on top of the cabinet,,4,76,akita_black_bowl_1,0.2768,0
+gr00t_n17_ft,none/original,216,4,16,put the bowl on top of the cabinet,,4,90,akita_black_bowl_1,0.2785,0
+gr00t_n17_ft,none/original,217,4,17,put the bowl on top of the cabinet,,4,93,akita_black_bowl_1,0.3022,0
+gr00t_n17_ft,none/original,218,4,18,put the bowl on top of the cabinet,,4,92,akita_black_bowl_1,0.3029,0
+gr00t_n17_ft,none/original,219,4,19,put the bowl on top of the cabinet,,4,89,akita_black_bowl_1,0.2859,0
+gr00t_n17_ft,none/original,250,5,0,push the plate to the front of the stove,,5,136,plate_1,0.4717,0
+gr00t_n17_ft,none/original,251,5,1,push the plate to the front of the stove,,5,133,plate_1,0.4536,0
+gr00t_n17_ft,none/original,252,5,2,push the plate to the front of the stove,,5,151,plate_1,0.4371,0
+gr00t_n17_ft,none/original,253,5,3,push the plate to the front of the stove,,5,184,plate_1,0.4546,0
+gr00t_n17_ft,none/original,254,5,4,push the plate to the front of the stove,,5,157,plate_1,0.4585,0
+gr00t_n17_ft,none/original,255,5,5,push the plate to the front of the stove,,5,138,plate_1,0.4373,0
+gr00t_n17_ft,none/original,256,5,6,push the plate to the front of the stove,,5,135,plate_1,0.4684,0
+gr00t_n17_ft,none/original,257,5,7,push the plate to the front of the stove,,5,134,plate_1,0.4635,0
+gr00t_n17_ft,none/original,258,5,8,push the plate to the front of the stove,,5,135,plate_1,0.4328,0
+gr00t_n17_ft,none/original,259,5,9,push the plate to the front of the stove,,none,,plate_1,0.4215,0
+gr00t_n17_ft,none/original,260,5,10,push the plate to the front of the stove,,5,132,plate_1,0.4632,0
+gr00t_n17_ft,none/original,261,5,11,push the plate to the front of the stove,,5,119,plate_1,0.4436,0
+gr00t_n17_ft,none/original,262,5,12,push the plate to the front of the stove,,5,135,plate_1,0.4387,0
+gr00t_n17_ft,none/original,263,5,13,push the plate to the front of the stove,,5,143,plate_1,0.4613,0
+gr00t_n17_ft,none/original,264,5,14,push the plate to the front of the stove,,5,119,plate_1,0.4338,0
+gr00t_n17_ft,none/original,265,5,15,push the plate to the front of the stove,,5,134,plate_1,0.4720,0
+gr00t_n17_ft,none/original,266,5,16,push the plate to the front of the stove,,5,146,plate_1,0.4774,0
+gr00t_n17_ft,none/original,267,5,17,push the plate to the front of the stove,,5,143,plate_1,0.4738,0
+gr00t_n17_ft,none/original,268,5,18,push the plate to the front of the stove,,5,128,plate_1,0.4640,0
+gr00t_n17_ft,none/original,269,5,19,push the plate to the front of the stove,,5,140,plate_1,0.4578,0
+gr00t_n17_ft,none/original,300,6,0,put the cream cheese in the bowl,,none,,akita_black_bowl_1,0.3594,0
+gr00t_n17_ft,none/original,301,6,1,put the cream cheese in the bowl,,6,87,cream_cheese_1,0.3324,0
+gr00t_n17_ft,none/original,302,6,2,put the cream cheese in the bowl,,1,162,akita_black_bowl_1,0.3300,0
+gr00t_n17_ft,none/original,303,6,3,put the cream cheese in the bowl,,6,81,akita_black_bowl_1,0.3118,0
+gr00t_n17_ft,none/original,304,6,4,put the cream cheese in the bowl,,6,90,cream_cheese_1,0.3319,0
+gr00t_n17_ft,none/original,305,6,5,put the cream cheese in the bowl,,6,102,cream_cheese_1,0.3388,0
+gr00t_n17_ft,none/original,306,6,6,put the cream cheese in the bowl,,6,81,cream_cheese_1,0.3321,0
+gr00t_n17_ft,none/original,307,6,7,put the cream cheese in the bowl,,6,81,cream_cheese_1,0.3214,0
+gr00t_n17_ft,none/original,308,6,8,put the cream cheese in the bowl,,6,87,cream_cheese_1,0.3342,0
+gr00t_n17_ft,none/original,309,6,9,put the cream cheese in the bowl,,6,82,akita_black_bowl_1,0.3216,0
+gr00t_n17_ft,none/original,310,6,10,put the cream cheese in the bowl,,6,83,akita_black_bowl_1,0.3260,0
+gr00t_n17_ft,none/original,311,6,11,put the cream cheese in the bowl,,6,96,cream_cheese_1,0.3400,0
+gr00t_n17_ft,none/original,312,6,12,put the cream cheese in the bowl,,none,,cream_cheese_1,0.3389,0
+gr00t_n17_ft,none/original,313,6,13,put the cream cheese in the bowl,,6,77,akita_black_bowl_1,0.3191,0
+gr00t_n17_ft,none/original,314,6,14,put the cream cheese in the bowl,,6,88,cream_cheese_1,0.3350,0
+gr00t_n17_ft,none/original,315,6,15,put the cream cheese in the bowl,,6,93,cream_cheese_1,0.3369,0
+gr00t_n17_ft,none/original,316,6,16,put the cream cheese in the bowl,,6,88,cream_cheese_1,0.3491,0
+gr00t_n17_ft,none/original,317,6,17,put the cream cheese in the bowl,,6,83,cream_cheese_1,0.3406,0
+gr00t_n17_ft,none/original,318,6,18,put the cream cheese in the bowl,,6,79,cream_cheese_1,0.3212,0
+gr00t_n17_ft,none/original,319,6,19,put the cream cheese in the bowl,,4,193,cream_cheese_1,0.3189,0
+gr00t_n17_ft,none/original,350,7,0,turn on the stove,,7,83,flat_stove_1,0.3975,0
+gr00t_n17_ft,none/original,351,7,1,turn on the stove,,7,95,flat_stove_1,0.4101,0
+gr00t_n17_ft,none/original,352,7,2,turn on the stove,,7,73,flat_stove_1,0.3991,0
+gr00t_n17_ft,none/original,353,7,3,turn on the stove,,7,74,flat_stove_1,0.3820,0
+gr00t_n17_ft,none/original,354,7,4,turn on the stove,,7,68,flat_stove_1,0.3799,0
+gr00t_n17_ft,none/original,355,7,5,turn on the stove,,7,87,flat_stove_1,0.4010,0
+gr00t_n17_ft,none/original,356,7,6,turn on the stove,,7,82,flat_stove_1,0.3936,0
+gr00t_n17_ft,none/original,357,7,7,turn on the stove,,7,80,flat_stove_1,0.3959,0
+gr00t_n17_ft,none/original,358,7,8,turn on the stove,,7,74,flat_stove_1,0.3816,0
+gr00t_n17_ft,none/original,359,7,9,turn on the stove,,7,69,flat_stove_1,0.3664,0
+gr00t_n17_ft,none/original,360,7,10,turn on the stove,,7,72,flat_stove_1,0.3948,0
+gr00t_n17_ft,none/original,361,7,11,turn on the stove,,7,79,flat_stove_1,0.3836,0
+gr00t_n17_ft,none/original,362,7,12,turn on the stove,,7,77,flat_stove_1,0.3921,0
+gr00t_n17_ft,none/original,363,7,13,turn on the stove,,7,66,flat_stove_1,0.3912,0
+gr00t_n17_ft,none/original,364,7,14,turn on the stove,,7,75,flat_stove_1,0.3821,0
+gr00t_n17_ft,none/original,365,7,15,turn on the stove,,7,77,flat_stove_1,0.3942,0
+gr00t_n17_ft,none/original,366,7,16,turn on the stove,,7,81,flat_stove_1,0.3935,0
+gr00t_n17_ft,none/original,367,7,17,turn on the stove,,7,80,flat_stove_1,0.3876,0
+gr00t_n17_ft,none/original,368,7,18,turn on the stove,,7,71,flat_stove_1,0.3814,0
+gr00t_n17_ft,none/original,369,7,19,turn on the stove,,7,84,flat_stove_1,0.3930,0
+gr00t_n17_ft,none/original,400,8,0,put the bowl on the plate,,8,74,akita_black_bowl_1,0.3616,0
+gr00t_n17_ft,none/original,401,8,1,put the bowl on the plate,,8,77,cream_cheese_1,0.3520,0
+gr00t_n17_ft,none/original,402,8,2,put the bowl on the plate,,8,73,akita_black_bowl_1,0.3488,0
+gr00t_n17_ft,none/original,403,8,3,put the bowl on the plate,,8,76,akita_black_bowl_1,0.3267,0
+gr00t_n17_ft,none/original,404,8,4,put the bowl on the plate,,8,74,akita_black_bowl_1,0.3173,0
+gr00t_n17_ft,none/original,405,8,5,put the bowl on the plate,,8,74,cream_cheese_1,0.3542,0
+gr00t_n17_ft,none/original,406,8,6,put the bowl on the plate,,8,80,akita_black_bowl_1,0.3481,0
+gr00t_n17_ft,none/original,407,8,7,put the bowl on the plate,,8,80,akita_black_bowl_1,0.3536,0
+gr00t_n17_ft,none/original,408,8,8,put the bowl on the plate,,8,74,akita_black_bowl_1,0.3466,0
+gr00t_n17_ft,none/original,409,8,9,put the bowl on the plate,,8,74,akita_black_bowl_1,0.3401,0
+gr00t_n17_ft,none/original,410,8,10,put the bowl on the plate,,8,69,akita_black_bowl_1,0.3535,0
+gr00t_n17_ft,none/original,411,8,11,put the bowl on the plate,,8,77,akita_black_bowl_1,0.3500,0
+gr00t_n17_ft,none/original,412,8,12,put the bowl on the plate,,8,72,akita_black_bowl_1,0.3561,0
+gr00t_n17_ft,none/original,413,8,13,put the bowl on the plate,,8,81,akita_black_bowl_1,0.3210,0
+gr00t_n17_ft,none/original,414,8,14,put the bowl on the plate,,8,66,akita_black_bowl_1,0.3259,0
+gr00t_n17_ft,none/original,415,8,15,put the bowl on the plate,,8,71,akita_black_bowl_1,0.3470,0
+gr00t_n17_ft,none/original,416,8,16,put the bowl on the plate,,8,81,akita_black_bowl_1,0.3389,0
+gr00t_n17_ft,none/original,417,8,17,put the bowl on the plate,,8,77,cream_cheese_1,0.3452,0
+gr00t_n17_ft,none/original,418,8,18,put the bowl on the plate,,8,76,akita_black_bowl_1,0.3580,0
+gr00t_n17_ft,none/original,419,8,19,put the bowl on the plate,,8,68,akita_black_bowl_1,0.3444,0
+gr00t_n17_ft,none/original,450,9,0,put the wine bottle on the rack,,9,150,wine_bottle_1,0.3144,0
+gr00t_n17_ft,none/original,451,9,1,put the wine bottle on the rack,,9,118,wine_bottle_1,0.2850,0
+gr00t_n17_ft,none/original,452,9,2,put the wine bottle on the rack,,9,128,wine_bottle_1,0.2766,0
+gr00t_n17_ft,none/original,453,9,3,put the wine bottle on the rack,,9,121,wine_bottle_1,0.2816,0
+gr00t_n17_ft,none/original,454,9,4,put the wine bottle on the rack,,9,139,wine_bottle_1,0.2667,0
+gr00t_n17_ft,none/original,455,9,5,put the wine bottle on the rack,,9,121,wine_bottle_1,0.2704,0
+gr00t_n17_ft,none/original,456,9,6,put the wine bottle on the rack,,9,117,wine_bottle_1,0.2434,0
+gr00t_n17_ft,none/original,457,9,7,put the wine bottle on the rack,,none,,wine_bottle_1,0.2783,0
+gr00t_n17_ft,none/original,458,9,8,put the wine bottle on the rack,,9,112,wine_bottle_1,0.2592,0
+gr00t_n17_ft,none/original,459,9,9,put the wine bottle on the rack,,none,,wine_bottle_1,0.2728,0
+gr00t_n17_ft,none/original,460,9,10,put the wine bottle on the rack,,9,126,wine_bottle_1,0.2780,0
+gr00t_n17_ft,none/original,461,9,11,put the wine bottle on the rack,,9,133,wine_bottle_1,0.2403,0
+gr00t_n17_ft,none/original,462,9,12,put the wine bottle on the rack,,none,,wine_bottle_1,0.2386,0
+gr00t_n17_ft,none/original,463,9,13,put the wine bottle on the rack,,9,114,wine_bottle_1,0.2841,0
+gr00t_n17_ft,none/original,464,9,14,put the wine bottle on the rack,,9,111,wine_bottle_1,0.2248,0
+gr00t_n17_ft,none/original,465,9,15,put the wine bottle on the rack,,9,119,wine_bottle_1,0.2626,0
+gr00t_n17_ft,none/original,466,9,16,put the wine bottle on the rack,,9,136,wine_bottle_1,0.2685,0
+gr00t_n17_ft,none/original,467,9,17,put the wine bottle on the rack,,none,,wine_bottle_1,0.3089,0
+gr00t_n17_ft,none/original,468,9,18,put the wine bottle on the rack,,9,187,wine_bottle_1,0.2491,0
+gr00t_n17_ft,none/original,469,9,19,put the wine bottle on the rack,,9,137,wine_bottle_1,0.2651,0
+gr00t_n17_ft,none/empty,0,0,0,,,9,162,wine_bottle_1,0.2522,0
+gr00t_n17_ft,none/empty,1,0,1,,,none,,wine_bottle_1,0.2505,0
+gr00t_n17_ft,none/empty,2,0,2,,,2,131,wine_bottle_1,0.3191,0
+gr00t_n17_ft,none/empty,3,0,3,,,9,126,wine_bottle_1,0.2390,0
+gr00t_n17_ft,none/empty,4,0,4,,,7,80,flat_stove_1,0.4001,0
+gr00t_n17_ft,none/empty,5,0,5,,,4,94,akita_black_bowl_1,0.2825,0
+gr00t_n17_ft,none/empty,6,0,6,,,9,138,wine_bottle_1,0.2656,0
+gr00t_n17_ft,none/empty,7,0,7,,,7,83,flat_stove_1,0.3776,0
+gr00t_n17_ft,none/empty,8,0,8,,,none,,flat_stove_1,0.4221,0
+gr00t_n17_ft,none/empty,9,0,9,,,9,164,wine_bottle_1,0.2368,0
+gr00t_n17_ft,none/empty,10,0,10,,,none,,wooden_cabinet_1,0.2954,0
+gr00t_n17_ft,none/empty,11,0,11,,,none,,wine_rack_1,0.3276,0
+gr00t_n17_ft,none/empty,12,0,12,,,9,144,wine_bottle_1,0.2741,0
+gr00t_n17_ft,none/empty,13,0,13,,,none,,wine_bottle_1,0.3553,0
+gr00t_n17_ft,none/empty,14,0,14,,,7,66,flat_stove_1,0.3574,0
+gr00t_n17_ft,none/empty,15,0,15,,,9,124,wine_bottle_1,0.2724,0
+gr00t_n17_ft,none/empty,16,0,16,,,9,154,wine_bottle_1,0.2486,0
+gr00t_n17_ft,none/empty,17,0,17,,,7,72,flat_stove_1,0.3597,0
+gr00t_n17_ft,none/empty,18,0,18,,,7,114,flat_stove_1,0.3726,0
+gr00t_n17_ft,none/empty,19,0,19,,,7,88,flat_stove_1,0.3545,0
+gr00t_n17_ft,none/empty,50,1,0,,,7,91,flat_stove_1,0.3554,0
+gr00t_n17_ft,none/empty,51,1,1,,,4,115,akita_black_bowl_1,0.3178,0
+gr00t_n17_ft,none/empty,52,1,2,,,1,101,akita_black_bowl_1,0.3245,0
+gr00t_n17_ft,none/empty,53,1,3,,,none,,,0.3337,0
+gr00t_n17_ft,none/empty,54,1,4,,,none,,flat_stove_1,0.3485,0
+gr00t_n17_ft,none/empty,55,1,5,,,9,144,wine_bottle_1,0.2369,0
+gr00t_n17_ft,none/empty,56,1,6,,,1,103,akita_black_bowl_1,0.3456,0
+gr00t_n17_ft,none/empty,57,1,7,,,9,136,wine_bottle_1,0.2457,0
+gr00t_n17_ft,none/empty,58,1,8,,,7,91,flat_stove_1,0.3968,0
+gr00t_n17_ft,none/empty,59,1,9,,,none,,wine_bottle_1,0.3053,0
+gr00t_n17_ft,none/empty,60,1,10,,,9,138,wine_bottle_1,0.2471,0
+gr00t_n17_ft,none/empty,61,1,11,,,9,132,wine_bottle_1,0.2560,0
+gr00t_n17_ft,none/empty,62,1,12,,,9,136,wine_bottle_1,0.2604,0
+gr00t_n17_ft,none/empty,63,1,13,,,7,71,flat_stove_1,0.3567,0
+gr00t_n17_ft,none/empty,64,1,14,,,9,123,wine_bottle_1,0.2316,0
+gr00t_n17_ft,none/empty,65,1,15,,,none,,,0.4566,0
+gr00t_n17_ft,none/empty,66,1,16,,,none,,wine_bottle_1,0.2695,0
+gr00t_n17_ft,none/empty,67,1,17,,,7,126,flat_stove_1,0.3541,0
+gr00t_n17_ft,none/empty,68,1,18,,,7,77,flat_stove_1,0.3787,0
+gr00t_n17_ft,none/empty,69,1,19,,,none,,wine_bottle_1,0.3000,0
+gr00t_n17_ft,none/empty,100,2,0,,,7,70,flat_stove_1,0.3840,0
+gr00t_n17_ft,none/empty,101,2,1,,,none,,flat_stove_1,0.3496,0
+gr00t_n17_ft,none/empty,102,2,2,,,1,105,akita_black_bowl_1,0.3141,0
+gr00t_n17_ft,none/empty,103,2,3,,,none,,wine_bottle_1,0.2596,0
+gr00t_n17_ft,none/empty,104,2,4,,,none,,wooden_cabinet_1,0.2811,0
+gr00t_n17_ft,none/empty,105,2,5,,,none,,,0.2067,0
+gr00t_n17_ft,none/empty,106,2,6,,,7,83,flat_stove_1,0.3551,0
+gr00t_n17_ft,none/empty,107,2,7,,,9,175,wine_bottle_1,0.2849,0
+gr00t_n17_ft,none/empty,108,2,8,,,9,134,wine_bottle_1,0.2704,0
+gr00t_n17_ft,none/empty,109,2,9,,,2,119,wine_bottle_1,0.2915,0
+gr00t_n17_ft,none/empty,110,2,10,,,none,,akita_black_bowl_1,0.2631,0
+gr00t_n17_ft,none/empty,111,2,11,,,none,,flat_stove_1,0.3078,0
+gr00t_n17_ft,none/empty,112,2,12,,,7,127,flat_stove_1,0.3566,0
+gr00t_n17_ft,none/empty,113,2,13,,,none,,flat_stove_1,0.3562,0
+gr00t_n17_ft,none/empty,114,2,14,,,none,,wine_bottle_1,0.3686,0
+gr00t_n17_ft,none/empty,115,2,15,,,7,106,flat_stove_1,0.3803,0
+gr00t_n17_ft,none/empty,116,2,16,,,9,160,wine_bottle_1,0.2453,0
+gr00t_n17_ft,none/empty,117,2,17,,,7,120,flat_stove_1,0.3901,0
+gr00t_n17_ft,none/empty,118,2,18,,,9,144,wine_bottle_1,0.2487,0
+gr00t_n17_ft,none/empty,119,2,19,,,none,,wine_bottle_1,0.3287,0
+gr00t_n17_ft,none/empty,150,3,0,,,none,,wine_bottle_1,0.2994,0
+gr00t_n17_ft,none/empty,151,3,1,,,none,,wine_bottle_1,0.2278,0
+gr00t_n17_ft,none/empty,152,3,2,,,9,145,wine_bottle_1,0.2452,0
+gr00t_n17_ft,none/empty,153,3,3,,,4,138,akita_black_bowl_1,0.2573,0
+gr00t_n17_ft,none/empty,154,3,4,,,9,225,wine_bottle_1,0.2510,0
+gr00t_n17_ft,none/empty,155,3,5,,,0,226,wooden_cabinet_1,0.2853,0
+gr00t_n17_ft,none/empty,156,3,6,,,none,,akita_black_bowl_1,0.2880,0
+gr00t_n17_ft,none/empty,157,3,7,,,1,97,akita_black_bowl_1,0.3121,0
+gr00t_n17_ft,none/empty,158,3,8,,,7,81,flat_stove_1,0.3715,0
+gr00t_n17_ft,none/empty,159,3,9,,,9,131,wine_bottle_1,0.2565,0
+gr00t_n17_ft,none/empty,160,3,10,,,9,141,wine_bottle_1,0.2476,0
+gr00t_n17_ft,none/empty,161,3,11,,,none,,flat_stove_1,0.3483,0
+gr00t_n17_ft,none/empty,162,3,12,,,none,,flat_stove_1,0.3389,0
+gr00t_n17_ft,none/empty,163,3,13,,,9,132,wine_bottle_1,0.2645,0
+gr00t_n17_ft,none/empty,164,3,14,,,9,140,wine_bottle_1,0.2677,0
+gr00t_n17_ft,none/empty,165,3,15,,,none,,flat_stove_1,0.3463,0
+gr00t_n17_ft,none/empty,166,3,16,,,7,205,flat_stove_1,0.3530,0
+gr00t_n17_ft,none/empty,167,3,17,,,7,71,flat_stove_1,0.3592,0
+gr00t_n17_ft,none/empty,168,3,18,,,7,72,flat_stove_1,0.3971,0
+gr00t_n17_ft,none/empty,169,3,19,,,7,92,flat_stove_1,0.3810,0
+gr00t_n17_ft,none/empty,200,4,0,,,9,145,wine_bottle_1,0.2320,0
+gr00t_n17_ft,none/empty,201,4,1,,,none,,flat_stove_1,0.3814,0
+gr00t_n17_ft,none/empty,202,4,2,,,none,,flat_stove_1,0.3472,0
+gr00t_n17_ft,none/empty,203,4,3,,,2,146,wine_bottle_1,0.3240,0
+gr00t_n17_ft,none/empty,204,4,4,,,7,94,flat_stove_1,0.3481,0
+gr00t_n17_ft,none/empty,205,4,5,,,none,,flat_stove_1,0.3090,0
+gr00t_n17_ft,none/empty,206,4,6,,,9,126,wine_bottle_1,0.2346,0
+gr00t_n17_ft,none/empty,207,4,7,,,none,,wine_bottle_1,0.2754,0
+gr00t_n17_ft,none/empty,208,4,8,,,9,138,wine_bottle_1,0.2217,0
+gr00t_n17_ft,none/empty,209,4,9,,,none,,flat_stove_1,0.3419,0
+gr00t_n17_ft,none/empty,210,4,10,,,9,141,wine_bottle_1,0.2538,0
+gr00t_n17_ft,none/empty,211,4,11,,,9,136,wine_bottle_1,0.2744,0
+gr00t_n17_ft,none/empty,212,4,12,,,none,,flat_stove_1,0.3554,0
+gr00t_n17_ft,none/empty,213,4,13,,,7,93,flat_stove_1,0.3698,0
+gr00t_n17_ft,none/empty,214,4,14,,,none,,wine_bottle_1,0.2570,0
+gr00t_n17_ft,none/empty,215,4,15,,,none,,flat_stove_1,0.3562,0
+gr00t_n17_ft,none/empty,216,4,16,,,7,77,flat_stove_1,0.3509,0
+gr00t_n17_ft,none/empty,217,4,17,,,7,102,flat_stove_1,0.3545,0
+gr00t_n17_ft,none/empty,218,4,18,,,none,,wine_bottle_1,0.2859,0
+gr00t_n17_ft,none/empty,219,4,19,,,none,,wine_bottle_1,0.2598,0
+gr00t_n17_ft,none/empty,250,5,0,,,none,,wine_bottle_1,0.2316,0
+gr00t_n17_ft,none/empty,251,5,1,,,none,,flat_stove_1,0.3278,0
+gr00t_n17_ft,none/empty,252,5,2,,,9,151,wine_bottle_1,0.2704,0
+gr00t_n17_ft,none/empty,253,5,3,,,7,68,flat_stove_1,0.3780,0
+gr00t_n17_ft,none/empty,254,5,4,,,7,79,flat_stove_1,0.3534,0
+gr00t_n17_ft,none/empty,255,5,5,,,7,79,flat_stove_1,0.3657,0
+gr00t_n17_ft,none/empty,256,5,6,,,9,153,wine_bottle_1,0.2490,0
+gr00t_n17_ft,none/empty,257,5,7,,,9,118,wine_bottle_1,0.2260,0
+gr00t_n17_ft,none/empty,258,5,8,,,none,,wine_bottle_1,0.2794,0
+gr00t_n17_ft,none/empty,259,5,9,,,7,84,flat_stove_1,0.3664,0
+gr00t_n17_ft,none/empty,260,5,10,,,1,92,akita_black_bowl_1,0.3176,0
+gr00t_n17_ft,none/empty,261,5,11,,,1,93,akita_black_bowl_1,0.3182,0
+gr00t_n17_ft,none/empty,262,5,12,,,1,110,akita_black_bowl_1,0.3335,0
+gr00t_n17_ft,none/empty,263,5,13,,,2,117,wine_bottle_1,0.2990,0
+gr00t_n17_ft,none/empty,264,5,14,,,9,145,wine_bottle_1,0.2467,0
+gr00t_n17_ft,none/empty,265,5,15,,,none,,wine_bottle_1,0.2501,0
+gr00t_n17_ft,none/empty,266,5,16,,,none,,,0.3119,0
+gr00t_n17_ft,none/empty,267,5,17,,,none,,flat_stove_1,0.3298,0
+gr00t_n17_ft,none/empty,268,5,18,,,9,151,wine_bottle_1,0.2533,0
+gr00t_n17_ft,none/empty,269,5,19,,,1,89,akita_black_bowl_1,0.3057,0
+gr00t_n17_ft,none/empty,300,6,0,,,none,,wooden_cabinet_1,0.3276,0
+gr00t_n17_ft,none/empty,301,6,1,,,none,,flat_stove_1,0.3543,0
+gr00t_n17_ft,none/empty,302,6,2,,,none,,flat_stove_1,0.3464,0
+gr00t_n17_ft,none/empty,303,6,3,,,7,76,flat_stove_1,0.3668,0
+gr00t_n17_ft,none/empty,304,6,4,,,none,,flat_stove_1,0.3265,0
+gr00t_n17_ft,none/empty,305,6,5,,,4,121,akita_black_bowl_1,0.2627,0
+gr00t_n17_ft,none/empty,306,6,6,,,none,,wine_bottle_1,0.2899,0
+gr00t_n17_ft,none/empty,307,6,7,,,7,74,flat_stove_1,0.3668,0
+gr00t_n17_ft,none/empty,308,6,8,,,7,82,flat_stove_1,0.3642,0
+gr00t_n17_ft,none/empty,309,6,9,,,none,,flat_stove_1,0.3364,0
+gr00t_n17_ft,none/empty,310,6,10,,,none,,wine_bottle_1,0.2507,0
+gr00t_n17_ft,none/empty,311,6,11,,,9,138,wine_bottle_1,0.2418,0
+gr00t_n17_ft,none/empty,312,6,12,,,7,87,flat_stove_1,0.4123,0
+gr00t_n17_ft,none/empty,313,6,13,,,7,73,flat_stove_1,0.3611,0
+gr00t_n17_ft,none/empty,314,6,14,,,9,145,wine_bottle_1,0.2288,0
+gr00t_n17_ft,none/empty,315,6,15,,,none,,wine_bottle_1,0.2534,0
+gr00t_n17_ft,none/empty,316,6,16,,,7,81,flat_stove_1,0.3832,0
+gr00t_n17_ft,none/empty,317,6,17,,,1,112,akita_black_bowl_1,0.3005,0
+gr00t_n17_ft,none/empty,318,6,18,,,none,,wine_bottle_1,0.2625,0
+gr00t_n17_ft,none/empty,319,6,19,,,1,116,akita_black_bowl_1,0.3285,0
+gr00t_n17_ft,none/empty,350,7,0,,,none,,wooden_cabinet_1,0.3063,0
+gr00t_n17_ft,none/empty,351,7,1,,,9,140,wine_bottle_1,0.2457,0
+gr00t_n17_ft,none/empty,352,7,2,,,none,,wine_rack_1,0.3293,0
+gr00t_n17_ft,none/empty,353,7,3,,,7,86,flat_stove_1,0.3693,0
+gr00t_n17_ft,none/empty,354,7,4,,,none,,akita_black_bowl_1,0.3700,0
+gr00t_n17_ft,none/empty,355,7,5,,,9,110,wine_bottle_1,0.2166,0
+gr00t_n17_ft,none/empty,356,7,6,,,none,,wine_bottle_1,0.3212,0
+gr00t_n17_ft,none/empty,357,7,7,,,none,,wine_bottle_1,0.2548,0
+gr00t_n17_ft,none/empty,358,7,8,,,none,,akita_black_bowl_1,0.3453,0
+gr00t_n17_ft,none/empty,359,7,9,,,7,227,flat_stove_1,0.3201,0
+gr00t_n17_ft,none/empty,360,7,10,,,7,91,flat_stove_1,0.3782,0
+gr00t_n17_ft,none/empty,361,7,11,,,none,,flat_stove_1,0.3532,0
+gr00t_n17_ft,none/empty,362,7,12,,,9,147,wine_bottle_1,0.2661,0
+gr00t_n17_ft,none/empty,363,7,13,,,9,163,wine_bottle_1,0.2573,0
+gr00t_n17_ft,none/empty,364,7,14,,,none,,flat_stove_1,0.2913,0
+gr00t_n17_ft,none/empty,365,7,15,,,1,89,akita_black_bowl_1,0.3149,0
+gr00t_n17_ft,none/empty,366,7,16,,,0,279,wooden_cabinet_1,0.3136,0
+gr00t_n17_ft,none/empty,367,7,17,,,none,,wine_bottle_1,0.2435,0
+gr00t_n17_ft,none/empty,368,7,18,,,none,,wine_bottle_1,0.2798,0
+gr00t_n17_ft,none/empty,369,7,19,,,4,103,akita_black_bowl_1,0.2887,0
+gr00t_n17_ft,none/empty,400,8,0,,,none,,flat_stove_1,0.3601,0
+gr00t_n17_ft,none/empty,401,8,1,,,none,,wine_bottle_1,0.2704,0
+gr00t_n17_ft,none/empty,402,8,2,,,none,,flat_stove_1,0.3522,0
+gr00t_n17_ft,none/empty,403,8,3,,,none,,wine_bottle_1,0.2523,0
+gr00t_n17_ft,none/empty,404,8,4,,,9,147,wine_bottle_1,0.2824,0
+gr00t_n17_ft,none/empty,405,8,5,,,7,242,flat_stove_1,0.3765,0
+gr00t_n17_ft,none/empty,406,8,6,,,1,114,cream_cheese_1,0.3286,0
+gr00t_n17_ft,none/empty,407,8,7,,,9,129,wine_bottle_1,0.2406,0
+gr00t_n17_ft,none/empty,408,8,8,,,2,117,wine_bottle_1,0.3085,0
+gr00t_n17_ft,none/empty,409,8,9,,,9,132,wine_bottle_1,0.2319,0
+gr00t_n17_ft,none/empty,410,8,10,,,7,121,flat_stove_1,0.3344,0
+gr00t_n17_ft,none/empty,411,8,11,,,9,132,wine_bottle_1,0.2328,0
+gr00t_n17_ft,none/empty,412,8,12,,,7,116,flat_stove_1,0.3718,0
+gr00t_n17_ft,none/empty,413,8,13,,,7,88,flat_stove_1,0.3991,0
+gr00t_n17_ft,none/empty,414,8,14,,,9,208,wine_bottle_1,0.2825,0
+gr00t_n17_ft,none/empty,415,8,15,,,9,247,wine_bottle_1,0.2498,0
+gr00t_n17_ft,none/empty,416,8,16,,,2,160,wine_bottle_1,0.2575,0
+gr00t_n17_ft,none/empty,417,8,17,,,2,150,wine_bottle_1,0.2856,0
+gr00t_n17_ft,none/empty,418,8,18,,,none,,wine_rack_1,0.3409,0
+gr00t_n17_ft,none/empty,419,8,19,,,none,,flat_stove_1,0.3695,0
+gr00t_n17_ft,none/empty,450,9,0,,,7,95,flat_stove_1,0.3813,0
+gr00t_n17_ft,none/empty,451,9,1,,,none,,flat_stove_1,0.3309,0
+gr00t_n17_ft,none/empty,452,9,2,,,9,153,wine_bottle_1,0.2808,0
+gr00t_n17_ft,none/empty,453,9,3,,,7,81,flat_stove_1,0.3709,0
+gr00t_n17_ft,none/empty,454,9,4,,,2,127,wine_bottle_1,0.3000,0
+gr00t_n17_ft,none/empty,455,9,5,,,9,136,wine_bottle_1,0.2543,0
+gr00t_n17_ft,none/empty,456,9,6,,,1,93,akita_black_bowl_1,0.3085,0
+gr00t_n17_ft,none/empty,457,9,7,,,none,,flat_stove_1,0.3443,0
+gr00t_n17_ft,none/empty,458,9,8,,,9,158,wine_bottle_1,0.2809,0
+gr00t_n17_ft,none/empty,459,9,9,,,none,,wine_bottle_1,0.3290,0
+gr00t_n17_ft,none/empty,460,9,10,,,7,87,flat_stove_1,0.3895,0
+gr00t_n17_ft,none/empty,461,9,11,,,9,138,wine_bottle_1,0.2349,0
+gr00t_n17_ft,none/empty,462,9,12,,,none,,wine_bottle_1,0.2814,0
+gr00t_n17_ft,none/empty,463,9,13,,,9,134,wine_bottle_1,0.2711,0
+gr00t_n17_ft,none/empty,464,9,14,,,9,143,wine_bottle_1,0.2310,0
+gr00t_n17_ft,none/empty,465,9,15,,,none,,flat_stove_1,0.4091,0
+gr00t_n17_ft,none/empty,466,9,16,,,none,,flat_stove_1,0.3024,0
+gr00t_n17_ft,none/empty,467,9,17,,,9,164,wine_bottle_1,0.2570,0
+gr00t_n17_ft,none/empty,468,9,18,,,2,100,wine_bottle_1,0.2691,0
+gr00t_n17_ft,none/empty,469,9,19,,,none,,wine_bottle_1,0.2697,0
+gr00t_n17_ft,none/neutral,0,0,0,do something,,1,102,akita_black_bowl_1,0.3281,0
+gr00t_n17_ft,none/neutral,1,0,1,do something,,none,,wine_bottle_1,0.2524,0
+gr00t_n17_ft,none/neutral,2,0,2,do something,,2,126,wine_bottle_1,0.3111,0
+gr00t_n17_ft,none/neutral,3,0,3,do something,,9,135,wine_bottle_1,0.2576,0
+gr00t_n17_ft,none/neutral,4,0,4,do something,,7,94,flat_stove_1,0.3869,0
+gr00t_n17_ft,none/neutral,5,0,5,do something,,1,97,akita_black_bowl_1,0.3153,0
+gr00t_n17_ft,none/neutral,6,0,6,do something,,9,134,wine_bottle_1,0.2529,0
+gr00t_n17_ft,none/neutral,7,0,7,do something,,9,162,wine_bottle_1,0.2563,0
+gr00t_n17_ft,none/neutral,8,0,8,do something,,9,166,wine_bottle_1,0.2909,0
+gr00t_n17_ft,none/neutral,9,0,9,do something,,9,138,wine_bottle_1,0.2393,0
+gr00t_n17_ft,none/neutral,10,0,10,do something,,none,,wooden_cabinet_1,0.3449,0
+gr00t_n17_ft,none/neutral,11,0,11,do something,,none,,wooden_cabinet_1,0.3201,0
+gr00t_n17_ft,none/neutral,12,0,12,do something,,9,151,wine_bottle_1,0.2927,0
+gr00t_n17_ft,none/neutral,13,0,13,do something,,none,,wine_bottle_1,0.2283,0
+gr00t_n17_ft,none/neutral,14,0,14,do something,,7,65,flat_stove_1,0.3769,0
+gr00t_n17_ft,none/neutral,15,0,15,do something,,9,126,wine_bottle_1,0.2734,0
+gr00t_n17_ft,none/neutral,16,0,16,do something,,9,159,wine_bottle_1,0.2559,0
+gr00t_n17_ft,none/neutral,17,0,17,do something,,7,65,flat_stove_1,0.3592,0
+gr00t_n17_ft,none/neutral,18,0,18,do something,,7,67,flat_stove_1,0.3778,0
+gr00t_n17_ft,none/neutral,19,0,19,do something,,none,,flat_stove_1,0.3641,0
+gr00t_n17_ft,none/neutral,50,1,0,do something,,7,87,flat_stove_1,0.3599,0
+gr00t_n17_ft,none/neutral,51,1,1,do something,,1,109,cream_cheese_1,0.3120,0
+gr00t_n17_ft,none/neutral,52,1,2,do something,,1,92,cream_cheese_1,0.3103,0
+gr00t_n17_ft,none/neutral,53,1,3,do something,,7,78,flat_stove_1,0.3730,0
+gr00t_n17_ft,none/neutral,54,1,4,do something,,none,,flat_stove_1,0.3863,0
+gr00t_n17_ft,none/neutral,55,1,5,do something,,none,,wine_bottle_1,0.2667,0
+gr00t_n17_ft,none/neutral,56,1,6,do something,,1,99,akita_black_bowl_1,0.3424,0
+gr00t_n17_ft,none/neutral,57,1,7,do something,,9,148,wine_bottle_1,0.2503,0
+gr00t_n17_ft,none/neutral,58,1,8,do something,,7,68,flat_stove_1,0.3843,0
+gr00t_n17_ft,none/neutral,59,1,9,do something,,9,139,wine_bottle_1,0.2333,0
+gr00t_n17_ft,none/neutral,60,1,10,do something,,9,118,wine_bottle_1,0.2127,0
+gr00t_n17_ft,none/neutral,61,1,11,do something,,9,130,wine_bottle_1,0.2694,0
+gr00t_n17_ft,none/neutral,62,1,12,do something,,none,,wine_bottle_1,0.3092,0
+gr00t_n17_ft,none/neutral,63,1,13,do something,,none,,wine_rack_1,0.2886,0
+gr00t_n17_ft,none/neutral,64,1,14,do something,,9,127,wine_bottle_1,0.2468,0
+gr00t_n17_ft,none/neutral,65,1,15,do something,,none,,wooden_cabinet_1,0.3277,0
+gr00t_n17_ft,none/neutral,66,1,16,do something,,none,,wine_bottle_1,0.2573,0
+gr00t_n17_ft,none/neutral,67,1,17,do something,,none,,flat_stove_1,0.3384,0
+gr00t_n17_ft,none/neutral,68,1,18,do something,,7,72,flat_stove_1,0.3893,0
+gr00t_n17_ft,none/neutral,69,1,19,do something,,9,269,wine_bottle_1,0.2576,0
+gr00t_n17_ft,none/neutral,100,2,0,do something,,7,76,flat_stove_1,0.3813,0
+gr00t_n17_ft,none/neutral,101,2,1,do something,,7,84,flat_stove_1,0.3761,0
+gr00t_n17_ft,none/neutral,102,2,2,do something,,1,102,akita_black_bowl_1,0.3162,0
+gr00t_n17_ft,none/neutral,103,2,3,do something,,9,130,wine_bottle_1,0.2440,0
+gr00t_n17_ft,none/neutral,104,2,4,do something,,none,,wine_bottle_1,0.2240,0
+gr00t_n17_ft,none/neutral,105,2,5,do something,,none,,wine_bottle_1,0.1741,0
+gr00t_n17_ft,none/neutral,106,2,6,do something,,none,,flat_stove_1,0.3296,0
+gr00t_n17_ft,none/neutral,107,2,7,do something,,9,157,wine_bottle_1,0.2834,0
+gr00t_n17_ft,none/neutral,108,2,8,do something,,none,,wine_bottle_1,0.3053,0
+gr00t_n17_ft,none/neutral,109,2,9,do something,,none,,wine_bottle_1,0.2566,0
+gr00t_n17_ft,none/neutral,110,2,10,do something,,none,,wine_bottle_1,0.2756,0
+gr00t_n17_ft,none/neutral,111,2,11,do something,,none,,akita_black_bowl_1,0.3254,0
+gr00t_n17_ft,none/neutral,112,2,12,do something,,7,86,flat_stove_1,0.3575,0
+gr00t_n17_ft,none/neutral,113,2,13,do something,,none,,flat_stove_1,0.3496,0
+gr00t_n17_ft,none/neutral,114,2,14,do something,,9,134,wine_bottle_1,0.2062,0
+gr00t_n17_ft,none/neutral,115,2,15,do something,,none,,flat_stove_1,0.3702,0
+gr00t_n17_ft,none/neutral,116,2,16,do something,,none,,wine_bottle_1,0.2584,0
+gr00t_n17_ft,none/neutral,117,2,17,do something,,none,,flat_stove_1,0.3819,0
+gr00t_n17_ft,none/neutral,118,2,18,do something,,9,141,wine_bottle_1,0.2747,0
+gr00t_n17_ft,none/neutral,119,2,19,do something,,none,,wine_bottle_1,0.3462,0
+gr00t_n17_ft,none/neutral,150,3,0,do something,,none,,wine_bottle_1,0.2740,0
+gr00t_n17_ft,none/neutral,151,3,1,do something,,9,140,wine_bottle_1,0.2750,0
+gr00t_n17_ft,none/neutral,152,3,2,do something,,none,,wine_bottle_1,0.2855,0
+gr00t_n17_ft,none/neutral,153,3,3,do something,,none,,wooden_cabinet_1,0.3648,0
+gr00t_n17_ft,none/neutral,154,3,4,do something,,none,,wooden_cabinet_1,0.2454,0
+gr00t_n17_ft,none/neutral,155,3,5,do something,,0,165,wooden_cabinet_1,0.3109,0
+gr00t_n17_ft,none/neutral,156,3,6,do something,,1,88,akita_black_bowl_1,0.2963,0
+gr00t_n17_ft,none/neutral,157,3,7,do something,,1,92,akita_black_bowl_1,0.3123,0
+gr00t_n17_ft,none/neutral,158,3,8,do something,,7,108,flat_stove_1,0.3856,0
+gr00t_n17_ft,none/neutral,159,3,9,do something,,9,151,wine_bottle_1,0.2639,0
+gr00t_n17_ft,none/neutral,160,3,10,do something,,none,,wine_bottle_1,0.2339,0
+gr00t_n17_ft,none/neutral,161,3,11,do something,,7,78,flat_stove_1,0.3645,0
+gr00t_n17_ft,none/neutral,162,3,12,do something,,none,,flat_stove_1,0.3354,0
+gr00t_n17_ft,none/neutral,163,3,13,do something,,9,139,wine_bottle_1,0.2472,0
+gr00t_n17_ft,none/neutral,164,3,14,do something,,none,,wine_bottle_1,0.2169,0
+gr00t_n17_ft,none/neutral,165,3,15,do something,,none,,flat_stove_1,0.3525,0
+gr00t_n17_ft,none/neutral,166,3,16,do something,,7,102,flat_stove_1,0.3771,0
+gr00t_n17_ft,none/neutral,167,3,17,do something,,7,68,flat_stove_1,0.3557,0
+gr00t_n17_ft,none/neutral,168,3,18,do something,,7,76,flat_stove_1,0.4066,0
+gr00t_n17_ft,none/neutral,169,3,19,do something,,none,,flat_stove_1,0.3695,0
+gr00t_n17_ft,none/neutral,200,4,0,do something,,9,137,wine_bottle_1,0.2633,0
+gr00t_n17_ft,none/neutral,201,4,1,do something,,none,,flat_stove_1,0.3395,0
+gr00t_n17_ft,none/neutral,202,4,2,do something,,none,,flat_stove_1,0.3506,0
+gr00t_n17_ft,none/neutral,203,4,3,do something,,none,,wine_bottle_1,0.2467,0
+gr00t_n17_ft,none/neutral,204,4,4,do something,,7,102,flat_stove_1,0.3567,0
+gr00t_n17_ft,none/neutral,205,4,5,do something,,1,158,akita_black_bowl_1,0.3166,0
+gr00t_n17_ft,none/neutral,206,4,6,do something,,9,112,wine_bottle_1,0.2268,0
+gr00t_n17_ft,none/neutral,207,4,7,do something,,none,,wine_rack_1,0.3120,0
+gr00t_n17_ft,none/neutral,208,4,8,do something,,9,137,wine_bottle_1,0.2545,0
+gr00t_n17_ft,none/neutral,209,4,9,do something,,none,,wine_bottle_1,0.2984,0
+gr00t_n17_ft,none/neutral,210,4,10,do something,,2,196,wine_bottle_1,0.2673,0
+gr00t_n17_ft,none/neutral,211,4,11,do something,,9,128,wine_bottle_1,0.2745,0
+gr00t_n17_ft,none/neutral,212,4,12,do something,,7,121,flat_stove_1,0.3404,0
+gr00t_n17_ft,none/neutral,213,4,13,do something,,7,84,flat_stove_1,0.3722,0
+gr00t_n17_ft,none/neutral,214,4,14,do something,,none,,wine_bottle_1,0.2593,0
+gr00t_n17_ft,none/neutral,215,4,15,do something,,7,83,flat_stove_1,0.3648,0
+gr00t_n17_ft,none/neutral,216,4,16,do something,,7,63,flat_stove_1,0.3481,0
+gr00t_n17_ft,none/neutral,217,4,17,do something,,7,105,flat_stove_1,0.3610,0
+gr00t_n17_ft,none/neutral,218,4,18,do something,,none,,wine_rack_1,0.3317,0
+gr00t_n17_ft,none/neutral,219,4,19,do something,,9,127,wine_bottle_1,0.2314,0
+gr00t_n17_ft,none/neutral,250,5,0,do something,,none,,wine_bottle_1,0.2474,0
+gr00t_n17_ft,none/neutral,251,5,1,do something,,7,144,flat_stove_1,0.3457,0
+gr00t_n17_ft,none/neutral,252,5,2,do something,,9,145,wine_bottle_1,0.2897,0
+gr00t_n17_ft,none/neutral,253,5,3,do something,,7,78,flat_stove_1,0.3845,0
+gr00t_n17_ft,none/neutral,254,5,4,do something,,9,138,wine_bottle_1,0.2446,0
+gr00t_n17_ft,none/neutral,255,5,5,do something,,none,,flat_stove_1,0.3658,0
+gr00t_n17_ft,none/neutral,256,5,6,do something,,none,,wine_bottle_1,0.2473,0
+gr00t_n17_ft,none/neutral,257,5,7,do something,,9,128,wine_bottle_1,0.2365,0
+gr00t_n17_ft,none/neutral,258,5,8,do something,,none,,wine_rack_1,0.3258,0
+gr00t_n17_ft,none/neutral,259,5,9,do something,,7,96,flat_stove_1,0.3700,0
+gr00t_n17_ft,none/neutral,260,5,10,do something,,1,105,akita_black_bowl_1,0.3220,0
+gr00t_n17_ft,none/neutral,261,5,11,do something,,1,96,akita_black_bowl_1,0.3150,0
+gr00t_n17_ft,none/neutral,262,5,12,do something,,none,,wine_rack_1,0.2934,0
+gr00t_n17_ft,none/neutral,263,5,13,do something,,none,,wine_bottle_1,0.2745,0
+gr00t_n17_ft,none/neutral,264,5,14,do something,,9,144,wine_bottle_1,0.2512,0
+gr00t_n17_ft,none/neutral,265,5,15,do something,,9,125,wine_bottle_1,0.2370,0
+gr00t_n17_ft,none/neutral,266,5,16,do something,,1,148,wine_bottle_1,0.3226,0
+gr00t_n17_ft,none/neutral,267,5,17,do something,,7,85,flat_stove_1,0.3698,0
+gr00t_n17_ft,none/neutral,268,5,18,do something,,4,163,akita_black_bowl_1,0.2467,0
+gr00t_n17_ft,none/neutral,269,5,19,do something,,1,89,akita_black_bowl_1,0.3134,0
+gr00t_n17_ft,none/neutral,300,6,0,do something,,none,,wooden_cabinet_1,0.2978,0
+gr00t_n17_ft,none/neutral,301,6,1,do something,,none,,flat_stove_1,0.4232,0
+gr00t_n17_ft,none/neutral,302,6,2,do something,,none,,flat_stove_1,0.3520,0
+gr00t_n17_ft,none/neutral,303,6,3,do something,,7,66,flat_stove_1,0.3860,0
+gr00t_n17_ft,none/neutral,304,6,4,do something,,7,134,flat_stove_1,0.3464,0
+gr00t_n17_ft,none/neutral,305,6,5,do something,,9,230,wine_bottle_1,0.2661,0
+gr00t_n17_ft,none/neutral,306,6,6,do something,,none,,wine_bottle_1,0.2570,0
+gr00t_n17_ft,none/neutral,307,6,7,do something,,9,143,wine_bottle_1,0.2459,0
+gr00t_n17_ft,none/neutral,308,6,8,do something,,7,85,flat_stove_1,0.3763,0
+gr00t_n17_ft,none/neutral,309,6,9,do something,,none,,flat_stove_1,0.3703,0
+gr00t_n17_ft,none/neutral,310,6,10,do something,,none,,wine_bottle_1,0.2655,0
+gr00t_n17_ft,none/neutral,311,6,11,do something,,9,138,wine_bottle_1,0.2468,0
+gr00t_n17_ft,none/neutral,312,6,12,do something,,none,,flat_stove_1,0.2930,0
+gr00t_n17_ft,none/neutral,313,6,13,do something,,7,73,flat_stove_1,0.3643,0
+gr00t_n17_ft,none/neutral,314,6,14,do something,,9,150,wine_bottle_1,0.2408,0
+gr00t_n17_ft,none/neutral,315,6,15,do something,,none,,wooden_cabinet_1,0.3150,0
+gr00t_n17_ft,none/neutral,316,6,16,do something,,7,84,flat_stove_1,0.3770,0
+gr00t_n17_ft,none/neutral,317,6,17,do something,,1,88,akita_black_bowl_1,0.3188,0
+gr00t_n17_ft,none/neutral,318,6,18,do something,,9,144,wine_bottle_1,0.2847,0
+gr00t_n17_ft,none/neutral,319,6,19,do something,,4,130,akita_black_bowl_1,0.2763,0
+gr00t_n17_ft,none/neutral,350,7,0,do something,,none,,flat_stove_1,0.3248,0
+gr00t_n17_ft,none/neutral,351,7,1,do something,,9,138,wine_bottle_1,0.2629,0
+gr00t_n17_ft,none/neutral,352,7,2,do something,,0,119,wooden_cabinet_1,0.2844,0
+gr00t_n17_ft,none/neutral,353,7,3,do something,,7,85,flat_stove_1,0.3700,0
+gr00t_n17_ft,none/neutral,354,7,4,do something,,none,,flat_stove_1,0.3305,0
+gr00t_n17_ft,none/neutral,355,7,5,do something,,none,,wine_bottle_1,0.2981,0
+gr00t_n17_ft,none/neutral,356,7,6,do something,,none,,wine_bottle_1,0.2727,0
+gr00t_n17_ft,none/neutral,357,7,7,do something,,9,138,wine_bottle_1,0.2396,0
+gr00t_n17_ft,none/neutral,358,7,8,do something,,none,,wine_rack_1,0.2849,0
+gr00t_n17_ft,none/neutral,359,7,9,do something,,7,197,flat_stove_1,0.3243,0
+gr00t_n17_ft,none/neutral,360,7,10,do something,,7,82,flat_stove_1,0.3590,0
+gr00t_n17_ft,none/neutral,361,7,11,do something,,7,89,flat_stove_1,0.3791,0
+gr00t_n17_ft,none/neutral,362,7,12,do something,,9,126,wine_bottle_1,0.2605,0
+gr00t_n17_ft,none/neutral,363,7,13,do something,,9,139,wine_bottle_1,0.2610,0
+gr00t_n17_ft,none/neutral,364,7,14,do something,,none,,wine_bottle_1,0.2593,0
+gr00t_n17_ft,none/neutral,365,7,15,do something,,none,,wooden_cabinet_1,0.3097,0
+gr00t_n17_ft,none/neutral,366,7,16,do something,,none,,wooden_cabinet_1,0.3000,0
+gr00t_n17_ft,none/neutral,367,7,17,do something,,none,,wine_rack_1,0.3045,0
+gr00t_n17_ft,none/neutral,368,7,18,do something,,9,134,wine_bottle_1,0.2282,0
+gr00t_n17_ft,none/neutral,369,7,19,do something,,4,110,akita_black_bowl_1,0.2872,0
+gr00t_n17_ft,none/neutral,400,8,0,do something,,none,,flat_stove_1,0.3458,0
+gr00t_n17_ft,none/neutral,401,8,1,do something,,none,,wine_bottle_1,0.2515,0
+gr00t_n17_ft,none/neutral,402,8,2,do something,,7,107,flat_stove_1,0.3611,0
+gr00t_n17_ft,none/neutral,403,8,3,do something,,9,123,wine_bottle_1,0.2311,0
+gr00t_n17_ft,none/neutral,404,8,4,do something,,9,139,wine_bottle_1,0.2578,0
+gr00t_n17_ft,none/neutral,405,8,5,do something,,7,77,flat_stove_1,0.3533,0
+gr00t_n17_ft,none/neutral,406,8,6,do something,,1,100,cream_cheese_1,0.3175,0
+gr00t_n17_ft,none/neutral,407,8,7,do something,,9,137,wine_bottle_1,0.2417,0
+gr00t_n17_ft,none/neutral,408,8,8,do something,,2,117,wine_bottle_1,0.3120,0
+gr00t_n17_ft,none/neutral,409,8,9,do something,,9,141,wine_bottle_1,0.2436,0
+gr00t_n17_ft,none/neutral,410,8,10,do something,,none,,flat_stove_1,0.3670,0
+gr00t_n17_ft,none/neutral,411,8,11,do something,,9,142,wine_bottle_1,0.2480,0
+gr00t_n17_ft,none/neutral,412,8,12,do something,,7,86,flat_stove_1,0.3630,0
+gr00t_n17_ft,none/neutral,413,8,13,do something,,7,82,flat_stove_1,0.3926,0
+gr00t_n17_ft,none/neutral,414,8,14,do something,,9,184,wine_bottle_1,0.2924,0
+gr00t_n17_ft,none/neutral,415,8,15,do something,,none,,wine_bottle_1,0.2673,0
+gr00t_n17_ft,none/neutral,416,8,16,do something,,9,119,wine_bottle_1,0.2129,0
+gr00t_n17_ft,none/neutral,417,8,17,do something,,none,,wine_bottle_1,0.2865,0
+gr00t_n17_ft,none/neutral,418,8,18,do something,,none,,wine_rack_1,0.3163,0
+gr00t_n17_ft,none/neutral,419,8,19,do something,,none,,flat_stove_1,0.3252,0
+gr00t_n17_ft,none/neutral,450,9,0,do something,,7,95,flat_stove_1,0.3808,0
+gr00t_n17_ft,none/neutral,451,9,1,do something,,none,,flat_stove_1,0.3353,0
+gr00t_n17_ft,none/neutral,452,9,2,do something,,9,152,wine_bottle_1,0.2936,0
+gr00t_n17_ft,none/neutral,453,9,3,do something,,7,86,flat_stove_1,0.3760,0
+gr00t_n17_ft,none/neutral,454,9,4,do something,,2,126,wine_bottle_1,0.3147,0
+gr00t_n17_ft,none/neutral,455,9,5,do something,,none,,wine_bottle_1,0.2914,0
+gr00t_n17_ft,none/neutral,456,9,6,do something,,1,87,akita_black_bowl_1,0.3028,0
+gr00t_n17_ft,none/neutral,457,9,7,do something,,none,,flat_stove_1,0.3392,0
+gr00t_n17_ft,none/neutral,458,9,8,do something,,none,,wine_bottle_1,0.2728,0
+gr00t_n17_ft,none/neutral,459,9,9,do something,,9,145,wine_bottle_1,0.3087,0
+gr00t_n17_ft,none/neutral,460,9,10,do something,,7,89,flat_stove_1,0.3826,0
+gr00t_n17_ft,none/neutral,461,9,11,do something,,none,,wine_bottle_1,0.2751,0
+gr00t_n17_ft,none/neutral,462,9,12,do something,,9,148,wine_bottle_1,0.2792,0
+gr00t_n17_ft,none/neutral,463,9,13,do something,,9,125,wine_bottle_1,0.2734,0
+gr00t_n17_ft,none/neutral,464,9,14,do something,,9,145,wine_bottle_1,0.2385,0
+gr00t_n17_ft,none/neutral,465,9,15,do something,,none,,flat_stove_1,0.3390,0
+gr00t_n17_ft,none/neutral,466,9,16,do something,,none,,flat_stove_1,0.3502,0
+gr00t_n17_ft,none/neutral,467,9,17,do something,,9,138,wine_bottle_1,0.2434,0
+gr00t_n17_ft,none/neutral,468,9,18,do something,,none,,wine_bottle_1,0.2598,0
+gr00t_n17_ft,none/neutral,469,9,19,do something,,none,,wine_bottle_1,0.2755,0
+gr00t_n17_ft,none/nonsense,0,0,0,xxx,,none,,wine_bottle_1,0.2701,0
+gr00t_n17_ft,none/nonsense,1,0,1,xxx,,none,,wine_bottle_1,0.2677,0
+gr00t_n17_ft,none/nonsense,2,0,2,xxx,,2,131,wine_bottle_1,0.3317,0
+gr00t_n17_ft,none/nonsense,3,0,3,xxx,,9,142,wine_bottle_1,0.2698,0
+gr00t_n17_ft,none/nonsense,4,0,4,xxx,,none,,flat_stove_1,0.3492,0
+gr00t_n17_ft,none/nonsense,5,0,5,xxx,,4,96,akita_black_bowl_1,0.2838,0
+gr00t_n17_ft,none/nonsense,6,0,6,xxx,,9,137,wine_bottle_1,0.2663,0
+gr00t_n17_ft,none/nonsense,7,0,7,xxx,,7,102,flat_stove_1,0.3881,0
+gr00t_n17_ft,none/nonsense,8,0,8,xxx,,9,173,wine_bottle_1,0.3124,0
+gr00t_n17_ft,none/nonsense,9,0,9,xxx,,9,129,wine_bottle_1,0.2410,0
+gr00t_n17_ft,none/nonsense,10,0,10,xxx,,none,,wooden_cabinet_1,0.3486,0
+gr00t_n17_ft,none/nonsense,11,0,11,xxx,,none,,wooden_cabinet_1,0.3309,0
+gr00t_n17_ft,none/nonsense,12,0,12,xxx,,9,152,wine_bottle_1,0.2835,0
+gr00t_n17_ft,none/nonsense,13,0,13,xxx,,none,,wine_rack_1,0.2226,0
+gr00t_n17_ft,none/nonsense,14,0,14,xxx,,7,80,flat_stove_1,0.3922,0
+gr00t_n17_ft,none/nonsense,15,0,15,xxx,,9,116,wine_bottle_1,0.2533,0
+gr00t_n17_ft,none/nonsense,16,0,16,xxx,,9,157,wine_bottle_1,0.2536,0
+gr00t_n17_ft,none/nonsense,17,0,17,xxx,,7,68,flat_stove_1,0.3613,0
+gr00t_n17_ft,none/nonsense,18,0,18,xxx,,7,106,flat_stove_1,0.3749,0
+gr00t_n17_ft,none/nonsense,19,0,19,xxx,,7,80,flat_stove_1,0.3597,0
+gr00t_n17_ft,none/nonsense,50,1,0,xxx,,7,95,flat_stove_1,0.3615,0
+gr00t_n17_ft,none/nonsense,51,1,1,xxx,,4,132,cream_cheese_1,0.3075,0
+gr00t_n17_ft,none/nonsense,52,1,2,xxx,,1,106,akita_black_bowl_1,0.3243,0
+gr00t_n17_ft,none/nonsense,53,1,3,xxx,,none,,wine_bottle_1,0.2261,0
+gr00t_n17_ft,none/nonsense,54,1,4,xxx,,none,,flat_stove_1,0.3319,0
+gr00t_n17_ft,none/nonsense,55,1,5,xxx,,9,175,wine_bottle_1,0.2474,0
+gr00t_n17_ft,none/nonsense,56,1,6,xxx,,4,119,akita_black_bowl_1,0.2736,0
+gr00t_n17_ft,none/nonsense,57,1,7,xxx,,9,158,wine_bottle_1,0.2206,0
+gr00t_n17_ft,none/nonsense,58,1,8,xxx,,7,73,flat_stove_1,0.3856,0
+gr00t_n17_ft,none/nonsense,59,1,9,xxx,,9,150,wine_bottle_1,0.2619,0
+gr00t_n17_ft,none/nonsense,60,1,10,xxx,,9,127,wine_bottle_1,0.2082,0
+gr00t_n17_ft,none/nonsense,61,1,11,xxx,,9,139,wine_bottle_1,0.2624,0
+gr00t_n17_ft,none/nonsense,62,1,12,xxx,,9,208,wine_bottle_1,0.2997,0
+gr00t_n17_ft,none/nonsense,63,1,13,xxx,,none,,,0.2975,0
+gr00t_n17_ft,none/nonsense,64,1,14,xxx,,9,127,wine_bottle_1,0.2373,0
+gr00t_n17_ft,none/nonsense,65,1,15,xxx,,none,,wooden_cabinet_1,0.3602,0
+gr00t_n17_ft,none/nonsense,66,1,16,xxx,,none,,wine_bottle_1,0.2485,0
+gr00t_n17_ft,none/nonsense,67,1,17,xxx,,none,,flat_stove_1,0.3265,0
+gr00t_n17_ft,none/nonsense,68,1,18,xxx,,7,73,flat_stove_1,0.3842,0
+gr00t_n17_ft,none/nonsense,69,1,19,xxx,,none,,wine_bottle_1,0.2602,0
+gr00t_n17_ft,none/nonsense,100,2,0,xxx,,7,74,flat_stove_1,0.3764,0
+gr00t_n17_ft,none/nonsense,101,2,1,xxx,,7,78,flat_stove_1,0.3531,0
+gr00t_n17_ft,none/nonsense,102,2,2,xxx,,1,102,akita_black_bowl_1,0.3305,0
+gr00t_n17_ft,none/nonsense,103,2,3,xxx,,none,,wine_bottle_1,0.3078,0
+gr00t_n17_ft,none/nonsense,104,2,4,xxx,,none,,wine_rack_1,0.2084,0
+gr00t_n17_ft,none/nonsense,105,2,5,xxx,,none,,wooden_cabinet_1,0.2477,0
+gr00t_n17_ft,none/nonsense,106,2,6,xxx,,none,,flat_stove_1,0.3299,0
+gr00t_n17_ft,none/nonsense,107,2,7,xxx,,9,156,wine_bottle_1,0.2395,0
+gr00t_n17_ft,none/nonsense,108,2,8,xxx,,9,140,wine_bottle_1,0.2610,0
+gr00t_n17_ft,none/nonsense,109,2,9,xxx,,none,,wine_bottle_1,0.3189,0
+gr00t_n17_ft,none/nonsense,110,2,10,xxx,,none,,wine_bottle_1,0.2714,0
+gr00t_n17_ft,none/nonsense,111,2,11,xxx,,none,,cream_cheese_1,0.3337,0
+gr00t_n17_ft,none/nonsense,112,2,12,xxx,,7,103,flat_stove_1,0.3600,0
+gr00t_n17_ft,none/nonsense,113,2,13,xxx,,none,,flat_stove_1,0.3476,0
+gr00t_n17_ft,none/nonsense,114,2,14,xxx,,none,,wooden_cabinet_1,0.2549,0
+gr00t_n17_ft,none/nonsense,115,2,15,xxx,,7,111,flat_stove_1,0.3797,0
+gr00t_n17_ft,none/nonsense,116,2,16,xxx,,9,132,wine_bottle_1,0.2302,0
+gr00t_n17_ft,none/nonsense,117,2,17,xxx,,7,298,flat_stove_1,0.3951,0
+gr00t_n17_ft,none/nonsense,118,2,18,xxx,,none,,wine_bottle_1,0.3002,0
+gr00t_n17_ft,none/nonsense,119,2,19,xxx,,none,,wine_bottle_1,0.2993,0
+gr00t_n17_ft,none/nonsense,150,3,0,xxx,,none,,wine_bottle_1,0.2399,0
+gr00t_n17_ft,none/nonsense,151,3,1,xxx,,9,200,wine_bottle_1,0.3167,0
+gr00t_n17_ft,none/nonsense,152,3,2,xxx,,9,147,wine_bottle_1,0.2559,0
+gr00t_n17_ft,none/nonsense,153,3,3,xxx,,9,140,wine_bottle_1,0.2451,0
+gr00t_n17_ft,none/nonsense,154,3,4,xxx,,9,198,wine_bottle_1,0.2502,0
+gr00t_n17_ft,none/nonsense,155,3,5,xxx,,0,180,wooden_cabinet_1,0.2894,0
+gr00t_n17_ft,none/nonsense,156,3,6,xxx,,9,140,wine_bottle_1,0.2530,0
+gr00t_n17_ft,none/nonsense,157,3,7,xxx,,1,89,akita_black_bowl_1,0.3087,0
+gr00t_n17_ft,none/nonsense,158,3,8,xxx,,7,96,flat_stove_1,0.3837,0
+gr00t_n17_ft,none/nonsense,159,3,9,xxx,,9,120,wine_bottle_1,0.2564,0
+gr00t_n17_ft,none/nonsense,160,3,10,xxx,,9,247,wine_bottle_1,0.2557,0
+gr00t_n17_ft,none/nonsense,161,3,11,xxx,,none,,flat_stove_1,0.4159,0
+gr00t_n17_ft,none/nonsense,162,3,12,xxx,,none,,flat_stove_1,0.3336,0
+gr00t_n17_ft,none/nonsense,163,3,13,xxx,,9,127,wine_bottle_1,0.2642,0
+gr00t_n17_ft,none/nonsense,164,3,14,xxx,,9,136,wine_bottle_1,0.2583,0
+gr00t_n17_ft,none/nonsense,165,3,15,xxx,,none,,flat_stove_1,0.3502,0
+gr00t_n17_ft,none/nonsense,166,3,16,xxx,,7,106,flat_stove_1,0.3775,0
+gr00t_n17_ft,none/nonsense,167,3,17,xxx,,7,81,flat_stove_1,0.3570,0
+gr00t_n17_ft,none/nonsense,168,3,18,xxx,,7,77,flat_stove_1,0.3810,0
+gr00t_n17_ft,none/nonsense,169,3,19,xxx,,none,,flat_stove_1,0.3701,0
+gr00t_n17_ft,none/nonsense,200,4,0,xxx,,9,154,wine_bottle_1,0.2724,0
+gr00t_n17_ft,none/nonsense,201,4,1,xxx,,7,198,flat_stove_1,0.3280,0
+gr00t_n17_ft,none/nonsense,202,4,2,xxx,,none,,flat_stove_1,0.3577,0
+gr00t_n17_ft,none/nonsense,203,4,3,xxx,,2,187,wine_bottle_1,0.3039,0
+gr00t_n17_ft,none/nonsense,204,4,4,xxx,,7,95,flat_stove_1,0.3514,0
+gr00t_n17_ft,none/nonsense,205,4,5,xxx,,7,276,flat_stove_1,0.3516,0
+gr00t_n17_ft,none/nonsense,206,4,6,xxx,,9,118,wine_bottle_1,0.2218,0
+gr00t_n17_ft,none/nonsense,207,4,7,xxx,,none,,wine_bottle_1,0.2510,0
+gr00t_n17_ft,none/nonsense,208,4,8,xxx,,9,134,wine_bottle_1,0.2411,0
+gr00t_n17_ft,none/nonsense,209,4,9,xxx,,9,134,wine_bottle_1,0.2449,0
+gr00t_n17_ft,none/nonsense,210,4,10,xxx,,9,131,wine_bottle_1,0.2378,0
+gr00t_n17_ft,none/nonsense,211,4,11,xxx,,9,130,wine_bottle_1,0.2698,0
+gr00t_n17_ft,none/nonsense,212,4,12,xxx,,7,140,flat_stove_1,0.3709,0
+gr00t_n17_ft,none/nonsense,213,4,13,xxx,,7,90,flat_stove_1,0.3693,0
+gr00t_n17_ft,none/nonsense,214,4,14,xxx,,none,,wine_bottle_1,0.2406,0
+gr00t_n17_ft,none/nonsense,215,4,15,xxx,,9,220,akita_black_bowl_1,0.2599,0
+gr00t_n17_ft,none/nonsense,216,4,16,xxx,,7,64,flat_stove_1,0.3461,0
+gr00t_n17_ft,none/nonsense,217,4,17,xxx,,7,107,flat_stove_1,0.3655,0
+gr00t_n17_ft,none/nonsense,218,4,18,xxx,,none,,wine_bottle_1,0.2919,0
+gr00t_n17_ft,none/nonsense,219,4,19,xxx,,9,122,wine_bottle_1,0.2128,0
+gr00t_n17_ft,none/nonsense,250,5,0,xxx,,none,,wine_bottle_1,0.2603,0
+gr00t_n17_ft,none/nonsense,251,5,1,xxx,,none,,flat_stove_1,0.3272,0
+gr00t_n17_ft,none/nonsense,252,5,2,xxx,,9,153,wine_bottle_1,0.2999,0
+gr00t_n17_ft,none/nonsense,253,5,3,xxx,,7,69,flat_stove_1,0.3922,0
+gr00t_n17_ft,none/nonsense,254,5,4,xxx,,9,146,wine_bottle_1,0.2544,0
+gr00t_n17_ft,none/nonsense,255,5,5,xxx,,7,93,flat_stove_1,0.3658,0
+gr00t_n17_ft,none/nonsense,256,5,6,xxx,,9,132,wine_bottle_1,0.2330,0
+gr00t_n17_ft,none/nonsense,257,5,7,xxx,,9,111,wine_bottle_1,0.2134,0
+gr00t_n17_ft,none/nonsense,258,5,8,xxx,,none,,wine_bottle_1,0.2811,0
+gr00t_n17_ft,none/nonsense,259,5,9,xxx,,7,87,flat_stove_1,0.3643,0
+gr00t_n17_ft,none/nonsense,260,5,10,xxx,,1,105,akita_black_bowl_1,0.3304,0
+gr00t_n17_ft,none/nonsense,261,5,11,xxx,,1,94,akita_black_bowl_1,0.3133,0
+gr00t_n17_ft,none/nonsense,262,5,12,xxx,,none,,wine_rack_1,0.3513,0
+gr00t_n17_ft,none/nonsense,263,5,13,xxx,,none,,wine_bottle_1,0.2437,0
+gr00t_n17_ft,none/nonsense,264,5,14,xxx,,9,140,wine_bottle_1,0.2635,0
+gr00t_n17_ft,none/nonsense,265,5,15,xxx,,none,,wine_bottle_1,0.2370,0
+gr00t_n17_ft,none/nonsense,266,5,16,xxx,,none,,wine_bottle_1,0.3078,0
+gr00t_n17_ft,none/nonsense,267,5,17,xxx,,none,,akita_black_bowl_1,0.2857,0
+gr00t_n17_ft,none/nonsense,268,5,18,xxx,,9,140,wine_bottle_1,0.2487,0
+gr00t_n17_ft,none/nonsense,269,5,19,xxx,,1,95,akita_black_bowl_1,0.3137,0
+gr00t_n17_ft,none/nonsense,300,6,0,xxx,,none,,,0.3738,0
+gr00t_n17_ft,none/nonsense,301,6,1,xxx,,none,,flat_stove_1,0.3650,0
+gr00t_n17_ft,none/nonsense,302,6,2,xxx,,7,104,flat_stove_1,0.3679,0
+gr00t_n17_ft,none/nonsense,303,6,3,xxx,,7,76,flat_stove_1,0.3677,0
+gr00t_n17_ft,none/nonsense,304,6,4,xxx,,none,,flat_stove_1,0.3378,0
+gr00t_n17_ft,none/nonsense,305,6,5,xxx,,9,201,wine_bottle_1,0.2825,0
+gr00t_n17_ft,none/nonsense,306,6,6,xxx,,none,,wine_bottle_1,0.2822,0
+gr00t_n17_ft,none/nonsense,307,6,7,xxx,,9,142,akita_black_bowl_1,0.2416,0
+gr00t_n17_ft,none/nonsense,308,6,8,xxx,,7,92,flat_stove_1,0.3750,0
+gr00t_n17_ft,none/nonsense,309,6,9,xxx,,none,,flat_stove_1,0.3671,0
+gr00t_n17_ft,none/nonsense,310,6,10,xxx,,none,,wine_bottle_1,0.2472,0
+gr00t_n17_ft,none/nonsense,311,6,11,xxx,,9,121,wine_bottle_1,0.2365,0
+gr00t_n17_ft,none/nonsense,312,6,12,xxx,,none,,wine_rack_1,0.2660,0
+gr00t_n17_ft,none/nonsense,313,6,13,xxx,,7,75,flat_stove_1,0.3609,0
+gr00t_n17_ft,none/nonsense,314,6,14,xxx,,9,143,wine_bottle_1,0.2489,0
+gr00t_n17_ft,none/nonsense,315,6,15,xxx,,none,,wine_rack_1,0.3227,0
+gr00t_n17_ft,none/nonsense,316,6,16,xxx,,7,85,flat_stove_1,0.3831,0
+gr00t_n17_ft,none/nonsense,317,6,17,xxx,,1,101,akita_black_bowl_1,0.3257,0
+gr00t_n17_ft,none/nonsense,318,6,18,xxx,,9,129,wine_bottle_1,0.2682,0
+gr00t_n17_ft,none/nonsense,319,6,19,xxx,,4,139,akita_black_bowl_1,0.3048,0
+gr00t_n17_ft,none/nonsense,350,7,0,xxx,,none,,wooden_cabinet_1,0.2952,0
+gr00t_n17_ft,none/nonsense,351,7,1,xxx,,9,151,wine_bottle_1,0.2677,0
+gr00t_n17_ft,none/nonsense,352,7,2,xxx,,none,,wooden_cabinet_1,0.2516,0
+gr00t_n17_ft,none/nonsense,353,7,3,xxx,,7,87,flat_stove_1,0.3648,0
+gr00t_n17_ft,none/nonsense,354,7,4,xxx,,1,99,akita_black_bowl_1,0.3160,0
+gr00t_n17_ft,none/nonsense,355,7,5,xxx,,9,130,wine_bottle_1,0.2433,0
+gr00t_n17_ft,none/nonsense,356,7,6,xxx,,none,,wine_bottle_1,0.3245,0
+gr00t_n17_ft,none/nonsense,357,7,7,xxx,,9,138,wine_bottle_1,0.2494,0
+gr00t_n17_ft,none/nonsense,358,7,8,xxx,,none,,wine_rack_1,0.2549,0
+gr00t_n17_ft,none/nonsense,359,7,9,xxx,,none,,flat_stove_1,0.3674,0
+gr00t_n17_ft,none/nonsense,360,7,10,xxx,,none,,flat_stove_1,0.3710,0
+gr00t_n17_ft,none/nonsense,361,7,11,xxx,,7,107,flat_stove_1,0.3727,0
+gr00t_n17_ft,none/nonsense,362,7,12,xxx,,9,190,wine_bottle_1,0.3048,0
+gr00t_n17_ft,none/nonsense,363,7,13,xxx,,9,144,wine_bottle_1,0.2644,0
+gr00t_n17_ft,none/nonsense,364,7,14,xxx,,none,,akita_black_bowl_1,0.2673,0
+gr00t_n17_ft,none/nonsense,365,7,15,xxx,,4,122,akita_black_bowl_1,0.3039,0
+gr00t_n17_ft,none/nonsense,366,7,16,xxx,,0,176,wooden_cabinet_1,0.3033,0
+gr00t_n17_ft,none/nonsense,367,7,17,xxx,,none,,wine_bottle_1,0.2924,0
+gr00t_n17_ft,none/nonsense,368,7,18,xxx,,none,,wine_bottle_1,0.2817,0
+gr00t_n17_ft,none/nonsense,369,7,19,xxx,,1,115,akita_black_bowl_1,0.3179,0
+gr00t_n17_ft,none/nonsense,400,8,0,xxx,,9,242,akita_black_bowl_1,0.2587,0
+gr00t_n17_ft,none/nonsense,401,8,1,xxx,,none,,wine_bottle_1,0.2677,0
+gr00t_n17_ft,none/nonsense,402,8,2,xxx,,none,,flat_stove_1,0.3529,0
+gr00t_n17_ft,none/nonsense,403,8,3,xxx,,9,129,wine_bottle_1,0.2307,0
+gr00t_n17_ft,none/nonsense,404,8,4,xxx,,9,139,wine_bottle_1,0.2643,0
+gr00t_n17_ft,none/nonsense,405,8,5,xxx,,7,85,flat_stove_1,0.3535,0
+gr00t_n17_ft,none/nonsense,406,8,6,xxx,,none,,wine_rack_1,0.3320,0
+gr00t_n17_ft,none/nonsense,407,8,7,xxx,,9,131,wine_bottle_1,0.2337,0
+gr00t_n17_ft,none/nonsense,408,8,8,xxx,,2,113,wine_bottle_1,0.3167,0
+gr00t_n17_ft,none/nonsense,409,8,9,xxx,,9,130,wine_bottle_1,0.2553,0
+gr00t_n17_ft,none/nonsense,410,8,10,xxx,,none,,akita_black_bowl_1,0.2768,0
+gr00t_n17_ft,none/nonsense,411,8,11,xxx,,9,139,wine_bottle_1,0.2446,0
+gr00t_n17_ft,none/nonsense,412,8,12,xxx,,7,93,flat_stove_1,0.3616,0
+gr00t_n17_ft,none/nonsense,413,8,13,xxx,,7,82,flat_stove_1,0.3876,0
+gr00t_n17_ft,none/nonsense,414,8,14,xxx,,9,130,wine_bottle_1,0.2784,0
+gr00t_n17_ft,none/nonsense,415,8,15,xxx,,none,,wine_bottle_1,0.2639,0
+gr00t_n17_ft,none/nonsense,416,8,16,xxx,,9,118,wine_bottle_1,0.2150,0
+gr00t_n17_ft,none/nonsense,417,8,17,xxx,,none,,wine_bottle_1,0.2707,0
+gr00t_n17_ft,none/nonsense,418,8,18,xxx,,none,,wine_rack_1,0.3037,0
+gr00t_n17_ft,none/nonsense,419,8,19,xxx,,none,,flat_stove_1,0.3474,0
+gr00t_n17_ft,none/nonsense,450,9,0,xxx,,7,90,flat_stove_1,0.3823,0
+gr00t_n17_ft,none/nonsense,451,9,1,xxx,,none,,flat_stove_1,0.3098,0
+gr00t_n17_ft,none/nonsense,452,9,2,xxx,,none,,wine_bottle_1,0.2673,0
+gr00t_n17_ft,none/nonsense,453,9,3,xxx,,7,82,flat_stove_1,0.3699,0
+gr00t_n17_ft,none/nonsense,454,9,4,xxx,,2,129,wine_bottle_1,0.2762,0
+gr00t_n17_ft,none/nonsense,455,9,5,xxx,,none,,,0.2915,0
+gr00t_n17_ft,none/nonsense,456,9,6,xxx,,1,90,akita_black_bowl_1,0.3207,0
+gr00t_n17_ft,none/nonsense,457,9,7,xxx,,none,,flat_stove_1,0.3394,0
+gr00t_n17_ft,none/nonsense,458,9,8,xxx,,9,146,wine_bottle_1,0.2660,0
+gr00t_n17_ft,none/nonsense,459,9,9,xxx,,9,250,wine_bottle_1,0.2778,0
+gr00t_n17_ft,none/nonsense,460,9,10,xxx,,7,80,flat_stove_1,0.3843,0
+gr00t_n17_ft,none/nonsense,461,9,11,xxx,,9,140,wine_bottle_1,0.2291,0
+gr00t_n17_ft,none/nonsense,462,9,12,xxx,,9,158,wine_bottle_1,0.2580,0
+gr00t_n17_ft,none/nonsense,463,9,13,xxx,,9,131,wine_bottle_1,0.2708,0
+gr00t_n17_ft,none/nonsense,464,9,14,xxx,,9,132,wine_bottle_1,0.2330,0
+gr00t_n17_ft,none/nonsense,465,9,15,xxx,,none,,flat_stove_1,0.3170,0
+gr00t_n17_ft,none/nonsense,466,9,16,xxx,,none,,flat_stove_1,0.3297,0
+gr00t_n17_ft,none/nonsense,467,9,17,xxx,,9,155,wine_bottle_1,0.2637,0
+gr00t_n17_ft,none/nonsense,468,9,18,xxx,,none,,wine_bottle_1,0.2112,0
+gr00t_n17_ft,none/nonsense,469,9,19,xxx,,none,,wine_bottle_1,0.3066,0
+gr00t_n17_ft,none/other_task,0,0,0,put the bowl on the stove,1,1,82,akita_black_bowl_1,0.3144,0
+gr00t_n17_ft,none/other_task,1,0,1,put the wine bottle on top of the cabinet,2,2,82,wine_bottle_1,0.3104,0
+gr00t_n17_ft,none/other_task,2,0,2,open the top drawer and put the bowl inside,3,3,181,wooden_cabinet_1,0.2761,0
+gr00t_n17_ft,none/other_task,3,0,3,put the bowl on top of the cabinet,4,4,87,akita_black_bowl_1,0.2870,0
+gr00t_n17_ft,none/other_task,4,0,4,push the plate to the front of the stove,5,5,137,plate_1,0.4664,0
+gr00t_n17_ft,none/other_task,5,0,5,put the cream cheese in the bowl,6,none,,cream_cheese_1,0.3341,0
+gr00t_n17_ft,none/other_task,6,0,6,turn on the stove,7,7,89,flat_stove_1,0.3888,0
+gr00t_n17_ft,none/other_task,7,0,7,put the bowl on the plate,8,8,77,akita_black_bowl_1,0.3575,0
+gr00t_n17_ft,none/other_task,8,0,8,put the wine bottle on the rack,9,9,141,wine_bottle_1,0.2989,0
+gr00t_n17_ft,none/other_task,9,0,9,put the bowl on the stove,1,1,86,akita_black_bowl_1,0.3344,0
+gr00t_n17_ft,none/other_task,10,0,10,put the wine bottle on top of the cabinet,2,2,87,wine_bottle_1,0.2794,0
+gr00t_n17_ft,none/other_task,11,0,11,open the top drawer and put the bowl inside,3,3,183,wooden_cabinet_1,0.2926,0
+gr00t_n17_ft,none/other_task,12,0,12,put the bowl on top of the cabinet,4,4,87,akita_black_bowl_1,0.2985,0
+gr00t_n17_ft,none/other_task,13,0,13,push the plate to the front of the stove,5,5,136,plate_1,0.4643,0
+gr00t_n17_ft,none/other_task,14,0,14,put the cream cheese in the bowl,6,6,122,cream_cheese_1,0.3298,0
+gr00t_n17_ft,none/other_task,15,0,15,turn on the stove,7,7,80,flat_stove_1,0.3907,0
+gr00t_n17_ft,none/other_task,16,0,16,put the bowl on the plate,8,8,75,akita_black_bowl_1,0.3536,0
+gr00t_n17_ft,none/other_task,17,0,17,put the wine bottle on the rack,9,9,142,wine_bottle_1,0.3226,0
+gr00t_n17_ft,none/other_task,18,0,18,put the bowl on the stove,1,1,87,akita_black_bowl_1,0.3114,0
+gr00t_n17_ft,none/other_task,19,0,19,put the wine bottle on top of the cabinet,2,2,133,wine_bottle_1,0.3103,0
+gr00t_n17_ft,none/other_task,50,1,0,put the wine bottle on top of the cabinet,2,2,81,wine_bottle_1,0.3168,0
+gr00t_n17_ft,none/other_task,51,1,1,open the top drawer and put the bowl inside,3,3,182,wooden_cabinet_1,0.2811,0
+gr00t_n17_ft,none/other_task,52,1,2,put the bowl on top of the cabinet,4,4,76,akita_black_bowl_1,0.2720,0
+gr00t_n17_ft,none/other_task,53,1,3,push the plate to the front of the stove,5,5,128,plate_1,0.4439,0
+gr00t_n17_ft,none/other_task,54,1,4,put the cream cheese in the bowl,6,6,82,cream_cheese_1,0.3275,0
+gr00t_n17_ft,none/other_task,55,1,5,turn on the stove,7,7,76,flat_stove_1,0.3975,0
+gr00t_n17_ft,none/other_task,56,1,6,put the bowl on the plate,8,8,77,akita_black_bowl_1,0.3477,0
+gr00t_n17_ft,none/other_task,57,1,7,put the wine bottle on the rack,9,9,116,wine_bottle_1,0.2668,0
+gr00t_n17_ft,none/other_task,58,1,8,open the middle drawer of the cabinet,0,0,117,wooden_cabinet_1,0.3164,0
+gr00t_n17_ft,none/other_task,59,1,9,put the wine bottle on top of the cabinet,2,2,90,wine_bottle_1,0.2928,0
+gr00t_n17_ft,none/other_task,60,1,10,open the top drawer and put the bowl inside,3,3,185,wooden_cabinet_1,0.2804,0
+gr00t_n17_ft,none/other_task,61,1,11,put the bowl on top of the cabinet,4,4,85,akita_black_bowl_1,0.2947,0
+gr00t_n17_ft,none/other_task,62,1,12,push the plate to the front of the stove,5,5,134,plate_1,0.4478,0
+gr00t_n17_ft,none/other_task,63,1,13,put the cream cheese in the bowl,6,6,77,akita_black_bowl_1,0.3200,0
+gr00t_n17_ft,none/other_task,64,1,14,turn on the stove,7,7,74,flat_stove_1,0.3773,0
+gr00t_n17_ft,none/other_task,65,1,15,put the bowl on the plate,8,8,76,akita_black_bowl_1,0.3549,0
+gr00t_n17_ft,none/other_task,66,1,16,put the wine bottle on the rack,9,9,111,wine_bottle_1,0.2296,0
+gr00t_n17_ft,none/other_task,67,1,17,open the middle drawer of the cabinet,0,0,123,wooden_cabinet_1,0.3098,0
+gr00t_n17_ft,none/other_task,68,1,18,put the wine bottle on top of the cabinet,2,2,91,wine_bottle_1,0.3032,0
+gr00t_n17_ft,none/other_task,69,1,19,open the top drawer and put the bowl inside,3,4,300,wooden_cabinet_1,0.3433,0
+gr00t_n17_ft,none/other_task,100,2,0,open the top drawer and put the bowl inside,3,3,182,wooden_cabinet_1,0.2781,0
+gr00t_n17_ft,none/other_task,101,2,1,put the bowl on top of the cabinet,4,4,87,akita_black_bowl_1,0.3063,0
+gr00t_n17_ft,none/other_task,102,2,2,push the plate to the front of the stove,5,5,175,plate_1,0.4714,0
+gr00t_n17_ft,none/other_task,103,2,3,put the cream cheese in the bowl,6,6,85,akita_black_bowl_1,0.3312,0
+gr00t_n17_ft,none/other_task,104,2,4,turn on the stove,7,none,,flat_stove_1,0.4495,0
+gr00t_n17_ft,none/other_task,105,2,5,put the bowl on the plate,8,8,78,akita_black_bowl_1,0.3455,0
+gr00t_n17_ft,none/other_task,106,2,6,put the wine bottle on the rack,9,9,128,wine_bottle_1,0.2733,0
+gr00t_n17_ft,none/other_task,107,2,7,open the middle drawer of the cabinet,0,none,,wooden_cabinet_1,0.3667,0
+gr00t_n17_ft,none/other_task,108,2,8,put the bowl on the stove,1,1,84,cream_cheese_1,0.3435,0
+gr00t_n17_ft,none/other_task,109,2,9,open the top drawer and put the bowl inside,3,3,200,wooden_cabinet_1,0.2802,0
+gr00t_n17_ft,none/other_task,110,2,10,put the bowl on top of the cabinet,4,4,95,akita_black_bowl_1,0.3011,0
+gr00t_n17_ft,none/other_task,111,2,11,push the plate to the front of the stove,5,5,116,plate_1,0.4477,0
+gr00t_n17_ft,none/other_task,112,2,12,put the cream cheese in the bowl,6,6,104,akita_black_bowl_1,0.3265,0
+gr00t_n17_ft,none/other_task,113,2,13,turn on the stove,7,7,82,flat_stove_1,0.3955,0
+gr00t_n17_ft,none/other_task,114,2,14,put the bowl on the plate,8,8,73,akita_black_bowl_1,0.3157,0
+gr00t_n17_ft,none/other_task,115,2,15,put the wine bottle on the rack,9,9,126,wine_bottle_1,0.2709,0
+gr00t_n17_ft,none/other_task,116,2,16,open the middle drawer of the cabinet,0,0,126,wooden_cabinet_1,0.3294,0
+gr00t_n17_ft,none/other_task,117,2,17,put the bowl on the stove,1,1,97,cream_cheese_1,0.3123,0
+gr00t_n17_ft,none/other_task,118,2,18,open the top drawer and put the bowl inside,3,3,180,wooden_cabinet_1,0.2825,0
+gr00t_n17_ft,none/other_task,119,2,19,put the bowl on top of the cabinet,4,4,82,akita_black_bowl_1,0.2821,0
+gr00t_n17_ft,none/other_task,150,3,0,put the bowl on top of the cabinet,4,4,77,akita_black_bowl_1,0.2881,0
+gr00t_n17_ft,none/other_task,151,3,1,push the plate to the front of the stove,5,5,133,plate_1,0.4371,0
+gr00t_n17_ft,none/other_task,152,3,2,put the cream cheese in the bowl,6,none,,akita_black_bowl_1,0.3381,0
+gr00t_n17_ft,none/other_task,153,3,3,turn on the stove,7,7,78,flat_stove_1,0.3872,0
+gr00t_n17_ft,none/other_task,154,3,4,put the bowl on the plate,8,8,78,akita_black_bowl_1,0.3486,0
+gr00t_n17_ft,none/other_task,155,3,5,put the wine bottle on the rack,9,9,119,wine_bottle_1,0.2512,0
+gr00t_n17_ft,none/other_task,156,3,6,open the middle drawer of the cabinet,0,0,114,wooden_cabinet_1,0.3066,0
+gr00t_n17_ft,none/other_task,157,3,7,put the bowl on the stove,1,1,81,akita_black_bowl_1,0.3024,0
+gr00t_n17_ft,none/other_task,158,3,8,put the wine bottle on top of the cabinet,2,2,106,wine_bottle_1,0.3009,0
+gr00t_n17_ft,none/other_task,159,3,9,put the bowl on top of the cabinet,4,4,88,akita_black_bowl_1,0.2857,0
+gr00t_n17_ft,none/other_task,160,3,10,push the plate to the front of the stove,5,5,134,plate_1,0.4518,0
+gr00t_n17_ft,none/other_task,161,3,11,put the cream cheese in the bowl,6,6,96,cream_cheese_1,0.3453,0
+gr00t_n17_ft,none/other_task,162,3,12,turn on the stove,7,7,74,flat_stove_1,0.3779,0
+gr00t_n17_ft,none/other_task,163,3,13,put the bowl on the plate,8,8,76,akita_black_bowl_1,0.3415,0
+gr00t_n17_ft,none/other_task,164,3,14,put the wine bottle on the rack,9,9,120,wine_bottle_1,0.2346,0
+gr00t_n17_ft,none/other_task,165,3,15,open the middle drawer of the cabinet,0,0,122,wooden_cabinet_1,0.3241,0
+gr00t_n17_ft,none/other_task,166,3,16,put the bowl on the stove,1,1,89,akita_black_bowl_1,0.3271,0
+gr00t_n17_ft,none/other_task,167,3,17,put the wine bottle on top of the cabinet,2,2,79,wine_bottle_1,0.3378,0
+gr00t_n17_ft,none/other_task,168,3,18,put the bowl on top of the cabinet,4,4,89,akita_black_bowl_1,0.2887,0
+gr00t_n17_ft,none/other_task,169,3,19,push the plate to the front of the stove,5,5,133,plate_1,0.4407,0
+gr00t_n17_ft,none/other_task,200,4,0,push the plate to the front of the stove,5,5,140,plate_1,0.4611,0
+gr00t_n17_ft,none/other_task,201,4,1,put the cream cheese in the bowl,6,6,89,cream_cheese_1,0.3404,0
+gr00t_n17_ft,none/other_task,202,4,2,turn on the stove,7,7,74,flat_stove_1,0.3897,0
+gr00t_n17_ft,none/other_task,203,4,3,put the bowl on the plate,8,8,76,akita_black_bowl_1,0.3494,0
+gr00t_n17_ft,none/other_task,204,4,4,put the wine bottle on the rack,9,9,122,wine_bottle_1,0.2371,0
+gr00t_n17_ft,none/other_task,205,4,5,open the middle drawer of the cabinet,0,0,118,wooden_cabinet_1,0.3062,0
+gr00t_n17_ft,none/other_task,206,4,6,put the bowl on the stove,1,1,84,akita_black_bowl_1,0.3207,0
+gr00t_n17_ft,none/other_task,207,4,7,put the wine bottle on top of the cabinet,2,2,84,wine_bottle_1,0.2876,0
+gr00t_n17_ft,none/other_task,208,4,8,open the top drawer and put the bowl inside,3,3,175,wooden_cabinet_1,0.2699,0
+gr00t_n17_ft,none/other_task,209,4,9,push the plate to the front of the stove,5,5,173,plate_1,0.4619,0
+gr00t_n17_ft,none/other_task,210,4,10,put the cream cheese in the bowl,6,6,87,cream_cheese_1,0.3391,0
+gr00t_n17_ft,none/other_task,211,4,11,turn on the stove,7,7,76,flat_stove_1,0.3879,0
+gr00t_n17_ft,none/other_task,212,4,12,put the bowl on the plate,8,8,77,akita_black_bowl_1,0.3557,0
+gr00t_n17_ft,none/other_task,213,4,13,put the wine bottle on the rack,9,9,135,wine_bottle_1,0.2907,0
+gr00t_n17_ft,none/other_task,214,4,14,open the middle drawer of the cabinet,0,none,,akita_black_bowl_1,0.4313,0
+gr00t_n17_ft,none/other_task,215,4,15,put the bowl on the stove,1,1,83,akita_black_bowl_1,0.3218,0
+gr00t_n17_ft,none/other_task,216,4,16,put the wine bottle on top of the cabinet,2,2,78,wine_bottle_1,0.3227,0
+gr00t_n17_ft,none/other_task,217,4,17,open the top drawer and put the bowl inside,3,3,192,wooden_cabinet_1,0.2925,0
+gr00t_n17_ft,none/other_task,218,4,18,push the plate to the front of the stove,5,5,137,plate_1,0.4628,0
+gr00t_n17_ft,none/other_task,219,4,19,put the cream cheese in the bowl,6,4,169,cream_cheese_1,0.3264,0
+gr00t_n17_ft,none/other_task,250,5,0,put the cream cheese in the bowl,6,6,87,cream_cheese_1,0.3386,0
+gr00t_n17_ft,none/other_task,251,5,1,turn on the stove,7,7,66,flat_stove_1,0.3813,0
+gr00t_n17_ft,none/other_task,252,5,2,put the bowl on the plate,8,8,81,akita_black_bowl_1,0.3446,0
+gr00t_n17_ft,none/other_task,253,5,3,put the wine bottle on the rack,9,none,,wine_bottle_1,0.2626,0
+gr00t_n17_ft,none/other_task,254,5,4,open the middle drawer of the cabinet,0,0,135,wooden_cabinet_1,0.3103,0
+gr00t_n17_ft,none/other_task,255,5,5,put the bowl on the stove,1,1,89,akita_black_bowl_1,0.3108,0
+gr00t_n17_ft,none/other_task,256,5,6,put the wine bottle on top of the cabinet,2,2,89,wine_bottle_1,0.3034,0
+gr00t_n17_ft,none/other_task,257,5,7,open the top drawer and put the bowl inside,3,3,193,wooden_cabinet_1,0.2920,0
+gr00t_n17_ft,none/other_task,258,5,8,put the bowl on top of the cabinet,4,4,86,akita_black_bowl_1,0.3023,0
+gr00t_n17_ft,none/other_task,259,5,9,put the cream cheese in the bowl,6,6,82,akita_black_bowl_1,0.3245,0
+gr00t_n17_ft,none/other_task,260,5,10,turn on the stove,7,7,73,flat_stove_1,0.3848,0
+gr00t_n17_ft,none/other_task,261,5,11,put the bowl on the plate,8,8,71,akita_black_bowl_1,0.3491,0
+gr00t_n17_ft,none/other_task,262,5,12,put the wine bottle on the rack,9,9,120,wine_bottle_1,0.2698,0
+gr00t_n17_ft,none/other_task,263,5,13,open the middle drawer of the cabinet,0,0,129,wooden_cabinet_1,0.3262,0
+gr00t_n17_ft,none/other_task,264,5,14,put the bowl on the stove,1,1,78,akita_black_bowl_1,0.3134,0
+gr00t_n17_ft,none/other_task,265,5,15,put the wine bottle on top of the cabinet,2,2,86,wine_bottle_1,0.2904,0
+gr00t_n17_ft,none/other_task,266,5,16,open the top drawer and put the bowl inside,3,3,252,wooden_cabinet_1,0.3067,0
+gr00t_n17_ft,none/other_task,267,5,17,put the bowl on top of the cabinet,4,4,88,akita_black_bowl_1,0.2975,0
+gr00t_n17_ft,none/other_task,268,5,18,put the cream cheese in the bowl,6,6,134,cream_cheese_1,0.3410,0
+gr00t_n17_ft,none/other_task,269,5,19,turn on the stove,7,7,75,flat_stove_1,0.3873,0
+gr00t_n17_ft,none/other_task,300,6,0,turn on the stove,7,7,73,flat_stove_1,0.4011,0
+gr00t_n17_ft,none/other_task,301,6,1,put the bowl on the plate,8,8,81,akita_black_bowl_1,0.3613,0
+gr00t_n17_ft,none/other_task,302,6,2,put the wine bottle on the rack,9,9,117,wine_bottle_1,0.2295,0
+gr00t_n17_ft,none/other_task,303,6,3,open the middle drawer of the cabinet,0,0,122,wooden_cabinet_1,0.3179,0
+gr00t_n17_ft,none/other_task,304,6,4,put the bowl on the stove,1,1,76,akita_black_bowl_1,0.3095,0
+gr00t_n17_ft,none/other_task,305,6,5,put the wine bottle on top of the cabinet,2,2,82,wine_bottle_1,0.3095,0
+gr00t_n17_ft,none/other_task,306,6,6,open the top drawer and put the bowl inside,3,3,182,wooden_cabinet_1,0.2773,0
+gr00t_n17_ft,none/other_task,307,6,7,put the bowl on top of the cabinet,4,4,83,cream_cheese_1,0.2773,0
+gr00t_n17_ft,none/other_task,308,6,8,push the plate to the front of the stove,5,none,,plate_1,0.4303,0
+gr00t_n17_ft,none/other_task,309,6,9,turn on the stove,7,7,75,flat_stove_1,0.3730,0
+gr00t_n17_ft,none/other_task,310,6,10,put the bowl on the plate,8,8,70,akita_black_bowl_1,0.3451,0
+gr00t_n17_ft,none/other_task,311,6,11,put the wine bottle on the rack,9,9,130,wine_bottle_1,0.2577,0
+gr00t_n17_ft,none/other_task,312,6,12,open the middle drawer of the cabinet,0,0,118,wooden_cabinet_1,0.3142,0
+gr00t_n17_ft,none/other_task,313,6,13,put the bowl on the stove,1,1,88,cream_cheese_1,0.3055,0
+gr00t_n17_ft,none/other_task,314,6,14,put the wine bottle on top of the cabinet,2,2,95,wine_bottle_1,0.3043,0
+gr00t_n17_ft,none/other_task,315,6,15,open the top drawer and put the bowl inside,3,3,182,wooden_cabinet_1,0.2916,0
+gr00t_n17_ft,none/other_task,316,6,16,put the bowl on top of the cabinet,4,4,87,cream_cheese_1,0.2962,0
+gr00t_n17_ft,none/other_task,317,6,17,push the plate to the front of the stove,5,5,145,plate_1,0.4609,0
+gr00t_n17_ft,none/other_task,318,6,18,turn on the stove,7,7,68,flat_stove_1,0.3878,0
+gr00t_n17_ft,none/other_task,319,6,19,put the bowl on the plate,8,8,70,akita_black_bowl_1,0.3462,0
+gr00t_n17_ft,none/other_task,350,7,0,put the bowl on the plate,8,8,77,akita_black_bowl_1,0.3637,0
+gr00t_n17_ft,none/other_task,351,7,1,put the wine bottle on the rack,9,none,,wine_bottle_1,0.3023,0
+gr00t_n17_ft,none/other_task,352,7,2,open the middle drawer of the cabinet,0,none,,akita_black_bowl_1,0.4498,0
+gr00t_n17_ft,none/other_task,353,7,3,put the bowl on the stove,1,1,87,akita_black_bowl_1,0.3094,0
+gr00t_n17_ft,none/other_task,354,7,4,put the wine bottle on top of the cabinet,2,2,112,wine_bottle_1,0.2946,0
+gr00t_n17_ft,none/other_task,355,7,5,open the top drawer and put the bowl inside,3,3,232,wooden_cabinet_1,0.3024,0
+gr00t_n17_ft,none/other_task,356,7,6,put the bowl on top of the cabinet,4,4,85,akita_black_bowl_1,0.2875,0
+gr00t_n17_ft,none/other_task,357,7,7,push the plate to the front of the stove,5,5,155,plate_1,0.4746,0
+gr00t_n17_ft,none/other_task,358,7,8,put the cream cheese in the bowl,6,6,94,cream_cheese_1,0.3264,0
+gr00t_n17_ft,none/other_task,359,7,9,put the bowl on the plate,8,8,75,akita_black_bowl_1,0.3497,0
+gr00t_n17_ft,none/other_task,360,7,10,put the wine bottle on the rack,9,9,145,wine_bottle_1,0.2653,0
+gr00t_n17_ft,none/other_task,361,7,11,open the middle drawer of the cabinet,0,0,115,wooden_cabinet_1,0.3144,0
+gr00t_n17_ft,none/other_task,362,7,12,put the bowl on the stove,1,1,81,akita_black_bowl_1,0.3187,0
+gr00t_n17_ft,none/other_task,363,7,13,put the wine bottle on top of the cabinet,2,2,84,wine_bottle_1,0.3123,0
+gr00t_n17_ft,none/other_task,364,7,14,open the top drawer and put the bowl inside,3,3,184,wooden_cabinet_1,0.2793,0
+gr00t_n17_ft,none/other_task,365,7,15,put the bowl on top of the cabinet,4,4,87,akita_black_bowl_1,0.2875,0
+gr00t_n17_ft,none/other_task,366,7,16,push the plate to the front of the stove,5,5,149,plate_1,0.4792,0
+gr00t_n17_ft,none/other_task,367,7,17,put the cream cheese in the bowl,6,6,89,cream_cheese_1,0.3361,0
+gr00t_n17_ft,none/other_task,368,7,18,put the bowl on the plate,8,8,76,akita_black_bowl_1,0.3554,0
+gr00t_n17_ft,none/other_task,369,7,19,put the wine bottle on the rack,9,none,,wine_rack_1,0.3212,0
+gr00t_n17_ft,none/other_task,400,8,0,put the wine bottle on the rack,9,9,118,wine_bottle_1,0.2440,0
+gr00t_n17_ft,none/other_task,401,8,1,open the middle drawer of the cabinet,0,0,111,wooden_cabinet_1,0.3068,0
+gr00t_n17_ft,none/other_task,402,8,2,put the bowl on the stove,1,1,88,akita_black_bowl_1,0.3284,0
+gr00t_n17_ft,none/other_task,403,8,3,put the wine bottle on top of the cabinet,2,2,91,wine_bottle_1,0.2861,0
+gr00t_n17_ft,none/other_task,404,8,4,open the top drawer and put the bowl inside,3,3,186,wooden_cabinet_1,0.2903,0
+gr00t_n17_ft,none/other_task,405,8,5,put the bowl on top of the cabinet,4,4,91,akita_black_bowl_1,0.2848,0
+gr00t_n17_ft,none/other_task,406,8,6,push the plate to the front of the stove,5,5,126,plate_1,0.4623,0
+gr00t_n17_ft,none/other_task,407,8,7,put the cream cheese in the bowl,6,6,87,akita_black_bowl_1,0.3262,0
+gr00t_n17_ft,none/other_task,408,8,8,turn on the stove,7,7,82,flat_stove_1,0.4059,0
+gr00t_n17_ft,none/other_task,409,8,9,put the wine bottle on the rack,9,9,135,wine_bottle_1,0.2716,0
+gr00t_n17_ft,none/other_task,410,8,10,open the middle drawer of the cabinet,0,none,,wooden_cabinet_1,0.3634,0
+gr00t_n17_ft,none/other_task,411,8,11,put the bowl on the stove,1,1,87,akita_black_bowl_1,0.3341,0
+gr00t_n17_ft,none/other_task,412,8,12,put the wine bottle on top of the cabinet,2,2,102,wine_bottle_1,0.2971,0
+gr00t_n17_ft,none/other_task,413,8,13,open the top drawer and put the bowl inside,3,none,,wooden_cabinet_1,0.2828,0
+gr00t_n17_ft,none/other_task,414,8,14,put the bowl on top of the cabinet,4,4,75,akita_black_bowl_1,0.2880,0
+gr00t_n17_ft,none/other_task,415,8,15,push the plate to the front of the stove,5,5,129,plate_1,0.4500,0
+gr00t_n17_ft,none/other_task,416,8,16,put the cream cheese in the bowl,6,6,79,akita_black_bowl_1,0.3374,0
+gr00t_n17_ft,none/other_task,417,8,17,turn on the stove,7,7,97,flat_stove_1,0.4056,0
+gr00t_n17_ft,none/other_task,418,8,18,put the wine bottle on the rack,9,9,169,wine_bottle_1,0.2468,0
+gr00t_n17_ft,none/other_task,419,8,19,open the middle drawer of the cabinet,0,0,120,wooden_cabinet_1,0.3256,0
+gr00t_n17_ft,none/other_task,450,9,0,open the middle drawer of the cabinet,0,none,,wooden_cabinet_1,0.4304,0
+gr00t_n17_ft,none/other_task,451,9,1,put the bowl on the stove,1,1,89,akita_black_bowl_1,0.3291,0
+gr00t_n17_ft,none/other_task,452,9,2,put the wine bottle on top of the cabinet,2,2,115,wine_bottle_1,0.2462,0
+gr00t_n17_ft,none/other_task,453,9,3,open the top drawer and put the bowl inside,3,3,201,wooden_cabinet_1,0.2885,0
+gr00t_n17_ft,none/other_task,454,9,4,put the bowl on top of the cabinet,4,4,82,akita_black_bowl_1,0.2905,0
+gr00t_n17_ft,none/other_task,455,9,5,push the plate to the front of the stove,5,5,136,plate_1,0.4630,0
+gr00t_n17_ft,none/other_task,456,9,6,put the cream cheese in the bowl,6,6,82,cream_cheese_1,0.3290,0
+gr00t_n17_ft,none/other_task,457,9,7,turn on the stove,7,7,66,flat_stove_1,0.3710,0
+gr00t_n17_ft,none/other_task,458,9,8,put the bowl on the plate,8,8,81,akita_black_bowl_1,0.3435,0
+gr00t_n17_ft,none/other_task,459,9,9,open the middle drawer of the cabinet,0,0,102,wooden_cabinet_1,0.3120,0
+gr00t_n17_ft,none/other_task,460,9,10,put the bowl on the stove,1,1,90,akita_black_bowl_1,0.3215,0
+gr00t_n17_ft,none/other_task,461,9,11,put the wine bottle on top of the cabinet,2,2,82,wine_bottle_1,0.3027,0
+gr00t_n17_ft,none/other_task,462,9,12,open the top drawer and put the bowl inside,3,3,188,wooden_cabinet_1,0.2744,0
+gr00t_n17_ft,none/other_task,463,9,13,put the bowl on top of the cabinet,4,4,77,akita_black_bowl_1,0.2814,0
+gr00t_n17_ft,none/other_task,464,9,14,push the plate to the front of the stove,5,5,126,plate_1,0.4675,0
+gr00t_n17_ft,none/other_task,465,9,15,put the cream cheese in the bowl,6,6,87,cream_cheese_1,0.3370,0
+gr00t_n17_ft,none/other_task,466,9,16,turn on the stove,7,7,75,flat_stove_1,0.3789,0
+gr00t_n17_ft,none/other_task,467,9,17,put the bowl on the plate,8,8,84,akita_black_bowl_1,0.3707,0
+gr00t_n17_ft,none/other_task,468,9,18,open the middle drawer of the cabinet,0,0,153,wooden_cabinet_1,0.3042,0
+gr00t_n17_ft,none/other_task,469,9,19,put the bowl on the stove,1,none,,akita_black_bowl_1,0.3769,0
+gr00t_n17_ft,none/impossible_action,0,0,0,eat the cream cheese,,none,,akita_black_bowl_1,0.3322,0
+gr00t_n17_ft,none/impossible_action,1,0,1,wash the plate in the sink,,none,,plate_1,0.3340,0
+gr00t_n17_ft,none/impossible_action,2,0,2,pour the wine into the bowl,,2,113,wine_bottle_1,0.2990,0
+gr00t_n17_ft,none/impossible_action,3,0,3,cut the cream cheese in half,,4,109,akita_black_bowl_1,0.2947,0
+gr00t_n17_ft,none/impossible_action,4,0,4,paint the cabinet red,,9,124,wine_bottle_1,0.2372,0
+gr00t_n17_ft,none/impossible_action,5,0,5,throw the bowl at the wall,,1,95,akita_black_bowl_1,0.3175,0
+gr00t_n17_ft,none/impossible_action,6,0,6,eat the cream cheese,,none,,wine_rack_1,0.3329,0
+gr00t_n17_ft,none/impossible_action,7,0,7,wash the plate in the sink,,4,214,plate_1,0.3272,0
+gr00t_n17_ft,none/impossible_action,8,0,8,pour the wine into the bowl,,4,131,cream_cheese_1,0.2990,0
+gr00t_n17_ft,none/impossible_action,9,0,9,cut the cream cheese in half,,none,,wine_bottle_1,0.3062,0
+gr00t_n17_ft,none/impossible_action,10,0,10,paint the cabinet red,,none,,wooden_cabinet_1,0.3542,0
+gr00t_n17_ft,none/impossible_action,11,0,11,throw the bowl at the wall,,1,95,akita_black_bowl_1,0.3375,0
+gr00t_n17_ft,none/impossible_action,12,0,12,eat the cream cheese,,0,170,wooden_cabinet_1,0.3029,0
+gr00t_n17_ft,none/impossible_action,13,0,13,wash the plate in the sink,,8,264,akita_black_bowl_1,0.3374,0
+gr00t_n17_ft,none/impossible_action,14,0,14,pour the wine into the bowl,,4,109,akita_black_bowl_1,0.2936,0
+gr00t_n17_ft,none/impossible_action,15,0,15,cut the cream cheese in half,,0,151,wooden_cabinet_1,0.3071,0
+gr00t_n17_ft,none/impossible_action,16,0,16,paint the cabinet red,,none,,wine_bottle_1,0.3698,0
+gr00t_n17_ft,none/impossible_action,17,0,17,throw the bowl at the wall,,1,86,akita_black_bowl_1,0.3041,0
+gr00t_n17_ft,none/impossible_action,18,0,18,eat the cream cheese,,9,140,wine_bottle_1,0.2479,0
+gr00t_n17_ft,none/impossible_action,19,0,19,wash the plate in the sink,,4,163,plate_1,0.3174,0
+gr00t_n17_ft,none/impossible_action,50,1,0,pour the wine into the bowl,,1,95,akita_black_bowl_1,0.3137,0
+gr00t_n17_ft,none/impossible_action,51,1,1,cut the cream cheese in half,,4,112,cream_cheese_1,0.2938,0
+gr00t_n17_ft,none/impossible_action,52,1,2,paint the cabinet red,,none,,wooden_cabinet_1,0.3880,0
+gr00t_n17_ft,none/impossible_action,53,1,3,throw the bowl at the wall,,4,100,akita_black_bowl_1,0.2851,0
+gr00t_n17_ft,none/impossible_action,54,1,4,eat the cream cheese,,6,95,akita_black_bowl_1,0.3204,0
+gr00t_n17_ft,none/impossible_action,55,1,5,wash the plate in the sink,,none,,plate_1,0.3379,0
+gr00t_n17_ft,none/impossible_action,56,1,6,pour the wine into the bowl,,1,97,akita_black_bowl_1,0.3185,0
+gr00t_n17_ft,none/impossible_action,57,1,7,cut the cream cheese in half,,1,213,cream_cheese_1,0.3117,0
+gr00t_n17_ft,none/impossible_action,58,1,8,paint the cabinet red,,2,122,wine_bottle_1,0.3195,0
+gr00t_n17_ft,none/impossible_action,59,1,9,throw the bowl at the wall,,1,112,akita_black_bowl_1,0.3272,0
+gr00t_n17_ft,none/impossible_action,60,1,10,eat the cream cheese,,none,,wooden_cabinet_1,0.3706,0
+gr00t_n17_ft,none/impossible_action,61,1,11,wash the plate in the sink,,none,,plate_1,0.4556,0
+gr00t_n17_ft,none/impossible_action,62,1,12,pour the wine into the bowl,,none,,akita_black_bowl_1,0.3295,0
+gr00t_n17_ft,none/impossible_action,63,1,13,cut the cream cheese in half,,1,99,cream_cheese_1,0.3034,0
+gr00t_n17_ft,none/impossible_action,64,1,14,paint the cabinet red,,none,,wine_bottle_1,0.3059,0
+gr00t_n17_ft,none/impossible_action,65,1,15,throw the bowl at the wall,,1,146,akita_black_bowl_1,0.3230,0
+gr00t_n17_ft,none/impossible_action,66,1,16,eat the cream cheese,,0,184,wooden_cabinet_1,0.3032,0
+gr00t_n17_ft,none/impossible_action,67,1,17,wash the plate in the sink,,5,202,plate_1,0.4514,0
+gr00t_n17_ft,none/impossible_action,68,1,18,pour the wine into the bowl,,4,108,cream_cheese_1,0.3013,0
+gr00t_n17_ft,none/impossible_action,69,1,19,cut the cream cheese in half,,none,,wine_bottle_1,0.2555,0
+gr00t_n17_ft,none/impossible_action,100,2,0,paint the cabinet red,,9,126,wine_bottle_1,0.2571,0
+gr00t_n17_ft,none/impossible_action,101,2,1,throw the bowl at the wall,,4,107,akita_black_bowl_1,0.3208,0
+gr00t_n17_ft,none/impossible_action,102,2,2,eat the cream cheese,,1,105,cream_cheese_1,0.3450,0
+gr00t_n17_ft,none/impossible_action,103,2,3,wash the plate in the sink,,none,,plate_1,0.3495,0
+gr00t_n17_ft,none/impossible_action,104,2,4,pour the wine into the bowl,,none,,wooden_cabinet_1,0.3343,0
+gr00t_n17_ft,none/impossible_action,105,2,5,cut the cream cheese in half,,none,,wooden_cabinet_1,0.3909,0
+gr00t_n17_ft,none/impossible_action,106,2,6,paint the cabinet red,,none,,wooden_cabinet_1,0.3192,0
+gr00t_n17_ft,none/impossible_action,107,2,7,throw the bowl at the wall,,4,110,akita_black_bowl_1,0.3061,0
+gr00t_n17_ft,none/impossible_action,108,2,8,eat the cream cheese,,0,114,wooden_cabinet_1,0.2909,0
+gr00t_n17_ft,none/impossible_action,109,2,9,wash the plate in the sink,,none,,wooden_cabinet_1,0.2887,0
+gr00t_n17_ft,none/impossible_action,110,2,10,pour the wine into the bowl,,none,,akita_black_bowl_1,0.2663,0
+gr00t_n17_ft,none/impossible_action,111,2,11,cut the cream cheese in half,,none,,akita_black_bowl_1,0.3337,0
+gr00t_n17_ft,none/impossible_action,112,2,12,paint the cabinet red,,none,,flat_stove_1,0.3293,0
+gr00t_n17_ft,none/impossible_action,113,2,13,throw the bowl at the wall,,1,97,akita_black_bowl_1,0.3393,0
+gr00t_n17_ft,none/impossible_action,114,2,14,eat the cream cheese,,0,143,wooden_cabinet_1,0.3145,0
+gr00t_n17_ft,none/impossible_action,115,2,15,wash the plate in the sink,,none,,plate_1,0.3604,0
+gr00t_n17_ft,none/impossible_action,116,2,16,pour the wine into the bowl,,none,,wine_bottle_1,0.2360,0
+gr00t_n17_ft,none/impossible_action,117,2,17,cut the cream cheese in half,,4,216,akita_black_bowl_1,0.2901,0
+gr00t_n17_ft,none/impossible_action,118,2,18,paint the cabinet red,,none,,wine_bottle_1,0.2852,0
+gr00t_n17_ft,none/impossible_action,119,2,19,throw the bowl at the wall,,1,117,akita_black_bowl_1,0.3403,0
+gr00t_n17_ft,none/impossible_action,150,3,0,eat the cream cheese,,0,142,wooden_cabinet_1,0.2827,0
+gr00t_n17_ft,none/impossible_action,151,3,1,wash the plate in the sink,,none,,plate_1,0.3394,0
+gr00t_n17_ft,none/impossible_action,152,3,2,pour the wine into the bowl,,4,131,akita_black_bowl_1,0.2880,0
+gr00t_n17_ft,none/impossible_action,153,3,3,cut the cream cheese in half,,none,,akita_black_bowl_1,0.3268,0
+gr00t_n17_ft,none/impossible_action,154,3,4,paint the cabinet red,,none,,wine_rack_1,0.2436,0
+gr00t_n17_ft,none/impossible_action,155,3,5,throw the bowl at the wall,,1,94,akita_black_bowl_1,0.3266,0
+gr00t_n17_ft,none/impossible_action,156,3,6,eat the cream cheese,,6,134,cream_cheese_1,0.3243,0
+gr00t_n17_ft,none/impossible_action,157,3,7,wash the plate in the sink,,5,157,plate_1,0.4336,0
+gr00t_n17_ft,none/impossible_action,158,3,8,pour the wine into the bowl,,4,107,akita_black_bowl_1,0.2794,0
+gr00t_n17_ft,none/impossible_action,159,3,9,cut the cream cheese in half,,0,194,wooden_cabinet_1,0.3038,0
+gr00t_n17_ft,none/impossible_action,160,3,10,paint the cabinet red,,none,,wine_bottle_1,0.3059,0
+gr00t_n17_ft,none/impossible_action,161,3,11,throw the bowl at the wall,,4,117,akita_black_bowl_1,0.3167,0
+gr00t_n17_ft,none/impossible_action,162,3,12,eat the cream cheese,,6,135,akita_black_bowl_1,0.3141,0
+gr00t_n17_ft,none/impossible_action,163,3,13,wash the plate in the sink,,5,156,plate_1,0.4438,0
+gr00t_n17_ft,none/impossible_action,164,3,14,pour the wine into the bowl,,1,104,akita_black_bowl_1,0.3095,0
+gr00t_n17_ft,none/impossible_action,165,3,15,cut the cream cheese in half,,6,135,akita_black_bowl_1,0.3195,0
+gr00t_n17_ft,none/impossible_action,166,3,16,paint the cabinet red,,9,133,wine_bottle_1,0.2521,0
+gr00t_n17_ft,none/impossible_action,167,3,17,throw the bowl at the wall,,1,93,akita_black_bowl_1,0.2982,0
+gr00t_n17_ft,none/impossible_action,168,3,18,eat the cream cheese,,4,138,akita_black_bowl_1,0.3031,0
+gr00t_n17_ft,none/impossible_action,169,3,19,wash the plate in the sink,,none,,plate_1,0.3410,0
+gr00t_n17_ft,none/impossible_action,200,4,0,pour the wine into the bowl,,2,100,wine_bottle_1,0.3018,0
+gr00t_n17_ft,none/impossible_action,201,4,1,cut the cream cheese in half,,6,88,cream_cheese_1,0.3332,0
+gr00t_n17_ft,none/impossible_action,202,4,2,paint the cabinet red,,none,,wine_rack_1,0.2744,0
+gr00t_n17_ft,none/impossible_action,203,4,3,throw the bowl at the wall,,4,101,akita_black_bowl_1,0.2872,0
+gr00t_n17_ft,none/impossible_action,204,4,4,eat the cream cheese,,6,130,cream_cheese_1,0.3314,0
+gr00t_n17_ft,none/impossible_action,205,4,5,wash the plate in the sink,,none,,plate_1,0.3261,0
+gr00t_n17_ft,none/impossible_action,206,4,6,pour the wine into the bowl,,none,,wine_bottle_1,0.2428,0
+gr00t_n17_ft,none/impossible_action,207,4,7,cut the cream cheese in half,,none,,wooden_cabinet_1,0.4023,0
+gr00t_n17_ft,none/impossible_action,208,4,8,paint the cabinet red,,9,127,wine_bottle_1,0.2582,0
+gr00t_n17_ft,none/impossible_action,209,4,9,throw the bowl at the wall,,4,100,akita_black_bowl_1,0.2704,0
+gr00t_n17_ft,none/impossible_action,210,4,10,eat the cream cheese,,none,,akita_black_bowl_1,0.3295,0
+gr00t_n17_ft,none/impossible_action,211,4,11,wash the plate in the sink,,5,164,plate_1,0.4638,0
+gr00t_n17_ft,none/impossible_action,212,4,12,pour the wine into the bowl,,4,101,akita_black_bowl_1,0.2744,0
+gr00t_n17_ft,none/impossible_action,213,4,13,cut the cream cheese in half,,none,,cream_cheese_1,0.3198,0
+gr00t_n17_ft,none/impossible_action,214,4,14,paint the cabinet red,,none,,wine_bottle_1,0.2440,0
+gr00t_n17_ft,none/impossible_action,215,4,15,throw the bowl at the wall,,4,106,akita_black_bowl_1,0.2904,0
+gr00t_n17_ft,none/impossible_action,216,4,16,eat the cream cheese,,4,222,akita_black_bowl_1,0.3037,0
+gr00t_n17_ft,none/impossible_action,217,4,17,wash the plate in the sink,,none,,plate_1,0.3336,0
+gr00t_n17_ft,none/impossible_action,218,4,18,pour the wine into the bowl,,4,105,akita_black_bowl_1,0.3059,0
+gr00t_n17_ft,none/impossible_action,219,4,19,cut the cream cheese in half,,none,,akita_black_bowl_1,0.2654,0
+gr00t_n17_ft,none/impossible_action,250,5,0,paint the cabinet red,,9,135,wine_bottle_1,0.2419,0
+gr00t_n17_ft,none/impossible_action,251,5,1,throw the bowl at the wall,,1,83,cream_cheese_1,0.3120,0
+gr00t_n17_ft,none/impossible_action,252,5,2,eat the cream cheese,,none,,akita_black_bowl_1,0.3142,0
+gr00t_n17_ft,none/impossible_action,253,5,3,wash the plate in the sink,,none,,akita_black_bowl_1,0.3020,0
+gr00t_n17_ft,none/impossible_action,254,5,4,pour the wine into the bowl,,1,96,akita_black_bowl_1,0.3220,0
+gr00t_n17_ft,none/impossible_action,255,5,5,cut the cream cheese in half,,none,,akita_black_bowl_1,0.3160,0
+gr00t_n17_ft,none/impossible_action,256,5,6,paint the cabinet red,,9,112,wine_bottle_1,0.2293,0
+gr00t_n17_ft,none/impossible_action,257,5,7,throw the bowl at the wall,,4,118,akita_black_bowl_1,0.3080,0
+gr00t_n17_ft,none/impossible_action,258,5,8,eat the cream cheese,,1,111,akita_black_bowl_1,0.3387,0
+gr00t_n17_ft,none/impossible_action,259,5,9,wash the plate in the sink,,none,,plate_1,0.3429,0
+gr00t_n17_ft,none/impossible_action,260,5,10,pour the wine into the bowl,,4,95,akita_black_bowl_1,0.2860,0
+gr00t_n17_ft,none/impossible_action,261,5,11,cut the cream cheese in half,,none,,akita_black_bowl_1,0.3299,0
+gr00t_n17_ft,none/impossible_action,262,5,12,paint the cabinet red,,none,,wine_bottle_1,0.2890,0
+gr00t_n17_ft,none/impossible_action,263,5,13,throw the bowl at the wall,,1,95,akita_black_bowl_1,0.3162,0
+gr00t_n17_ft,none/impossible_action,264,5,14,eat the cream cheese,,none,,akita_black_bowl_1,0.3114,0
+gr00t_n17_ft,none/impossible_action,265,5,15,wash the plate in the sink,,none,,plate_1,0.4829,0
+gr00t_n17_ft,none/impossible_action,266,5,16,pour the wine into the bowl,,2,110,wine_bottle_1,0.3034,0
+gr00t_n17_ft,none/impossible_action,267,5,17,cut the cream cheese in half,,none,,akita_black_bowl_1,0.3164,0
+gr00t_n17_ft,none/impossible_action,268,5,18,paint the cabinet red,,9,139,wine_bottle_1,0.2771,0
+gr00t_n17_ft,none/impossible_action,269,5,19,throw the bowl at the wall,,1,93,akita_black_bowl_1,0.3094,0
+gr00t_n17_ft,none/impossible_action,300,6,0,eat the cream cheese,,1,202,akita_black_bowl_1,0.3251,0
+gr00t_n17_ft,none/impossible_action,301,6,1,wash the plate in the sink,,5,217,plate_1,0.4481,0
+gr00t_n17_ft,none/impossible_action,302,6,2,pour the wine into the bowl,,4,115,akita_black_bowl_1,0.2963,0
+gr00t_n17_ft,none/impossible_action,303,6,3,cut the cream cheese in half,,none,,akita_black_bowl_1,0.3073,0
+gr00t_n17_ft,none/impossible_action,304,6,4,paint the cabinet red,,none,,akita_black_bowl_1,0.3451,0
+gr00t_n17_ft,none/impossible_action,305,6,5,throw the bowl at the wall,,4,105,akita_black_bowl_1,0.2785,0
+gr00t_n17_ft,none/impossible_action,306,6,6,eat the cream cheese,,0,132,wooden_cabinet_1,0.2945,0
+gr00t_n17_ft,none/impossible_action,307,6,7,wash the plate in the sink,,none,,plate_1,0.3269,0
+gr00t_n17_ft,none/impossible_action,308,6,8,pour the wine into the bowl,,1,107,akita_black_bowl_1,0.3201,0
+gr00t_n17_ft,none/impossible_action,309,6,9,cut the cream cheese in half,,7,285,akita_black_bowl_1,0.3477,0
+gr00t_n17_ft,none/impossible_action,310,6,10,paint the cabinet red,,9,124,wine_bottle_1,0.2323,0
+gr00t_n17_ft,none/impossible_action,311,6,11,throw the bowl at the wall,,1,89,akita_black_bowl_1,0.3319,0
+gr00t_n17_ft,none/impossible_action,312,6,12,eat the cream cheese,,0,143,wooden_cabinet_1,0.3104,0
+gr00t_n17_ft,none/impossible_action,313,6,13,wash the plate in the sink,,none,,plate_1,0.3265,0
+gr00t_n17_ft,none/impossible_action,314,6,14,pour the wine into the bowl,,1,95,akita_black_bowl_1,0.3273,0
+gr00t_n17_ft,none/impossible_action,315,6,15,cut the cream cheese in half,,none,,akita_black_bowl_1,0.3273,0
+gr00t_n17_ft,none/impossible_action,316,6,16,paint the cabinet red,,9,138,wine_bottle_1,0.2688,0
+gr00t_n17_ft,none/impossible_action,317,6,17,throw the bowl at the wall,,1,90,akita_black_bowl_1,0.3379,0
+gr00t_n17_ft,none/impossible_action,318,6,18,eat the cream cheese,,none,,akita_black_bowl_1,0.3203,0
+gr00t_n17_ft,none/impossible_action,319,6,19,wash the plate in the sink,,none,,plate_1,0.3376,0
+gr00t_n17_ft,none/impossible_action,350,7,0,pour the wine into the bowl,,4,117,akita_black_bowl_1,0.3104,0
+gr00t_n17_ft,none/impossible_action,351,7,1,cut the cream cheese in half,,none,,wooden_cabinet_1,0.3490,0
+gr00t_n17_ft,none/impossible_action,352,7,2,paint the cabinet red,,0,126,wooden_cabinet_1,0.2969,0
+gr00t_n17_ft,none/impossible_action,353,7,3,throw the bowl at the wall,,1,88,cream_cheese_1,0.2984,0
+gr00t_n17_ft,none/impossible_action,354,7,4,eat the cream cheese,,none,,akita_black_bowl_1,0.3295,0
+gr00t_n17_ft,none/impossible_action,355,7,5,wash the plate in the sink,,none,,wooden_cabinet_1,0.3185,0
+gr00t_n17_ft,none/impossible_action,356,7,6,pour the wine into the bowl,,1,97,akita_black_bowl_1,0.3228,0
+gr00t_n17_ft,none/impossible_action,357,7,7,cut the cream cheese in half,,4,184,akita_black_bowl_1,0.3320,0
+gr00t_n17_ft,none/impossible_action,358,7,8,paint the cabinet red,,none,,wooden_cabinet_1,0.2631,0
+gr00t_n17_ft,none/impossible_action,359,7,9,throw the bowl at the wall,,1,89,akita_black_bowl_1,0.3143,0
+gr00t_n17_ft,none/impossible_action,360,7,10,eat the cream cheese,,none,,akita_black_bowl_1,0.3397,0
+gr00t_n17_ft,none/impossible_action,361,7,11,wash the plate in the sink,,none,,plate_1,0.3374,0
+gr00t_n17_ft,none/impossible_action,362,7,12,pour the wine into the bowl,,4,98,akita_black_bowl_1,0.2788,0
+gr00t_n17_ft,none/impossible_action,363,7,13,cut the cream cheese in half,,none,,akita_black_bowl_1,0.3136,0
+gr00t_n17_ft,none/impossible_action,364,7,14,paint the cabinet red,,9,135,wine_bottle_1,0.2711,0
+gr00t_n17_ft,none/impossible_action,365,7,15,throw the bowl at the wall,,4,102,akita_black_bowl_1,0.3071,0
+gr00t_n17_ft,none/impossible_action,366,7,16,eat the cream cheese,,4,163,plate_1,0.3313,0
+gr00t_n17_ft,none/impossible_action,367,7,17,wash the plate in the sink,,5,175,plate_1,0.4508,0
+gr00t_n17_ft,none/impossible_action,368,7,18,pour the wine into the bowl,,1,100,akita_black_bowl_1,0.3203,0
+gr00t_n17_ft,none/impossible_action,369,7,19,cut the cream cheese in half,,none,,akita_black_bowl_1,0.3403,0
+gr00t_n17_ft,none/impossible_action,400,8,0,paint the cabinet red,,9,197,wine_bottle_1,0.2575,0
+gr00t_n17_ft,none/impossible_action,401,8,1,throw the bowl at the wall,,4,111,akita_black_bowl_1,0.3003,0
+gr00t_n17_ft,none/impossible_action,402,8,2,eat the cream cheese,,6,154,akita_black_bowl_1,0.3140,0
+gr00t_n17_ft,none/impossible_action,403,8,3,wash the plate in the sink,,none,,plate_1,0.3228,0
+gr00t_n17_ft,none/impossible_action,404,8,4,pour the wine into the bowl,,2,203,wine_bottle_1,0.2903,0
+gr00t_n17_ft,none/impossible_action,405,8,5,cut the cream cheese in half,,6,95,akita_black_bowl_1,0.3228,0
+gr00t_n17_ft,none/impossible_action,406,8,6,paint the cabinet red,,9,125,wine_bottle_1,0.2427,0
+gr00t_n17_ft,none/impossible_action,407,8,7,throw the bowl at the wall,,none,,wooden_cabinet_1,0.3190,0
+gr00t_n17_ft,none/impossible_action,408,8,8,eat the cream cheese,,4,161,akita_black_bowl_1,0.3348,0
+gr00t_n17_ft,none/impossible_action,409,8,9,wash the plate in the sink,,none,,plate_1,0.3403,0
+gr00t_n17_ft,none/impossible_action,410,8,10,pour the wine into the bowl,,4,116,akita_black_bowl_1,0.2954,0
+gr00t_n17_ft,none/impossible_action,411,8,11,cut the cream cheese in half,,2,272,wine_bottle_1,0.2462,0
+gr00t_n17_ft,none/impossible_action,412,8,12,paint the cabinet red,,none,,flat_stove_1,0.3345,0
+gr00t_n17_ft,none/impossible_action,413,8,13,throw the bowl at the wall,,1,90,akita_black_bowl_1,0.3258,0
+gr00t_n17_ft,none/impossible_action,414,8,14,eat the cream cheese,,1,95,cream_cheese_1,0.3097,0
+gr00t_n17_ft,none/impossible_action,415,8,15,wash the plate in the sink,,none,,plate_1,0.3224,0
+gr00t_n17_ft,none/impossible_action,416,8,16,pour the wine into the bowl,,2,114,wine_bottle_1,0.2934,0
+gr00t_n17_ft,none/impossible_action,417,8,17,cut the cream cheese in half,,none,,wooden_cabinet_1,0.3200,0
+gr00t_n17_ft,none/impossible_action,418,8,18,paint the cabinet red,,none,,wooden_cabinet_1,0.2367,0
+gr00t_n17_ft,none/impossible_action,419,8,19,throw the bowl at the wall,,1,90,akita_black_bowl_1,0.3065,0
+gr00t_n17_ft,none/impossible_action,450,9,0,eat the cream cheese,,none,,akita_black_bowl_1,0.3349,0
+gr00t_n17_ft,none/impossible_action,451,9,1,wash the plate in the sink,,5,153,plate_1,0.4541,0
+gr00t_n17_ft,none/impossible_action,452,9,2,pour the wine into the bowl,,1,103,akita_black_bowl_1,0.3212,0
+gr00t_n17_ft,none/impossible_action,453,9,3,cut the cream cheese in half,,none,,akita_black_bowl_1,0.3368,0
+gr00t_n17_ft,none/impossible_action,454,9,4,paint the cabinet red,,none,,wine_bottle_1,0.3003,0
+gr00t_n17_ft,none/impossible_action,455,9,5,throw the bowl at the wall,,1,92,akita_black_bowl_1,0.3143,0
+gr00t_n17_ft,none/impossible_action,456,9,6,eat the cream cheese,,none,,akita_black_bowl_1,0.3172,0
+gr00t_n17_ft,none/impossible_action,457,9,7,wash the plate in the sink,,4,206,akita_black_bowl_1,0.3145,0
+gr00t_n17_ft,none/impossible_action,458,9,8,pour the wine into the bowl,,none,,wine_bottle_1,0.3095,0
+gr00t_n17_ft,none/impossible_action,459,9,9,cut the cream cheese in half,,6,120,cream_cheese_1,0.3179,0
+gr00t_n17_ft,none/impossible_action,460,9,10,paint the cabinet red,,9,201,wine_bottle_1,0.2607,0
+gr00t_n17_ft,none/impossible_action,461,9,11,throw the bowl at the wall,,4,116,akita_black_bowl_1,0.2976,0
+gr00t_n17_ft,none/impossible_action,462,9,12,eat the cream cheese,,none,,wine_rack_1,0.3287,0
+gr00t_n17_ft,none/impossible_action,463,9,13,wash the plate in the sink,,none,,plate_1,0.3287,0
+gr00t_n17_ft,none/impossible_action,464,9,14,pour the wine into the bowl,,1,108,akita_black_bowl_1,0.3395,0
+gr00t_n17_ft,none/impossible_action,465,9,15,cut the cream cheese in half,,none,,wine_rack_1,0.2755,0
+gr00t_n17_ft,none/impossible_action,466,9,16,paint the cabinet red,,9,142,wine_bottle_1,0.2708,0
+gr00t_n17_ft,none/impossible_action,467,9,17,throw the bowl at the wall,,4,111,akita_black_bowl_1,0.3028,0
+gr00t_n17_ft,none/impossible_action,468,9,18,eat the cream cheese,,4,207,cream_cheese_1,0.3294,0
+gr00t_n17_ft,none/impossible_action,469,9,19,wash the plate in the sink,,none,,wooden_cabinet_1,0.2852,0

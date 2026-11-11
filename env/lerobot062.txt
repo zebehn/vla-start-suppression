@@ -1,0 +1,15 @@
+# SmolVLA, Fast-WAM, Evo-1 and GR00T N1.7 (official) servers and kit adapters. Python 3.12.
+# lerobot: https://github.com/huggingface/lerobot at commit 146d8474 (version 0.6.2), pip install -e ".[smolvla,fastwam,evo1,groot]"
+torch==2.11.0+cu128
+transformers==5.5.4
+diffusers==0.39.0
+numpy==2.2.6
+sentencepiece==0.2.2
+num2words==0.5.14
+pyzmq==27.2.0
+msgpack==1.2.4
+msgpack-numpy==0.4.8
+# Checkpoints (hub id @ revision): HuggingFaceVLA/smolvla_libero @ 6721902; ZibinDong/fastwam_libero_uncond_2cam224 @ a784645;
+# zuoxingdong/evo1_libero @ 515921f with OpenGVLab/InternVL3-1B-hf @ 014c058; nvidia/gr00t17-lerobot-libero_goal-640 with nvidia/GR00T-N1.7-3B @ 2fc962b.
+# Fast-WAM also needs vae/ and text_encoder/ of Wan-AI/Wan2.2-TI2V-5B-Diffusers @ b8fff73 in the Hugging Face cache.
+# Not recorded: the remaining packages of the environment.

@@ -1,0 +1,7 @@
+# GR-1 humanoid: RoboCasa GR-1 tabletop worker and the GR00T N1.6 policy server (two environments).
+# Isaac-GR00T tag n1.6.1-release = commit 5dc80c4afd726b34faad1d8f7e007a13b34e4c88 (server environment: its .venv).
+# Worker environment: the robocasa_uv environment created by Isaac-GR00T's setup_RoboCasaGR1TabletopTasks.sh at that commit:
+#   robocasa/robocasa-gr1-tabletop-tasks at commit 4840e671596f93ca03651524b9f72ffb1aadfeff
+#   robosuite v1.5.1
+# Checkpoint: nvidia/GR00T-N1.6-3B @ d0814e7ecb19202e7c8468b46098b0b7ef3a6d61 (GR-1 embodiment).
+# Not recorded in this repository: the package versions of the two environments (pinned by the upstream setup at that commit).

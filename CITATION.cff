@@ -1,0 +1,32 @@
+cff-version: 1.2.0
+message: "If you use this code or these records, please cite the paper."
+title: "VLA Policies Do Not Know When Not to Act: Unintended Task Execution and Start Suppression"
+authors:
+  - family-names: Jang
+    given-names: Minsu
+  - family-names: Choi
+    given-names: Jae-Woo
+  - family-names: Yoon
+    given-names: Youngwoo
+  - family-names: Kim
+    given-names: Dohyung
+date-released: 2026-11-11
+license: MIT
+identifiers:
+  - type: other
+    value: "arXiv:2610.41609"
+preferred-citation:
+  type: article
+  title: "VLA Policies Do Not Know When Not to Act: Unintended Task Execution and Start Suppression"
+  authors:
+    - family-names: Jang
+      given-names: Minsu
+    - family-names: Choi
+      given-names: Jae-Woo
+    - family-names: Yoon
+      given-names: Youngwoo
+    - family-names: Kim
+      given-names: Dohyung
+  journal: "arXiv preprint arXiv:2610.41609"
+  year: 2026
+  url: "https://arxiv.org/abs/2610.41609"

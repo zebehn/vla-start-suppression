@@ -1,0 +1,801 @@
+checkpoint,cond,g,task,j,text,named_task,outcome,outcome_step,first_contact,max_disp,non_start
+fastwam,none/original,0,0,0,open the middle drawer of the cabinet,,0,125,wooden_cabinet_1,0.3201,0
+fastwam,none/original,1,0,1,open the middle drawer of the cabinet,,0,119,wooden_cabinet_1,0.3216,0
+fastwam,none/original,2,0,2,open the middle drawer of the cabinet,,0,107,wooden_cabinet_1,0.3032,0
+fastwam,none/original,3,0,3,open the middle drawer of the cabinet,,0,130,wooden_cabinet_1,0.3336,0
+fastwam,none/original,4,0,4,open the middle drawer of the cabinet,,0,121,wooden_cabinet_1,0.3233,0
+fastwam,none/original,5,0,5,open the middle drawer of the cabinet,,0,130,wooden_cabinet_1,0.3211,0
+fastwam,none/original,6,0,6,open the middle drawer of the cabinet,,0,119,wooden_cabinet_1,0.3273,0
+fastwam,none/original,7,0,7,open the middle drawer of the cabinet,,0,130,wooden_cabinet_1,0.3188,0
+fastwam,none/original,8,0,8,open the middle drawer of the cabinet,,0,126,wooden_cabinet_1,0.3299,0
+fastwam,none/original,9,0,9,open the middle drawer of the cabinet,,0,121,wooden_cabinet_1,0.3022,0
+fastwam,none/original,10,0,10,open the middle drawer of the cabinet,,0,156,wooden_cabinet_1,0.3385,0
+fastwam,none/original,11,0,11,open the middle drawer of the cabinet,,0,125,wooden_cabinet_1,0.3111,0
+fastwam,none/original,12,0,12,open the middle drawer of the cabinet,,0,116,wooden_cabinet_1,0.3062,0
+fastwam,none/original,13,0,13,open the middle drawer of the cabinet,,0,115,wooden_cabinet_1,0.3273,0
+fastwam,none/original,14,0,14,open the middle drawer of the cabinet,,0,113,wooden_cabinet_1,0.3284,0
+fastwam,none/original,15,0,15,open the middle drawer of the cabinet,,0,119,wooden_cabinet_1,0.3257,0
+fastwam,none/original,16,0,16,open the middle drawer of the cabinet,,0,121,wooden_cabinet_1,0.3206,0
+fastwam,none/original,17,0,17,open the middle drawer of the cabinet,,0,140,wooden_cabinet_1,0.3089,0
+fastwam,none/original,18,0,18,open the middle drawer of the cabinet,,0,114,wooden_cabinet_1,0.3433,0
+fastwam,none/original,19,0,19,open the middle drawer of the cabinet,,0,121,wooden_cabinet_1,0.3234,0
+fastwam,none/original,50,1,0,put the bowl on the stove,,1,89,akita_black_bowl_1,0.3253,0
+fastwam,none/original,51,1,1,put the bowl on the stove,,1,87,akita_black_bowl_1,0.2989,0
+fastwam,none/original,52,1,2,put the bowl on the stove,,1,85,akita_black_bowl_1,0.3147,0
+fastwam,none/original,53,1,3,put the bowl on the stove,,1,90,akita_black_bowl_1,0.3282,0
+fastwam,none/original,54,1,4,put the bowl on the stove,,1,90,akita_black_bowl_1,0.3264,0
+fastwam,none/original,55,1,5,put the bowl on the stove,,1,89,akita_black_bowl_1,0.3296,0
+fastwam,none/original,56,1,6,put the bowl on the stove,,1,95,akita_black_bowl_1,0.3352,0
+fastwam,none/original,57,1,7,put the bowl on the stove,,1,87,akita_black_bowl_1,0.3315,0
+fastwam,none/original,58,1,8,put the bowl on the stove,,1,91,cream_cheese_1,0.3236,0
+fastwam,none/original,59,1,9,put the bowl on the stove,,1,93,akita_black_bowl_1,0.3372,0
+fastwam,none/original,60,1,10,put the bowl on the stove,,1,89,akita_black_bowl_1,0.3395,0
+fastwam,none/original,61,1,11,put the bowl on the stove,,1,91,akita_black_bowl_1,0.3442,0
+fastwam,none/original,62,1,12,put the bowl on the stove,,1,93,akita_black_bowl_1,0.3442,0
+fastwam,none/original,63,1,13,put the bowl on the stove,,1,87,akita_black_bowl_1,0.3010,0
+fastwam,none/original,64,1,14,put the bowl on the stove,,1,92,akita_black_bowl_1,0.3307,0
+fastwam,none/original,65,1,15,put the bowl on the stove,,1,92,akita_black_bowl_1,0.3350,0
+fastwam,none/original,66,1,16,put the bowl on the stove,,1,91,akita_black_bowl_1,0.3309,0
+fastwam,none/original,67,1,17,put the bowl on the stove,,1,90,akita_black_bowl_1,0.3295,0
+fastwam,none/original,68,1,18,put the bowl on the stove,,1,97,akita_black_bowl_1,0.3244,0
+fastwam,none/original,69,1,19,put the bowl on the stove,,1,88,cream_cheese_1,0.2856,0
+fastwam,none/original,100,2,0,put the wine bottle on top of the cabinet,,2,82,wine_bottle_1,0.2893,0
+fastwam,none/original,101,2,1,put the wine bottle on top of the cabinet,,2,86,wine_bottle_1,0.2987,0
+fastwam,none/original,102,2,2,put the wine bottle on top of the cabinet,,2,93,wine_bottle_1,0.2886,0
+fastwam,none/original,103,2,3,put the wine bottle on top of the cabinet,,none,,wine_rack_1,0.2051,0
+fastwam,none/original,104,2,4,put the wine bottle on top of the cabinet,,2,83,wine_bottle_1,0.3143,0
+fastwam,none/original,105,2,5,put the wine bottle on top of the cabinet,,2,93,wine_bottle_1,0.2899,0
+fastwam,none/original,106,2,6,put the wine bottle on top of the cabinet,,2,89,wine_bottle_1,0.2935,0
+fastwam,none/original,107,2,7,put the wine bottle on top of the cabinet,,2,92,wine_bottle_1,0.2768,0
+fastwam,none/original,108,2,8,put the wine bottle on top of the cabinet,,none,,wine_rack_1,0.1993,0
+fastwam,none/original,109,2,9,put the wine bottle on top of the cabinet,,2,91,wine_bottle_1,0.2944,0
+fastwam,none/original,110,2,10,put the wine bottle on top of the cabinet,,2,94,wine_bottle_1,0.2981,0
+fastwam,none/original,111,2,11,put the wine bottle on top of the cabinet,,2,91,wine_bottle_1,0.2930,0
+fastwam,none/original,112,2,12,put the wine bottle on top of the cabinet,,2,91,wine_bottle_1,0.3186,0
+fastwam,none/original,113,2,13,put the wine bottle on top of the cabinet,,2,107,wine_bottle_1,0.2794,0
+fastwam,none/original,114,2,14,put the wine bottle on top of the cabinet,,2,93,wine_bottle_1,0.2814,0
+fastwam,none/original,115,2,15,put the wine bottle on top of the cabinet,,2,92,wine_bottle_1,0.2990,0
+fastwam,none/original,116,2,16,put the wine bottle on top of the cabinet,,2,98,wine_bottle_1,0.2888,0
+fastwam,none/original,117,2,17,put the wine bottle on top of the cabinet,,2,95,wine_bottle_1,0.2758,0
+fastwam,none/original,118,2,18,put the wine bottle on top of the cabinet,,2,92,wine_bottle_1,0.2900,0
+fastwam,none/original,119,2,19,put the wine bottle on top of the cabinet,,2,89,wine_bottle_1,0.3234,0
+fastwam,none/original,150,3,0,open the top drawer and put the bowl inside,,3,180,wooden_cabinet_1,0.2951,0
+fastwam,none/original,151,3,1,open the top drawer and put the bowl inside,,3,174,wooden_cabinet_1,0.2794,0
+fastwam,none/original,152,3,2,open the top drawer and put the bowl inside,,3,174,wooden_cabinet_1,0.2935,0
+fastwam,none/original,153,3,3,open the top drawer and put the bowl inside,,3,177,wooden_cabinet_1,0.2883,0
+fastwam,none/original,154,3,4,open the top drawer and put the bowl inside,,none,,wooden_cabinet_1,0.2467,0
+fastwam,none/original,155,3,5,open the top drawer and put the bowl inside,,3,181,wooden_cabinet_1,0.3018,0
+fastwam,none/original,156,3,6,open the top drawer and put the bowl inside,,3,187,wooden_cabinet_1,0.2822,0
+fastwam,none/original,157,3,7,open the top drawer and put the bowl inside,,3,179,wooden_cabinet_1,0.2811,0
+fastwam,none/original,158,3,8,open the top drawer and put the bowl inside,,3,194,wooden_cabinet_1,0.2972,0
+fastwam,none/original,159,3,9,open the top drawer and put the bowl inside,,3,173,wooden_cabinet_1,0.2893,0
+fastwam,none/original,160,3,10,open the top drawer and put the bowl inside,,3,166,wooden_cabinet_1,0.2880,0
+fastwam,none/original,161,3,11,open the top drawer and put the bowl inside,,3,175,wooden_cabinet_1,0.2894,0
+fastwam,none/original,162,3,12,open the top drawer and put the bowl inside,,3,261,wooden_cabinet_1,0.2991,0
+fastwam,none/original,163,3,13,open the top drawer and put the bowl inside,,3,175,wooden_cabinet_1,0.2869,0
+fastwam,none/original,164,3,14,open the top drawer and put the bowl inside,,3,179,wooden_cabinet_1,0.2814,0
+fastwam,none/original,165,3,15,open the top drawer and put the bowl inside,,3,176,wooden_cabinet_1,0.3000,0
+fastwam,none/original,166,3,16,open the top drawer and put the bowl inside,,none,,wooden_cabinet_1,0.2989,0
+fastwam,none/original,167,3,17,open the top drawer and put the bowl inside,,none,,plate_1,0.3738,0
+fastwam,none/original,168,3,18,open the top drawer and put the bowl inside,,3,182,wooden_cabinet_1,0.2960,0
+fastwam,none/original,169,3,19,open the top drawer and put the bowl inside,,3,248,wooden_cabinet_1,0.2923,0
+fastwam,none/original,200,4,0,put the bowl on top of the cabinet,,4,88,akita_black_bowl_1,0.2756,0
+fastwam,none/original,201,4,1,put the bowl on top of the cabinet,,4,85,akita_black_bowl_1,0.2854,0
+fastwam,none/original,202,4,2,put the bowl on top of the cabinet,,4,86,akita_black_bowl_1,0.2977,0
+fastwam,none/original,203,4,3,put the bowl on top of the cabinet,,4,93,akita_black_bowl_1,0.2883,0
+fastwam,none/original,204,4,4,put the bowl on top of the cabinet,,4,87,akita_black_bowl_1,0.2855,0
+fastwam,none/original,205,4,5,put the bowl on top of the cabinet,,4,83,akita_black_bowl_1,0.2758,0
+fastwam,none/original,206,4,6,put the bowl on top of the cabinet,,4,88,akita_black_bowl_1,0.2811,0
+fastwam,none/original,207,4,7,put the bowl on top of the cabinet,,4,87,akita_black_bowl_1,0.2899,0
+fastwam,none/original,208,4,8,put the bowl on top of the cabinet,,4,86,akita_black_bowl_1,0.2811,0
+fastwam,none/original,209,4,9,put the bowl on top of the cabinet,,4,88,akita_black_bowl_1,0.2836,0
+fastwam,none/original,210,4,10,put the bowl on top of the cabinet,,4,88,akita_black_bowl_1,0.2918,0
+fastwam,none/original,211,4,11,put the bowl on top of the cabinet,,4,87,akita_black_bowl_1,0.2842,0
+fastwam,none/original,212,4,12,put the bowl on top of the cabinet,,4,86,akita_black_bowl_1,0.2854,0
+fastwam,none/original,213,4,13,put the bowl on top of the cabinet,,4,83,akita_black_bowl_1,0.2753,0
+fastwam,none/original,214,4,14,put the bowl on top of the cabinet,,4,84,akita_black_bowl_1,0.2829,0
+fastwam,none/original,215,4,15,put the bowl on top of the cabinet,,4,85,akita_black_bowl_1,0.2812,0
+fastwam,none/original,216,4,16,put the bowl on top of the cabinet,,4,85,akita_black_bowl_1,0.2761,0
+fastwam,none/original,217,4,17,put the bowl on top of the cabinet,,4,86,akita_black_bowl_1,0.2872,0
+fastwam,none/original,218,4,18,put the bowl on top of the cabinet,,4,93,akita_black_bowl_1,0.2952,0
+fastwam,none/original,219,4,19,put the bowl on top of the cabinet,,4,85,akita_black_bowl_1,0.2821,0
+fastwam,none/original,250,5,0,push the plate to the front of the stove,,5,123,plate_1,0.4474,0
+fastwam,none/original,251,5,1,push the plate to the front of the stove,,5,120,plate_1,0.4446,0
+fastwam,none/original,252,5,2,push the plate to the front of the stove,,5,126,plate_1,0.4455,0
+fastwam,none/original,253,5,3,push the plate to the front of the stove,,5,138,plate_1,0.4556,0
+fastwam,none/original,254,5,4,push the plate to the front of the stove,,5,150,plate_1,0.4398,0
+fastwam,none/original,255,5,5,push the plate to the front of the stove,,5,118,plate_1,0.4377,0
+fastwam,none/original,256,5,6,push the plate to the front of the stove,,5,118,plate_1,0.4635,0
+fastwam,none/original,257,5,7,push the plate to the front of the stove,,5,138,plate_1,0.4530,0
+fastwam,none/original,258,5,8,push the plate to the front of the stove,,5,134,plate_1,0.4683,0
+fastwam,none/original,259,5,9,push the plate to the front of the stove,,none,,plate_1,0.4729,0
+fastwam,none/original,260,5,10,push the plate to the front of the stove,,5,127,plate_1,0.4493,0
+fastwam,none/original,261,5,11,push the plate to the front of the stove,,5,126,plate_1,0.4317,0
+fastwam,none/original,262,5,12,push the plate to the front of the stove,,5,118,plate_1,0.4469,0
+fastwam,none/original,263,5,13,push the plate to the front of the stove,,5,146,plate_1,0.4705,0
+fastwam,none/original,264,5,14,push the plate to the front of the stove,,5,132,plate_1,0.4447,0
+fastwam,none/original,265,5,15,push the plate to the front of the stove,,5,127,plate_1,0.4683,0
+fastwam,none/original,266,5,16,push the plate to the front of the stove,,5,126,plate_1,0.4498,0
+fastwam,none/original,267,5,17,push the plate to the front of the stove,,5,134,plate_1,0.4590,0
+fastwam,none/original,268,5,18,push the plate to the front of the stove,,5,120,plate_1,0.4444,0
+fastwam,none/original,269,5,19,push the plate to the front of the stove,,5,140,plate_1,0.4466,0
+fastwam,none/original,300,6,0,put the cream cheese in the bowl,,6,96,cream_cheese_1,0.3509,0
+fastwam,none/original,301,6,1,put the cream cheese in the bowl,,6,97,cream_cheese_1,0.3405,0
+fastwam,none/original,302,6,2,put the cream cheese in the bowl,,6,125,cream_cheese_1,0.3479,0
+fastwam,none/original,303,6,3,put the cream cheese in the bowl,,6,96,cream_cheese_1,0.3288,0
+fastwam,none/original,304,6,4,put the cream cheese in the bowl,,6,85,cream_cheese_1,0.3336,0
+fastwam,none/original,305,6,5,put the cream cheese in the bowl,,6,91,cream_cheese_1,0.3406,0
+fastwam,none/original,306,6,6,put the cream cheese in the bowl,,none,,cream_cheese_1,0.3305,0
+fastwam,none/original,307,6,7,put the cream cheese in the bowl,,6,95,cream_cheese_1,0.3314,0
+fastwam,none/original,308,6,8,put the cream cheese in the bowl,,6,96,cream_cheese_1,0.3367,0
+fastwam,none/original,309,6,9,put the cream cheese in the bowl,,6,84,cream_cheese_1,0.3317,0
+fastwam,none/original,310,6,10,put the cream cheese in the bowl,,6,79,cream_cheese_1,0.3323,0
+fastwam,none/original,311,6,11,put the cream cheese in the bowl,,6,96,cream_cheese_1,0.3506,0
+fastwam,none/original,312,6,12,put the cream cheese in the bowl,,6,98,cream_cheese_1,0.3486,0
+fastwam,none/original,313,6,13,put the cream cheese in the bowl,,6,85,akita_black_bowl_1,0.3225,0
+fastwam,none/original,314,6,14,put the cream cheese in the bowl,,6,98,cream_cheese_1,0.3432,0
+fastwam,none/original,315,6,15,put the cream cheese in the bowl,,6,94,cream_cheese_1,0.3437,0
+fastwam,none/original,316,6,16,put the cream cheese in the bowl,,6,102,cream_cheese_1,0.3533,0
+fastwam,none/original,317,6,17,put the cream cheese in the bowl,,6,92,cream_cheese_1,0.3423,0
+fastwam,none/original,318,6,18,put the cream cheese in the bowl,,6,88,cream_cheese_1,0.3308,0
+fastwam,none/original,319,6,19,put the cream cheese in the bowl,,6,89,cream_cheese_1,0.3313,0
+fastwam,none/original,350,7,0,turn on the stove,,7,84,flat_stove_1,0.4011,0
+fastwam,none/original,351,7,1,turn on the stove,,7,80,flat_stove_1,0.3941,0
+fastwam,none/original,352,7,2,turn on the stove,,7,77,flat_stove_1,0.4030,0
+fastwam,none/original,353,7,3,turn on the stove,,7,74,flat_stove_1,0.3816,0
+fastwam,none/original,354,7,4,turn on the stove,,7,77,flat_stove_1,0.3837,0
+fastwam,none/original,355,7,5,turn on the stove,,7,80,flat_stove_1,0.4178,0
+fastwam,none/original,356,7,6,turn on the stove,,7,79,flat_stove_1,0.4056,0
+fastwam,none/original,357,7,7,turn on the stove,,7,79,flat_stove_1,0.3949,0
+fastwam,none/original,358,7,8,turn on the stove,,7,76,flat_stove_1,0.3885,0
+fastwam,none/original,359,7,9,turn on the stove,,7,66,flat_stove_1,0.3759,0
+fastwam,none/original,360,7,10,turn on the stove,,7,76,flat_stove_1,0.4004,0
+fastwam,none/original,361,7,11,turn on the stove,,7,72,flat_stove_1,0.3854,0
+fastwam,none/original,362,7,12,turn on the stove,,7,79,flat_stove_1,0.3871,0
+fastwam,none/original,363,7,13,turn on the stove,,7,80,flat_stove_1,0.3964,0
+fastwam,none/original,364,7,14,turn on the stove,,7,81,flat_stove_1,0.3913,0
+fastwam,none/original,365,7,15,turn on the stove,,7,76,flat_stove_1,0.3833,0
+fastwam,none/original,366,7,16,turn on the stove,,7,79,flat_stove_1,0.4122,0
+fastwam,none/original,367,7,17,turn on the stove,,7,77,flat_stove_1,0.3876,0
+fastwam,none/original,368,7,18,turn on the stove,,7,77,flat_stove_1,0.3771,0
+fastwam,none/original,369,7,19,turn on the stove,,7,70,flat_stove_1,0.3938,0
+fastwam,none/original,400,8,0,put the bowl on the plate,,8,85,akita_black_bowl_1,0.3650,0
+fastwam,none/original,401,8,1,put the bowl on the plate,,8,77,akita_black_bowl_1,0.3605,0
+fastwam,none/original,402,8,2,put the bowl on the plate,,8,76,akita_black_bowl_1,0.3527,0
+fastwam,none/original,403,8,3,put the bowl on the plate,,8,75,akita_black_bowl_1,0.3396,0
+fastwam,none/original,404,8,4,put the bowl on the plate,,8,78,akita_black_bowl_1,0.3514,0
+fastwam,none/original,405,8,5,put the bowl on the plate,,8,80,cream_cheese_1,0.3626,0
+fastwam,none/original,406,8,6,put the bowl on the plate,,8,75,akita_black_bowl_1,0.3369,0
+fastwam,none/original,407,8,7,put the bowl on the plate,,8,76,akita_black_bowl_1,0.3492,0
+fastwam,none/original,408,8,8,put the bowl on the plate,,8,108,akita_black_bowl_1,0.3457,0
+fastwam,none/original,409,8,9,put the bowl on the plate,,8,79,akita_black_bowl_1,0.3602,0
+fastwam,none/original,410,8,10,put the bowl on the plate,,8,75,akita_black_bowl_1,0.3643,0
+fastwam,none/original,411,8,11,put the bowl on the plate,,8,71,akita_black_bowl_1,0.3395,0
+fastwam,none/original,412,8,12,put the bowl on the plate,,8,80,akita_black_bowl_1,0.3644,0
+fastwam,none/original,413,8,13,put the bowl on the plate,,8,80,akita_black_bowl_1,0.3460,0
+fastwam,none/original,414,8,14,put the bowl on the plate,,8,78,akita_black_bowl_1,0.3372,0
+fastwam,none/original,415,8,15,put the bowl on the plate,,8,80,akita_black_bowl_1,0.3414,0
+fastwam,none/original,416,8,16,put the bowl on the plate,,8,79,akita_black_bowl_1,0.3549,0
+fastwam,none/original,417,8,17,put the bowl on the plate,,8,79,akita_black_bowl_1,0.3468,0
+fastwam,none/original,418,8,18,put the bowl on the plate,,8,77,cream_cheese_1,0.3576,0
+fastwam,none/original,419,8,19,put the bowl on the plate,,8,75,akita_black_bowl_1,0.3543,0
+fastwam,none/original,450,9,0,put the wine bottle on the rack,,9,143,wine_bottle_1,0.2795,0
+fastwam,none/original,451,9,1,put the wine bottle on the rack,,9,141,wine_bottle_1,0.2975,0
+fastwam,none/original,452,9,2,put the wine bottle on the rack,,9,143,wine_bottle_1,0.2762,0
+fastwam,none/original,453,9,3,put the wine bottle on the rack,,9,140,wine_bottle_1,0.2811,0
+fastwam,none/original,454,9,4,put the wine bottle on the rack,,9,149,wine_bottle_1,0.2612,0
+fastwam,none/original,455,9,5,put the wine bottle on the rack,,9,140,wine_bottle_1,0.2730,0
+fastwam,none/original,456,9,6,put the wine bottle on the rack,,9,125,wine_bottle_1,0.2694,0
+fastwam,none/original,457,9,7,put the wine bottle on the rack,,9,148,wine_bottle_1,0.2654,0
+fastwam,none/original,458,9,8,put the wine bottle on the rack,,9,122,wine_bottle_1,0.2611,0
+fastwam,none/original,459,9,9,put the wine bottle on the rack,,9,135,wine_bottle_1,0.2636,0
+fastwam,none/original,460,9,10,put the wine bottle on the rack,,9,131,wine_bottle_1,0.2751,0
+fastwam,none/original,461,9,11,put the wine bottle on the rack,,9,131,wine_bottle_1,0.2535,0
+fastwam,none/original,462,9,12,put the wine bottle on the rack,,none,,wine_bottle_1,0.2655,0
+fastwam,none/original,463,9,13,put the wine bottle on the rack,,9,143,wine_bottle_1,0.2852,0
+fastwam,none/original,464,9,14,put the wine bottle on the rack,,9,123,wine_bottle_1,0.2667,0
+fastwam,none/original,465,9,15,put the wine bottle on the rack,,9,124,wine_bottle_1,0.2639,0
+fastwam,none/original,466,9,16,put the wine bottle on the rack,,9,131,wine_bottle_1,0.2677,0
+fastwam,none/original,467,9,17,put the wine bottle on the rack,,9,132,wine_bottle_1,0.2658,0
+fastwam,none/original,468,9,18,put the wine bottle on the rack,,9,133,wine_bottle_1,0.2695,0
+fastwam,none/original,469,9,19,put the wine bottle on the rack,,none,,wine_bottle_1,0.2513,0
+fastwam,none/empty,0,0,0,,,none,,akita_black_bowl_1,0.3255,0
+fastwam,none/empty,1,0,1,,,none,,akita_black_bowl_1,0.3155,0
+fastwam,none/empty,2,0,2,,,none,,akita_black_bowl_1,0.3300,0
+fastwam,none/empty,3,0,3,,,none,,akita_black_bowl_1,0.3265,0
+fastwam,none/empty,4,0,4,,,8,131,akita_black_bowl_1,0.3402,0
+fastwam,none/empty,5,0,5,,,none,,akita_black_bowl_1,0.3007,0
+fastwam,none/empty,6,0,6,,,none,,akita_black_bowl_1,0.3147,0
+fastwam,none/empty,7,0,7,,,none,,akita_black_bowl_1,0.3381,0
+fastwam,none/empty,8,0,8,,,none,,akita_black_bowl_1,0.3465,0
+fastwam,none/empty,9,0,9,,,8,295,akita_black_bowl_1,0.3056,0
+fastwam,none/empty,10,0,10,,,8,227,akita_black_bowl_1,0.3416,0
+fastwam,none/empty,11,0,11,,,none,,akita_black_bowl_1,0.2919,0
+fastwam,none/empty,12,0,12,,,none,,akita_black_bowl_1,0.3479,0
+fastwam,none/empty,13,0,13,,,none,,cream_cheese_1,0.3344,0
+fastwam,none/empty,14,0,14,,,8,111,akita_black_bowl_1,0.3403,0
+fastwam,none/empty,15,0,15,,,1,201,cream_cheese_1,0.3095,0
+fastwam,none/empty,16,0,16,,,8,242,akita_black_bowl_1,0.3404,0
+fastwam,none/empty,17,0,17,,,none,,akita_black_bowl_1,0.2814,0
+fastwam,none/empty,18,0,18,,,none,,akita_black_bowl_1,0.3450,0
+fastwam,none/empty,19,0,19,,,none,,akita_black_bowl_1,0.3380,0
+fastwam,none/empty,50,1,0,,,none,,akita_black_bowl_1,0.3052,0
+fastwam,none/empty,51,1,1,,,8,197,cream_cheese_1,0.3236,0
+fastwam,none/empty,52,1,2,,,8,220,akita_black_bowl_1,0.3243,0
+fastwam,none/empty,53,1,3,,,none,,akita_black_bowl_1,0.3582,0
+fastwam,none/empty,54,1,4,,,none,,akita_black_bowl_1,0.3254,0
+fastwam,none/empty,55,1,5,,,none,,akita_black_bowl_1,0.3332,0
+fastwam,none/empty,56,1,6,,,8,216,akita_black_bowl_1,0.3566,0
+fastwam,none/empty,57,1,7,,,8,299,akita_black_bowl_1,0.3312,0
+fastwam,none/empty,58,1,8,,,8,266,cream_cheese_1,0.3233,0
+fastwam,none/empty,59,1,9,,,8,295,akita_black_bowl_1,0.3185,0
+fastwam,none/empty,60,1,10,,,8,146,akita_black_bowl_1,0.3482,0
+fastwam,none/empty,61,1,11,,,8,232,akita_black_bowl_1,0.3261,0
+fastwam,none/empty,62,1,12,,,8,241,akita_black_bowl_1,0.3362,0
+fastwam,none/empty,63,1,13,,,none,,akita_black_bowl_1,0.2746,0
+fastwam,none/empty,64,1,14,,,none,,akita_black_bowl_1,0.3849,0
+fastwam,none/empty,65,1,15,,,none,,akita_black_bowl_1,0.3407,0
+fastwam,none/empty,66,1,16,,,none,,akita_black_bowl_1,0.3327,0
+fastwam,none/empty,67,1,17,,,8,136,akita_black_bowl_1,0.3627,0
+fastwam,none/empty,68,1,18,,,none,,akita_black_bowl_1,0.2836,0
+fastwam,none/empty,69,1,19,,,8,192,cream_cheese_1,0.3399,0
+fastwam,none/empty,100,2,0,,,8,166,akita_black_bowl_1,0.3356,0
+fastwam,none/empty,101,2,1,,,none,,akita_black_bowl_1,0.2896,0
+fastwam,none/empty,102,2,2,,,none,,akita_black_bowl_1,0.3528,0
+fastwam,none/empty,103,2,3,,,none,,akita_black_bowl_1,0.3460,0
+fastwam,none/empty,104,2,4,,,8,224,akita_black_bowl_1,0.3441,0
+fastwam,none/empty,105,2,5,,,8,173,akita_black_bowl_1,0.3270,0
+fastwam,none/empty,106,2,6,,,none,,akita_black_bowl_1,0.3346,0
+fastwam,none/empty,107,2,7,,,none,,akita_black_bowl_1,0.3647,0
+fastwam,none/empty,108,2,8,,,none,,akita_black_bowl_1,0.3328,0
+fastwam,none/empty,109,2,9,,,none,,akita_black_bowl_1,0.3172,0
+fastwam,none/empty,110,2,10,,,none,,akita_black_bowl_1,0.3421,0
+fastwam,none/empty,111,2,11,,,8,218,akita_black_bowl_1,0.3411,0
+fastwam,none/empty,112,2,12,,,none,,cream_cheese_1,0.3439,0
+fastwam,none/empty,113,2,13,,,none,,akita_black_bowl_1,0.2964,0
+fastwam,none/empty,114,2,14,,,4,130,akita_black_bowl_1,0.2777,0
+fastwam,none/empty,115,2,15,,,none,,akita_black_bowl_1,0.3626,0
+fastwam,none/empty,116,2,16,,,none,,akita_black_bowl_1,0.3227,0
+fastwam,none/empty,117,2,17,,,none,,cream_cheese_1,0.3588,0
+fastwam,none/empty,118,2,18,,,none,,akita_black_bowl_1,0.3385,0
+fastwam,none/empty,119,2,19,,,4,114,akita_black_bowl_1,0.2761,0
+fastwam,none/empty,150,3,0,,,none,,akita_black_bowl_1,0.3182,0
+fastwam,none/empty,151,3,1,,,none,,akita_black_bowl_1,0.2920,0
+fastwam,none/empty,152,3,2,,,none,,akita_black_bowl_1,0.2863,0
+fastwam,none/empty,153,3,3,,,none,,akita_black_bowl_1,0.3064,0
+fastwam,none/empty,154,3,4,,,4,110,akita_black_bowl_1,0.2797,0
+fastwam,none/empty,155,3,5,,,8,166,akita_black_bowl_1,0.3481,0
+fastwam,none/empty,156,3,6,,,8,211,akita_black_bowl_1,0.3576,0
+fastwam,none/empty,157,3,7,,,none,,akita_black_bowl_1,0.2728,0
+fastwam,none/empty,158,3,8,,,none,,akita_black_bowl_1,0.2927,0
+fastwam,none/empty,159,3,9,,,8,242,akita_black_bowl_1,0.3365,0
+fastwam,none/empty,160,3,10,,,none,,akita_black_bowl_1,0.3206,0
+fastwam,none/empty,161,3,11,,,none,,akita_black_bowl_1,0.2797,0
+fastwam,none/empty,162,3,12,,,8,271,akita_black_bowl_1,0.3319,0
+fastwam,none/empty,163,3,13,,,none,,akita_black_bowl_1,0.3446,0
+fastwam,none/empty,164,3,14,,,8,114,akita_black_bowl_1,0.3249,0
+fastwam,none/empty,165,3,15,,,8,175,akita_black_bowl_1,0.3349,0
+fastwam,none/empty,166,3,16,,,4,156,akita_black_bowl_1,0.2817,0
+fastwam,none/empty,167,3,17,,,none,,akita_black_bowl_1,0.3009,0
+fastwam,none/empty,168,3,18,,,none,,cream_cheese_1,0.2936,0
+fastwam,none/empty,169,3,19,,,4,134,akita_black_bowl_1,0.2808,0
+fastwam,none/empty,200,4,0,,,none,,akita_black_bowl_1,0.3486,0
+fastwam,none/empty,201,4,1,,,1,150,akita_black_bowl_1,0.3002,0
+fastwam,none/empty,202,4,2,,,none,,akita_black_bowl_1,0.2917,0
+fastwam,none/empty,203,4,3,,,none,,akita_black_bowl_1,0.3071,0
+fastwam,none/empty,204,4,4,,,8,185,akita_black_bowl_1,0.3370,0
+fastwam,none/empty,205,4,5,,,none,,akita_black_bowl_1,0.3232,0
+fastwam,none/empty,206,4,6,,,none,,akita_black_bowl_1,0.2964,0
+fastwam,none/empty,207,4,7,,,none,,akita_black_bowl_1,0.3399,0
+fastwam,none/empty,208,4,8,,,none,,akita_black_bowl_1,0.3332,0
+fastwam,none/empty,209,4,9,,,none,,akita_black_bowl_1,0.3460,0
+fastwam,none/empty,210,4,10,,,none,,akita_black_bowl_1,0.3495,0
+fastwam,none/empty,211,4,11,,,none,,akita_black_bowl_1,0.3007,0
+fastwam,none/empty,212,4,12,,,none,,akita_black_bowl_1,0.3500,0
+fastwam,none/empty,213,4,13,,,none,,akita_black_bowl_1,0.2734,0
+fastwam,none/empty,214,4,14,,,8,124,akita_black_bowl_1,0.3263,0
+fastwam,none/empty,215,4,15,,,none,,akita_black_bowl_1,0.3094,0
+fastwam,none/empty,216,4,16,,,none,,cream_cheese_1,0.3150,0
+fastwam,none/empty,217,4,17,,,none,,akita_black_bowl_1,0.3045,0
+fastwam,none/empty,218,4,18,,,none,,akita_black_bowl_1,0.3216,0
+fastwam,none/empty,219,4,19,,,none,,akita_black_bowl_1,0.3403,0
+fastwam,none/empty,250,5,0,,,none,,akita_black_bowl_1,0.3266,0
+fastwam,none/empty,251,5,1,,,none,,cream_cheese_1,0.2837,0
+fastwam,none/empty,252,5,2,,,8,235,akita_black_bowl_1,0.3575,0
+fastwam,none/empty,253,5,3,,,none,,akita_black_bowl_1,0.3052,0
+fastwam,none/empty,254,5,4,,,none,,akita_black_bowl_1,0.2939,0
+fastwam,none/empty,255,5,5,,,none,,akita_black_bowl_1,0.3275,0
+fastwam,none/empty,256,5,6,,,none,,akita_black_bowl_1,0.3326,0
+fastwam,none/empty,257,5,7,,,none,,akita_black_bowl_1,0.3463,0
+fastwam,none/empty,258,5,8,,,none,,akita_black_bowl_1,0.3327,0
+fastwam,none/empty,259,5,9,,,none,,akita_black_bowl_1,0.3178,0
+fastwam,none/empty,260,5,10,,,none,,akita_black_bowl_1,0.3043,0
+fastwam,none/empty,261,5,11,,,none,,akita_black_bowl_1,0.2878,0
+fastwam,none/empty,262,5,12,,,none,,akita_black_bowl_1,0.3336,0
+fastwam,none/empty,263,5,13,,,none,,akita_black_bowl_1,0.3526,0
+fastwam,none/empty,264,5,14,,,4,128,akita_black_bowl_1,0.2570,0
+fastwam,none/empty,265,5,15,,,8,134,akita_black_bowl_1,0.3365,0
+fastwam,none/empty,266,5,16,,,8,275,akita_black_bowl_1,0.3515,0
+fastwam,none/empty,267,5,17,,,none,,akita_black_bowl_1,0.3111,0
+fastwam,none/empty,268,5,18,,,none,,akita_black_bowl_1,0.3271,0
+fastwam,none/empty,269,5,19,,,none,,akita_black_bowl_1,0.2918,0
+fastwam,none/empty,300,6,0,,,none,,akita_black_bowl_1,0.3430,0
+fastwam,none/empty,301,6,1,,,none,,akita_black_bowl_1,0.3424,0
+fastwam,none/empty,302,6,2,,,8,165,akita_black_bowl_1,0.3548,0
+fastwam,none/empty,303,6,3,,,8,155,cream_cheese_1,0.3430,0
+fastwam,none/empty,304,6,4,,,8,228,akita_black_bowl_1,0.3323,0
+fastwam,none/empty,305,6,5,,,none,,akita_black_bowl_1,0.3021,0
+fastwam,none/empty,306,6,6,,,none,,akita_black_bowl_1,0.2642,0
+fastwam,none/empty,307,6,7,,,none,,cream_cheese_1,0.3386,0
+fastwam,none/empty,308,6,8,,,8,198,akita_black_bowl_1,0.3489,0
+fastwam,none/empty,309,6,9,,,8,298,akita_black_bowl_1,0.3361,0
+fastwam,none/empty,310,6,10,,,none,,akita_black_bowl_1,0.2900,0
+fastwam,none/empty,311,6,11,,,none,,akita_black_bowl_1,0.3411,0
+fastwam,none/empty,312,6,12,,,none,,akita_black_bowl_1,0.2934,0
+fastwam,none/empty,313,6,13,,,none,,akita_black_bowl_1,0.3227,0
+fastwam,none/empty,314,6,14,,,none,,akita_black_bowl_1,0.3193,0
+fastwam,none/empty,315,6,15,,,none,,akita_black_bowl_1,0.2788,0
+fastwam,none/empty,316,6,16,,,none,,akita_black_bowl_1,0.3571,0
+fastwam,none/empty,317,6,17,,,none,,akita_black_bowl_1,0.2790,0
+fastwam,none/empty,318,6,18,,,none,,akita_black_bowl_1,0.3268,0
+fastwam,none/empty,319,6,19,,,none,,akita_black_bowl_1,0.3340,0
+fastwam,none/empty,350,7,0,,,none,,akita_black_bowl_1,0.3371,0
+fastwam,none/empty,351,7,1,,,8,118,akita_black_bowl_1,0.3540,0
+fastwam,none/empty,352,7,2,,,8,220,akita_black_bowl_1,0.3416,0
+fastwam,none/empty,353,7,3,,,none,,akita_black_bowl_1,0.3089,0
+fastwam,none/empty,354,7,4,,,none,,akita_black_bowl_1,0.3330,0
+fastwam,none/empty,355,7,5,,,8,232,akita_black_bowl_1,0.3673,0
+fastwam,none/empty,356,7,6,,,none,,akita_black_bowl_1,0.3195,0
+fastwam,none/empty,357,7,7,,,none,,cream_cheese_1,0.3288,0
+fastwam,none/empty,358,7,8,,,none,,akita_black_bowl_1,0.3348,0
+fastwam,none/empty,359,7,9,,,8,167,akita_black_bowl_1,0.3077,0
+fastwam,none/empty,360,7,10,,,none,,akita_black_bowl_1,0.3503,0
+fastwam,none/empty,361,7,11,,,none,,akita_black_bowl_1,0.2865,0
+fastwam,none/empty,362,7,12,,,none,,akita_black_bowl_1,0.3168,0
+fastwam,none/empty,363,7,13,,,none,,akita_black_bowl_1,0.2781,0
+fastwam,none/empty,364,7,14,,,8,281,akita_black_bowl_1,0.3379,0
+fastwam,none/empty,365,7,15,,,8,189,akita_black_bowl_1,0.3597,0
+fastwam,none/empty,366,7,16,,,none,,akita_black_bowl_1,0.3529,0
+fastwam,none/empty,367,7,17,,,none,,akita_black_bowl_1,0.3268,0
+fastwam,none/empty,368,7,18,,,none,,akita_black_bowl_1,0.3321,0
+fastwam,none/empty,369,7,19,,,none,,akita_black_bowl_1,0.2881,0
+fastwam,none/empty,400,8,0,,,8,260,akita_black_bowl_1,0.3518,0
+fastwam,none/empty,401,8,1,,,none,,akita_black_bowl_1,0.3614,0
+fastwam,none/empty,402,8,2,,,none,,akita_black_bowl_1,0.3413,0
+fastwam,none/empty,403,8,3,,,none,,akita_black_bowl_1,0.3218,0
+fastwam,none/empty,404,8,4,,,none,,akita_black_bowl_1,0.2784,0
+fastwam,none/empty,405,8,5,,,8,193,akita_black_bowl_1,0.3437,0
+fastwam,none/empty,406,8,6,,,none,,akita_black_bowl_1,0.3056,0
+fastwam,none/empty,407,8,7,,,none,,akita_black_bowl_1,0.3340,0
+fastwam,none/empty,408,8,8,,,none,,akita_black_bowl_1,0.3040,0
+fastwam,none/empty,409,8,9,,,none,,akita_black_bowl_1,0.3438,0
+fastwam,none/empty,410,8,10,,,none,,akita_black_bowl_1,0.3399,0
+fastwam,none/empty,411,8,11,,,none,,akita_black_bowl_1,0.2768,0
+fastwam,none/empty,412,8,12,,,8,278,akita_black_bowl_1,0.3413,0
+fastwam,none/empty,413,8,13,,,none,,akita_black_bowl_1,0.2981,0
+fastwam,none/empty,414,8,14,,,8,214,akita_black_bowl_1,0.3195,0
+fastwam,none/empty,415,8,15,,,none,,akita_black_bowl_1,0.2641,0
+fastwam,none/empty,416,8,16,,,none,,akita_black_bowl_1,0.3541,0
+fastwam,none/empty,417,8,17,,,none,,cream_cheese_1,0.2905,0
+fastwam,none/empty,418,8,18,,,none,,akita_black_bowl_1,0.3437,0
+fastwam,none/empty,419,8,19,,,8,157,akita_black_bowl_1,0.3198,0
+fastwam,none/empty,450,9,0,,,none,,akita_black_bowl_1,0.3190,0
+fastwam,none/empty,451,9,1,,,none,,akita_black_bowl_1,0.3263,0
+fastwam,none/empty,452,9,2,,,none,,akita_black_bowl_1,0.2965,0
+fastwam,none/empty,453,9,3,,,none,,akita_black_bowl_1,0.3356,0
+fastwam,none/empty,454,9,4,,,8,282,akita_black_bowl_1,0.3361,0
+fastwam,none/empty,455,9,5,,,8,127,akita_black_bowl_1,0.3236,0
+fastwam,none/empty,456,9,6,,,none,,akita_black_bowl_1,0.3118,0
+fastwam,none/empty,457,9,7,,,8,192,akita_black_bowl_1,0.3432,0
+fastwam,none/empty,458,9,8,,,none,,akita_black_bowl_1,0.3465,0
+fastwam,none/empty,459,9,9,,,8,223,akita_black_bowl_1,0.3403,0
+fastwam,none/empty,460,9,10,,,none,,akita_black_bowl_1,0.3189,0
+fastwam,none/empty,461,9,11,,,none,,akita_black_bowl_1,0.2750,0
+fastwam,none/empty,462,9,12,,,none,,akita_black_bowl_1,0.3442,0
+fastwam,none/empty,463,9,13,,,none,,akita_black_bowl_1,0.2732,0
+fastwam,none/empty,464,9,14,,,8,186,akita_black_bowl_1,0.3156,0
+fastwam,none/empty,465,9,15,,,none,,akita_black_bowl_1,0.2848,0
+fastwam,none/empty,466,9,16,,,none,,akita_black_bowl_1,0.3392,0
+fastwam,none/empty,467,9,17,,,none,,akita_black_bowl_1,0.3455,0
+fastwam,none/empty,468,9,18,,,none,,akita_black_bowl_1,0.2862,0
+fastwam,none/empty,469,9,19,,,8,233,akita_black_bowl_1,0.3279,0
+fastwam,none/neutral,0,0,0,do something,,none,,akita_black_bowl_1,0.3025,0
+fastwam,none/neutral,1,0,1,do something,,none,,akita_black_bowl_1,0.3237,0
+fastwam,none/neutral,2,0,2,do something,,8,182,akita_black_bowl_1,0.3299,0
+fastwam,none/neutral,3,0,3,do something,,8,240,akita_black_bowl_1,0.3218,0
+fastwam,none/neutral,4,0,4,do something,,8,126,akita_black_bowl_1,0.3207,0
+fastwam,none/neutral,5,0,5,do something,,8,258,akita_black_bowl_1,0.3187,0
+fastwam,none/neutral,6,0,6,do something,,none,,akita_black_bowl_1,0.2951,0
+fastwam,none/neutral,7,0,7,do something,,8,206,akita_black_bowl_1,0.3352,0
+fastwam,none/neutral,8,0,8,do something,,none,,akita_black_bowl_1,0.3466,0
+fastwam,none/neutral,9,0,9,do something,,none,,akita_black_bowl_1,0.3244,0
+fastwam,none/neutral,10,0,10,do something,,none,,akita_black_bowl_1,0.3394,0
+fastwam,none/neutral,11,0,11,do something,,none,,akita_black_bowl_1,0.3074,0
+fastwam,none/neutral,12,0,12,do something,,8,160,akita_black_bowl_1,0.3366,0
+fastwam,none/neutral,13,0,13,do something,,none,,cream_cheese_1,0.3462,0
+fastwam,none/neutral,14,0,14,do something,,8,122,akita_black_bowl_1,0.3346,0
+fastwam,none/neutral,15,0,15,do something,,none,,cream_cheese_1,0.3270,0
+fastwam,none/neutral,16,0,16,do something,,8,191,akita_black_bowl_1,0.3394,0
+fastwam,none/neutral,17,0,17,do something,,none,,akita_black_bowl_1,0.2847,0
+fastwam,none/neutral,18,0,18,do something,,8,144,akita_black_bowl_1,0.3396,0
+fastwam,none/neutral,19,0,19,do something,,none,,akita_black_bowl_1,0.3479,0
+fastwam,none/neutral,50,1,0,do something,,8,192,akita_black_bowl_1,0.3327,0
+fastwam,none/neutral,51,1,1,do something,,8,226,akita_black_bowl_1,0.3206,0
+fastwam,none/neutral,52,1,2,do something,,8,178,akita_black_bowl_1,0.3205,0
+fastwam,none/neutral,53,1,3,do something,,none,,akita_black_bowl_1,0.3547,0
+fastwam,none/neutral,54,1,4,do something,,none,,akita_black_bowl_1,0.3233,0
+fastwam,none/neutral,55,1,5,do something,,none,,akita_black_bowl_1,0.3406,0
+fastwam,none/neutral,56,1,6,do something,,8,112,akita_black_bowl_1,0.3482,0
+fastwam,none/neutral,57,1,7,do something,,8,156,akita_black_bowl_1,0.3230,0
+fastwam,none/neutral,58,1,8,do something,,8,228,cream_cheese_1,0.3142,0
+fastwam,none/neutral,59,1,9,do something,,8,117,akita_black_bowl_1,0.3221,0
+fastwam,none/neutral,60,1,10,do something,,8,110,akita_black_bowl_1,0.3348,0
+fastwam,none/neutral,61,1,11,do something,,none,,akita_black_bowl_1,0.3284,0
+fastwam,none/neutral,62,1,12,do something,,none,,akita_black_bowl_1,0.3441,0
+fastwam,none/neutral,63,1,13,do something,,none,,akita_black_bowl_1,0.2745,0
+fastwam,none/neutral,64,1,14,do something,,none,,akita_black_bowl_1,0.2875,0
+fastwam,none/neutral,65,1,15,do something,,none,,akita_black_bowl_1,0.3451,0
+fastwam,none/neutral,66,1,16,do something,,8,194,akita_black_bowl_1,0.3364,0
+fastwam,none/neutral,67,1,17,do something,,8,213,akita_black_bowl_1,0.3533,0
+fastwam,none/neutral,68,1,18,do something,,none,,akita_black_bowl_1,0.2827,0
+fastwam,none/neutral,69,1,19,do something,,8,166,cream_cheese_1,0.3312,0
+fastwam,none/neutral,100,2,0,do something,,8,132,akita_black_bowl_1,0.3363,0
+fastwam,none/neutral,101,2,1,do something,,none,,akita_black_bowl_1,0.3020,0
+fastwam,none/neutral,102,2,2,do something,,8,208,akita_black_bowl_1,0.3314,0
+fastwam,none/neutral,103,2,3,do something,,8,228,cream_cheese_1,0.3598,0
+fastwam,none/neutral,104,2,4,do something,,none,,akita_black_bowl_1,0.2844,0
+fastwam,none/neutral,105,2,5,do something,,none,,akita_black_bowl_1,0.3159,0
+fastwam,none/neutral,106,2,6,do something,,none,,akita_black_bowl_1,0.3122,0
+fastwam,none/neutral,107,2,7,do something,,none,,akita_black_bowl_1,0.3180,0
+fastwam,none/neutral,108,2,8,do something,,none,,akita_black_bowl_1,0.3348,0
+fastwam,none/neutral,109,2,9,do something,,none,,akita_black_bowl_1,0.2908,0
+fastwam,none/neutral,110,2,10,do something,,8,207,akita_black_bowl_1,0.3332,0
+fastwam,none/neutral,111,2,11,do something,,none,,akita_black_bowl_1,0.3419,0
+fastwam,none/neutral,112,2,12,do something,,8,130,cream_cheese_1,0.3140,0
+fastwam,none/neutral,113,2,13,do something,,none,,akita_black_bowl_1,0.3073,0
+fastwam,none/neutral,114,2,14,do something,,4,171,akita_black_bowl_1,0.2807,0
+fastwam,none/neutral,115,2,15,do something,,8,174,akita_black_bowl_1,0.3309,0
+fastwam,none/neutral,116,2,16,do something,,none,,akita_black_bowl_1,0.3149,0
+fastwam,none/neutral,117,2,17,do something,,none,,cream_cheese_1,0.3558,0
+fastwam,none/neutral,118,2,18,do something,,8,160,akita_black_bowl_1,0.3514,0
+fastwam,none/neutral,119,2,19,do something,,none,,akita_black_bowl_1,0.2747,0
+fastwam,none/neutral,150,3,0,do something,,none,,akita_black_bowl_1,0.3204,0
+fastwam,none/neutral,151,3,1,do something,,none,,akita_black_bowl_1,0.2779,0
+fastwam,none/neutral,152,3,2,do something,,none,,akita_black_bowl_1,0.2803,0
+fastwam,none/neutral,153,3,3,do something,,8,238,akita_black_bowl_1,0.3176,0
+fastwam,none/neutral,154,3,4,do something,,4,133,akita_black_bowl_1,0.2818,0
+fastwam,none/neutral,155,3,5,do something,,8,183,akita_black_bowl_1,0.3520,0
+fastwam,none/neutral,156,3,6,do something,,8,279,akita_black_bowl_1,0.3451,0
+fastwam,none/neutral,157,3,7,do something,,none,,akita_black_bowl_1,0.3018,0
+fastwam,none/neutral,158,3,8,do something,,none,,akita_black_bowl_1,0.2982,0
+fastwam,none/neutral,159,3,9,do something,,8,171,akita_black_bowl_1,0.3222,0
+fastwam,none/neutral,160,3,10,do something,,8,115,akita_black_bowl_1,0.3202,0
+fastwam,none/neutral,161,3,11,do something,,none,,akita_black_bowl_1,0.2781,0
+fastwam,none/neutral,162,3,12,do something,,none,,akita_black_bowl_1,0.3229,0
+fastwam,none/neutral,163,3,13,do something,,8,244,akita_black_bowl_1,0.3405,0
+fastwam,none/neutral,164,3,14,do something,,8,119,akita_black_bowl_1,0.3101,0
+fastwam,none/neutral,165,3,15,do something,,none,,akita_black_bowl_1,0.3155,0
+fastwam,none/neutral,166,3,16,do something,,none,,akita_black_bowl_1,0.2804,0
+fastwam,none/neutral,167,3,17,do something,,none,,akita_black_bowl_1,0.3127,0
+fastwam,none/neutral,168,3,18,do something,,none,,cream_cheese_1,0.3442,0
+fastwam,none/neutral,169,3,19,do something,,8,276,akita_black_bowl_1,0.3371,0
+fastwam,none/neutral,200,4,0,do something,,none,,akita_black_bowl_1,0.3495,0
+fastwam,none/neutral,201,4,1,do something,,none,,akita_black_bowl_1,0.2793,0
+fastwam,none/neutral,202,4,2,do something,,none,,akita_black_bowl_1,0.3015,0
+fastwam,none/neutral,203,4,3,do something,,none,,akita_black_bowl_1,0.3160,0
+fastwam,none/neutral,204,4,4,do something,,8,185,akita_black_bowl_1,0.3339,0
+fastwam,none/neutral,205,4,5,do something,,8,128,akita_black_bowl_1,0.3083,0
+fastwam,none/neutral,206,4,6,do something,,none,,akita_black_bowl_1,0.2795,0
+fastwam,none/neutral,207,4,7,do something,,none,,akita_black_bowl_1,0.3386,0
+fastwam,none/neutral,208,4,8,do something,,8,248,akita_black_bowl_1,0.3337,0
+fastwam,none/neutral,209,4,9,do something,,none,,akita_black_bowl_1,0.3478,0
+fastwam,none/neutral,210,4,10,do something,,8,222,akita_black_bowl_1,0.3521,0
+fastwam,none/neutral,211,4,11,do something,,none,,akita_black_bowl_1,0.3204,0
+fastwam,none/neutral,212,4,12,do something,,none,,akita_black_bowl_1,0.3550,0
+fastwam,none/neutral,213,4,13,do something,,none,,akita_black_bowl_1,0.3138,0
+fastwam,none/neutral,214,4,14,do something,,8,117,akita_black_bowl_1,0.3166,0
+fastwam,none/neutral,215,4,15,do something,,none,,akita_black_bowl_1,0.3082,0
+fastwam,none/neutral,216,4,16,do something,,none,,cream_cheese_1,0.2989,0
+fastwam,none/neutral,217,4,17,do something,,none,,akita_black_bowl_1,0.3187,0
+fastwam,none/neutral,218,4,18,do something,,none,,akita_black_bowl_1,0.3122,0
+fastwam,none/neutral,219,4,19,do something,,none,,akita_black_bowl_1,0.3377,0
+fastwam,none/neutral,250,5,0,do something,,none,,akita_black_bowl_1,0.2836,0
+fastwam,none/neutral,251,5,1,do something,,none,,akita_black_bowl_1,0.2826,0
+fastwam,none/neutral,252,5,2,do something,,none,,akita_black_bowl_1,0.3501,0
+fastwam,none/neutral,253,5,3,do something,,none,,akita_black_bowl_1,0.3041,0
+fastwam,none/neutral,254,5,4,do something,,none,,akita_black_bowl_1,0.3299,0
+fastwam,none/neutral,255,5,5,do something,,8,222,akita_black_bowl_1,0.3348,0
+fastwam,none/neutral,256,5,6,do something,,8,212,akita_black_bowl_1,0.3309,0
+fastwam,none/neutral,257,5,7,do something,,8,179,akita_black_bowl_1,0.3271,0
+fastwam,none/neutral,258,5,8,do something,,none,,akita_black_bowl_1,0.3034,0
+fastwam,none/neutral,259,5,9,do something,,none,,akita_black_bowl_1,0.3327,0
+fastwam,none/neutral,260,5,10,do something,,none,,akita_black_bowl_1,0.3222,0
+fastwam,none/neutral,261,5,11,do something,,none,,akita_black_bowl_1,0.2979,0
+fastwam,none/neutral,262,5,12,do something,,none,,akita_black_bowl_1,0.3446,0
+fastwam,none/neutral,263,5,13,do something,,8,223,akita_black_bowl_1,0.3488,0
+fastwam,none/neutral,264,5,14,do something,,none,,akita_black_bowl_1,0.3127,0
+fastwam,none/neutral,265,5,15,do something,,none,,akita_black_bowl_1,0.3512,0
+fastwam,none/neutral,266,5,16,do something,,none,,akita_black_bowl_1,0.3571,0
+fastwam,none/neutral,267,5,17,do something,,8,131,akita_black_bowl_1,0.3211,0
+fastwam,none/neutral,268,5,18,do something,,none,,akita_black_bowl_1,0.3257,0
+fastwam,none/neutral,269,5,19,do something,,none,,akita_black_bowl_1,0.3322,0
+fastwam,none/neutral,300,6,0,do something,,8,148,akita_black_bowl_1,0.3327,0
+fastwam,none/neutral,301,6,1,do something,,8,278,akita_black_bowl_1,0.3458,0
+fastwam,none/neutral,302,6,2,do something,,none,,akita_black_bowl_1,0.3559,0
+fastwam,none/neutral,303,6,3,do something,,none,,cream_cheese_1,0.3329,0
+fastwam,none/neutral,304,6,4,do something,,8,143,akita_black_bowl_1,0.3321,0
+fastwam,none/neutral,305,6,5,do something,,none,,akita_black_bowl_1,0.3132,0
+fastwam,none/neutral,306,6,6,do something,,none,,akita_black_bowl_1,0.3407,0
+fastwam,none/neutral,307,6,7,do something,,none,,akita_black_bowl_1,0.3515,0
+fastwam,none/neutral,308,6,8,do something,,none,,akita_black_bowl_1,0.3453,0
+fastwam,none/neutral,309,6,9,do something,,none,,cream_cheese_1,0.3159,0
+fastwam,none/neutral,310,6,10,do something,,8,269,akita_black_bowl_1,0.3222,0
+fastwam,none/neutral,311,6,11,do something,,8,273,akita_black_bowl_1,0.3295,0
+fastwam,none/neutral,312,6,12,do something,,none,,akita_black_bowl_1,0.3434,0
+fastwam,none/neutral,313,6,13,do something,,none,,akita_black_bowl_1,0.3235,0
+fastwam,none/neutral,314,6,14,do something,,none,,akita_black_bowl_1,0.3052,0
+fastwam,none/neutral,315,6,15,do something,,none,,akita_black_bowl_1,0.2904,0
+fastwam,none/neutral,316,6,16,do something,,8,124,akita_black_bowl_1,0.3397,0
+fastwam,none/neutral,317,6,17,do something,,none,,akita_black_bowl_1,0.2971,0
+fastwam,none/neutral,318,6,18,do something,,8,255,akita_black_bowl_1,0.3429,0
+fastwam,none/neutral,319,6,19,do something,,8,265,akita_black_bowl_1,0.3370,0
+fastwam,none/neutral,350,7,0,do something,,8,120,akita_black_bowl_1,0.3343,0
+fastwam,none/neutral,351,7,1,do something,,none,,akita_black_bowl_1,0.3520,0
+fastwam,none/neutral,352,7,2,do something,,8,167,akita_black_bowl_1,0.3446,0
+fastwam,none/neutral,353,7,3,do something,,none,,akita_black_bowl_1,0.3452,0
+fastwam,none/neutral,354,7,4,do something,,none,,akita_black_bowl_1,0.3169,0
+fastwam,none/neutral,355,7,5,do something,,8,196,akita_black_bowl_1,0.3669,0
+fastwam,none/neutral,356,7,6,do something,,none,,akita_black_bowl_1,0.3267,0
+fastwam,none/neutral,357,7,7,do something,,none,,akita_black_bowl_1,0.3284,0
+fastwam,none/neutral,358,7,8,do something,,none,,akita_black_bowl_1,0.3416,0
+fastwam,none/neutral,359,7,9,do something,,none,,akita_black_bowl_1,0.3095,0
+fastwam,none/neutral,360,7,10,do something,,none,,akita_black_bowl_1,0.3160,0
+fastwam,none/neutral,361,7,11,do something,,none,,akita_black_bowl_1,0.2821,0
+fastwam,none/neutral,362,7,12,do something,,none,,akita_black_bowl_1,0.3160,0
+fastwam,none/neutral,363,7,13,do something,,8,135,akita_black_bowl_1,0.3318,0
+fastwam,none/neutral,364,7,14,do something,,none,,akita_black_bowl_1,0.3405,0
+fastwam,none/neutral,365,7,15,do something,,8,157,akita_black_bowl_1,0.3555,0
+fastwam,none/neutral,366,7,16,do something,,none,,akita_black_bowl_1,0.2983,0
+fastwam,none/neutral,367,7,17,do something,,none,,akita_black_bowl_1,0.2951,0
+fastwam,none/neutral,368,7,18,do something,,none,,akita_black_bowl_1,0.3333,0
+fastwam,none/neutral,369,7,19,do something,,none,,akita_black_bowl_1,0.3102,0
+fastwam,none/neutral,400,8,0,do something,,8,140,akita_black_bowl_1,0.3462,0
+fastwam,none/neutral,401,8,1,do something,,none,,akita_black_bowl_1,0.3708,0
+fastwam,none/neutral,402,8,2,do something,,none,,akita_black_bowl_1,0.3362,0
+fastwam,none/neutral,403,8,3,do something,,none,,akita_black_bowl_1,0.3047,0
+fastwam,none/neutral,404,8,4,do something,,none,,akita_black_bowl_1,0.2793,0
+fastwam,none/neutral,405,8,5,do something,,8,142,akita_black_bowl_1,0.3293,0
+fastwam,none/neutral,406,8,6,do something,,8,160,akita_black_bowl_1,0.2963,0
+fastwam,none/neutral,407,8,7,do something,,none,,akita_black_bowl_1,0.3323,0
+fastwam,none/neutral,408,8,8,do something,,none,,akita_black_bowl_1,0.3332,0
+fastwam,none/neutral,409,8,9,do something,,none,,akita_black_bowl_1,0.3375,0
+fastwam,none/neutral,410,8,10,do something,,none,,akita_black_bowl_1,0.3286,0
+fastwam,none/neutral,411,8,11,do something,,none,,akita_black_bowl_1,0.2908,0
+fastwam,none/neutral,412,8,12,do something,,8,247,akita_black_bowl_1,0.3369,0
+fastwam,none/neutral,413,8,13,do something,,none,,akita_black_bowl_1,0.3034,0
+fastwam,none/neutral,414,8,14,do something,,none,,akita_black_bowl_1,0.2787,0
+fastwam,none/neutral,415,8,15,do something,,none,,akita_black_bowl_1,0.2825,0
+fastwam,none/neutral,416,8,16,do something,,none,,akita_black_bowl_1,0.2858,0
+fastwam,none/neutral,417,8,17,do something,,none,,akita_black_bowl_1,0.2895,0
+fastwam,none/neutral,418,8,18,do something,,none,,akita_black_bowl_1,0.3387,0
+fastwam,none/neutral,419,8,19,do something,,none,,akita_black_bowl_1,0.3250,0
+fastwam,none/neutral,450,9,0,do something,,8,283,akita_black_bowl_1,0.3087,0
+fastwam,none/neutral,451,9,1,do something,,none,,akita_black_bowl_1,0.3545,0
+fastwam,none/neutral,452,9,2,do something,,8,179,akita_black_bowl_1,0.3319,0
+fastwam,none/neutral,453,9,3,do something,,8,172,akita_black_bowl_1,0.3307,0
+fastwam,none/neutral,454,9,4,do something,,none,,akita_black_bowl_1,0.3188,0
+fastwam,none/neutral,455,9,5,do something,,8,121,akita_black_bowl_1,0.3251,0
+fastwam,none/neutral,456,9,6,do something,,8,116,akita_black_bowl_1,0.3088,0
+fastwam,none/neutral,457,9,7,do something,,none,,akita_black_bowl_1,0.3442,0
+fastwam,none/neutral,458,9,8,do something,,none,,akita_black_bowl_1,0.3358,0
+fastwam,none/neutral,459,9,9,do something,,none,,akita_black_bowl_1,0.3049,0
+fastwam,none/neutral,460,9,10,do something,,8,135,akita_black_bowl_1,0.3040,0
+fastwam,none/neutral,461,9,11,do something,,8,246,akita_black_bowl_1,0.3268,0
+fastwam,none/neutral,462,9,12,do something,,8,198,akita_black_bowl_1,0.3433,0
+fastwam,none/neutral,463,9,13,do something,,none,,akita_black_bowl_1,0.2729,0
+fastwam,none/neutral,464,9,14,do something,,4,184,akita_black_bowl_1,0.2873,0
+fastwam,none/neutral,465,9,15,do something,,8,224,akita_black_bowl_1,0.3453,0
+fastwam,none/neutral,466,9,16,do something,,none,,akita_black_bowl_1,0.3405,0
+fastwam,none/neutral,467,9,17,do something,,none,,akita_black_bowl_1,0.3528,0
+fastwam,none/neutral,468,9,18,do something,,none,,akita_black_bowl_1,0.2876,0
+fastwam,none/neutral,469,9,19,do something,,8,159,akita_black_bowl_1,0.3274,0
+fastwam,none/nonsense,0,0,0,xxx,,none,,akita_black_bowl_1,0.3309,0
+fastwam,none/nonsense,1,0,1,xxx,,none,,akita_black_bowl_1,0.3034,0
+fastwam,none/nonsense,2,0,2,xxx,,none,,akita_black_bowl_1,0.3223,0
+fastwam,none/nonsense,3,0,3,xxx,,none,,akita_black_bowl_1,0.3197,0
+fastwam,none/nonsense,4,0,4,xxx,,8,146,akita_black_bowl_1,0.3152,0
+fastwam,none/nonsense,5,0,5,xxx,,none,,akita_black_bowl_1,0.3022,0
+fastwam,none/nonsense,6,0,6,xxx,,none,,akita_black_bowl_1,0.3159,0
+fastwam,none/nonsense,7,0,7,xxx,,none,,akita_black_bowl_1,0.3312,0
+fastwam,none/nonsense,8,0,8,xxx,,8,184,akita_black_bowl_1,0.3365,0
+fastwam,none/nonsense,9,0,9,xxx,,none,,akita_black_bowl_1,0.2718,0
+fastwam,none/nonsense,10,0,10,xxx,,none,,akita_black_bowl_1,0.3325,0
+fastwam,none/nonsense,11,0,11,xxx,,none,,akita_black_bowl_1,0.3463,0
+fastwam,none/nonsense,12,0,12,xxx,,none,,akita_black_bowl_1,0.3547,0
+fastwam,none/nonsense,13,0,13,xxx,,none,,cream_cheese_1,0.2962,0
+fastwam,none/nonsense,14,0,14,xxx,,8,123,cream_cheese_1,0.3388,0
+fastwam,none/nonsense,15,0,15,xxx,,none,,cream_cheese_1,0.3208,0
+fastwam,none/nonsense,16,0,16,xxx,,8,205,akita_black_bowl_1,0.3272,0
+fastwam,none/nonsense,17,0,17,xxx,,none,,akita_black_bowl_1,0.2653,0
+fastwam,none/nonsense,18,0,18,xxx,,8,214,akita_black_bowl_1,0.3395,0
+fastwam,none/nonsense,19,0,19,xxx,,none,,akita_black_bowl_1,0.3335,0
+fastwam,none/nonsense,50,1,0,xxx,,none,,akita_black_bowl_1,0.3385,0
+fastwam,none/nonsense,51,1,1,xxx,,none,,cream_cheese_1,0.3320,0
+fastwam,none/nonsense,52,1,2,xxx,,none,,akita_black_bowl_1,0.3249,0
+fastwam,none/nonsense,53,1,3,xxx,,none,,akita_black_bowl_1,0.3619,0
+fastwam,none/nonsense,54,1,4,xxx,,none,,akita_black_bowl_1,0.3293,0
+fastwam,none/nonsense,55,1,5,xxx,,none,,akita_black_bowl_1,0.2811,0
+fastwam,none/nonsense,56,1,6,xxx,,8,172,akita_black_bowl_1,0.3468,0
+fastwam,none/nonsense,57,1,7,xxx,,8,213,akita_black_bowl_1,0.3160,0
+fastwam,none/nonsense,58,1,8,xxx,,8,208,cream_cheese_1,0.3140,0
+fastwam,none/nonsense,59,1,9,xxx,,8,281,akita_black_bowl_1,0.3365,0
+fastwam,none/nonsense,60,1,10,xxx,,8,135,akita_black_bowl_1,0.3434,0
+fastwam,none/nonsense,61,1,11,xxx,,8,166,akita_black_bowl_1,0.3282,0
+fastwam,none/nonsense,62,1,12,xxx,,none,,akita_black_bowl_1,0.3288,0
+fastwam,none/nonsense,63,1,13,xxx,,8,288,cream_cheese_1,0.3257,0
+fastwam,none/nonsense,64,1,14,xxx,,none,,akita_black_bowl_1,0.2915,0
+fastwam,none/nonsense,65,1,15,xxx,,8,246,akita_black_bowl_1,0.3351,0
+fastwam,none/nonsense,66,1,16,xxx,,none,,akita_black_bowl_1,0.2777,0
+fastwam,none/nonsense,67,1,17,xxx,,8,185,akita_black_bowl_1,0.3558,0
+fastwam,none/nonsense,68,1,18,xxx,,none,,akita_black_bowl_1,0.2783,0
+fastwam,none/nonsense,69,1,19,xxx,,8,118,cream_cheese_1,0.3333,0
+fastwam,none/nonsense,100,2,0,xxx,,8,173,akita_black_bowl_1,0.3396,0
+fastwam,none/nonsense,101,2,1,xxx,,none,,akita_black_bowl_1,0.2758,0
+fastwam,none/nonsense,102,2,2,xxx,,none,,akita_black_bowl_1,0.3020,0
+fastwam,none/nonsense,103,2,3,xxx,,8,195,cream_cheese_1,0.3543,0
+fastwam,none/nonsense,104,2,4,xxx,,none,,akita_black_bowl_1,0.2785,0
+fastwam,none/nonsense,105,2,5,xxx,,none,,akita_black_bowl_1,0.3342,0
+fastwam,none/nonsense,106,2,6,xxx,,none,,akita_black_bowl_1,0.3154,0
+fastwam,none/nonsense,107,2,7,xxx,,none,,akita_black_bowl_1,0.3231,0
+fastwam,none/nonsense,108,2,8,xxx,,none,,akita_black_bowl_1,0.2940,0
+fastwam,none/nonsense,109,2,9,xxx,,none,,akita_black_bowl_1,0.3231,0
+fastwam,none/nonsense,110,2,10,xxx,,none,,akita_black_bowl_1,0.3093,0
+fastwam,none/nonsense,111,2,11,xxx,,4,128,akita_black_bowl_1,0.2748,0
+fastwam,none/nonsense,112,2,12,xxx,,8,283,cream_cheese_1,0.3569,0
+fastwam,none/nonsense,113,2,13,xxx,,none,,akita_black_bowl_1,0.2962,0
+fastwam,none/nonsense,114,2,14,xxx,,8,188,akita_black_bowl_1,0.3218,0
+fastwam,none/nonsense,115,2,15,xxx,,none,,akita_black_bowl_1,0.3266,0
+fastwam,none/nonsense,116,2,16,xxx,,1,155,akita_black_bowl_1,0.3278,0
+fastwam,none/nonsense,117,2,17,xxx,,8,119,cream_cheese_1,0.3483,0
+fastwam,none/nonsense,118,2,18,xxx,,8,287,akita_black_bowl_1,0.3413,0
+fastwam,none/nonsense,119,2,19,xxx,,4,123,akita_black_bowl_1,0.2752,0
+fastwam,none/nonsense,150,3,0,xxx,,none,,akita_black_bowl_1,0.3259,0
+fastwam,none/nonsense,151,3,1,xxx,,none,,akita_black_bowl_1,0.3011,0
+fastwam,none/nonsense,152,3,2,xxx,,none,,akita_black_bowl_1,0.3051,0
+fastwam,none/nonsense,153,3,3,xxx,,none,,akita_black_bowl_1,0.2878,0
+fastwam,none/nonsense,154,3,4,xxx,,4,113,akita_black_bowl_1,0.2796,0
+fastwam,none/nonsense,155,3,5,xxx,,8,183,akita_black_bowl_1,0.3370,0
+fastwam,none/nonsense,156,3,6,xxx,,8,273,akita_black_bowl_1,0.3283,0
+fastwam,none/nonsense,157,3,7,xxx,,none,,akita_black_bowl_1,0.2951,0
+fastwam,none/nonsense,158,3,8,xxx,,none,,akita_black_bowl_1,0.3133,0
+fastwam,none/nonsense,159,3,9,xxx,,8,214,akita_black_bowl_1,0.3356,0
+fastwam,none/nonsense,160,3,10,xxx,,none,,akita_black_bowl_1,0.3081,0
+fastwam,none/nonsense,161,3,11,xxx,,none,,akita_black_bowl_1,0.3408,0
+fastwam,none/nonsense,162,3,12,xxx,,8,181,akita_black_bowl_1,0.3427,0
+fastwam,none/nonsense,163,3,13,xxx,,none,,akita_black_bowl_1,0.3248,0
+fastwam,none/nonsense,164,3,14,xxx,,8,158,akita_black_bowl_1,0.3193,0
+fastwam,none/nonsense,165,3,15,xxx,,none,,akita_black_bowl_1,0.2917,0
+fastwam,none/nonsense,166,3,16,xxx,,4,118,akita_black_bowl_1,0.2836,0
+fastwam,none/nonsense,167,3,17,xxx,,none,,akita_black_bowl_1,0.3051,0
+fastwam,none/nonsense,168,3,18,xxx,,8,144,akita_black_bowl_1,0.3397,0
+fastwam,none/nonsense,169,3,19,xxx,,none,,akita_black_bowl_1,0.2937,0
+fastwam,none/nonsense,200,4,0,xxx,,8,176,akita_black_bowl_1,0.3327,0
+fastwam,none/nonsense,201,4,1,xxx,,none,,akita_black_bowl_1,0.3009,0
+fastwam,none/nonsense,202,4,2,xxx,,none,,akita_black_bowl_1,0.2908,0
+fastwam,none/nonsense,203,4,3,xxx,,none,,akita_black_bowl_1,0.2866,0
+fastwam,none/nonsense,204,4,4,xxx,,none,,akita_black_bowl_1,0.3567,0
+fastwam,none/nonsense,205,4,5,xxx,,none,,akita_black_bowl_1,0.3055,0
+fastwam,none/nonsense,206,4,6,xxx,,none,,akita_black_bowl_1,0.3057,0
+fastwam,none/nonsense,207,4,7,xxx,,none,,akita_black_bowl_1,0.3418,0
+fastwam,none/nonsense,208,4,8,xxx,,8,179,akita_black_bowl_1,0.3212,0
+fastwam,none/nonsense,209,4,9,xxx,,none,,akita_black_bowl_1,0.3462,0
+fastwam,none/nonsense,210,4,10,xxx,,8,236,akita_black_bowl_1,0.3502,0
+fastwam,none/nonsense,211,4,11,xxx,,none,,akita_black_bowl_1,0.3316,0
+fastwam,none/nonsense,212,4,12,xxx,,none,,akita_black_bowl_1,0.3539,0
+fastwam,none/nonsense,213,4,13,xxx,,none,,akita_black_bowl_1,0.3011,0
+fastwam,none/nonsense,214,4,14,xxx,,8,159,akita_black_bowl_1,0.3234,0
+fastwam,none/nonsense,215,4,15,xxx,,none,,akita_black_bowl_1,0.2749,0
+fastwam,none/nonsense,216,4,16,xxx,,none,,akita_black_bowl_1,0.2645,0
+fastwam,none/nonsense,217,4,17,xxx,,none,,akita_black_bowl_1,0.3059,0
+fastwam,none/nonsense,218,4,18,xxx,,none,,akita_black_bowl_1,0.2914,0
+fastwam,none/nonsense,219,4,19,xxx,,8,217,akita_black_bowl_1,0.3337,0
+fastwam,none/nonsense,250,5,0,xxx,,none,,akita_black_bowl_1,0.3181,0
+fastwam,none/nonsense,251,5,1,xxx,,none,,akita_black_bowl_1,0.2830,0
+fastwam,none/nonsense,252,5,2,xxx,,8,233,cream_cheese_1,0.3439,0
+fastwam,none/nonsense,253,5,3,xxx,,none,,akita_black_bowl_1,0.3119,0
+fastwam,none/nonsense,254,5,4,xxx,,none,,akita_black_bowl_1,0.3038,0
+fastwam,none/nonsense,255,5,5,xxx,,none,,cream_cheese_1,0.3409,0
+fastwam,none/nonsense,256,5,6,xxx,,none,,akita_black_bowl_1,0.3291,0
+fastwam,none/nonsense,257,5,7,xxx,,8,194,akita_black_bowl_1,0.3331,0
+fastwam,none/nonsense,258,5,8,xxx,,none,,akita_black_bowl_1,0.3291,0
+fastwam,none/nonsense,259,5,9,xxx,,none,,akita_black_bowl_1,0.3118,0
+fastwam,none/nonsense,260,5,10,xxx,,none,,akita_black_bowl_1,0.2855,0
+fastwam,none/nonsense,261,5,11,xxx,,none,,akita_black_bowl_1,0.2930,0
+fastwam,none/nonsense,262,5,12,xxx,,4,119,akita_black_bowl_1,0.2642,0
+fastwam,none/nonsense,263,5,13,xxx,,8,198,akita_black_bowl_1,0.3493,0
+fastwam,none/nonsense,264,5,14,xxx,,none,,akita_black_bowl_1,0.2893,0
+fastwam,none/nonsense,265,5,15,xxx,,8,135,akita_black_bowl_1,0.3243,0
+fastwam,none/nonsense,266,5,16,xxx,,8,170,akita_black_bowl_1,0.3519,0
+fastwam,none/nonsense,267,5,17,xxx,,none,,akita_black_bowl_1,0.2787,0
+fastwam,none/nonsense,268,5,18,xxx,,none,,akita_black_bowl_1,0.3201,0
+fastwam,none/nonsense,269,5,19,xxx,,none,,akita_black_bowl_1,0.3082,0
+fastwam,none/nonsense,300,6,0,xxx,,8,199,akita_black_bowl_1,0.3358,0
+fastwam,none/nonsense,301,6,1,xxx,,4,118,akita_black_bowl_1,0.2804,0
+fastwam,none/nonsense,302,6,2,xxx,,none,,akita_black_bowl_1,0.3551,0
+fastwam,none/nonsense,303,6,3,xxx,,8,210,cream_cheese_1,0.3361,0
+fastwam,none/nonsense,304,6,4,xxx,,8,296,akita_black_bowl_1,0.3238,0
+fastwam,none/nonsense,305,6,5,xxx,,none,,akita_black_bowl_1,0.2898,0
+fastwam,none/nonsense,306,6,6,xxx,,8,148,akita_black_bowl_1,0.3242,0
+fastwam,none/nonsense,307,6,7,xxx,,none,,cream_cheese_1,0.3504,0
+fastwam,none/nonsense,308,6,8,xxx,,none,,akita_black_bowl_1,0.3232,0
+fastwam,none/nonsense,309,6,9,xxx,,none,,cream_cheese_1,0.3162,0
+fastwam,none/nonsense,310,6,10,xxx,,none,,akita_black_bowl_1,0.3253,0
+fastwam,none/nonsense,311,6,11,xxx,,none,,akita_black_bowl_1,0.3443,0
+fastwam,none/nonsense,312,6,12,xxx,,none,,akita_black_bowl_1,0.2937,0
+fastwam,none/nonsense,313,6,13,xxx,,none,,cream_cheese_1,0.3257,0
+fastwam,none/nonsense,314,6,14,xxx,,none,,akita_black_bowl_1,0.3031,0
+fastwam,none/nonsense,315,6,15,xxx,,none,,akita_black_bowl_1,0.2794,0
+fastwam,none/nonsense,316,6,16,xxx,,8,183,akita_black_bowl_1,0.3578,0
+fastwam,none/nonsense,317,6,17,xxx,,none,,akita_black_bowl_1,0.2737,0
+fastwam,none/nonsense,318,6,18,xxx,,none,,akita_black_bowl_1,0.3206,0
+fastwam,none/nonsense,319,6,19,xxx,,none,,akita_black_bowl_1,0.3262,0
+fastwam,none/nonsense,350,7,0,xxx,,none,,akita_black_bowl_1,0.3195,0
+fastwam,none/nonsense,351,7,1,xxx,,8,123,akita_black_bowl_1,0.3510,0
+fastwam,none/nonsense,352,7,2,xxx,,8,223,akita_black_bowl_1,0.3456,0
+fastwam,none/nonsense,353,7,3,xxx,,none,,akita_black_bowl_1,0.3085,0
+fastwam,none/nonsense,354,7,4,xxx,,none,,akita_black_bowl_1,0.3077,0
+fastwam,none/nonsense,355,7,5,xxx,,8,149,akita_black_bowl_1,0.3466,0
+fastwam,none/nonsense,356,7,6,xxx,,none,,akita_black_bowl_1,0.3201,0
+fastwam,none/nonsense,357,7,7,xxx,,none,,cream_cheese_1,0.3094,0
+fastwam,none/nonsense,358,7,8,xxx,,none,,akita_black_bowl_1,0.2849,0
+fastwam,none/nonsense,359,7,9,xxx,,none,,akita_black_bowl_1,0.2748,0
+fastwam,none/nonsense,360,7,10,xxx,,none,,akita_black_bowl_1,0.3553,0
+fastwam,none/nonsense,361,7,11,xxx,,none,,akita_black_bowl_1,0.2819,0
+fastwam,none/nonsense,362,7,12,xxx,,1,159,akita_black_bowl_1,0.3065,0
+fastwam,none/nonsense,363,7,13,xxx,,none,,akita_black_bowl_1,0.3337,0
+fastwam,none/nonsense,364,7,14,xxx,,none,,akita_black_bowl_1,0.3286,0
+fastwam,none/nonsense,365,7,15,xxx,,8,190,akita_black_bowl_1,0.3522,0
+fastwam,none/nonsense,366,7,16,xxx,,none,,akita_black_bowl_1,0.2984,0
+fastwam,none/nonsense,367,7,17,xxx,,none,,akita_black_bowl_1,0.2951,0
+fastwam,none/nonsense,368,7,18,xxx,,8,256,akita_black_bowl_1,0.3397,0
+fastwam,none/nonsense,369,7,19,xxx,,4,125,akita_black_bowl_1,0.2870,0
+fastwam,none/nonsense,400,8,0,xxx,,none,,akita_black_bowl_1,0.3450,0
+fastwam,none/nonsense,401,8,1,xxx,,none,,akita_black_bowl_1,0.3457,0
+fastwam,none/nonsense,402,8,2,xxx,,none,,akita_black_bowl_1,0.3482,0
+fastwam,none/nonsense,403,8,3,xxx,,8,175,akita_black_bowl_1,0.3198,0
+fastwam,none/nonsense,404,8,4,xxx,,none,,akita_black_bowl_1,0.2788,0
+fastwam,none/nonsense,405,8,5,xxx,,none,,akita_black_bowl_1,0.3115,0
+fastwam,none/nonsense,406,8,6,xxx,,none,,akita_black_bowl_1,0.2827,0
+fastwam,none/nonsense,407,8,7,xxx,,none,,akita_black_bowl_1,0.3355,0
+fastwam,none/nonsense,408,8,8,xxx,,none,,akita_black_bowl_1,0.3475,0
+fastwam,none/nonsense,409,8,9,xxx,,none,,akita_black_bowl_1,0.3479,0
+fastwam,none/nonsense,410,8,10,xxx,,none,,akita_black_bowl_1,0.2755,0
+fastwam,none/nonsense,411,8,11,xxx,,none,,akita_black_bowl_1,0.3344,0
+fastwam,none/nonsense,412,8,12,xxx,,8,286,akita_black_bowl_1,0.3506,0
+fastwam,none/nonsense,413,8,13,xxx,,none,,akita_black_bowl_1,0.2832,0
+fastwam,none/nonsense,414,8,14,xxx,,none,,akita_black_bowl_1,0.3000,0
+fastwam,none/nonsense,415,8,15,xxx,,none,,akita_black_bowl_1,0.2657,0
+fastwam,none/nonsense,416,8,16,xxx,,none,,akita_black_bowl_1,0.2796,0
+fastwam,none/nonsense,417,8,17,xxx,,none,,cream_cheese_1,0.3430,0
+fastwam,none/nonsense,418,8,18,xxx,,none,,cream_cheese_1,0.3404,0
+fastwam,none/nonsense,419,8,19,xxx,,none,,akita_black_bowl_1,0.2775,0
+fastwam,none/nonsense,450,9,0,xxx,,8,117,akita_black_bowl_1,0.3227,0
+fastwam,none/nonsense,451,9,1,xxx,,8,130,akita_black_bowl_1,0.3176,0
+fastwam,none/nonsense,452,9,2,xxx,,8,256,akita_black_bowl_1,0.3366,0
+fastwam,none/nonsense,453,9,3,xxx,,8,270,akita_black_bowl_1,0.3207,0
+fastwam,none/nonsense,454,9,4,xxx,,8,213,akita_black_bowl_1,0.3227,0
+fastwam,none/nonsense,455,9,5,xxx,,8,154,akita_black_bowl_1,0.3313,0
+fastwam,none/nonsense,456,9,6,xxx,,none,,akita_black_bowl_1,0.2872,0
+fastwam,none/nonsense,457,9,7,xxx,,8,157,akita_black_bowl_1,0.3408,0
+fastwam,none/nonsense,458,9,8,xxx,,8,216,akita_black_bowl_1,0.3309,0
+fastwam,none/nonsense,459,9,9,xxx,,none,,akita_black_bowl_1,0.2977,0
+fastwam,none/nonsense,460,9,10,xxx,,none,,akita_black_bowl_1,0.3207,0
+fastwam,none/nonsense,461,9,11,xxx,,4,113,akita_black_bowl_1,0.2741,0
+fastwam,none/nonsense,462,9,12,xxx,,none,,akita_black_bowl_1,0.3461,0
+fastwam,none/nonsense,463,9,13,xxx,,none,,akita_black_bowl_1,0.2753,0
+fastwam,none/nonsense,464,9,14,xxx,,4,118,akita_black_bowl_1,0.2863,0
+fastwam,none/nonsense,465,9,15,xxx,,none,,akita_black_bowl_1,0.2778,0
+fastwam,none/nonsense,466,9,16,xxx,,none,,akita_black_bowl_1,0.2844,0
+fastwam,none/nonsense,467,9,17,xxx,,none,,akita_black_bowl_1,0.3292,0
+fastwam,none/nonsense,468,9,18,xxx,,none,,akita_black_bowl_1,0.2855,0
+fastwam,none/nonsense,469,9,19,xxx,,none,,akita_black_bowl_1,0.3323,0

@@ -1,0 +1,1201 @@
+checkpoint,cond,g,task,j,text,named_task,outcome,outcome_step,first_contact,max_disp,non_start
+gr00t_n17_official,none/original,0,0,0,open the middle drawer of the cabinet,,0,130,wooden_cabinet_1,0.3304,0
+gr00t_n17_official,none/original,1,0,1,open the middle drawer of the cabinet,,0,109,wooden_cabinet_1,0.3384,0
+gr00t_n17_official,none/original,2,0,2,open the middle drawer of the cabinet,,0,114,wooden_cabinet_1,0.3155,0
+gr00t_n17_official,none/original,3,0,3,open the middle drawer of the cabinet,,0,132,wooden_cabinet_1,0.3240,0
+gr00t_n17_official,none/original,4,0,4,open the middle drawer of the cabinet,,0,118,wooden_cabinet_1,0.3300,0
+gr00t_n17_official,none/original,5,0,5,open the middle drawer of the cabinet,,0,149,wooden_cabinet_1,0.3423,0
+gr00t_n17_official,none/original,6,0,6,open the middle drawer of the cabinet,,0,118,wooden_cabinet_1,0.3334,0
+gr00t_n17_official,none/original,7,0,7,open the middle drawer of the cabinet,,0,113,wooden_cabinet_1,0.3273,0
+gr00t_n17_official,none/original,8,0,8,open the middle drawer of the cabinet,,0,135,wooden_cabinet_1,0.3326,0
+gr00t_n17_official,none/original,9,0,9,open the middle drawer of the cabinet,,0,126,wooden_cabinet_1,0.3245,0
+gr00t_n17_official,none/original,10,0,10,open the middle drawer of the cabinet,,0,124,wooden_cabinet_1,0.3318,0
+gr00t_n17_official,none/original,11,0,11,open the middle drawer of the cabinet,,0,126,wooden_cabinet_1,0.3176,0
+gr00t_n17_official,none/original,12,0,12,open the middle drawer of the cabinet,,0,114,wooden_cabinet_1,0.3259,0
+gr00t_n17_official,none/original,13,0,13,open the middle drawer of the cabinet,,0,131,wooden_cabinet_1,0.3252,0
+gr00t_n17_official,none/original,14,0,14,open the middle drawer of the cabinet,,0,114,wooden_cabinet_1,0.3469,0
+gr00t_n17_official,none/original,15,0,15,open the middle drawer of the cabinet,,0,153,wooden_cabinet_1,0.3328,0
+gr00t_n17_official,none/original,16,0,16,open the middle drawer of the cabinet,,0,119,wooden_cabinet_1,0.3354,0
+gr00t_n17_official,none/original,17,0,17,open the middle drawer of the cabinet,,0,122,wooden_cabinet_1,0.3257,0
+gr00t_n17_official,none/original,18,0,18,open the middle drawer of the cabinet,,0,129,wooden_cabinet_1,0.3404,0
+gr00t_n17_official,none/original,19,0,19,open the middle drawer of the cabinet,,0,124,wooden_cabinet_1,0.3237,0
+gr00t_n17_official,none/original,50,1,0,put the bowl on the stove,,1,85,akita_black_bowl_1,0.3368,0
+gr00t_n17_official,none/original,51,1,1,put the bowl on the stove,,1,79,cream_cheese_1,0.3038,0
+gr00t_n17_official,none/original,52,1,2,put the bowl on the stove,,1,89,akita_black_bowl_1,0.3184,0
+gr00t_n17_official,none/original,53,1,3,put the bowl on the stove,,1,93,akita_black_bowl_1,0.3375,0
+gr00t_n17_official,none/original,54,1,4,put the bowl on the stove,,1,85,akita_black_bowl_1,0.3216,0
+gr00t_n17_official,none/original,55,1,5,put the bowl on the stove,,1,84,akita_black_bowl_1,0.3293,0
+gr00t_n17_official,none/original,56,1,6,put the bowl on the stove,,1,94,akita_black_bowl_1,0.3406,0
+gr00t_n17_official,none/original,57,1,7,put the bowl on the stove,,1,87,akita_black_bowl_1,0.3350,0
+gr00t_n17_official,none/original,58,1,8,put the bowl on the stove,,1,86,cream_cheese_1,0.3180,0
+gr00t_n17_official,none/original,59,1,9,put the bowl on the stove,,1,88,akita_black_bowl_1,0.3276,0
+gr00t_n17_official,none/original,60,1,10,put the bowl on the stove,,1,89,akita_black_bowl_1,0.3469,0
+gr00t_n17_official,none/original,61,1,11,put the bowl on the stove,,1,96,akita_black_bowl_1,0.3588,0
+gr00t_n17_official,none/original,62,1,12,put the bowl on the stove,,1,87,akita_black_bowl_1,0.3449,0
+gr00t_n17_official,none/original,63,1,13,put the bowl on the stove,,1,81,cream_cheese_1,0.2970,0
+gr00t_n17_official,none/original,64,1,14,put the bowl on the stove,,1,92,akita_black_bowl_1,0.3352,0
+gr00t_n17_official,none/original,65,1,15,put the bowl on the stove,,1,87,akita_black_bowl_1,0.3404,0
+gr00t_n17_official,none/original,66,1,16,put the bowl on the stove,,1,88,akita_black_bowl_1,0.3331,0
+gr00t_n17_official,none/original,67,1,17,put the bowl on the stove,,1,92,akita_black_bowl_1,0.3274,0
+gr00t_n17_official,none/original,68,1,18,put the bowl on the stove,,1,93,akita_black_bowl_1,0.3260,0
+gr00t_n17_official,none/original,69,1,19,put the bowl on the stove,,1,85,cream_cheese_1,0.2970,0
+gr00t_n17_official,none/original,100,2,0,put the wine bottle on top of the cabinet,,2,86,wine_bottle_1,0.3095,0
+gr00t_n17_official,none/original,101,2,1,put the wine bottle on top of the cabinet,,none,,wine_rack_1,0.2001,0
+gr00t_n17_official,none/original,102,2,2,put the wine bottle on top of the cabinet,,2,102,wine_bottle_1,0.2800,0
+gr00t_n17_official,none/original,103,2,3,put the wine bottle on top of the cabinet,,2,84,wine_bottle_1,0.2776,0
+gr00t_n17_official,none/original,104,2,4,put the wine bottle on top of the cabinet,,2,83,wine_bottle_1,0.3229,0
+gr00t_n17_official,none/original,105,2,5,put the wine bottle on top of the cabinet,,2,85,wine_bottle_1,0.2972,0
+gr00t_n17_official,none/original,106,2,6,put the wine bottle on top of the cabinet,,2,95,wine_bottle_1,0.2906,0
+gr00t_n17_official,none/original,107,2,7,put the wine bottle on top of the cabinet,,2,106,wine_bottle_1,0.2863,0
+gr00t_n17_official,none/original,108,2,8,put the wine bottle on top of the cabinet,,2,89,wine_bottle_1,0.2682,0
+gr00t_n17_official,none/original,109,2,9,put the wine bottle on top of the cabinet,,2,83,wine_bottle_1,0.3070,0
+gr00t_n17_official,none/original,110,2,10,put the wine bottle on top of the cabinet,,2,102,wine_bottle_1,0.3141,0
+gr00t_n17_official,none/original,111,2,11,put the wine bottle on top of the cabinet,,none,,,0.2491,0
+gr00t_n17_official,none/original,112,2,12,put the wine bottle on top of the cabinet,,2,85,wine_bottle_1,0.3005,0
+gr00t_n17_official,none/original,113,2,13,put the wine bottle on top of the cabinet,,2,104,wine_bottle_1,0.2973,0
+gr00t_n17_official,none/original,114,2,14,put the wine bottle on top of the cabinet,,2,90,wine_bottle_1,0.3224,0
+gr00t_n17_official,none/original,115,2,15,put the wine bottle on top of the cabinet,,2,90,wine_bottle_1,0.3201,0
+gr00t_n17_official,none/original,116,2,16,put the wine bottle on top of the cabinet,,2,87,wine_bottle_1,0.3073,0
+gr00t_n17_official,none/original,117,2,17,put the wine bottle on top of the cabinet,,2,84,wine_bottle_1,0.2875,0
+gr00t_n17_official,none/original,118,2,18,put the wine bottle on top of the cabinet,,2,94,wine_bottle_1,0.2955,0
+gr00t_n17_official,none/original,119,2,19,put the wine bottle on top of the cabinet,,2,95,wine_bottle_1,0.3107,0
+gr00t_n17_official,none/original,150,3,0,open the top drawer and put the bowl inside,,3,165,wooden_cabinet_1,0.2955,0
+gr00t_n17_official,none/original,151,3,1,open the top drawer and put the bowl inside,,3,183,wooden_cabinet_1,0.2851,0
+gr00t_n17_official,none/original,152,3,2,open the top drawer and put the bowl inside,,3,177,wooden_cabinet_1,0.2925,0
+gr00t_n17_official,none/original,153,3,3,open the top drawer and put the bowl inside,,3,165,wooden_cabinet_1,0.2923,0
+gr00t_n17_official,none/original,154,3,4,open the top drawer and put the bowl inside,,none,,wooden_cabinet_1,0.2778,0
+gr00t_n17_official,none/original,155,3,5,open the top drawer and put the bowl inside,,none,,wooden_cabinet_1,0.2947,0
+gr00t_n17_official,none/original,156,3,6,open the top drawer and put the bowl inside,,none,,wooden_cabinet_1,0.2833,0
+gr00t_n17_official,none/original,157,3,7,open the top drawer and put the bowl inside,,3,174,wooden_cabinet_1,0.2786,0
+gr00t_n17_official,none/original,158,3,8,open the top drawer and put the bowl inside,,none,,wooden_cabinet_1,0.3088,0
+gr00t_n17_official,none/original,159,3,9,open the top drawer and put the bowl inside,,3,179,wooden_cabinet_1,0.2808,0
+gr00t_n17_official,none/original,160,3,10,open the top drawer and put the bowl inside,,3,172,wooden_cabinet_1,0.2799,0
+gr00t_n17_official,none/original,161,3,11,open the top drawer and put the bowl inside,,3,169,wooden_cabinet_1,0.2919,0
+gr00t_n17_official,none/original,162,3,12,open the top drawer and put the bowl inside,,3,182,wooden_cabinet_1,0.3136,0
+gr00t_n17_official,none/original,163,3,13,open the top drawer and put the bowl inside,,3,170,wooden_cabinet_1,0.2798,0
+gr00t_n17_official,none/original,164,3,14,open the top drawer and put the bowl inside,,3,173,wooden_cabinet_1,0.2952,0
+gr00t_n17_official,none/original,165,3,15,open the top drawer and put the bowl inside,,4,187,akita_black_bowl_1,0.3182,0
+gr00t_n17_official,none/original,166,3,16,open the top drawer and put the bowl inside,,3,187,wooden_cabinet_1,0.2928,0
+gr00t_n17_official,none/original,167,3,17,open the top drawer and put the bowl inside,,3,178,wooden_cabinet_1,0.2840,0
+gr00t_n17_official,none/original,168,3,18,open the top drawer and put the bowl inside,,3,176,wooden_cabinet_1,0.2910,0
+gr00t_n17_official,none/original,169,3,19,open the top drawer and put the bowl inside,,3,170,wooden_cabinet_1,0.2885,0
+gr00t_n17_official,none/original,200,4,0,put the bowl on top of the cabinet,,4,86,akita_black_bowl_1,0.2824,0
+gr00t_n17_official,none/original,201,4,1,put the bowl on top of the cabinet,,4,89,akita_black_bowl_1,0.3127,0
+gr00t_n17_official,none/original,202,4,2,put the bowl on top of the cabinet,,4,93,akita_black_bowl_1,0.3129,0
+gr00t_n17_official,none/original,203,4,3,put the bowl on top of the cabinet,,4,103,akita_black_bowl_1,0.2931,0
+gr00t_n17_official,none/original,204,4,4,put the bowl on top of the cabinet,,4,83,akita_black_bowl_1,0.2854,0
+gr00t_n17_official,none/original,205,4,5,put the bowl on top of the cabinet,,4,86,akita_black_bowl_1,0.2804,0
+gr00t_n17_official,none/original,206,4,6,put the bowl on top of the cabinet,,4,84,akita_black_bowl_1,0.2854,0
+gr00t_n17_official,none/original,207,4,7,put the bowl on top of the cabinet,,4,85,akita_black_bowl_1,0.2921,0
+gr00t_n17_official,none/original,208,4,8,put the bowl on top of the cabinet,,4,85,akita_black_bowl_1,0.2814,0
+gr00t_n17_official,none/original,209,4,9,put the bowl on top of the cabinet,,4,91,akita_black_bowl_1,0.2896,0
+gr00t_n17_official,none/original,210,4,10,put the bowl on top of the cabinet,,4,87,akita_black_bowl_1,0.2890,0
+gr00t_n17_official,none/original,211,4,11,put the bowl on top of the cabinet,,4,89,akita_black_bowl_1,0.2877,0
+gr00t_n17_official,none/original,212,4,12,put the bowl on top of the cabinet,,4,90,akita_black_bowl_1,0.2967,0
+gr00t_n17_official,none/original,213,4,13,put the bowl on top of the cabinet,,4,81,akita_black_bowl_1,0.2791,0
+gr00t_n17_official,none/original,214,4,14,put the bowl on top of the cabinet,,4,90,akita_black_bowl_1,0.2860,0
+gr00t_n17_official,none/original,215,4,15,put the bowl on top of the cabinet,,4,82,akita_black_bowl_1,0.2791,0
+gr00t_n17_official,none/original,216,4,16,put the bowl on top of the cabinet,,4,90,akita_black_bowl_1,0.3173,0
+gr00t_n17_official,none/original,217,4,17,put the bowl on top of the cabinet,,4,89,akita_black_bowl_1,0.2970,0
+gr00t_n17_official,none/original,218,4,18,put the bowl on top of the cabinet,,4,90,akita_black_bowl_1,0.2956,0
+gr00t_n17_official,none/original,219,4,19,put the bowl on top of the cabinet,,4,84,akita_black_bowl_1,0.2945,0
+gr00t_n17_official,none/original,250,5,0,push the plate to the front of the stove,,5,156,plate_1,0.4767,0
+gr00t_n17_official,none/original,251,5,1,push the plate to the front of the stove,,5,130,plate_1,0.4488,0
+gr00t_n17_official,none/original,252,5,2,push the plate to the front of the stove,,5,130,plate_1,0.4382,0
+gr00t_n17_official,none/original,253,5,3,push the plate to the front of the stove,,5,131,plate_1,0.4435,0
+gr00t_n17_official,none/original,254,5,4,push the plate to the front of the stove,,5,143,plate_1,0.4606,0
+gr00t_n17_official,none/original,255,5,5,push the plate to the front of the stove,,5,108,plate_1,0.4191,0
+gr00t_n17_official,none/original,256,5,6,push the plate to the front of the stove,,5,123,plate_1,0.4567,0
+gr00t_n17_official,none/original,257,5,7,push the plate to the front of the stove,,5,116,plate_1,0.4354,0
+gr00t_n17_official,none/original,258,5,8,push the plate to the front of the stove,,5,126,plate_1,0.4564,0
+gr00t_n17_official,none/original,259,5,9,push the plate to the front of the stove,,5,150,plate_1,0.4323,0
+gr00t_n17_official,none/original,260,5,10,push the plate to the front of the stove,,5,126,plate_1,0.4505,0
+gr00t_n17_official,none/original,261,5,11,push the plate to the front of the stove,,5,172,plate_1,0.4058,0
+gr00t_n17_official,none/original,262,5,12,push the plate to the front of the stove,,5,125,plate_1,0.4427,0
+gr00t_n17_official,none/original,263,5,13,push the plate to the front of the stove,,5,123,plate_1,0.4569,0
+gr00t_n17_official,none/original,264,5,14,push the plate to the front of the stove,,5,121,plate_1,0.4557,0
+gr00t_n17_official,none/original,265,5,15,push the plate to the front of the stove,,5,130,plate_1,0.4782,0
+gr00t_n17_official,none/original,266,5,16,push the plate to the front of the stove,,5,129,plate_1,0.4602,0
+gr00t_n17_official,none/original,267,5,17,push the plate to the front of the stove,,5,234,plate_1,0.4520,0
+gr00t_n17_official,none/original,268,5,18,push the plate to the front of the stove,,5,184,plate_1,0.4658,0
+gr00t_n17_official,none/original,269,5,19,push the plate to the front of the stove,,5,118,plate_1,0.4384,0
+gr00t_n17_official,none/original,300,6,0,put the cream cheese in the bowl,,6,82,cream_cheese_1,0.3497,0
+gr00t_n17_official,none/original,301,6,1,put the cream cheese in the bowl,,6,97,cream_cheese_1,0.3422,0
+gr00t_n17_official,none/original,302,6,2,put the cream cheese in the bowl,,6,101,cream_cheese_1,0.3457,0
+gr00t_n17_official,none/original,303,6,3,put the cream cheese in the bowl,,6,98,cream_cheese_1,0.3265,0
+gr00t_n17_official,none/original,304,6,4,put the cream cheese in the bowl,,6,81,cream_cheese_1,0.3395,0
+gr00t_n17_official,none/original,305,6,5,put the cream cheese in the bowl,,none,,cream_cheese_1,0.3528,0
+gr00t_n17_official,none/original,306,6,6,put the cream cheese in the bowl,,6,84,cream_cheese_1,0.3310,0
+gr00t_n17_official,none/original,307,6,7,put the cream cheese in the bowl,,6,105,cream_cheese_1,0.3292,0
+gr00t_n17_official,none/original,308,6,8,put the cream cheese in the bowl,,6,103,cream_cheese_1,0.3421,0
+gr00t_n17_official,none/original,309,6,9,put the cream cheese in the bowl,,6,96,cream_cheese_1,0.3342,0
+gr00t_n17_official,none/original,310,6,10,put the cream cheese in the bowl,,6,88,cream_cheese_1,0.3334,0
+gr00t_n17_official,none/original,311,6,11,put the cream cheese in the bowl,,6,96,cream_cheese_1,0.3446,0
+gr00t_n17_official,none/original,312,6,12,put the cream cheese in the bowl,,6,100,cream_cheese_1,0.3553,0
+gr00t_n17_official,none/original,313,6,13,put the cream cheese in the bowl,,6,98,akita_black_bowl_1,0.3238,0
+gr00t_n17_official,none/original,314,6,14,put the cream cheese in the bowl,,6,128,cream_cheese_1,0.3365,0
+gr00t_n17_official,none/original,315,6,15,put the cream cheese in the bowl,,6,98,cream_cheese_1,0.3443,0
+gr00t_n17_official,none/original,316,6,16,put the cream cheese in the bowl,,6,101,cream_cheese_1,0.3554,0
+gr00t_n17_official,none/original,317,6,17,put the cream cheese in the bowl,,6,96,cream_cheese_1,0.3481,0
+gr00t_n17_official,none/original,318,6,18,put the cream cheese in the bowl,,6,95,cream_cheese_1,0.3334,0
+gr00t_n17_official,none/original,319,6,19,put the cream cheese in the bowl,,6,88,cream_cheese_1,0.3284,0
+gr00t_n17_official,none/original,350,7,0,turn on the stove,,7,89,flat_stove_1,0.4103,0
+gr00t_n17_official,none/original,351,7,1,turn on the stove,,7,73,flat_stove_1,0.3936,0
+gr00t_n17_official,none/original,352,7,2,turn on the stove,,7,74,flat_stove_1,0.3902,0
+gr00t_n17_official,none/original,353,7,3,turn on the stove,,7,67,flat_stove_1,0.3792,0
+gr00t_n17_official,none/original,354,7,4,turn on the stove,,7,66,flat_stove_1,0.3838,0
+gr00t_n17_official,none/original,355,7,5,turn on the stove,,7,84,flat_stove_1,0.4166,0
+gr00t_n17_official,none/original,356,7,6,turn on the stove,,7,80,flat_stove_1,0.3928,0
+gr00t_n17_official,none/original,357,7,7,turn on the stove,,7,72,flat_stove_1,0.3862,0
+gr00t_n17_official,none/original,358,7,8,turn on the stove,,7,73,flat_stove_1,0.3898,0
+gr00t_n17_official,none/original,359,7,9,turn on the stove,,7,73,flat_stove_1,0.3816,0
+gr00t_n17_official,none/original,360,7,10,turn on the stove,,7,67,flat_stove_1,0.3788,0
+gr00t_n17_official,none/original,361,7,11,turn on the stove,,7,76,flat_stove_1,0.4003,0
+gr00t_n17_official,none/original,362,7,12,turn on the stove,,7,75,flat_stove_1,0.3873,0
+gr00t_n17_official,none/original,363,7,13,turn on the stove,,7,64,flat_stove_1,0.3844,0
+gr00t_n17_official,none/original,364,7,14,turn on the stove,,7,74,flat_stove_1,0.3843,0
+gr00t_n17_official,none/original,365,7,15,turn on the stove,,7,73,flat_stove_1,0.3859,0
+gr00t_n17_official,none/original,366,7,16,turn on the stove,,7,81,flat_stove_1,0.3948,0
+gr00t_n17_official,none/original,367,7,17,turn on the stove,,7,80,flat_stove_1,0.3864,0
+gr00t_n17_official,none/original,368,7,18,turn on the stove,,7,79,flat_stove_1,0.3907,0
+gr00t_n17_official,none/original,369,7,19,turn on the stove,,7,78,flat_stove_1,0.4011,0
+gr00t_n17_official,none/original,400,8,0,put the bowl on the plate,,8,85,akita_black_bowl_1,0.3620,0
+gr00t_n17_official,none/original,401,8,1,put the bowl on the plate,,8,72,cream_cheese_1,0.3593,0
+gr00t_n17_official,none/original,402,8,2,put the bowl on the plate,,8,77,akita_black_bowl_1,0.3693,0
+gr00t_n17_official,none/original,403,8,3,put the bowl on the plate,,8,77,akita_black_bowl_1,0.3464,0
+gr00t_n17_official,none/original,404,8,4,put the bowl on the plate,,8,78,akita_black_bowl_1,0.3526,0
+gr00t_n17_official,none/original,405,8,5,put the bowl on the plate,,8,75,akita_black_bowl_1,0.3536,0
+gr00t_n17_official,none/original,406,8,6,put the bowl on the plate,,8,78,akita_black_bowl_1,0.3426,0
+gr00t_n17_official,none/original,407,8,7,put the bowl on the plate,,8,79,akita_black_bowl_1,0.3557,0
+gr00t_n17_official,none/original,408,8,8,put the bowl on the plate,,8,76,akita_black_bowl_1,0.3497,0
+gr00t_n17_official,none/original,409,8,9,put the bowl on the plate,,8,80,akita_black_bowl_1,0.3524,0
+gr00t_n17_official,none/original,410,8,10,put the bowl on the plate,,8,73,akita_black_bowl_1,0.3506,0
+gr00t_n17_official,none/original,411,8,11,put the bowl on the plate,,8,84,akita_black_bowl_1,0.3520,0
+gr00t_n17_official,none/original,412,8,12,put the bowl on the plate,,8,73,akita_black_bowl_1,0.3483,0
+gr00t_n17_official,none/original,413,8,13,put the bowl on the plate,,8,79,akita_black_bowl_1,0.3441,0
+gr00t_n17_official,none/original,414,8,14,put the bowl on the plate,,8,66,akita_black_bowl_1,0.3342,0
+gr00t_n17_official,none/original,415,8,15,put the bowl on the plate,,8,73,akita_black_bowl_1,0.3492,0
+gr00t_n17_official,none/original,416,8,16,put the bowl on the plate,,8,75,akita_black_bowl_1,0.3430,0
+gr00t_n17_official,none/original,417,8,17,put the bowl on the plate,,8,78,akita_black_bowl_1,0.3466,0
+gr00t_n17_official,none/original,418,8,18,put the bowl on the plate,,8,73,akita_black_bowl_1,0.3465,0
+gr00t_n17_official,none/original,419,8,19,put the bowl on the plate,,8,75,akita_black_bowl_1,0.3564,0
+gr00t_n17_official,none/original,450,9,0,put the wine bottle on the rack,,9,146,wine_bottle_1,0.2809,0
+gr00t_n17_official,none/original,451,9,1,put the wine bottle on the rack,,9,167,wine_bottle_1,0.2795,0
+gr00t_n17_official,none/original,452,9,2,put the wine bottle on the rack,,9,227,wine_bottle_1,0.2728,0
+gr00t_n17_official,none/original,453,9,3,put the wine bottle on the rack,,9,134,wine_bottle_1,0.2787,0
+gr00t_n17_official,none/original,454,9,4,put the wine bottle on the rack,,9,137,wine_bottle_1,0.2642,0
+gr00t_n17_official,none/original,455,9,5,put the wine bottle on the rack,,9,126,wine_bottle_1,0.2758,0
+gr00t_n17_official,none/original,456,9,6,put the wine bottle on the rack,,9,121,wine_bottle_1,0.2894,0
+gr00t_n17_official,none/original,457,9,7,put the wine bottle on the rack,,9,127,wine_bottle_1,0.2863,0
+gr00t_n17_official,none/original,458,9,8,put the wine bottle on the rack,,9,144,wine_bottle_1,0.2861,0
+gr00t_n17_official,none/original,459,9,9,put the wine bottle on the rack,,9,141,wine_bottle_1,0.2653,0
+gr00t_n17_official,none/original,460,9,10,put the wine bottle on the rack,,9,122,wine_bottle_1,0.2687,0
+gr00t_n17_official,none/original,461,9,11,put the wine bottle on the rack,,9,148,wine_bottle_1,0.2864,0
+gr00t_n17_official,none/original,462,9,12,put the wine bottle on the rack,,9,159,wine_bottle_1,0.2802,0
+gr00t_n17_official,none/original,463,9,13,put the wine bottle on the rack,,9,126,wine_bottle_1,0.2953,0
+gr00t_n17_official,none/original,464,9,14,put the wine bottle on the rack,,9,137,wine_bottle_1,0.2774,0
+gr00t_n17_official,none/original,465,9,15,put the wine bottle on the rack,,9,111,wine_bottle_1,0.2508,0
+gr00t_n17_official,none/original,466,9,16,put the wine bottle on the rack,,9,132,wine_bottle_1,0.2793,0
+gr00t_n17_official,none/original,467,9,17,put the wine bottle on the rack,,9,125,wine_bottle_1,0.2630,0
+gr00t_n17_official,none/original,468,9,18,put the wine bottle on the rack,,9,160,wine_bottle_1,0.2661,0
+gr00t_n17_official,none/original,469,9,19,put the wine bottle on the rack,,9,158,wine_bottle_1,0.2800,0
+gr00t_n17_official,none/empty,0,0,0,,,none,,flat_stove_1,0.3267,0
+gr00t_n17_official,none/empty,1,0,1,,,none,,flat_stove_1,0.3314,0
+gr00t_n17_official,none/empty,2,0,2,,,none,,cream_cheese_1,0.3169,0
+gr00t_n17_official,none/empty,3,0,3,,,6,117,akita_black_bowl_1,0.3118,0
+gr00t_n17_official,none/empty,4,0,4,,,7,130,flat_stove_1,0.3711,0
+gr00t_n17_official,none/empty,5,0,5,,,4,119,akita_black_bowl_1,0.2930,0
+gr00t_n17_official,none/empty,6,0,6,,,none,,wine_bottle_1,0.2429,0
+gr00t_n17_official,none/empty,7,0,7,,,none,,flat_stove_1,0.3340,0
+gr00t_n17_official,none/empty,8,0,8,,,none,,flat_stove_1,0.3572,0
+gr00t_n17_official,none/empty,9,0,9,,,7,92,flat_stove_1,0.3339,0
+gr00t_n17_official,none/empty,10,0,10,,,none,,cream_cheese_1,0.3584,0
+gr00t_n17_official,none/empty,11,0,11,,,2,143,wine_bottle_1,0.3050,0
+gr00t_n17_official,none/empty,12,0,12,,,4,146,akita_black_bowl_1,0.2924,0
+gr00t_n17_official,none/empty,13,0,13,,,none,,akita_black_bowl_1,0.3350,0
+gr00t_n17_official,none/empty,14,0,14,,,none,,flat_stove_1,0.3247,0
+gr00t_n17_official,none/empty,15,0,15,,,4,185,akita_black_bowl_1,0.3046,0
+gr00t_n17_official,none/empty,16,0,16,,,7,97,flat_stove_1,0.3657,0
+gr00t_n17_official,none/empty,17,0,17,,,7,246,flat_stove_1,0.3218,0
+gr00t_n17_official,none/empty,18,0,18,,,none,,flat_stove_1,0.2892,0
+gr00t_n17_official,none/empty,19,0,19,,,none,,flat_stove_1,0.3407,0
+gr00t_n17_official,none/empty,50,1,0,,,none,,flat_stove_1,0.3086,0
+gr00t_n17_official,none/empty,51,1,1,,,none,,flat_stove_1,0.2816,0
+gr00t_n17_official,none/empty,52,1,2,,,4,140,akita_black_bowl_1,0.3080,0
+gr00t_n17_official,none/empty,53,1,3,,,none,,akita_black_bowl_1,0.3748,0
+gr00t_n17_official,none/empty,54,1,4,,,none,,flat_stove_1,0.3150,0
+gr00t_n17_official,none/empty,55,1,5,,,none,,cream_cheese_1,0.3253,0
+gr00t_n17_official,none/empty,56,1,6,,,4,153,cream_cheese_1,0.3118,0
+gr00t_n17_official,none/empty,57,1,7,,,none,,flat_stove_1,0.3386,0
+gr00t_n17_official,none/empty,58,1,8,,,none,,akita_black_bowl_1,0.3150,0
+gr00t_n17_official,none/empty,59,1,9,,,none,,flat_stove_1,0.3778,0
+gr00t_n17_official,none/empty,60,1,10,,,4,172,akita_black_bowl_1,0.2758,0
+gr00t_n17_official,none/empty,61,1,11,,,none,,wine_bottle_1,0.3507,0
+gr00t_n17_official,none/empty,62,1,12,,,none,,flat_stove_1,0.3546,0
+gr00t_n17_official,none/empty,63,1,13,,,none,,flat_stove_1,0.3132,0
+gr00t_n17_official,none/empty,64,1,14,,,none,,flat_stove_1,0.3085,0
+gr00t_n17_official,none/empty,65,1,15,,,4,129,akita_black_bowl_1,0.2950,0
+gr00t_n17_official,none/empty,66,1,16,,,4,133,akita_black_bowl_1,0.2900,0
+gr00t_n17_official,none/empty,67,1,17,,,6,112,akita_black_bowl_1,0.3293,0
+gr00t_n17_official,none/empty,68,1,18,,,none,,flat_stove_1,0.3284,0
+gr00t_n17_official,none/empty,69,1,19,,,none,,akita_black_bowl_1,0.2919,0
+gr00t_n17_official,none/empty,100,2,0,,,4,181,akita_black_bowl_1,0.2822,0
+gr00t_n17_official,none/empty,101,2,1,,,none,,flat_stove_1,0.3647,0
+gr00t_n17_official,none/empty,102,2,2,,,none,,flat_stove_1,0.3145,0
+gr00t_n17_official,none/empty,103,2,3,,,4,166,akita_black_bowl_1,0.2871,0
+gr00t_n17_official,none/empty,104,2,4,,,7,230,flat_stove_1,0.3582,0
+gr00t_n17_official,none/empty,105,2,5,,,4,174,cream_cheese_1,0.3138,0
+gr00t_n17_official,none/empty,106,2,6,,,none,,flat_stove_1,0.2960,0
+gr00t_n17_official,none/empty,107,2,7,,,none,,flat_stove_1,0.3538,0
+gr00t_n17_official,none/empty,108,2,8,,,4,166,akita_black_bowl_1,0.2897,0
+gr00t_n17_official,none/empty,109,2,9,,,4,149,akita_black_bowl_1,0.2887,0
+gr00t_n17_official,none/empty,110,2,10,,,none,,akita_black_bowl_1,0.3200,0
+gr00t_n17_official,none/empty,111,2,11,,,7,118,flat_stove_1,0.3322,0
+gr00t_n17_official,none/empty,112,2,12,,,7,198,flat_stove_1,0.3252,0
+gr00t_n17_official,none/empty,113,2,13,,,4,174,akita_black_bowl_1,0.3043,0
+gr00t_n17_official,none/empty,114,2,14,,,4,138,akita_black_bowl_1,0.2888,0
+gr00t_n17_official,none/empty,115,2,15,,,7,172,flat_stove_1,0.3812,0
+gr00t_n17_official,none/empty,116,2,16,,,none,,wine_bottle_1,0.2732,0
+gr00t_n17_official,none/empty,117,2,17,,,none,,wine_bottle_1,0.3453,0
+gr00t_n17_official,none/empty,118,2,18,,,none,,flat_stove_1,0.3534,0
+gr00t_n17_official,none/empty,119,2,19,,,6,157,akita_black_bowl_1,0.3167,0
+gr00t_n17_official,none/empty,150,3,0,,,4,217,akita_black_bowl_1,0.2794,0
+gr00t_n17_official,none/empty,151,3,1,,,none,,akita_black_bowl_1,0.3080,0
+gr00t_n17_official,none/empty,152,3,2,,,4,128,cream_cheese_1,0.2985,0
+gr00t_n17_official,none/empty,153,3,3,,,none,,cream_cheese_1,0.3319,0
+gr00t_n17_official,none/empty,154,3,4,,,4,124,akita_black_bowl_1,0.2715,0
+gr00t_n17_official,none/empty,155,3,5,,,none,,cream_cheese_1,0.3306,0
+gr00t_n17_official,none/empty,156,3,6,,,none,,flat_stove_1,0.2983,0
+gr00t_n17_official,none/empty,157,3,7,,,6,114,akita_black_bowl_1,0.3094,0
+gr00t_n17_official,none/empty,158,3,8,,,7,144,flat_stove_1,0.3538,0
+gr00t_n17_official,none/empty,159,3,9,,,none,,flat_stove_1,0.3060,0
+gr00t_n17_official,none/empty,160,3,10,,,4,128,akita_black_bowl_1,0.2931,0
+gr00t_n17_official,none/empty,161,3,11,,,none,,akita_black_bowl_1,0.3258,0
+gr00t_n17_official,none/empty,162,3,12,,,none,,akita_black_bowl_1,0.3054,0
+gr00t_n17_official,none/empty,163,3,13,,,4,139,akita_black_bowl_1,0.2969,0
+gr00t_n17_official,none/empty,164,3,14,,,none,,akita_black_bowl_1,0.3281,0
+gr00t_n17_official,none/empty,165,3,15,,,none,,flat_stove_1,0.3157,0
+gr00t_n17_official,none/empty,166,3,16,,,4,144,cream_cheese_1,0.3034,0
+gr00t_n17_official,none/empty,167,3,17,,,none,,akita_black_bowl_1,0.3037,0
+gr00t_n17_official,none/empty,168,3,18,,,none,,cream_cheese_1,0.3083,0
+gr00t_n17_official,none/empty,169,3,19,,,4,119,akita_black_bowl_1,0.2838,0
+gr00t_n17_official,none/empty,200,4,0,,,1,115,cream_cheese_1,0.2834,0
+gr00t_n17_official,none/empty,201,4,1,,,7,143,flat_stove_1,0.3237,0
+gr00t_n17_official,none/empty,202,4,2,,,none,,flat_stove_1,0.3237,0
+gr00t_n17_official,none/empty,203,4,3,,,7,193,flat_stove_1,0.4020,0
+gr00t_n17_official,none/empty,204,4,4,,,none,,flat_stove_1,0.3004,0
+gr00t_n17_official,none/empty,205,4,5,,,none,,flat_stove_1,0.3093,0
+gr00t_n17_official,none/empty,206,4,6,,,1,165,akita_black_bowl_1,0.3165,0
+gr00t_n17_official,none/empty,207,4,7,,,none,,akita_black_bowl_1,0.3062,0
+gr00t_n17_official,none/empty,208,4,8,,,4,127,akita_black_bowl_1,0.2956,0
+gr00t_n17_official,none/empty,209,4,9,,,none,,flat_stove_1,0.3115,0
+gr00t_n17_official,none/empty,210,4,10,,,4,272,akita_black_bowl_1,0.3287,0
+gr00t_n17_official,none/empty,211,4,11,,,4,132,akita_black_bowl_1,0.2887,0
+gr00t_n17_official,none/empty,212,4,12,,,none,,flat_stove_1,0.3376,0
+gr00t_n17_official,none/empty,213,4,13,,,none,,flat_stove_1,0.3291,0
+gr00t_n17_official,none/empty,214,4,14,,,none,,cream_cheese_1,0.3249,0
+gr00t_n17_official,none/empty,215,4,15,,,none,,flat_stove_1,0.3163,0
+gr00t_n17_official,none/empty,216,4,16,,,none,,flat_stove_1,0.2886,0
+gr00t_n17_official,none/empty,217,4,17,,,none,,flat_stove_1,0.3442,0
+gr00t_n17_official,none/empty,218,4,18,,,8,203,cream_cheese_1,0.3211,0
+gr00t_n17_official,none/empty,219,4,19,,,4,129,akita_black_bowl_1,0.2909,0
+gr00t_n17_official,none/empty,250,5,0,,,none,,cream_cheese_1,0.3104,0
+gr00t_n17_official,none/empty,251,5,1,,,none,,akita_black_bowl_1,0.3121,0
+gr00t_n17_official,none/empty,252,5,2,,,none,,akita_black_bowl_1,0.3313,0
+gr00t_n17_official,none/empty,253,5,3,,,none,,flat_stove_1,0.3192,0
+gr00t_n17_official,none/empty,254,5,4,,,none,,akita_black_bowl_1,0.3005,0
+gr00t_n17_official,none/empty,255,5,5,,,none,,akita_black_bowl_1,0.3136,0
+gr00t_n17_official,none/empty,256,5,6,,,4,125,cream_cheese_1,0.2927,0
+gr00t_n17_official,none/empty,257,5,7,,,4,141,cream_cheese_1,0.2973,0
+gr00t_n17_official,none/empty,258,5,8,,,none,,akita_black_bowl_1,0.3295,0
+gr00t_n17_official,none/empty,259,5,9,,,1,200,akita_black_bowl_1,0.3175,0
+gr00t_n17_official,none/empty,260,5,10,,,4,113,akita_black_bowl_1,0.2900,0
+gr00t_n17_official,none/empty,261,5,11,,,none,,akita_black_bowl_1,0.3349,0
+gr00t_n17_official,none/empty,262,5,12,,,1,105,akita_black_bowl_1,0.2754,0
+gr00t_n17_official,none/empty,263,5,13,,,none,,akita_black_bowl_1,0.2919,0
+gr00t_n17_official,none/empty,264,5,14,,,none,,flat_stove_1,0.3431,0
+gr00t_n17_official,none/empty,265,5,15,,,4,171,akita_black_bowl_1,0.2932,0
+gr00t_n17_official,none/empty,266,5,16,,,2,237,wine_bottle_1,0.2708,0
+gr00t_n17_official,none/empty,267,5,17,,,none,,flat_stove_1,0.3446,0
+gr00t_n17_official,none/empty,268,5,18,,,none,,flat_stove_1,0.3398,0
+gr00t_n17_official,none/empty,269,5,19,,,none,,flat_stove_1,0.3121,0
+gr00t_n17_official,none/empty,300,6,0,,,8,202,akita_black_bowl_1,0.2857,0
+gr00t_n17_official,none/empty,301,6,1,,,4,165,akita_black_bowl_1,0.2886,0
+gr00t_n17_official,none/empty,302,6,2,,,none,,wine_bottle_1,0.2723,0
+gr00t_n17_official,none/empty,303,6,3,,,none,,akita_black_bowl_1,0.2992,0
+gr00t_n17_official,none/empty,304,6,4,,,4,135,akita_black_bowl_1,0.2929,0
+gr00t_n17_official,none/empty,305,6,5,,,none,,akita_black_bowl_1,0.3134,0
+gr00t_n17_official,none/empty,306,6,6,,,4,147,akita_black_bowl_1,0.2914,0
+gr00t_n17_official,none/empty,307,6,7,,,6,113,akita_black_bowl_1,0.3074,0
+gr00t_n17_official,none/empty,308,6,8,,,1,229,cream_cheese_1,0.3375,0
+gr00t_n17_official,none/empty,309,6,9,,,none,,flat_stove_1,0.3181,0
+gr00t_n17_official,none/empty,310,6,10,,,8,192,akita_black_bowl_1,0.3290,0
+gr00t_n17_official,none/empty,311,6,11,,,none,,akita_black_bowl_1,0.3180,0
+gr00t_n17_official,none/empty,312,6,12,,,none,,flat_stove_1,0.3804,0
+gr00t_n17_official,none/empty,313,6,13,,,1,235,cream_cheese_1,0.3088,0
+gr00t_n17_official,none/empty,314,6,14,,,none,,flat_stove_1,0.3484,0
+gr00t_n17_official,none/empty,315,6,15,,,4,130,cream_cheese_1,0.2969,0
+gr00t_n17_official,none/empty,316,6,16,,,none,,flat_stove_1,0.3283,0
+gr00t_n17_official,none/empty,317,6,17,,,none,,flat_stove_1,0.3252,0
+gr00t_n17_official,none/empty,318,6,18,,,none,,akita_black_bowl_1,0.3563,0
+gr00t_n17_official,none/empty,319,6,19,,,none,,akita_black_bowl_1,0.3179,0
+gr00t_n17_official,none/empty,350,7,0,,,none,,akita_black_bowl_1,0.3366,0
+gr00t_n17_official,none/empty,351,7,1,,,none,,akita_black_bowl_1,0.3194,0
+gr00t_n17_official,none/empty,352,7,2,,,4,130,akita_black_bowl_1,0.2904,0
+gr00t_n17_official,none/empty,353,7,3,,,none,,akita_black_bowl_1,0.2925,0
+gr00t_n17_official,none/empty,354,7,4,,,none,,flat_stove_1,0.3543,0
+gr00t_n17_official,none/empty,355,7,5,,,4,144,akita_black_bowl_1,0.2985,0
+gr00t_n17_official,none/empty,356,7,6,,,4,160,akita_black_bowl_1,0.2852,0
+gr00t_n17_official,none/empty,357,7,7,,,4,152,akita_black_bowl_1,0.2942,0
+gr00t_n17_official,none/empty,358,7,8,,,none,,akita_black_bowl_1,0.3148,0
+gr00t_n17_official,none/empty,359,7,9,,,none,,flat_stove_1,0.3078,0
+gr00t_n17_official,none/empty,360,7,10,,,none,,flat_stove_1,0.3559,0
+gr00t_n17_official,none/empty,361,7,11,,,7,100,flat_stove_1,0.3686,0
+gr00t_n17_official,none/empty,362,7,12,,,4,128,cream_cheese_1,0.2940,0
+gr00t_n17_official,none/empty,363,7,13,,,none,,flat_stove_1,0.3082,0
+gr00t_n17_official,none/empty,364,7,14,,,4,119,akita_black_bowl_1,0.2881,0
+gr00t_n17_official,none/empty,365,7,15,,,none,,flat_stove_1,0.3104,0
+gr00t_n17_official,none/empty,366,7,16,,,8,193,akita_black_bowl_1,0.3077,0
+gr00t_n17_official,none/empty,367,7,17,,,4,148,akita_black_bowl_1,0.2833,0
+gr00t_n17_official,none/empty,368,7,18,,,1,115,cream_cheese_1,0.2852,0
+gr00t_n17_official,none/empty,369,7,19,,,none,,akita_black_bowl_1,0.3540,0
+gr00t_n17_official,none/empty,400,8,0,,,none,,flat_stove_1,0.3449,0
+gr00t_n17_official,none/empty,401,8,1,,,none,,akita_black_bowl_1,0.3154,0
+gr00t_n17_official,none/empty,402,8,2,,,none,,akita_black_bowl_1,0.3248,0
+gr00t_n17_official,none/empty,403,8,3,,,none,,akita_black_bowl_1,0.2942,0
+gr00t_n17_official,none/empty,404,8,4,,,none,,flat_stove_1,0.3411,0
+gr00t_n17_official,none/empty,405,8,5,,,none,,flat_stove_1,0.3066,0
+gr00t_n17_official,none/empty,406,8,6,,,7,185,flat_stove_1,0.3468,0
+gr00t_n17_official,none/empty,407,8,7,,,none,,akita_black_bowl_1,0.3098,0
+gr00t_n17_official,none/empty,408,8,8,,,1,183,akita_black_bowl_1,0.3080,0
+gr00t_n17_official,none/empty,409,8,9,,,4,156,akita_black_bowl_1,0.2899,0
+gr00t_n17_official,none/empty,410,8,10,,,4,150,akita_black_bowl_1,0.3122,0
+gr00t_n17_official,none/empty,411,8,11,,,none,,flat_stove_1,0.3363,0
+gr00t_n17_official,none/empty,412,8,12,,,7,289,flat_stove_1,0.3602,0
+gr00t_n17_official,none/empty,413,8,13,,,none,,flat_stove_1,0.3328,0
+gr00t_n17_official,none/empty,414,8,14,,,none,,akita_black_bowl_1,0.3018,0
+gr00t_n17_official,none/empty,415,8,15,,,none,,akita_black_bowl_1,0.3038,0
+gr00t_n17_official,none/empty,416,8,16,,,none,,cream_cheese_1,0.3082,0
+gr00t_n17_official,none/empty,417,8,17,,,2,234,wine_bottle_1,0.2897,0
+gr00t_n17_official,none/empty,418,8,18,,,1,181,cream_cheese_1,0.3098,0
+gr00t_n17_official,none/empty,419,8,19,,,none,,flat_stove_1,0.3559,0
+gr00t_n17_official,none/empty,450,9,0,,,7,110,flat_stove_1,0.3713,0
+gr00t_n17_official,none/empty,451,9,1,,,6,137,cream_cheese_1,0.3201,0
+gr00t_n17_official,none/empty,452,9,2,,,none,,akita_black_bowl_1,0.3207,0
+gr00t_n17_official,none/empty,453,9,3,,,none,,flat_stove_1,0.2934,0
+gr00t_n17_official,none/empty,454,9,4,,,4,122,akita_black_bowl_1,0.2951,0
+gr00t_n17_official,none/empty,455,9,5,,,none,,akita_black_bowl_1,0.3089,0
+gr00t_n17_official,none/empty,456,9,6,,,6,103,akita_black_bowl_1,0.3137,0
+gr00t_n17_official,none/empty,457,9,7,,,none,,flat_stove_1,0.3054,0
+gr00t_n17_official,none/empty,458,9,8,,,none,,flat_stove_1,0.3192,0
+gr00t_n17_official,none/empty,459,9,9,,,none,,flat_stove_1,0.3232,0
+gr00t_n17_official,none/empty,460,9,10,,,6,104,cream_cheese_1,0.3221,0
+gr00t_n17_official,none/empty,461,9,11,,,1,185,akita_black_bowl_1,0.2902,0
+gr00t_n17_official,none/empty,462,9,12,,,1,107,akita_black_bowl_1,0.2829,0
+gr00t_n17_official,none/empty,463,9,13,,,none,,flat_stove_1,0.3039,0
+gr00t_n17_official,none/empty,464,9,14,,,1,136,akita_black_bowl_1,0.2955,0
+gr00t_n17_official,none/empty,465,9,15,,,none,,flat_stove_1,0.3480,0
+gr00t_n17_official,none/empty,466,9,16,,,none,,akita_black_bowl_1,0.3333,0
+gr00t_n17_official,none/empty,467,9,17,,,none,,flat_stove_1,0.3441,0
+gr00t_n17_official,none/empty,468,9,18,,,none,,flat_stove_1,0.3659,0
+gr00t_n17_official,none/empty,469,9,19,,,4,132,akita_black_bowl_1,0.2959,0
+gr00t_n17_official,none/neutral,0,0,0,do something,,none,,flat_stove_1,0.3055,0
+gr00t_n17_official,none/neutral,1,0,1,do something,,none,,flat_stove_1,0.3209,0
+gr00t_n17_official,none/neutral,2,0,2,do something,,1,149,cream_cheese_1,0.3087,0
+gr00t_n17_official,none/neutral,3,0,3,do something,,none,,akita_black_bowl_1,0.3164,0
+gr00t_n17_official,none/neutral,4,0,4,do something,,none,,flat_stove_1,0.3287,0
+gr00t_n17_official,none/neutral,5,0,5,do something,,8,274,akita_black_bowl_1,0.3057,0
+gr00t_n17_official,none/neutral,6,0,6,do something,,4,159,akita_black_bowl_1,0.2841,0
+gr00t_n17_official,none/neutral,7,0,7,do something,,none,,flat_stove_1,0.3205,0
+gr00t_n17_official,none/neutral,8,0,8,do something,,7,298,flat_stove_1,0.3603,0
+gr00t_n17_official,none/neutral,9,0,9,do something,,7,132,flat_stove_1,0.3414,0
+gr00t_n17_official,none/neutral,10,0,10,do something,,4,139,akita_black_bowl_1,0.3192,0
+gr00t_n17_official,none/neutral,11,0,11,do something,,none,,wine_bottle_1,0.3239,0
+gr00t_n17_official,none/neutral,12,0,12,do something,,1,171,akita_black_bowl_1,0.3330,0
+gr00t_n17_official,none/neutral,13,0,13,do something,,4,142,cream_cheese_1,0.3103,0
+gr00t_n17_official,none/neutral,14,0,14,do something,,none,,akita_black_bowl_1,0.3007,0
+gr00t_n17_official,none/neutral,15,0,15,do something,,none,,cream_cheese_1,0.2875,0
+gr00t_n17_official,none/neutral,16,0,16,do something,,7,100,flat_stove_1,0.3716,0
+gr00t_n17_official,none/neutral,17,0,17,do something,,none,,flat_stove_1,0.3142,0
+gr00t_n17_official,none/neutral,18,0,18,do something,,none,,flat_stove_1,0.3389,0
+gr00t_n17_official,none/neutral,19,0,19,do something,,7,176,flat_stove_1,0.3377,0
+gr00t_n17_official,none/neutral,50,1,0,do something,,none,,akita_black_bowl_1,0.3109,0
+gr00t_n17_official,none/neutral,51,1,1,do something,,none,,flat_stove_1,0.2926,0
+gr00t_n17_official,none/neutral,52,1,2,do something,,4,121,akita_black_bowl_1,0.3043,0
+gr00t_n17_official,none/neutral,53,1,3,do something,,4,181,akita_black_bowl_1,0.2809,0
+gr00t_n17_official,none/neutral,54,1,4,do something,,none,,flat_stove_1,0.3368,0
+gr00t_n17_official,none/neutral,55,1,5,do something,,4,196,cream_cheese_1,0.2876,0
+gr00t_n17_official,none/neutral,56,1,6,do something,,4,138,akita_black_bowl_1,0.2877,0
+gr00t_n17_official,none/neutral,57,1,7,do something,,none,,flat_stove_1,0.3518,0
+gr00t_n17_official,none/neutral,58,1,8,do something,,6,170,akita_black_bowl_1,0.3088,0
+gr00t_n17_official,none/neutral,59,1,9,do something,,none,,flat_stove_1,0.3570,0
+gr00t_n17_official,none/neutral,60,1,10,do something,,4,173,akita_black_bowl_1,0.2785,0
+gr00t_n17_official,none/neutral,61,1,11,do something,,none,,akita_black_bowl_1,0.3660,0
+gr00t_n17_official,none/neutral,62,1,12,do something,,none,,flat_stove_1,0.3308,0
+gr00t_n17_official,none/neutral,63,1,13,do something,,none,,flat_stove_1,0.3011,0
+gr00t_n17_official,none/neutral,64,1,14,do something,,none,,akita_black_bowl_1,0.3080,0
+gr00t_n17_official,none/neutral,65,1,15,do something,,4,127,cream_cheese_1,0.2967,0
+gr00t_n17_official,none/neutral,66,1,16,do something,,4,141,akita_black_bowl_1,0.2886,0
+gr00t_n17_official,none/neutral,67,1,17,do something,,6,111,akita_black_bowl_1,0.3209,0
+gr00t_n17_official,none/neutral,68,1,18,do something,,7,119,flat_stove_1,0.3423,0
+gr00t_n17_official,none/neutral,69,1,19,do something,,6,123,akita_black_bowl_1,0.3035,0
+gr00t_n17_official,none/neutral,100,2,0,do something,,none,,akita_black_bowl_1,0.2752,0
+gr00t_n17_official,none/neutral,101,2,1,do something,,none,,flat_stove_1,0.3077,0
+gr00t_n17_official,none/neutral,102,2,2,do something,,none,,flat_stove_1,0.2986,0
+gr00t_n17_official,none/neutral,103,2,3,do something,,none,,akita_black_bowl_1,0.3125,0
+gr00t_n17_official,none/neutral,104,2,4,do something,,7,206,flat_stove_1,0.3491,0
+gr00t_n17_official,none/neutral,105,2,5,do something,,4,132,cream_cheese_1,0.2923,0
+gr00t_n17_official,none/neutral,106,2,6,do something,,none,,flat_stove_1,0.3014,0
+gr00t_n17_official,none/neutral,107,2,7,do something,,none,,flat_stove_1,0.3290,0
+gr00t_n17_official,none/neutral,108,2,8,do something,,4,209,akita_black_bowl_1,0.3020,0
+gr00t_n17_official,none/neutral,109,2,9,do something,,4,172,akita_black_bowl_1,0.2793,0
+gr00t_n17_official,none/neutral,110,2,10,do something,,6,112,akita_black_bowl_1,0.3338,0
+gr00t_n17_official,none/neutral,111,2,11,do something,,7,129,flat_stove_1,0.3621,0
+gr00t_n17_official,none/neutral,112,2,12,do something,,7,242,flat_stove_1,0.3205,0
+gr00t_n17_official,none/neutral,113,2,13,do something,,none,,akita_black_bowl_1,0.3008,0
+gr00t_n17_official,none/neutral,114,2,14,do something,,none,,akita_black_bowl_1,0.3298,0
+gr00t_n17_official,none/neutral,115,2,15,do something,,7,226,flat_stove_1,0.3470,0
+gr00t_n17_official,none/neutral,116,2,16,do something,,none,,,0.3038,0
+gr00t_n17_official,none/neutral,117,2,17,do something,,1,216,akita_black_bowl_1,0.3072,0
+gr00t_n17_official,none/neutral,118,2,18,do something,,none,,flat_stove_1,0.3430,0
+gr00t_n17_official,none/neutral,119,2,19,do something,,4,142,akita_black_bowl_1,0.2807,0
+gr00t_n17_official,none/neutral,150,3,0,do something,,4,291,akita_black_bowl_1,0.3097,0
+gr00t_n17_official,none/neutral,151,3,1,do something,,none,,akita_black_bowl_1,0.2901,0
+gr00t_n17_official,none/neutral,152,3,2,do something,,4,138,cream_cheese_1,0.2986,0
+gr00t_n17_official,none/neutral,153,3,3,do something,,none,,cream_cheese_1,0.3353,0
+gr00t_n17_official,none/neutral,154,3,4,do something,,4,130,akita_black_bowl_1,0.2743,0
+gr00t_n17_official,none/neutral,155,3,5,do something,,4,131,akita_black_bowl_1,0.3061,0
+gr00t_n17_official,none/neutral,156,3,6,do something,,none,,flat_stove_1,0.3033,0
+gr00t_n17_official,none/neutral,157,3,7,do something,,6,112,akita_black_bowl_1,0.3132,0
+gr00t_n17_official,none/neutral,158,3,8,do something,,7,162,flat_stove_1,0.3671,0
+gr00t_n17_official,none/neutral,159,3,9,do something,,none,,flat_stove_1,0.3210,0
+gr00t_n17_official,none/neutral,160,3,10,do something,,4,118,akita_black_bowl_1,0.2896,0
+gr00t_n17_official,none/neutral,161,3,11,do something,,none,,akita_black_bowl_1,0.3210,0
+gr00t_n17_official,none/neutral,162,3,12,do something,,6,161,akita_black_bowl_1,0.3067,0
+gr00t_n17_official,none/neutral,163,3,13,do something,,4,123,akita_black_bowl_1,0.2932,0
+gr00t_n17_official,none/neutral,164,3,14,do something,,4,237,akita_black_bowl_1,0.3250,0
+gr00t_n17_official,none/neutral,165,3,15,do something,,none,,flat_stove_1,0.3211,0
+gr00t_n17_official,none/neutral,166,3,16,do something,,4,136,cream_cheese_1,0.3034,0
+gr00t_n17_official,none/neutral,167,3,17,do something,,1,229,akita_black_bowl_1,0.2902,0
+gr00t_n17_official,none/neutral,168,3,18,do something,,4,142,cream_cheese_1,0.3101,0
+gr00t_n17_official,none/neutral,169,3,19,do something,,4,122,akita_black_bowl_1,0.2895,0
+gr00t_n17_official,none/neutral,200,4,0,do something,,1,193,cream_cheese_1,0.3232,0
+gr00t_n17_official,none/neutral,201,4,1,do something,,7,161,flat_stove_1,0.3273,0
+gr00t_n17_official,none/neutral,202,4,2,do something,,none,,flat_stove_1,0.3299,0
+gr00t_n17_official,none/neutral,203,4,3,do something,,none,,flat_stove_1,0.3702,0
+gr00t_n17_official,none/neutral,204,4,4,do something,,none,,flat_stove_1,0.3013,0
+gr00t_n17_official,none/neutral,205,4,5,do something,,none,,flat_stove_1,0.3288,0
+gr00t_n17_official,none/neutral,206,4,6,do something,,1,169,akita_black_bowl_1,0.3032,0
+gr00t_n17_official,none/neutral,207,4,7,do something,,4,197,akita_black_bowl_1,0.2890,0
+gr00t_n17_official,none/neutral,208,4,8,do something,,4,122,akita_black_bowl_1,0.3068,0
+gr00t_n17_official,none/neutral,209,4,9,do something,,none,,flat_stove_1,0.3059,0
+gr00t_n17_official,none/neutral,210,4,10,do something,,1,158,cream_cheese_1,0.3081,0
+gr00t_n17_official,none/neutral,211,4,11,do something,,4,135,akita_black_bowl_1,0.2942,0
+gr00t_n17_official,none/neutral,212,4,12,do something,,none,,flat_stove_1,0.3033,0
+gr00t_n17_official,none/neutral,213,4,13,do something,,none,,flat_stove_1,0.3042,0
+gr00t_n17_official,none/neutral,214,4,14,do something,,4,177,cream_cheese_1,0.3017,0
+gr00t_n17_official,none/neutral,215,4,15,do something,,none,,flat_stove_1,0.3446,0
+gr00t_n17_official,none/neutral,216,4,16,do something,,none,,flat_stove_1,0.3111,0
+gr00t_n17_official,none/neutral,217,4,17,do something,,7,140,flat_stove_1,0.3578,0
+gr00t_n17_official,none/neutral,218,4,18,do something,,4,140,cream_cheese_1,0.3151,0
+gr00t_n17_official,none/neutral,219,4,19,do something,,4,146,akita_black_bowl_1,0.2976,0
+gr00t_n17_official,none/neutral,250,5,0,do something,,none,,cream_cheese_1,0.3219,0
+gr00t_n17_official,none/neutral,251,5,1,do something,,none,,akita_black_bowl_1,0.3238,0
+gr00t_n17_official,none/neutral,252,5,2,do something,,6,124,akita_black_bowl_1,0.3241,0
+gr00t_n17_official,none/neutral,253,5,3,do something,,7,76,flat_stove_1,0.3336,0
+gr00t_n17_official,none/neutral,254,5,4,do something,,6,153,akita_black_bowl_1,0.3122,0
+gr00t_n17_official,none/neutral,255,5,5,do something,,6,105,akita_black_bowl_1,0.3165,0
+gr00t_n17_official,none/neutral,256,5,6,do something,,4,131,akita_black_bowl_1,0.2938,0
+gr00t_n17_official,none/neutral,257,5,7,do something,,4,142,cream_cheese_1,0.2979,0
+gr00t_n17_official,none/neutral,258,5,8,do something,,4,258,cream_cheese_1,0.3064,0
+gr00t_n17_official,none/neutral,259,5,9,do something,,none,,akita_black_bowl_1,0.2879,0
+gr00t_n17_official,none/neutral,260,5,10,do something,,4,128,cream_cheese_1,0.2972,0
+gr00t_n17_official,none/neutral,261,5,11,do something,,none,,akita_black_bowl_1,0.3189,0
+gr00t_n17_official,none/neutral,262,5,12,do something,,1,111,akita_black_bowl_1,0.2915,0
+gr00t_n17_official,none/neutral,263,5,13,do something,,none,,akita_black_bowl_1,0.3162,0
+gr00t_n17_official,none/neutral,264,5,14,do something,,none,,flat_stove_1,0.3428,0
+gr00t_n17_official,none/neutral,265,5,15,do something,,none,,akita_black_bowl_1,0.2952,0
+gr00t_n17_official,none/neutral,266,5,16,do something,,none,,wine_bottle_1,0.3013,0
+gr00t_n17_official,none/neutral,267,5,17,do something,,7,276,flat_stove_1,0.3437,0
+gr00t_n17_official,none/neutral,268,5,18,do something,,7,202,flat_stove_1,0.3568,0
+gr00t_n17_official,none/neutral,269,5,19,do something,,none,,akita_black_bowl_1,0.3145,0
+gr00t_n17_official,none/neutral,300,6,0,do something,,none,,akita_black_bowl_1,0.2869,0
+gr00t_n17_official,none/neutral,301,6,1,do something,,1,118,akita_black_bowl_1,0.3111,0
+gr00t_n17_official,none/neutral,302,6,2,do something,,none,,flat_stove_1,0.3519,0
+gr00t_n17_official,none/neutral,303,6,3,do something,,6,119,akita_black_bowl_1,0.3083,0
+gr00t_n17_official,none/neutral,304,6,4,do something,,8,202,akita_black_bowl_1,0.3365,0
+gr00t_n17_official,none/neutral,305,6,5,do something,,none,,akita_black_bowl_1,0.3005,0
+gr00t_n17_official,none/neutral,306,6,6,do something,,4,117,akita_black_bowl_1,0.2785,0
+gr00t_n17_official,none/neutral,307,6,7,do something,,none,,akita_black_bowl_1,0.3121,0
+gr00t_n17_official,none/neutral,308,6,8,do something,,1,200,cream_cheese_1,0.3114,0
+gr00t_n17_official,none/neutral,309,6,9,do something,,none,,flat_stove_1,0.3186,0
+gr00t_n17_official,none/neutral,310,6,10,do something,,1,176,akita_black_bowl_1,0.2867,0
+gr00t_n17_official,none/neutral,311,6,11,do something,,none,,cream_cheese_1,0.3142,0
+gr00t_n17_official,none/neutral,312,6,12,do something,,none,,flat_stove_1,0.3469,0
+gr00t_n17_official,none/neutral,313,6,13,do something,,none,,cream_cheese_1,0.3189,0
+gr00t_n17_official,none/neutral,314,6,14,do something,,7,268,flat_stove_1,0.3557,0
+gr00t_n17_official,none/neutral,315,6,15,do something,,8,199,akita_black_bowl_1,0.3288,0
+gr00t_n17_official,none/neutral,316,6,16,do something,,none,,flat_stove_1,0.3095,0
+gr00t_n17_official,none/neutral,317,6,17,do something,,none,,flat_stove_1,0.3495,0
+gr00t_n17_official,none/neutral,318,6,18,do something,,none,,akita_black_bowl_1,0.3020,0
+gr00t_n17_official,none/neutral,319,6,19,do something,,none,,akita_black_bowl_1,0.3117,0
+gr00t_n17_official,none/neutral,350,7,0,do something,,none,,akita_black_bowl_1,0.3384,0
+gr00t_n17_official,none/neutral,351,7,1,do something,,none,,akita_black_bowl_1,0.3162,0
+gr00t_n17_official,none/neutral,352,7,2,do something,,8,194,akita_black_bowl_1,0.3221,0
+gr00t_n17_official,none/neutral,353,7,3,do something,,none,,cream_cheese_1,0.3076,0
+gr00t_n17_official,none/neutral,354,7,4,do something,,none,,flat_stove_1,0.3421,0
+gr00t_n17_official,none/neutral,355,7,5,do something,,4,135,akita_black_bowl_1,0.2908,0
+gr00t_n17_official,none/neutral,356,7,6,do something,,1,118,akita_black_bowl_1,0.3007,0
+gr00t_n17_official,none/neutral,357,7,7,do something,,4,150,cream_cheese_1,0.3007,0
+gr00t_n17_official,none/neutral,358,7,8,do something,,6,112,akita_black_bowl_1,0.3141,0
+gr00t_n17_official,none/neutral,359,7,9,do something,,none,,flat_stove_1,0.3061,0
+gr00t_n17_official,none/neutral,360,7,10,do something,,none,,akita_black_bowl_1,0.3132,0
+gr00t_n17_official,none/neutral,361,7,11,do something,,none,,flat_stove_1,0.3409,0
+gr00t_n17_official,none/neutral,362,7,12,do something,,4,141,akita_black_bowl_1,0.3005,0
+gr00t_n17_official,none/neutral,363,7,13,do something,,none,,akita_black_bowl_1,0.3136,0
+gr00t_n17_official,none/neutral,364,7,14,do something,,1,259,akita_black_bowl_1,0.3011,0
+gr00t_n17_official,none/neutral,365,7,15,do something,,none,,flat_stove_1,0.3161,0
+gr00t_n17_official,none/neutral,366,7,16,do something,,4,139,akita_black_bowl_1,0.3057,0
+gr00t_n17_official,none/neutral,367,7,17,do something,,1,141,cream_cheese_1,0.2969,0
+gr00t_n17_official,none/neutral,368,7,18,do something,,none,,akita_black_bowl_1,0.3195,0
+gr00t_n17_official,none/neutral,369,7,19,do something,,none,,akita_black_bowl_1,0.3523,0
+gr00t_n17_official,none/neutral,400,8,0,do something,,6,130,cream_cheese_1,0.3281,0
+gr00t_n17_official,none/neutral,401,8,1,do something,,none,,akita_black_bowl_1,0.3209,0
+gr00t_n17_official,none/neutral,402,8,2,do something,,6,118,akita_black_bowl_1,0.3201,0
+gr00t_n17_official,none/neutral,403,8,3,do something,,none,,akita_black_bowl_1,0.3120,0
+gr00t_n17_official,none/neutral,404,8,4,do something,,none,,flat_stove_1,0.3350,0
+gr00t_n17_official,none/neutral,405,8,5,do something,,none,,flat_stove_1,0.3429,0
+gr00t_n17_official,none/neutral,406,8,6,do something,,7,95,flat_stove_1,0.3387,0
+gr00t_n17_official,none/neutral,407,8,7,do something,,1,210,akita_black_bowl_1,0.3185,0
+gr00t_n17_official,none/neutral,408,8,8,do something,,none,,flat_stove_1,0.3005,0
+gr00t_n17_official,none/neutral,409,8,9,do something,,4,127,akita_black_bowl_1,0.2897,0
+gr00t_n17_official,none/neutral,410,8,10,do something,,none,,akita_black_bowl_1,0.3055,0
+gr00t_n17_official,none/neutral,411,8,11,do something,,none,,flat_stove_1,0.3369,0
+gr00t_n17_official,none/neutral,412,8,12,do something,,7,155,flat_stove_1,0.3693,0
+gr00t_n17_official,none/neutral,413,8,13,do something,,none,,flat_stove_1,0.3319,0
+gr00t_n17_official,none/neutral,414,8,14,do something,,6,104,cream_cheese_1,0.3041,0
+gr00t_n17_official,none/neutral,415,8,15,do something,,none,,akita_black_bowl_1,0.3071,0
+gr00t_n17_official,none/neutral,416,8,16,do something,,none,,akita_black_bowl_1,0.3068,0
+gr00t_n17_official,none/neutral,417,8,17,do something,,4,155,akita_black_bowl_1,0.2942,0
+gr00t_n17_official,none/neutral,418,8,18,do something,,4,146,cream_cheese_1,0.2849,0
+gr00t_n17_official,none/neutral,419,8,19,do something,,none,,flat_stove_1,0.3253,0
+gr00t_n17_official,none/neutral,450,9,0,do something,,7,147,flat_stove_1,0.3792,0
+gr00t_n17_official,none/neutral,451,9,1,do something,,none,,akita_black_bowl_1,0.3247,0
+gr00t_n17_official,none/neutral,452,9,2,do something,,none,,cream_cheese_1,0.3272,0
+gr00t_n17_official,none/neutral,453,9,3,do something,,none,,flat_stove_1,0.3381,0
+gr00t_n17_official,none/neutral,454,9,4,do something,,1,266,cream_cheese_1,0.3291,0
+gr00t_n17_official,none/neutral,455,9,5,do something,,6,128,akita_black_bowl_1,0.3123,0
+gr00t_n17_official,none/neutral,456,9,6,do something,,none,,akita_black_bowl_1,0.3112,0
+gr00t_n17_official,none/neutral,457,9,7,do something,,none,,flat_stove_1,0.3052,0
+gr00t_n17_official,none/neutral,458,9,8,do something,,none,,cream_cheese_1,0.3229,0
+gr00t_n17_official,none/neutral,459,9,9,do something,,none,,flat_stove_1,0.3036,0
+gr00t_n17_official,none/neutral,460,9,10,do something,,6,106,cream_cheese_1,0.3198,0
+gr00t_n17_official,none/neutral,461,9,11,do something,,1,173,cream_cheese_1,0.3135,0
+gr00t_n17_official,none/neutral,462,9,12,do something,,1,107,akita_black_bowl_1,0.2844,0
+gr00t_n17_official,none/neutral,463,9,13,do something,,none,,flat_stove_1,0.3021,0
+gr00t_n17_official,none/neutral,464,9,14,do something,,none,,akita_black_bowl_1,0.3271,0
+gr00t_n17_official,none/neutral,465,9,15,do something,,7,146,flat_stove_1,0.3381,0
+gr00t_n17_official,none/neutral,466,9,16,do something,,6,122,akita_black_bowl_1,0.3229,0
+gr00t_n17_official,none/neutral,467,9,17,do something,,none,,flat_stove_1,0.3291,0
+gr00t_n17_official,none/neutral,468,9,18,do something,,7,144,flat_stove_1,0.3461,0
+gr00t_n17_official,none/neutral,469,9,19,do something,,4,142,akita_black_bowl_1,0.2980,0
+gr00t_n17_official,none/nonsense,0,0,0,xxx,,none,,flat_stove_1,0.3176,0
+gr00t_n17_official,none/nonsense,1,0,1,xxx,,7,127,flat_stove_1,0.3238,0
+gr00t_n17_official,none/nonsense,2,0,2,xxx,,4,187,cream_cheese_1,0.3065,0
+gr00t_n17_official,none/nonsense,3,0,3,xxx,,6,115,akita_black_bowl_1,0.3140,0
+gr00t_n17_official,none/nonsense,4,0,4,xxx,,7,131,flat_stove_1,0.3704,0
+gr00t_n17_official,none/nonsense,5,0,5,xxx,,4,118,cream_cheese_1,0.2926,0
+gr00t_n17_official,none/nonsense,6,0,6,xxx,,none,,wine_bottle_1,0.2676,0
+gr00t_n17_official,none/nonsense,7,0,7,xxx,,none,,flat_stove_1,0.3529,0
+gr00t_n17_official,none/nonsense,8,0,8,xxx,,none,,flat_stove_1,0.3518,0
+gr00t_n17_official,none/nonsense,9,0,9,xxx,,7,86,flat_stove_1,0.3341,0
+gr00t_n17_official,none/nonsense,10,0,10,xxx,,6,116,akita_black_bowl_1,0.3232,0
+gr00t_n17_official,none/nonsense,11,0,11,xxx,,none,,wine_bottle_1,0.3414,0
+gr00t_n17_official,none/nonsense,12,0,12,xxx,,1,111,akita_black_bowl_1,0.3055,0
+gr00t_n17_official,none/nonsense,13,0,13,xxx,,none,,akita_black_bowl_1,0.3240,0
+gr00t_n17_official,none/nonsense,14,0,14,xxx,,none,,flat_stove_1,0.3265,0
+gr00t_n17_official,none/nonsense,15,0,15,xxx,,4,190,akita_black_bowl_1,0.3053,0
+gr00t_n17_official,none/nonsense,16,0,16,xxx,,7,97,flat_stove_1,0.3698,0
+gr00t_n17_official,none/nonsense,17,0,17,xxx,,none,,flat_stove_1,0.3168,0
+gr00t_n17_official,none/nonsense,18,0,18,xxx,,none,,flat_stove_1,0.3268,0
+gr00t_n17_official,none/nonsense,19,0,19,xxx,,7,131,flat_stove_1,0.3418,0
+gr00t_n17_official,none/nonsense,50,1,0,xxx,,none,,flat_stove_1,0.3090,0
+gr00t_n17_official,none/nonsense,51,1,1,xxx,,none,,flat_stove_1,0.2922,0
+gr00t_n17_official,none/nonsense,52,1,2,xxx,,none,,cream_cheese_1,0.3032,0
+gr00t_n17_official,none/nonsense,53,1,3,xxx,,1,118,akita_black_bowl_1,0.2742,0
+gr00t_n17_official,none/nonsense,54,1,4,xxx,,none,,flat_stove_1,0.2898,0
+gr00t_n17_official,none/nonsense,55,1,5,xxx,,none,,cream_cheese_1,0.3337,0
+gr00t_n17_official,none/nonsense,56,1,6,xxx,,4,136,cream_cheese_1,0.2912,0
+gr00t_n17_official,none/nonsense,57,1,7,xxx,,7,177,flat_stove_1,0.3348,0
+gr00t_n17_official,none/nonsense,58,1,8,xxx,,4,273,akita_black_bowl_1,0.3190,0
+gr00t_n17_official,none/nonsense,59,1,9,xxx,,7,129,flat_stove_1,0.3538,0
+gr00t_n17_official,none/nonsense,60,1,10,xxx,,4,185,akita_black_bowl_1,0.2800,0
+gr00t_n17_official,none/nonsense,61,1,11,xxx,,none,,wine_bottle_1,0.3713,0
+gr00t_n17_official,none/nonsense,62,1,12,xxx,,none,,flat_stove_1,0.3606,0
+gr00t_n17_official,none/nonsense,63,1,13,xxx,,none,,flat_stove_1,0.2946,0
+gr00t_n17_official,none/nonsense,64,1,14,xxx,,none,,akita_black_bowl_1,0.3082,0
+gr00t_n17_official,none/nonsense,65,1,15,xxx,,4,136,akita_black_bowl_1,0.2954,0
+gr00t_n17_official,none/nonsense,66,1,16,xxx,,4,131,akita_black_bowl_1,0.2834,0
+gr00t_n17_official,none/nonsense,67,1,17,xxx,,6,112,akita_black_bowl_1,0.3290,0
+gr00t_n17_official,none/nonsense,68,1,18,xxx,,none,,flat_stove_1,0.3318,0
+gr00t_n17_official,none/nonsense,69,1,19,xxx,,none,,akita_black_bowl_1,0.2926,0
+gr00t_n17_official,none/nonsense,100,2,0,xxx,,4,174,akita_black_bowl_1,0.2871,0
+gr00t_n17_official,none/nonsense,101,2,1,xxx,,7,271,flat_stove_1,0.3465,0
+gr00t_n17_official,none/nonsense,102,2,2,xxx,,none,,flat_stove_1,0.3133,0
+gr00t_n17_official,none/nonsense,103,2,3,xxx,,none,,akita_black_bowl_1,0.3296,0
+gr00t_n17_official,none/nonsense,104,2,4,xxx,,7,177,flat_stove_1,0.3474,0
+gr00t_n17_official,none/nonsense,105,2,5,xxx,,4,137,cream_cheese_1,0.2970,0
+gr00t_n17_official,none/nonsense,106,2,6,xxx,,none,,flat_stove_1,0.3333,0
+gr00t_n17_official,none/nonsense,107,2,7,xxx,,none,,flat_stove_1,0.3525,0
+gr00t_n17_official,none/nonsense,108,2,8,xxx,,none,,akita_black_bowl_1,0.2818,0
+gr00t_n17_official,none/nonsense,109,2,9,xxx,,4,163,akita_black_bowl_1,0.2795,0
+gr00t_n17_official,none/nonsense,110,2,10,xxx,,6,110,akita_black_bowl_1,0.3247,0
+gr00t_n17_official,none/nonsense,111,2,11,xxx,,7,123,flat_stove_1,0.3524,0
+gr00t_n17_official,none/nonsense,112,2,12,xxx,,7,189,flat_stove_1,0.3221,0
+gr00t_n17_official,none/nonsense,113,2,13,xxx,,4,161,akita_black_bowl_1,0.3028,0
+gr00t_n17_official,none/nonsense,114,2,14,xxx,,4,155,akita_black_bowl_1,0.2909,0
+gr00t_n17_official,none/nonsense,115,2,15,xxx,,7,216,flat_stove_1,0.3625,0
+gr00t_n17_official,none/nonsense,116,2,16,xxx,,none,,akita_black_bowl_1,0.2548,0
+gr00t_n17_official,none/nonsense,117,2,17,xxx,,none,,flat_stove_1,0.3158,0
+gr00t_n17_official,none/nonsense,118,2,18,xxx,,none,,flat_stove_1,0.3416,0
+gr00t_n17_official,none/nonsense,119,2,19,xxx,,none,,akita_black_bowl_1,0.3154,0
+gr00t_n17_official,none/nonsense,150,3,0,xxx,,4,171,akita_black_bowl_1,0.2810,0
+gr00t_n17_official,none/nonsense,151,3,1,xxx,,none,,akita_black_bowl_1,0.3118,0
+gr00t_n17_official,none/nonsense,152,3,2,xxx,,8,267,cream_cheese_1,0.3218,0
+gr00t_n17_official,none/nonsense,153,3,3,xxx,,none,,cream_cheese_1,0.3306,0
+gr00t_n17_official,none/nonsense,154,3,4,xxx,,4,128,akita_black_bowl_1,0.2706,0
+gr00t_n17_official,none/nonsense,155,3,5,xxx,,none,,cream_cheese_1,0.3424,0
+gr00t_n17_official,none/nonsense,156,3,6,xxx,,none,,flat_stove_1,0.3019,0
+gr00t_n17_official,none/nonsense,157,3,7,xxx,,6,105,akita_black_bowl_1,0.3134,0
+gr00t_n17_official,none/nonsense,158,3,8,xxx,,7,209,flat_stove_1,0.3654,0
+gr00t_n17_official,none/nonsense,159,3,9,xxx,,none,,flat_stove_1,0.3251,0
+gr00t_n17_official,none/nonsense,160,3,10,xxx,,4,123,akita_black_bowl_1,0.2985,0
+gr00t_n17_official,none/nonsense,161,3,11,xxx,,none,,akita_black_bowl_1,0.3216,0
+gr00t_n17_official,none/nonsense,162,3,12,xxx,,6,109,akita_black_bowl_1,0.3028,0
+gr00t_n17_official,none/nonsense,163,3,13,xxx,,4,129,akita_black_bowl_1,0.2925,0
+gr00t_n17_official,none/nonsense,164,3,14,xxx,,4,284,akita_black_bowl_1,0.3266,0
+gr00t_n17_official,none/nonsense,165,3,15,xxx,,none,,flat_stove_1,0.3207,0
+gr00t_n17_official,none/nonsense,166,3,16,xxx,,none,,cream_cheese_1,0.3088,0
+gr00t_n17_official,none/nonsense,167,3,17,xxx,,1,201,akita_black_bowl_1,0.2866,0
+gr00t_n17_official,none/nonsense,168,3,18,xxx,,none,,cream_cheese_1,0.3075,0
+gr00t_n17_official,none/nonsense,169,3,19,xxx,,4,120,akita_black_bowl_1,0.2863,0
+gr00t_n17_official,none/nonsense,200,4,0,xxx,,1,107,cream_cheese_1,0.2756,0
+gr00t_n17_official,none/nonsense,201,4,1,xxx,,7,131,flat_stove_1,0.3249,0
+gr00t_n17_official,none/nonsense,202,4,2,xxx,,none,,cream_cheese_1,0.3226,0
+gr00t_n17_official,none/nonsense,203,4,3,xxx,,7,147,flat_stove_1,0.3933,0
+gr00t_n17_official,none/nonsense,204,4,4,xxx,,none,,flat_stove_1,0.2884,0
+gr00t_n17_official,none/nonsense,205,4,5,xxx,,none,,flat_stove_1,0.3161,0
+gr00t_n17_official,none/nonsense,206,4,6,xxx,,none,,akita_black_bowl_1,0.2955,0
+gr00t_n17_official,none/nonsense,207,4,7,xxx,,none,,akita_black_bowl_1,0.3125,0
+gr00t_n17_official,none/nonsense,208,4,8,xxx,,4,125,akita_black_bowl_1,0.3098,0
+gr00t_n17_official,none/nonsense,209,4,9,xxx,,none,,flat_stove_1,0.3066,0
+gr00t_n17_official,none/nonsense,210,4,10,xxx,,6,117,akita_black_bowl_1,0.3286,0
+gr00t_n17_official,none/nonsense,211,4,11,xxx,,4,136,akita_black_bowl_1,0.2855,0
+gr00t_n17_official,none/nonsense,212,4,12,xxx,,none,,flat_stove_1,0.3291,0
+gr00t_n17_official,none/nonsense,213,4,13,xxx,,none,,flat_stove_1,0.3123,0
+gr00t_n17_official,none/nonsense,214,4,14,xxx,,4,178,cream_cheese_1,0.3017,0
+gr00t_n17_official,none/nonsense,215,4,15,xxx,,none,,flat_stove_1,0.3411,0
+gr00t_n17_official,none/nonsense,216,4,16,xxx,,none,,flat_stove_1,0.2883,0
+gr00t_n17_official,none/nonsense,217,4,17,xxx,,none,,flat_stove_1,0.3532,0
+gr00t_n17_official,none/nonsense,218,4,18,xxx,,4,213,cream_cheese_1,0.3137,0
+gr00t_n17_official,none/nonsense,219,4,19,xxx,,4,129,akita_black_bowl_1,0.2928,0
+gr00t_n17_official,none/nonsense,250,5,0,xxx,,none,,akita_black_bowl_1,0.3220,0
+gr00t_n17_official,none/nonsense,251,5,1,xxx,,4,259,akita_black_bowl_1,0.3217,0
+gr00t_n17_official,none/nonsense,252,5,2,xxx,,6,122,akita_black_bowl_1,0.3232,0
+gr00t_n17_official,none/nonsense,253,5,3,xxx,,7,82,flat_stove_1,0.3348,0
+gr00t_n17_official,none/nonsense,254,5,4,xxx,,none,,flat_stove_1,0.3042,0
+gr00t_n17_official,none/nonsense,255,5,5,xxx,,6,105,akita_black_bowl_1,0.3144,0
+gr00t_n17_official,none/nonsense,256,5,6,xxx,,4,138,cream_cheese_1,0.2960,0
+gr00t_n17_official,none/nonsense,257,5,7,xxx,,4,151,cream_cheese_1,0.2962,0
+gr00t_n17_official,none/nonsense,258,5,8,xxx,,none,,akita_black_bowl_1,0.3291,0
+gr00t_n17_official,none/nonsense,259,5,9,xxx,,1,192,cream_cheese_1,0.3189,0
+gr00t_n17_official,none/nonsense,260,5,10,xxx,,4,114,akita_black_bowl_1,0.2908,0
+gr00t_n17_official,none/nonsense,261,5,11,xxx,,none,,akita_black_bowl_1,0.3325,0
+gr00t_n17_official,none/nonsense,262,5,12,xxx,,1,104,akita_black_bowl_1,0.2961,0
+gr00t_n17_official,none/nonsense,263,5,13,xxx,,none,,akita_black_bowl_1,0.2947,0
+gr00t_n17_official,none/nonsense,264,5,14,xxx,,none,,flat_stove_1,0.3413,0
+gr00t_n17_official,none/nonsense,265,5,15,xxx,,4,131,akita_black_bowl_1,0.2936,0
+gr00t_n17_official,none/nonsense,266,5,16,xxx,,none,,wine_bottle_1,0.2558,0
+gr00t_n17_official,none/nonsense,267,5,17,xxx,,none,,flat_stove_1,0.3376,0
+gr00t_n17_official,none/nonsense,268,5,18,xxx,,7,143,flat_stove_1,0.3498,0
+gr00t_n17_official,none/nonsense,269,5,19,xxx,,6,115,akita_black_bowl_1,0.3164,0
+gr00t_n17_official,none/nonsense,300,6,0,xxx,,none,,akita_black_bowl_1,0.3386,0
+gr00t_n17_official,none/nonsense,301,6,1,xxx,,1,115,akita_black_bowl_1,0.2943,0
+gr00t_n17_official,none/nonsense,302,6,2,xxx,,none,,flat_stove_1,0.3407,0
+gr00t_n17_official,none/nonsense,303,6,3,xxx,,none,,akita_black_bowl_1,0.2965,0
+gr00t_n17_official,none/nonsense,304,6,4,xxx,,4,131,akita_black_bowl_1,0.2980,0
+gr00t_n17_official,none/nonsense,305,6,5,xxx,,none,,akita_black_bowl_1,0.2387,0
+gr00t_n17_official,none/nonsense,306,6,6,xxx,,1,116,akita_black_bowl_1,0.2731,0
+gr00t_n17_official,none/nonsense,307,6,7,xxx,,6,102,akita_black_bowl_1,0.3129,0
+gr00t_n17_official,none/nonsense,308,6,8,xxx,,1,204,cream_cheese_1,0.3107,0
+gr00t_n17_official,none/nonsense,309,6,9,xxx,,none,,flat_stove_1,0.3192,0
+gr00t_n17_official,none/nonsense,310,6,10,xxx,,4,135,akita_black_bowl_1,0.2872,0
+gr00t_n17_official,none/nonsense,311,6,11,xxx,,none,,akita_black_bowl_1,0.3123,0
+gr00t_n17_official,none/nonsense,312,6,12,xxx,,7,152,flat_stove_1,0.3631,0
+gr00t_n17_official,none/nonsense,313,6,13,xxx,,4,203,cream_cheese_1,0.2910,0
+gr00t_n17_official,none/nonsense,314,6,14,xxx,,none,,flat_stove_1,0.3518,0
+gr00t_n17_official,none/nonsense,315,6,15,xxx,,none,,cream_cheese_1,0.2974,0
+gr00t_n17_official,none/nonsense,316,6,16,xxx,,none,,flat_stove_1,0.3117,0
+gr00t_n17_official,none/nonsense,317,6,17,xxx,,none,,flat_stove_1,0.3407,0
+gr00t_n17_official,none/nonsense,318,6,18,xxx,,1,219,akita_black_bowl_1,0.3233,0
+gr00t_n17_official,none/nonsense,319,6,19,xxx,,none,,cream_cheese_1,0.3177,0
+gr00t_n17_official,none/nonsense,350,7,0,xxx,,none,,akita_black_bowl_1,0.3350,0
+gr00t_n17_official,none/nonsense,351,7,1,xxx,,none,,flat_stove_1,0.3046,0
+gr00t_n17_official,none/nonsense,352,7,2,xxx,,none,,akita_black_bowl_1,0.2866,0
+gr00t_n17_official,none/nonsense,353,7,3,xxx,,none,,akita_black_bowl_1,0.3003,0
+gr00t_n17_official,none/nonsense,354,7,4,xxx,,7,142,flat_stove_1,0.3557,0
+gr00t_n17_official,none/nonsense,355,7,5,xxx,,4,133,akita_black_bowl_1,0.2925,0
+gr00t_n17_official,none/nonsense,356,7,6,xxx,,1,126,akita_black_bowl_1,0.2898,0
+gr00t_n17_official,none/nonsense,357,7,7,xxx,,4,153,akita_black_bowl_1,0.3012,0
+gr00t_n17_official,none/nonsense,358,7,8,xxx,,none,,akita_black_bowl_1,0.3096,0
+gr00t_n17_official,none/nonsense,359,7,9,xxx,,none,,flat_stove_1,0.3037,0
+gr00t_n17_official,none/nonsense,360,7,10,xxx,,none,,flat_stove_1,0.3581,0
+gr00t_n17_official,none/nonsense,361,7,11,xxx,,none,,flat_stove_1,0.3356,0
+gr00t_n17_official,none/nonsense,362,7,12,xxx,,4,130,cream_cheese_1,0.2947,0
+gr00t_n17_official,none/nonsense,363,7,13,xxx,,none,,flat_stove_1,0.3064,0
+gr00t_n17_official,none/nonsense,364,7,14,xxx,,4,160,akita_black_bowl_1,0.2851,0
+gr00t_n17_official,none/nonsense,365,7,15,xxx,,none,,flat_stove_1,0.3376,0
+gr00t_n17_official,none/nonsense,366,7,16,xxx,,4,146,akita_black_bowl_1,0.3055,0
+gr00t_n17_official,none/nonsense,367,7,17,xxx,,4,146,akita_black_bowl_1,0.2955,0
+gr00t_n17_official,none/nonsense,368,7,18,xxx,,4,146,cream_cheese_1,0.3040,0
+gr00t_n17_official,none/nonsense,369,7,19,xxx,,none,,akita_black_bowl_1,0.3487,0
+gr00t_n17_official,none/nonsense,400,8,0,xxx,,none,,flat_stove_1,0.3233,0
+gr00t_n17_official,none/nonsense,401,8,1,xxx,,none,,akita_black_bowl_1,0.3208,0
+gr00t_n17_official,none/nonsense,402,8,2,xxx,,4,149,akita_black_bowl_1,0.3095,0
+gr00t_n17_official,none/nonsense,403,8,3,xxx,,none,,akita_black_bowl_1,0.3353,0
+gr00t_n17_official,none/nonsense,404,8,4,xxx,,none,,flat_stove_1,0.3268,0
+gr00t_n17_official,none/nonsense,405,8,5,xxx,,none,,flat_stove_1,0.2957,0
+gr00t_n17_official,none/nonsense,406,8,6,xxx,,7,181,flat_stove_1,0.3484,0
+gr00t_n17_official,none/nonsense,407,8,7,xxx,,4,191,akita_black_bowl_1,0.3184,0
+gr00t_n17_official,none/nonsense,408,8,8,xxx,,4,279,akita_black_bowl_1,0.2855,0
+gr00t_n17_official,none/nonsense,409,8,9,xxx,,4,140,akita_black_bowl_1,0.2870,0
+gr00t_n17_official,none/nonsense,410,8,10,xxx,,none,,akita_black_bowl_1,0.3103,0
+gr00t_n17_official,none/nonsense,411,8,11,xxx,,none,,flat_stove_1,0.3202,0
+gr00t_n17_official,none/nonsense,412,8,12,xxx,,7,164,flat_stove_1,0.3698,0
+gr00t_n17_official,none/nonsense,413,8,13,xxx,,none,,flat_stove_1,0.3366,0
+gr00t_n17_official,none/nonsense,414,8,14,xxx,,none,,akita_black_bowl_1,0.3051,0
+gr00t_n17_official,none/nonsense,415,8,15,xxx,,6,113,akita_black_bowl_1,0.3167,0
+gr00t_n17_official,none/nonsense,416,8,16,xxx,,4,196,cream_cheese_1,0.3024,0
+gr00t_n17_official,none/nonsense,417,8,17,xxx,,none,,,0.3030,0
+gr00t_n17_official,none/nonsense,418,8,18,xxx,,none,,cream_cheese_1,0.2795,0
+gr00t_n17_official,none/nonsense,419,8,19,xxx,,none,,flat_stove_1,0.3267,0
+gr00t_n17_official,none/nonsense,450,9,0,xxx,,7,213,flat_stove_1,0.3427,0
+gr00t_n17_official,none/nonsense,451,9,1,xxx,,6,122,cream_cheese_1,0.3211,0
+gr00t_n17_official,none/nonsense,452,9,2,xxx,,none,,akita_black_bowl_1,0.3177,0
+gr00t_n17_official,none/nonsense,453,9,3,xxx,,none,,flat_stove_1,0.3358,0
+gr00t_n17_official,none/nonsense,454,9,4,xxx,,4,122,akita_black_bowl_1,0.2976,0
+gr00t_n17_official,none/nonsense,455,9,5,xxx,,none,,akita_black_bowl_1,0.3108,0
+gr00t_n17_official,none/nonsense,456,9,6,xxx,,1,245,akita_black_bowl_1,0.3022,0
+gr00t_n17_official,none/nonsense,457,9,7,xxx,,none,,flat_stove_1,0.3051,0
+gr00t_n17_official,none/nonsense,458,9,8,xxx,,none,,flat_stove_1,0.3226,0
+gr00t_n17_official,none/nonsense,459,9,9,xxx,,none,,flat_stove_1,0.3075,0
+gr00t_n17_official,none/nonsense,460,9,10,xxx,,6,110,cream_cheese_1,0.3236,0
+gr00t_n17_official,none/nonsense,461,9,11,xxx,,1,292,akita_black_bowl_1,0.3210,0
+gr00t_n17_official,none/nonsense,462,9,12,xxx,,1,105,akita_black_bowl_1,0.2948,0
+gr00t_n17_official,none/nonsense,463,9,13,xxx,,none,,flat_stove_1,0.3056,0
+gr00t_n17_official,none/nonsense,464,9,14,xxx,,8,269,akita_black_bowl_1,0.3352,0
+gr00t_n17_official,none/nonsense,465,9,15,xxx,,7,135,flat_stove_1,0.3445,0
+gr00t_n17_official,none/nonsense,466,9,16,xxx,,none,,cream_cheese_1,0.3260,0
+gr00t_n17_official,none/nonsense,467,9,17,xxx,,none,,cream_cheese_1,0.3239,0
+gr00t_n17_official,none/nonsense,468,9,18,xxx,,none,,flat_stove_1,0.3425,0
+gr00t_n17_official,none/nonsense,469,9,19,xxx,,4,136,akita_black_bowl_1,0.3000,0
+gr00t_n17_official,none/other_task,0,0,0,put the bowl on the stove,1,1,92,akita_black_bowl_1,0.3233,0
+gr00t_n17_official,none/other_task,1,0,1,put the wine bottle on top of the cabinet,2,2,73,wine_bottle_1,0.3105,0
+gr00t_n17_official,none/other_task,2,0,2,open the top drawer and put the bowl inside,3,3,166,wooden_cabinet_1,0.2752,0
+gr00t_n17_official,none/other_task,3,0,3,put the bowl on top of the cabinet,4,4,83,akita_black_bowl_1,0.2827,0
+gr00t_n17_official,none/other_task,4,0,4,push the plate to the front of the stove,5,none,,plate_1,0.4310,0
+gr00t_n17_official,none/other_task,5,0,5,put the cream cheese in the bowl,6,6,95,cream_cheese_1,0.3434,0
+gr00t_n17_official,none/other_task,6,0,6,turn on the stove,7,7,74,flat_stove_1,0.4010,0
+gr00t_n17_official,none/other_task,7,0,7,put the bowl on the plate,8,8,77,akita_black_bowl_1,0.3505,0
+gr00t_n17_official,none/other_task,8,0,8,put the wine bottle on the rack,9,9,170,wine_bottle_1,0.3159,0
+gr00t_n17_official,none/other_task,9,0,9,put the bowl on the stove,1,1,87,akita_black_bowl_1,0.3309,0
+gr00t_n17_official,none/other_task,10,0,10,put the wine bottle on top of the cabinet,2,2,96,wine_bottle_1,0.3019,0
+gr00t_n17_official,none/other_task,11,0,11,open the top drawer and put the bowl inside,3,3,179,wooden_cabinet_1,0.2942,0
+gr00t_n17_official,none/other_task,12,0,12,put the bowl on top of the cabinet,4,4,86,akita_black_bowl_1,0.2959,0
+gr00t_n17_official,none/other_task,13,0,13,push the plate to the front of the stove,5,5,103,plate_1,0.4293,0
+gr00t_n17_official,none/other_task,14,0,14,put the cream cheese in the bowl,6,6,97,cream_cheese_1,0.3322,0
+gr00t_n17_official,none/other_task,15,0,15,turn on the stove,7,7,80,flat_stove_1,0.3908,0
+gr00t_n17_official,none/other_task,16,0,16,put the bowl on the plate,8,8,78,akita_black_bowl_1,0.3520,0
+gr00t_n17_official,none/other_task,17,0,17,put the wine bottle on the rack,9,9,146,wine_bottle_1,0.3185,0
+gr00t_n17_official,none/other_task,18,0,18,put the bowl on the stove,1,1,89,akita_black_bowl_1,0.3305,0
+gr00t_n17_official,none/other_task,19,0,19,put the wine bottle on top of the cabinet,2,2,87,wine_bottle_1,0.3125,0
+gr00t_n17_official,none/other_task,50,1,0,put the wine bottle on top of the cabinet,2,2,89,wine_bottle_1,0.3233,0
+gr00t_n17_official,none/other_task,51,1,1,open the top drawer and put the bowl inside,3,3,171,wooden_cabinet_1,0.2900,0
+gr00t_n17_official,none/other_task,52,1,2,put the bowl on top of the cabinet,4,4,83,akita_black_bowl_1,0.3066,0
+gr00t_n17_official,none/other_task,53,1,3,push the plate to the front of the stove,5,5,136,plate_1,0.4499,0
+gr00t_n17_official,none/other_task,54,1,4,put the cream cheese in the bowl,6,6,90,cream_cheese_1,0.3342,0
+gr00t_n17_official,none/other_task,55,1,5,turn on the stove,7,7,76,flat_stove_1,0.4011,0
+gr00t_n17_official,none/other_task,56,1,6,put the bowl on the plate,8,8,74,akita_black_bowl_1,0.3530,0
+gr00t_n17_official,none/other_task,57,1,7,put the wine bottle on the rack,9,9,150,wine_bottle_1,0.2849,0
+gr00t_n17_official,none/other_task,58,1,8,open the middle drawer of the cabinet,0,0,143,wooden_cabinet_1,0.3307,0
+gr00t_n17_official,none/other_task,59,1,9,put the wine bottle on top of the cabinet,2,2,86,wine_bottle_1,0.2816,0
+gr00t_n17_official,none/other_task,60,1,10,open the top drawer and put the bowl inside,3,3,176,wooden_cabinet_1,0.2859,0
+gr00t_n17_official,none/other_task,61,1,11,put the bowl on top of the cabinet,4,4,85,akita_black_bowl_1,0.2978,0
+gr00t_n17_official,none/other_task,62,1,12,push the plate to the front of the stove,5,5,139,plate_1,0.4654,0
+gr00t_n17_official,none/other_task,63,1,13,put the cream cheese in the bowl,6,6,90,cream_cheese_1,0.3273,0
+gr00t_n17_official,none/other_task,64,1,14,turn on the stove,7,7,67,flat_stove_1,0.3869,0
+gr00t_n17_official,none/other_task,65,1,15,put the bowl on the plate,8,8,74,akita_black_bowl_1,0.3346,0
+gr00t_n17_official,none/other_task,66,1,16,put the wine bottle on the rack,9,9,222,wine_bottle_1,0.2540,0
+gr00t_n17_official,none/other_task,67,1,17,open the middle drawer of the cabinet,0,0,121,wooden_cabinet_1,0.3145,0
+gr00t_n17_official,none/other_task,68,1,18,put the wine bottle on top of the cabinet,2,none,,,0.3043,0
+gr00t_n17_official,none/other_task,69,1,19,open the top drawer and put the bowl inside,3,3,168,wooden_cabinet_1,0.2785,0
+gr00t_n17_official,none/other_task,100,2,0,open the top drawer and put the bowl inside,3,3,169,wooden_cabinet_1,0.2788,0
+gr00t_n17_official,none/other_task,101,2,1,put the bowl on top of the cabinet,4,4,81,akita_black_bowl_1,0.2831,0
+gr00t_n17_official,none/other_task,102,2,2,push the plate to the front of the stove,5,5,194,plate_1,0.4248,0
+gr00t_n17_official,none/other_task,103,2,3,put the cream cheese in the bowl,6,6,89,akita_black_bowl_1,0.3300,0
+gr00t_n17_official,none/other_task,104,2,4,turn on the stove,7,7,111,flat_stove_1,0.3902,0
+gr00t_n17_official,none/other_task,105,2,5,put the bowl on the plate,8,8,86,akita_black_bowl_1,0.3508,0
+gr00t_n17_official,none/other_task,106,2,6,put the wine bottle on the rack,9,9,123,wine_bottle_1,0.2661,0
+gr00t_n17_official,none/other_task,107,2,7,open the middle drawer of the cabinet,0,0,295,wooden_cabinet_1,0.3372,0
+gr00t_n17_official,none/other_task,108,2,8,put the bowl on the stove,1,1,91,cream_cheese_1,0.3496,0
+gr00t_n17_official,none/other_task,109,2,9,open the top drawer and put the bowl inside,3,3,176,wooden_cabinet_1,0.2858,0
+gr00t_n17_official,none/other_task,110,2,10,put the bowl on top of the cabinet,4,4,84,akita_black_bowl_1,0.2854,0
+gr00t_n17_official,none/other_task,111,2,11,push the plate to the front of the stove,5,5,132,plate_1,0.4639,0
+gr00t_n17_official,none/other_task,112,2,12,put the cream cheese in the bowl,6,6,81,cream_cheese_1,0.3341,0
+gr00t_n17_official,none/other_task,113,2,13,turn on the stove,7,7,70,flat_stove_1,0.4019,0
+gr00t_n17_official,none/other_task,114,2,14,put the bowl on the plate,8,8,77,akita_black_bowl_1,0.3429,0
+gr00t_n17_official,none/other_task,115,2,15,put the wine bottle on the rack,9,9,144,wine_bottle_1,0.2716,0
+gr00t_n17_official,none/other_task,116,2,16,open the middle drawer of the cabinet,0,0,126,wooden_cabinet_1,0.3376,0
+gr00t_n17_official,none/other_task,117,2,17,put the bowl on the stove,1,1,95,akita_black_bowl_1,0.3343,0
+gr00t_n17_official,none/other_task,118,2,18,open the top drawer and put the bowl inside,3,3,181,wooden_cabinet_1,0.2889,0
+gr00t_n17_official,none/other_task,119,2,19,put the bowl on top of the cabinet,4,4,86,akita_black_bowl_1,0.2811,0
+gr00t_n17_official,none/other_task,150,3,0,put the bowl on top of the cabinet,4,4,111,akita_black_bowl_1,0.2816,0
+gr00t_n17_official,none/other_task,151,3,1,push the plate to the front of the stove,5,5,131,plate_1,0.4411,0
+gr00t_n17_official,none/other_task,152,3,2,put the cream cheese in the bowl,6,6,96,cream_cheese_1,0.3432,0
+gr00t_n17_official,none/other_task,153,3,3,turn on the stove,7,7,81,flat_stove_1,0.4048,0
+gr00t_n17_official,none/other_task,154,3,4,put the bowl on the plate,8,8,76,akita_black_bowl_1,0.3492,0
+gr00t_n17_official,none/other_task,155,3,5,put the wine bottle on the rack,9,9,160,wine_bottle_1,0.2740,0
+gr00t_n17_official,none/other_task,156,3,6,open the middle drawer of the cabinet,0,0,114,wooden_cabinet_1,0.3193,0
+gr00t_n17_official,none/other_task,157,3,7,put the bowl on the stove,1,1,81,cream_cheese_1,0.2894,0
+gr00t_n17_official,none/other_task,158,3,8,put the wine bottle on top of the cabinet,2,2,94,wine_bottle_1,0.3198,0
+gr00t_n17_official,none/other_task,159,3,9,put the bowl on top of the cabinet,4,none,,akita_black_bowl_1,0.2988,0
+gr00t_n17_official,none/other_task,160,3,10,push the plate to the front of the stove,5,5,155,plate_1,0.4504,0
+gr00t_n17_official,none/other_task,161,3,11,put the cream cheese in the bowl,6,6,96,cream_cheese_1,0.3555,0
+gr00t_n17_official,none/other_task,162,3,12,turn on the stove,7,7,64,flat_stove_1,0.3773,0
+gr00t_n17_official,none/other_task,163,3,13,put the bowl on the plate,8,8,87,akita_black_bowl_1,0.3657,0
+gr00t_n17_official,none/other_task,164,3,14,put the wine bottle on the rack,9,9,150,wine_bottle_1,0.2870,0
+gr00t_n17_official,none/other_task,165,3,15,open the middle drawer of the cabinet,0,0,228,wooden_cabinet_1,0.3291,0
+gr00t_n17_official,none/other_task,166,3,16,put the bowl on the stove,1,1,86,akita_black_bowl_1,0.3226,0
+gr00t_n17_official,none/other_task,167,3,17,put the wine bottle on top of the cabinet,2,2,90,wine_bottle_1,0.3300,0
+gr00t_n17_official,none/other_task,168,3,18,put the bowl on top of the cabinet,4,4,97,akita_black_bowl_1,0.3137,0
+gr00t_n17_official,none/other_task,169,3,19,push the plate to the front of the stove,5,5,136,plate_1,0.4397,0
+gr00t_n17_official,none/other_task,200,4,0,push the plate to the front of the stove,5,5,113,plate_1,0.4437,0
+gr00t_n17_official,none/other_task,201,4,1,put the cream cheese in the bowl,6,6,90,cream_cheese_1,0.3453,0
+gr00t_n17_official,none/other_task,202,4,2,turn on the stove,7,7,77,flat_stove_1,0.3918,0
+gr00t_n17_official,none/other_task,203,4,3,put the bowl on the plate,8,8,76,akita_black_bowl_1,0.3500,0
+gr00t_n17_official,none/other_task,204,4,4,put the wine bottle on the rack,9,9,136,wine_bottle_1,0.2670,0
+gr00t_n17_official,none/other_task,205,4,5,open the middle drawer of the cabinet,0,0,123,wooden_cabinet_1,0.3064,0
+gr00t_n17_official,none/other_task,206,4,6,put the bowl on the stove,1,1,82,akita_black_bowl_1,0.3309,0
+gr00t_n17_official,none/other_task,207,4,7,put the wine bottle on top of the cabinet,2,2,94,wine_bottle_1,0.2572,0
+gr00t_n17_official,none/other_task,208,4,8,open the top drawer and put the bowl inside,3,3,181,wooden_cabinet_1,0.3010,0
+gr00t_n17_official,none/other_task,209,4,9,push the plate to the front of the stove,5,5,121,plate_1,0.4288,0
+gr00t_n17_official,none/other_task,210,4,10,put the cream cheese in the bowl,6,6,98,cream_cheese_1,0.3439,0
+gr00t_n17_official,none/other_task,211,4,11,turn on the stove,7,7,75,flat_stove_1,0.3895,0
+gr00t_n17_official,none/other_task,212,4,12,put the bowl on the plate,8,8,76,akita_black_bowl_1,0.3620,0
+gr00t_n17_official,none/other_task,213,4,13,put the wine bottle on the rack,9,9,127,wine_bottle_1,0.2771,0
+gr00t_n17_official,none/other_task,214,4,14,open the middle drawer of the cabinet,0,0,124,wooden_cabinet_1,0.3276,0
+gr00t_n17_official,none/other_task,215,4,15,put the bowl on the stove,1,1,85,akita_black_bowl_1,0.3087,0
+gr00t_n17_official,none/other_task,216,4,16,put the wine bottle on top of the cabinet,2,2,78,wine_bottle_1,0.3213,0
+gr00t_n17_official,none/other_task,217,4,17,open the top drawer and put the bowl inside,3,3,175,wooden_cabinet_1,0.2961,0
+gr00t_n17_official,none/other_task,218,4,18,push the plate to the front of the stove,5,5,124,plate_1,0.4485,0
+gr00t_n17_official,none/other_task,219,4,19,put the cream cheese in the bowl,6,6,100,cream_cheese_1,0.3346,0
+gr00t_n17_official,none/other_task,250,5,0,put the cream cheese in the bowl,6,6,88,cream_cheese_1,0.3471,0
+gr00t_n17_official,none/other_task,251,5,1,turn on the stove,7,7,65,flat_stove_1,0.3850,0
+gr00t_n17_official,none/other_task,252,5,2,put the bowl on the plate,8,8,76,akita_black_bowl_1,0.3428,0
+gr00t_n17_official,none/other_task,253,5,3,put the wine bottle on the rack,9,9,130,wine_bottle_1,0.2863,0
+gr00t_n17_official,none/other_task,254,5,4,open the middle drawer of the cabinet,0,0,128,wooden_cabinet_1,0.3284,0
+gr00t_n17_official,none/other_task,255,5,5,put the bowl on the stove,1,1,86,cream_cheese_1,0.3001,0
+gr00t_n17_official,none/other_task,256,5,6,put the wine bottle on top of the cabinet,2,2,87,wine_bottle_1,0.3048,0
+gr00t_n17_official,none/other_task,257,5,7,open the top drawer and put the bowl inside,3,3,157,wooden_cabinet_1,0.2916,0
+gr00t_n17_official,none/other_task,258,5,8,put the bowl on top of the cabinet,4,4,88,akita_black_bowl_1,0.3064,0
+gr00t_n17_official,none/other_task,259,5,9,put the cream cheese in the bowl,6,6,101,cream_cheese_1,0.3424,0
+gr00t_n17_official,none/other_task,260,5,10,turn on the stove,7,7,79,flat_stove_1,0.3946,0
+gr00t_n17_official,none/other_task,261,5,11,put the bowl on the plate,8,8,69,akita_black_bowl_1,0.3458,0
+gr00t_n17_official,none/other_task,262,5,12,put the wine bottle on the rack,9,9,153,wine_bottle_1,0.3008,0
+gr00t_n17_official,none/other_task,263,5,13,open the middle drawer of the cabinet,0,0,113,wooden_cabinet_1,0.3224,0
+gr00t_n17_official,none/other_task,264,5,14,put the bowl on the stove,1,1,88,akita_black_bowl_1,0.3120,0
+gr00t_n17_official,none/other_task,265,5,15,put the wine bottle on top of the cabinet,2,2,95,wine_bottle_1,0.2949,0
+gr00t_n17_official,none/other_task,266,5,16,open the top drawer and put the bowl inside,3,3,172,wooden_cabinet_1,0.2829,0
+gr00t_n17_official,none/other_task,267,5,17,put the bowl on top of the cabinet,4,4,91,akita_black_bowl_1,0.3061,0
+gr00t_n17_official,none/other_task,268,5,18,put the cream cheese in the bowl,6,6,104,cream_cheese_1,0.3516,0
+gr00t_n17_official,none/other_task,269,5,19,turn on the stove,7,7,78,flat_stove_1,0.3823,0
+gr00t_n17_official,none/other_task,300,6,0,turn on the stove,7,7,72,flat_stove_1,0.3922,0
+gr00t_n17_official,none/other_task,301,6,1,put the bowl on the plate,8,8,82,akita_black_bowl_1,0.3563,0
+gr00t_n17_official,none/other_task,302,6,2,put the wine bottle on the rack,9,9,164,wine_bottle_1,0.2769,0
+gr00t_n17_official,none/other_task,303,6,3,open the middle drawer of the cabinet,0,0,129,wooden_cabinet_1,0.3383,0
+gr00t_n17_official,none/other_task,304,6,4,put the bowl on the stove,1,1,79,akita_black_bowl_1,0.2952,0
+gr00t_n17_official,none/other_task,305,6,5,put the wine bottle on top of the cabinet,2,none,,wine_rack_1,0.1983,0
+gr00t_n17_official,none/other_task,306,6,6,open the top drawer and put the bowl inside,3,3,165,wooden_cabinet_1,0.2761,0
+gr00t_n17_official,none/other_task,307,6,7,put the bowl on top of the cabinet,4,4,83,akita_black_bowl_1,0.2861,0
+gr00t_n17_official,none/other_task,308,6,8,push the plate to the front of the stove,5,none,,plate_1,0.4594,0
+gr00t_n17_official,none/other_task,309,6,9,turn on the stove,7,7,79,flat_stove_1,0.3858,0
+gr00t_n17_official,none/other_task,310,6,10,put the bowl on the plate,8,8,70,akita_black_bowl_1,0.3403,0
+gr00t_n17_official,none/other_task,311,6,11,put the wine bottle on the rack,9,9,169,wine_bottle_1,0.2835,0
+gr00t_n17_official,none/other_task,312,6,12,open the middle drawer of the cabinet,0,none,,wooden_cabinet_1,0.3035,0
+gr00t_n17_official,none/other_task,313,6,13,put the bowl on the stove,1,1,90,cream_cheese_1,0.3075,0
+gr00t_n17_official,none/other_task,314,6,14,put the wine bottle on top of the cabinet,2,2,90,wine_bottle_1,0.2876,0
+gr00t_n17_official,none/other_task,315,6,15,open the top drawer and put the bowl inside,3,3,160,wooden_cabinet_1,0.2943,0
+gr00t_n17_official,none/other_task,316,6,16,put the bowl on top of the cabinet,4,4,91,cream_cheese_1,0.2961,0
+gr00t_n17_official,none/other_task,317,6,17,push the plate to the front of the stove,5,5,127,plate_1,0.4657,0
+gr00t_n17_official,none/other_task,318,6,18,turn on the stove,7,7,78,flat_stove_1,0.3863,0
+gr00t_n17_official,none/other_task,319,6,19,put the bowl on the plate,8,8,71,akita_black_bowl_1,0.3417,0
+gr00t_n17_official,none/other_task,350,7,0,put the bowl on the plate,8,8,83,akita_black_bowl_1,0.3671,0
+gr00t_n17_official,none/other_task,351,7,1,put the wine bottle on the rack,9,9,129,wine_bottle_1,0.2605,0
+gr00t_n17_official,none/other_task,352,7,2,open the middle drawer of the cabinet,0,0,128,wooden_cabinet_1,0.3123,0
+gr00t_n17_official,none/other_task,353,7,3,put the bowl on the stove,1,1,87,cream_cheese_1,0.3195,0
+gr00t_n17_official,none/other_task,354,7,4,put the wine bottle on top of the cabinet,2,2,102,wine_bottle_1,0.3144,0
+gr00t_n17_official,none/other_task,355,7,5,open the top drawer and put the bowl inside,3,3,187,wooden_cabinet_1,0.3114,0
+gr00t_n17_official,none/other_task,356,7,6,put the bowl on top of the cabinet,4,4,90,akita_black_bowl_1,0.2814,0
+gr00t_n17_official,none/other_task,357,7,7,push the plate to the front of the stove,5,5,106,plate_1,0.4272,0
+gr00t_n17_official,none/other_task,358,7,8,put the cream cheese in the bowl,6,6,80,cream_cheese_1,0.3330,0
+gr00t_n17_official,none/other_task,359,7,9,put the bowl on the plate,8,8,71,akita_black_bowl_1,0.3539,0
+gr00t_n17_official,none/other_task,360,7,10,put the wine bottle on the rack,9,9,161,wine_bottle_1,0.2847,0
+gr00t_n17_official,none/other_task,361,7,11,open the middle drawer of the cabinet,0,0,123,wooden_cabinet_1,0.3232,0
+gr00t_n17_official,none/other_task,362,7,12,put the bowl on the stove,1,1,90,akita_black_bowl_1,0.3215,0
+gr00t_n17_official,none/other_task,363,7,13,put the wine bottle on top of the cabinet,2,2,91,wine_bottle_1,0.3268,0
+gr00t_n17_official,none/other_task,364,7,14,open the top drawer and put the bowl inside,3,3,183,wooden_cabinet_1,0.2810,0
+gr00t_n17_official,none/other_task,365,7,15,put the bowl on top of the cabinet,4,4,161,akita_black_bowl_1,0.3060,0
+gr00t_n17_official,none/other_task,366,7,16,push the plate to the front of the stove,5,5,129,plate_1,0.4607,0
+gr00t_n17_official,none/other_task,367,7,17,put the cream cheese in the bowl,6,6,96,cream_cheese_1,0.3381,0
+gr00t_n17_official,none/other_task,368,7,18,put the bowl on the plate,8,8,70,cream_cheese_1,0.3293,0
+gr00t_n17_official,none/other_task,369,7,19,put the wine bottle on the rack,9,9,141,wine_bottle_1,0.2899,0
+gr00t_n17_official,none/other_task,400,8,0,put the wine bottle on the rack,9,9,151,wine_bottle_1,0.2982,0
+gr00t_n17_official,none/other_task,401,8,1,open the middle drawer of the cabinet,0,0,186,wooden_cabinet_1,0.3242,0
+gr00t_n17_official,none/other_task,402,8,2,put the bowl on the stove,1,1,91,akita_black_bowl_1,0.3254,0
+gr00t_n17_official,none/other_task,403,8,3,put the wine bottle on top of the cabinet,2,2,96,wine_bottle_1,0.3152,0
+gr00t_n17_official,none/other_task,404,8,4,open the top drawer and put the bowl inside,3,3,160,wooden_cabinet_1,0.2841,0
+gr00t_n17_official,none/other_task,405,8,5,put the bowl on top of the cabinet,4,4,93,cream_cheese_1,0.3114,0
+gr00t_n17_official,none/other_task,406,8,6,push the plate to the front of the stove,5,5,125,plate_1,0.4554,0
+gr00t_n17_official,none/other_task,407,8,7,put the cream cheese in the bowl,6,6,89,akita_black_bowl_1,0.3272,0
+gr00t_n17_official,none/other_task,408,8,8,turn on the stove,7,7,80,flat_stove_1,0.3942,0
+gr00t_n17_official,none/other_task,409,8,9,put the wine bottle on the rack,9,9,147,wine_bottle_1,0.2650,0
+gr00t_n17_official,none/other_task,410,8,10,open the middle drawer of the cabinet,0,0,120,wooden_cabinet_1,0.3280,0
+gr00t_n17_official,none/other_task,411,8,11,put the bowl on the stove,1,1,88,akita_black_bowl_1,0.3267,0
+gr00t_n17_official,none/other_task,412,8,12,put the wine bottle on top of the cabinet,2,2,107,wine_bottle_1,0.3062,0
+gr00t_n17_official,none/other_task,413,8,13,open the top drawer and put the bowl inside,3,3,167,wooden_cabinet_1,0.2821,0
+gr00t_n17_official,none/other_task,414,8,14,put the bowl on top of the cabinet,4,4,70,akita_black_bowl_1,0.2702,0
+gr00t_n17_official,none/other_task,415,8,15,push the plate to the front of the stove,5,5,191,plate_1,0.4166,0
+gr00t_n17_official,none/other_task,416,8,16,put the cream cheese in the bowl,6,none,,akita_black_bowl_1,0.3391,0
+gr00t_n17_official,none/other_task,417,8,17,turn on the stove,7,7,89,flat_stove_1,0.4070,0
+gr00t_n17_official,none/other_task,418,8,18,put the wine bottle on the rack,9,9,128,wine_bottle_1,0.2647,0
+gr00t_n17_official,none/other_task,419,8,19,open the middle drawer of the cabinet,0,0,118,wooden_cabinet_1,0.3324,0
+gr00t_n17_official,none/other_task,450,9,0,open the middle drawer of the cabinet,0,0,133,wooden_cabinet_1,0.3413,0
+gr00t_n17_official,none/other_task,451,9,1,put the bowl on the stove,1,1,85,akita_black_bowl_1,0.3234,0
+gr00t_n17_official,none/other_task,452,9,2,put the wine bottle on top of the cabinet,2,2,96,wine_bottle_1,0.3023,0
+gr00t_n17_official,none/other_task,453,9,3,open the top drawer and put the bowl inside,3,3,176,wooden_cabinet_1,0.2980,0
+gr00t_n17_official,none/other_task,454,9,4,put the bowl on top of the cabinet,4,4,94,akita_black_bowl_1,0.2857,0
+gr00t_n17_official,none/other_task,455,9,5,push the plate to the front of the stove,5,5,130,plate_1,0.4500,0
+gr00t_n17_official,none/other_task,456,9,6,put the cream cheese in the bowl,6,none,,cream_cheese_1,0.3408,0
+gr00t_n17_official,none/other_task,457,9,7,turn on the stove,7,7,72,flat_stove_1,0.3665,0
+gr00t_n17_official,none/other_task,458,9,8,put the bowl on the plate,8,8,80,akita_black_bowl_1,0.3537,0
+gr00t_n17_official,none/other_task,459,9,9,open the middle drawer of the cabinet,0,0,170,wooden_cabinet_1,0.3130,0
+gr00t_n17_official,none/other_task,460,9,10,put the bowl on the stove,1,1,91,akita_black_bowl_1,0.3239,0
+gr00t_n17_official,none/other_task,461,9,11,put the wine bottle on top of the cabinet,2,2,82,wine_bottle_1,0.2801,0
+gr00t_n17_official,none/other_task,462,9,12,open the top drawer and put the bowl inside,3,3,172,wooden_cabinet_1,0.2817,0
+gr00t_n17_official,none/other_task,463,9,13,put the bowl on top of the cabinet,4,4,86,akita_black_bowl_1,0.2889,0
+gr00t_n17_official,none/other_task,464,9,14,push the plate to the front of the stove,5,5,129,plate_1,0.4701,0
+gr00t_n17_official,none/other_task,465,9,15,put the cream cheese in the bowl,6,6,96,cream_cheese_1,0.3368,0
+gr00t_n17_official,none/other_task,466,9,16,turn on the stove,7,7,68,flat_stove_1,0.3811,0
+gr00t_n17_official,none/other_task,467,9,17,put the bowl on the plate,8,8,74,akita_black_bowl_1,0.3602,0
+gr00t_n17_official,none/other_task,468,9,18,open the middle drawer of the cabinet,0,0,125,wooden_cabinet_1,0.3240,0
+gr00t_n17_official,none/other_task,469,9,19,put the bowl on the stove,1,1,85,akita_black_bowl_1,0.3630,0
+gr00t_n17_official,none/impossible_action,0,0,0,eat the cream cheese,,6,93,cream_cheese_1,0.3369,0
+gr00t_n17_official,none/impossible_action,1,0,1,wash the plate in the sink,,1,160,akita_black_bowl_1,0.2886,0
+gr00t_n17_official,none/impossible_action,2,0,2,pour the wine into the bowl,,4,118,cream_cheese_1,0.3031,0
+gr00t_n17_official,none/impossible_action,3,0,3,cut the cream cheese in half,,6,96,cream_cheese_1,0.3253,0
+gr00t_n17_official,none/impossible_action,4,0,4,paint the cabinet red,,none,,akita_black_bowl_1,0.2946,0
+gr00t_n17_official,none/impossible_action,5,0,5,throw the bowl at the wall,,8,170,akita_black_bowl_1,0.3049,0
+gr00t_n17_official,none/impossible_action,6,0,6,eat the cream cheese,,6,148,akita_black_bowl_1,0.3381,0
+gr00t_n17_official,none/impossible_action,7,0,7,wash the plate in the sink,,1,183,plate_1,0.3370,0
+gr00t_n17_official,none/impossible_action,8,0,8,pour the wine into the bowl,,6,129,akita_black_bowl_1,0.3306,0
+gr00t_n17_official,none/impossible_action,9,0,9,cut the cream cheese in half,,6,99,cream_cheese_1,0.3292,0
+gr00t_n17_official,none/impossible_action,10,0,10,paint the cabinet red,,4,123,akita_black_bowl_1,0.3065,0
+gr00t_n17_official,none/impossible_action,11,0,11,throw the bowl at the wall,,8,184,akita_black_bowl_1,0.3296,0
+gr00t_n17_official,none/impossible_action,12,0,12,eat the cream cheese,,6,130,akita_black_bowl_1,0.3377,0
+gr00t_n17_official,none/impossible_action,13,0,13,wash the plate in the sink,,1,174,akita_black_bowl_1,0.3258,0
+gr00t_n17_official,none/impossible_action,14,0,14,pour the wine into the bowl,,6,123,akita_black_bowl_1,0.3195,0
+gr00t_n17_official,none/impossible_action,15,0,15,cut the cream cheese in half,,none,,cream_cheese_1,0.3290,0
+gr00t_n17_official,none/impossible_action,16,0,16,paint the cabinet red,,none,,akita_black_bowl_1,0.3202,0
+gr00t_n17_official,none/impossible_action,17,0,17,throw the bowl at the wall,,4,154,akita_black_bowl_1,0.3175,0
+gr00t_n17_official,none/impossible_action,18,0,18,eat the cream cheese,,6,111,akita_black_bowl_1,0.3238,0
+gr00t_n17_official,none/impossible_action,19,0,19,wash the plate in the sink,,none,,akita_black_bowl_1,0.2919,0
+gr00t_n17_official,none/impossible_action,50,1,0,pour the wine into the bowl,,4,158,akita_black_bowl_1,0.2956,0
+gr00t_n17_official,none/impossible_action,51,1,1,cut the cream cheese in half,,6,90,cream_cheese_1,0.3227,0
+gr00t_n17_official,none/impossible_action,52,1,2,paint the cabinet red,,4,107,akita_black_bowl_1,0.3172,0
+gr00t_n17_official,none/impossible_action,53,1,3,throw the bowl at the wall,,4,122,akita_black_bowl_1,0.3023,0
+gr00t_n17_official,none/impossible_action,54,1,4,eat the cream cheese,,4,181,cream_cheese_1,0.3245,0
+gr00t_n17_official,none/impossible_action,55,1,5,wash the plate in the sink,,none,,plate_1,0.3370,0
+gr00t_n17_official,none/impossible_action,56,1,6,pour the wine into the bowl,,4,121,cream_cheese_1,0.2904,0
+gr00t_n17_official,none/impossible_action,57,1,7,cut the cream cheese in half,,none,,cream_cheese_1,0.3417,0
+gr00t_n17_official,none/impossible_action,58,1,8,paint the cabinet red,,4,136,cream_cheese_1,0.2913,0
+gr00t_n17_official,none/impossible_action,59,1,9,throw the bowl at the wall,,4,120,akita_black_bowl_1,0.2928,0
+gr00t_n17_official,none/impossible_action,60,1,10,eat the cream cheese,,6,133,akita_black_bowl_1,0.3320,0
+gr00t_n17_official,none/impossible_action,61,1,11,wash the plate in the sink,,none,,plate_1,0.4657,0
+gr00t_n17_official,none/impossible_action,62,1,12,pour the wine into the bowl,,4,125,akita_black_bowl_1,0.3066,0
+gr00t_n17_official,none/impossible_action,63,1,13,cut the cream cheese in half,,6,97,cream_cheese_1,0.3132,0
+gr00t_n17_official,none/impossible_action,64,1,14,paint the cabinet red,,4,120,akita_black_bowl_1,0.2998,0
+gr00t_n17_official,none/impossible_action,65,1,15,throw the bowl at the wall,,1,113,akita_black_bowl_1,0.3214,0
+gr00t_n17_official,none/impossible_action,66,1,16,eat the cream cheese,,none,,akita_black_bowl_1,0.3052,0
+gr00t_n17_official,none/impossible_action,67,1,17,wash the plate in the sink,,none,,akita_black_bowl_1,0.3005,0
+gr00t_n17_official,none/impossible_action,68,1,18,pour the wine into the bowl,,6,122,akita_black_bowl_1,0.3325,0
+gr00t_n17_official,none/impossible_action,69,1,19,cut the cream cheese in half,,6,91,akita_black_bowl_1,0.3142,0
+gr00t_n17_official,none/impossible_action,100,2,0,paint the cabinet red,,4,131,akita_black_bowl_1,0.2864,0
+gr00t_n17_official,none/impossible_action,101,2,1,throw the bowl at the wall,,none,,akita_black_bowl_1,0.3112,0
+gr00t_n17_official,none/impossible_action,102,2,2,eat the cream cheese,,6,103,cream_cheese_1,0.3310,0
+gr00t_n17_official,none/impossible_action,103,2,3,wash the plate in the sink,,1,245,plate_1,0.3441,0
+gr00t_n17_official,none/impossible_action,104,2,4,pour the wine into the bowl,,none,,cream_cheese_1,0.3142,0
+gr00t_n17_official,none/impossible_action,105,2,5,cut the cream cheese in half,,6,94,akita_black_bowl_1,0.3274,0
+gr00t_n17_official,none/impossible_action,106,2,6,paint the cabinet red,,none,,akita_black_bowl_1,0.3109,0
+gr00t_n17_official,none/impossible_action,107,2,7,throw the bowl at the wall,,8,167,akita_black_bowl_1,0.2996,0
+gr00t_n17_official,none/impossible_action,108,2,8,eat the cream cheese,,6,102,cream_cheese_1,0.3311,0
+gr00t_n17_official,none/impossible_action,109,2,9,wash the plate in the sink,,1,238,plate_1,0.3360,0
+gr00t_n17_official,none/impossible_action,110,2,10,pour the wine into the bowl,,6,135,akita_black_bowl_1,0.3349,0
+gr00t_n17_official,none/impossible_action,111,2,11,cut the cream cheese in half,,6,100,cream_cheese_1,0.3355,0
+gr00t_n17_official,none/impossible_action,112,2,12,paint the cabinet red,,none,,flat_stove_1,0.3078,0
+gr00t_n17_official,none/impossible_action,113,2,13,throw the bowl at the wall,,4,113,akita_black_bowl_1,0.2962,0
+gr00t_n17_official,none/impossible_action,114,2,14,eat the cream cheese,,6,146,akita_black_bowl_1,0.3271,0
+gr00t_n17_official,none/impossible_action,115,2,15,wash the plate in the sink,,1,183,akita_black_bowl_1,0.3112,0
+gr00t_n17_official,none/impossible_action,116,2,16,pour the wine into the bowl,,none,,akita_black_bowl_1,0.3095,0
+gr00t_n17_official,none/impossible_action,117,2,17,cut the cream cheese in half,,6,111,akita_black_bowl_1,0.3363,0
+gr00t_n17_official,none/impossible_action,118,2,18,paint the cabinet red,,none,,wine_rack_1,0.2635,0
+gr00t_n17_official,none/impossible_action,119,2,19,throw the bowl at the wall,,4,112,akita_black_bowl_1,0.2822,0
+gr00t_n17_official,none/impossible_action,150,3,0,eat the cream cheese,,none,,akita_black_bowl_1,0.3210,0
+gr00t_n17_official,none/impossible_action,151,3,1,wash the plate in the sink,,none,,cream_cheese_1,0.3089,0
+gr00t_n17_official,none/impossible_action,152,3,2,pour the wine into the bowl,,none,,akita_black_bowl_1,0.3143,0
+gr00t_n17_official,none/impossible_action,153,3,3,cut the cream cheese in half,,6,100,cream_cheese_1,0.3373,0
+gr00t_n17_official,none/impossible_action,154,3,4,paint the cabinet red,,4,125,akita_black_bowl_1,0.2702,0
+gr00t_n17_official,none/impossible_action,155,3,5,throw the bowl at the wall,,4,126,akita_black_bowl_1,0.2987,0
+gr00t_n17_official,none/impossible_action,156,3,6,eat the cream cheese,,6,96,cream_cheese_1,0.3279,0
+gr00t_n17_official,none/impossible_action,157,3,7,wash the plate in the sink,,none,,akita_black_bowl_1,0.3044,0
+gr00t_n17_official,none/impossible_action,158,3,8,pour the wine into the bowl,,6,135,akita_black_bowl_1,0.3340,0
+gr00t_n17_official,none/impossible_action,159,3,9,cut the cream cheese in half,,none,,akita_black_bowl_1,0.3297,0
+gr00t_n17_official,none/impossible_action,160,3,10,paint the cabinet red,,none,,akita_black_bowl_1,0.2710,0
+gr00t_n17_official,none/impossible_action,161,3,11,throw the bowl at the wall,,4,124,cream_cheese_1,0.3029,0
+gr00t_n17_official,none/impossible_action,162,3,12,eat the cream cheese,,6,98,cream_cheese_1,0.3183,0
+gr00t_n17_official,none/impossible_action,163,3,13,wash the plate in the sink,,none,,plate_1,0.3375,0
+gr00t_n17_official,none/impossible_action,164,3,14,pour the wine into the bowl,,none,,akita_black_bowl_1,0.3314,0
+gr00t_n17_official,none/impossible_action,165,3,15,cut the cream cheese in half,,6,94,cream_cheese_1,0.3283,0
+gr00t_n17_official,none/impossible_action,166,3,16,paint the cabinet red,,4,113,akita_black_bowl_1,0.2930,0
+gr00t_n17_official,none/impossible_action,167,3,17,throw the bowl at the wall,,4,119,akita_black_bowl_1,0.3131,0
+gr00t_n17_official,none/impossible_action,168,3,18,eat the cream cheese,,6,100,cream_cheese_1,0.3353,0
+gr00t_n17_official,none/impossible_action,169,3,19,wash the plate in the sink,,1,182,plate_1,0.3301,0
+gr00t_n17_official,none/impossible_action,200,4,0,pour the wine into the bowl,,4,272,akita_black_bowl_1,0.2996,0
+gr00t_n17_official,none/impossible_action,201,4,1,cut the cream cheese in half,,none,,cream_cheese_1,0.3226,0
+gr00t_n17_official,none/impossible_action,202,4,2,paint the cabinet red,,none,,flat_stove_1,0.3079,0
+gr00t_n17_official,none/impossible_action,203,4,3,throw the bowl at the wall,,none,,akita_black_bowl_1,0.3150,0
+gr00t_n17_official,none/impossible_action,204,4,4,eat the cream cheese,,6,105,cream_cheese_1,0.3252,0
+gr00t_n17_official,none/impossible_action,205,4,5,wash the plate in the sink,,none,,akita_black_bowl_1,0.3069,0
+gr00t_n17_official,none/impossible_action,206,4,6,pour the wine into the bowl,,none,,akita_black_bowl_1,0.3103,0
+gr00t_n17_official,none/impossible_action,207,4,7,cut the cream cheese in half,,none,,akita_black_bowl_1,0.3308,0
+gr00t_n17_official,none/impossible_action,208,4,8,paint the cabinet red,,none,,akita_black_bowl_1,0.4560,0
+gr00t_n17_official,none/impossible_action,209,4,9,throw the bowl at the wall,,1,119,akita_black_bowl_1,0.3131,0
+gr00t_n17_official,none/impossible_action,210,4,10,eat the cream cheese,,6,102,cream_cheese_1,0.3373,0
+gr00t_n17_official,none/impossible_action,211,4,11,wash the plate in the sink,,5,187,plate_1,0.4487,0
+gr00t_n17_official,none/impossible_action,212,4,12,pour the wine into the bowl,,4,127,cream_cheese_1,0.3022,0
+gr00t_n17_official,none/impossible_action,213,4,13,cut the cream cheese in half,,none,,cream_cheese_1,0.3236,0
+gr00t_n17_official,none/impossible_action,214,4,14,paint the cabinet red,,4,126,akita_black_bowl_1,0.3067,0
+gr00t_n17_official,none/impossible_action,215,4,15,throw the bowl at the wall,,4,120,akita_black_bowl_1,0.2993,0
+gr00t_n17_official,none/impossible_action,216,4,16,eat the cream cheese,,6,80,cream_cheese_1,0.3029,0
+gr00t_n17_official,none/impossible_action,217,4,17,wash the plate in the sink,,1,169,akita_black_bowl_1,0.3170,0
+gr00t_n17_official,none/impossible_action,218,4,18,pour the wine into the bowl,,none,,akita_black_bowl_1,0.3401,0
+gr00t_n17_official,none/impossible_action,219,4,19,cut the cream cheese in half,,6,97,cream_cheese_1,0.3264,0
+gr00t_n17_official,none/impossible_action,250,5,0,paint the cabinet red,,4,115,akita_black_bowl_1,0.2952,0
+gr00t_n17_official,none/impossible_action,251,5,1,throw the bowl at the wall,,4,113,akita_black_bowl_1,0.2901,0
+gr00t_n17_official,none/impossible_action,252,5,2,eat the cream cheese,,6,111,cream_cheese_1,0.3322,0
+gr00t_n17_official,none/impossible_action,253,5,3,wash the plate in the sink,,1,165,akita_black_bowl_1,0.3045,0
+gr00t_n17_official,none/impossible_action,254,5,4,pour the wine into the bowl,,none,,cream_cheese_1,0.3251,0
+gr00t_n17_official,none/impossible_action,255,5,5,cut the cream cheese in half,,6,84,akita_black_bowl_1,0.3321,0
+gr00t_n17_official,none/impossible_action,256,5,6,paint the cabinet red,,4,197,akita_black_bowl_1,0.3531,0
+gr00t_n17_official,none/impossible_action,257,5,7,throw the bowl at the wall,,1,109,akita_black_bowl_1,0.3156,0
+gr00t_n17_official,none/impossible_action,258,5,8,eat the cream cheese,,6,92,cream_cheese_1,0.3419,0
+gr00t_n17_official,none/impossible_action,259,5,9,wash the plate in the sink,,1,176,plate_1,0.3280,0
+gr00t_n17_official,none/impossible_action,260,5,10,pour the wine into the bowl,,4,138,akita_black_bowl_1,0.3047,0
+gr00t_n17_official,none/impossible_action,261,5,11,cut the cream cheese in half,,6,132,cream_cheese_1,0.3303,0
+gr00t_n17_official,none/impossible_action,262,5,12,paint the cabinet red,,4,124,akita_black_bowl_1,0.3095,0
+gr00t_n17_official,none/impossible_action,263,5,13,throw the bowl at the wall,,1,115,akita_black_bowl_1,0.3222,0
+gr00t_n17_official,none/impossible_action,264,5,14,eat the cream cheese,,none,,cream_cheese_1,0.3245,0
+gr00t_n17_official,none/impossible_action,265,5,15,wash the plate in the sink,,1,231,akita_black_bowl_1,0.3258,0
+gr00t_n17_official,none/impossible_action,266,5,16,pour the wine into the bowl,,4,176,akita_black_bowl_1,0.2997,0
+gr00t_n17_official,none/impossible_action,267,5,17,cut the cream cheese in half,,6,101,cream_cheese_1,0.3333,0
+gr00t_n17_official,none/impossible_action,268,5,18,paint the cabinet red,,none,,flat_stove_1,0.3172,0
+gr00t_n17_official,none/impossible_action,269,5,19,throw the bowl at the wall,,4,112,akita_black_bowl_1,0.2931,0
+gr00t_n17_official,none/impossible_action,300,6,0,eat the cream cheese,,none,,akita_black_bowl_1,0.3714,0
+gr00t_n17_official,none/impossible_action,301,6,1,wash the plate in the sink,,1,166,plate_1,0.3304,0
+gr00t_n17_official,none/impossible_action,302,6,2,pour the wine into the bowl,,none,,akita_black_bowl_1,0.3433,0
+gr00t_n17_official,none/impossible_action,303,6,3,cut the cream cheese in half,,6,87,akita_black_bowl_1,0.3166,0
+gr00t_n17_official,none/impossible_action,304,6,4,paint the cabinet red,,4,108,akita_black_bowl_1,0.3133,0
+gr00t_n17_official,none/impossible_action,305,6,5,throw the bowl at the wall,,4,125,akita_black_bowl_1,0.2841,0
+gr00t_n17_official,none/impossible_action,306,6,6,eat the cream cheese,,4,189,cream_cheese_1,0.3280,0
+gr00t_n17_official,none/impossible_action,307,6,7,wash the plate in the sink,,1,111,cream_cheese_1,0.2906,0
+gr00t_n17_official,none/impossible_action,308,6,8,pour the wine into the bowl,,6,151,cream_cheese_1,0.3153,0
+gr00t_n17_official,none/impossible_action,309,6,9,cut the cream cheese in half,,6,98,akita_black_bowl_1,0.3244,0
+gr00t_n17_official,none/impossible_action,310,6,10,paint the cabinet red,,none,,akita_black_bowl_1,0.4573,0
+gr00t_n17_official,none/impossible_action,311,6,11,throw the bowl at the wall,,1,172,akita_black_bowl_1,0.3449,0
+gr00t_n17_official,none/impossible_action,312,6,12,eat the cream cheese,,6,109,cream_cheese_1,0.3444,0
+gr00t_n17_official,none/impossible_action,313,6,13,wash the plate in the sink,,1,188,akita_black_bowl_1,0.2992,0
+gr00t_n17_official,none/impossible_action,314,6,14,pour the wine into the bowl,,4,258,akita_black_bowl_1,0.2980,0
+gr00t_n17_official,none/impossible_action,315,6,15,cut the cream cheese in half,,none,,cream_cheese_1,0.3365,0
+gr00t_n17_official,none/impossible_action,316,6,16,paint the cabinet red,,4,142,akita_black_bowl_1,0.3119,0
+gr00t_n17_official,none/impossible_action,317,6,17,throw the bowl at the wall,,8,201,akita_black_bowl_1,0.3402,0
+gr00t_n17_official,none/impossible_action,318,6,18,eat the cream cheese,,6,90,cream_cheese_1,0.3288,0
+gr00t_n17_official,none/impossible_action,319,6,19,wash the plate in the sink,,none,,akita_black_bowl_1,0.3101,0
+gr00t_n17_official,none/impossible_action,350,7,0,pour the wine into the bowl,,8,191,cream_cheese_1,0.3236,0
+gr00t_n17_official,none/impossible_action,351,7,1,cut the cream cheese in half,,6,100,cream_cheese_1,0.3359,0
+gr00t_n17_official,none/impossible_action,352,7,2,paint the cabinet red,,none,,akita_black_bowl_1,0.2627,0
+gr00t_n17_official,none/impossible_action,353,7,3,throw the bowl at the wall,,4,120,cream_cheese_1,0.3117,0
+gr00t_n17_official,none/impossible_action,354,7,4,eat the cream cheese,,6,153,cream_cheese_1,0.3327,0
+gr00t_n17_official,none/impossible_action,355,7,5,wash the plate in the sink,,none,,plate_1,0.3576,0
+gr00t_n17_official,none/impossible_action,356,7,6,pour the wine into the bowl,,4,175,akita_black_bowl_1,0.3030,0
+gr00t_n17_official,none/impossible_action,357,7,7,cut the cream cheese in half,,none,,akita_black_bowl_1,0.3440,0
+gr00t_n17_official,none/impossible_action,358,7,8,paint the cabinet red,,4,121,akita_black_bowl_1,0.2918,0
+gr00t_n17_official,none/impossible_action,359,7,9,throw the bowl at the wall,,4,120,akita_black_bowl_1,0.3042,0
+gr00t_n17_official,none/impossible_action,360,7,10,eat the cream cheese,,6,97,cream_cheese_1,0.3434,0
+gr00t_n17_official,none/impossible_action,361,7,11,wash the plate in the sink,,none,,akita_black_bowl_1,0.3262,0
+gr00t_n17_official,none/impossible_action,362,7,12,pour the wine into the bowl,,4,119,cream_cheese_1,0.3081,0
+gr00t_n17_official,none/impossible_action,363,7,13,cut the cream cheese in half,,6,99,cream_cheese_1,0.3278,0
+gr00t_n17_official,none/impossible_action,364,7,14,paint the cabinet red,,4,148,akita_black_bowl_1,0.3061,0
+gr00t_n17_official,none/impossible_action,365,7,15,throw the bowl at the wall,,none,,akita_black_bowl_1,0.3293,0
+gr00t_n17_official,none/impossible_action,366,7,16,eat the cream cheese,,6,111,cream_cheese_1,0.3456,0
+gr00t_n17_official,none/impossible_action,367,7,17,wash the plate in the sink,,none,,plate_1,0.3370,0
+gr00t_n17_official,none/impossible_action,368,7,18,pour the wine into the bowl,,none,,akita_black_bowl_1,0.3159,0
+gr00t_n17_official,none/impossible_action,369,7,19,cut the cream cheese in half,,6,146,cream_cheese_1,0.3396,0
+gr00t_n17_official,none/impossible_action,400,8,0,paint the cabinet red,,4,138,akita_black_bowl_1,0.3099,0
+gr00t_n17_official,none/impossible_action,401,8,1,throw the bowl at the wall,,4,117,cream_cheese_1,0.2973,0
+gr00t_n17_official,none/impossible_action,402,8,2,eat the cream cheese,,6,93,cream_cheese_1,0.3280,0
+gr00t_n17_official,none/impossible_action,403,8,3,wash the plate in the sink,,1,264,akita_black_bowl_1,0.3219,0
+gr00t_n17_official,none/impossible_action,404,8,4,pour the wine into the bowl,,none,,akita_black_bowl_1,0.3432,0
+gr00t_n17_official,none/impossible_action,405,8,5,cut the cream cheese in half,,6,102,akita_black_bowl_1,0.3228,0
+gr00t_n17_official,none/impossible_action,406,8,6,paint the cabinet red,,4,135,cream_cheese_1,0.2847,0
+gr00t_n17_official,none/impossible_action,407,8,7,throw the bowl at the wall,,4,122,akita_black_bowl_1,0.2938,0
+gr00t_n17_official,none/impossible_action,408,8,8,eat the cream cheese,,6,95,cream_cheese_1,0.3373,0
+gr00t_n17_official,none/impossible_action,409,8,9,wash the plate in the sink,,1,213,akita_black_bowl_1,0.3175,0
+gr00t_n17_official,none/impossible_action,410,8,10,pour the wine into the bowl,,none,,cream_cheese_1,0.3131,0
+gr00t_n17_official,none/impossible_action,411,8,11,cut the cream cheese in half,,6,120,cream_cheese_1,0.3263,0
+gr00t_n17_official,none/impossible_action,412,8,12,paint the cabinet red,,7,221,flat_stove_1,0.3439,0
+gr00t_n17_official,none/impossible_action,413,8,13,throw the bowl at the wall,,1,108,akita_black_bowl_1,0.3076,0
+gr00t_n17_official,none/impossible_action,414,8,14,eat the cream cheese,,6,88,cream_cheese_1,0.3117,0
+gr00t_n17_official,none/impossible_action,415,8,15,wash the plate in the sink,,none,,akita_black_bowl_1,0.3054,0
+gr00t_n17_official,none/impossible_action,416,8,16,pour the wine into the bowl,,4,121,cream_cheese_1,0.2979,0
+gr00t_n17_official,none/impossible_action,417,8,17,cut the cream cheese in half,,4,119,cream_cheese_1,0.3134,0
+gr00t_n17_official,none/impossible_action,418,8,18,paint the cabinet red,,4,157,akita_black_bowl_1,0.3016,0
+gr00t_n17_official,none/impossible_action,419,8,19,throw the bowl at the wall,,1,97,akita_black_bowl_1,0.2866,0
+gr00t_n17_official,none/impossible_action,450,9,0,eat the cream cheese,,none,,cream_cheese_1,0.3355,0
+gr00t_n17_official,none/impossible_action,451,9,1,wash the plate in the sink,,4,197,akita_black_bowl_1,0.3027,0
+gr00t_n17_official,none/impossible_action,452,9,2,pour the wine into the bowl,,4,279,akita_black_bowl_1,0.3052,0
+gr00t_n17_official,none/impossible_action,453,9,3,cut the cream cheese in half,,6,111,cream_cheese_1,0.3416,0
+gr00t_n17_official,none/impossible_action,454,9,4,paint the cabinet red,,4,208,akita_black_bowl_1,0.3224,0
+gr00t_n17_official,none/impossible_action,455,9,5,throw the bowl at the wall,,4,106,akita_black_bowl_1,0.3121,0
+gr00t_n17_official,none/impossible_action,456,9,6,eat the cream cheese,,6,88,cream_cheese_1,0.3266,0
+gr00t_n17_official,none/impossible_action,457,9,7,wash the plate in the sink,,1,96,akita_black_bowl_1,0.2862,0
+gr00t_n17_official,none/impossible_action,458,9,8,pour the wine into the bowl,,none,,akita_black_bowl_1,0.3201,0
+gr00t_n17_official,none/impossible_action,459,9,9,cut the cream cheese in half,,6,96,cream_cheese_1,0.3293,0
+gr00t_n17_official,none/impossible_action,460,9,10,paint the cabinet red,,4,143,akita_black_bowl_1,0.2883,0
+gr00t_n17_official,none/impossible_action,461,9,11,throw the bowl at the wall,,4,152,akita_black_bowl_1,0.2855,0
+gr00t_n17_official,none/impossible_action,462,9,12,eat the cream cheese,,6,90,cream_cheese_1,0.3248,0
+gr00t_n17_official,none/impossible_action,463,9,13,wash the plate in the sink,,1,164,akita_black_bowl_1,0.3096,0
+gr00t_n17_official,none/impossible_action,464,9,14,pour the wine into the bowl,,4,154,akita_black_bowl_1,0.3010,0
+gr00t_n17_official,none/impossible_action,465,9,15,cut the cream cheese in half,,4,207,cream_cheese_1,0.3219,0
+gr00t_n17_official,none/impossible_action,466,9,16,paint the cabinet red,,none,,akita_black_bowl_1,0.2732,0
+gr00t_n17_official,none/impossible_action,467,9,17,throw the bowl at the wall,,1,281,akita_black_bowl_1,0.3185,0
+gr00t_n17_official,none/impossible_action,468,9,18,eat the cream cheese,,6,113,akita_black_bowl_1,0.3416,0
+gr00t_n17_official,none/impossible_action,469,9,19,wash the plate in the sink,,none,,plate_1,0.3403,0

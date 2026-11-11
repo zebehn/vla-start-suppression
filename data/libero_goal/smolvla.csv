@@ -1,0 +1,801 @@
+checkpoint,cond,g,task,j,text,named_task,outcome,outcome_step,first_contact,max_disp,non_start
+smolvla,none/original,0,0,0,open the middle drawer of the cabinet,,none,,wooden_cabinet_1,0.3319,0
+smolvla,none/original,1,0,1,open the middle drawer of the cabinet,,0,121,wooden_cabinet_1,0.3168,0
+smolvla,none/original,2,0,2,open the middle drawer of the cabinet,,0,117,wooden_cabinet_1,0.3379,0
+smolvla,none/original,3,0,3,open the middle drawer of the cabinet,,0,115,wooden_cabinet_1,0.3333,0
+smolvla,none/original,4,0,4,open the middle drawer of the cabinet,,none,,wooden_cabinet_1,0.3057,0
+smolvla,none/original,5,0,5,open the middle drawer of the cabinet,,0,120,wooden_cabinet_1,0.3230,0
+smolvla,none/original,6,0,6,open the middle drawer of the cabinet,,none,,wooden_cabinet_1,0.3185,0
+smolvla,none/original,7,0,7,open the middle drawer of the cabinet,,none,,wooden_cabinet_1,0.3158,0
+smolvla,none/original,8,0,8,open the middle drawer of the cabinet,,none,,wooden_cabinet_1,0.3192,0
+smolvla,none/original,9,0,9,open the middle drawer of the cabinet,,0,126,wooden_cabinet_1,0.3036,0
+smolvla,none/original,10,0,10,open the middle drawer of the cabinet,,0,144,wooden_cabinet_1,0.3298,0
+smolvla,none/original,11,0,11,open the middle drawer of the cabinet,,0,128,wooden_cabinet_1,0.3104,0
+smolvla,none/original,12,0,12,open the middle drawer of the cabinet,,0,109,wooden_cabinet_1,0.3189,0
+smolvla,none/original,13,0,13,open the middle drawer of the cabinet,,0,134,wooden_cabinet_1,0.3256,0
+smolvla,none/original,14,0,14,open the middle drawer of the cabinet,,none,,wooden_cabinet_1,0.3417,0
+smolvla,none/original,15,0,15,open the middle drawer of the cabinet,,0,127,wooden_cabinet_1,0.3329,0
+smolvla,none/original,16,0,16,open the middle drawer of the cabinet,,0,117,wooden_cabinet_1,0.3134,0
+smolvla,none/original,17,0,17,open the middle drawer of the cabinet,,0,124,wooden_cabinet_1,0.3258,0
+smolvla,none/original,18,0,18,open the middle drawer of the cabinet,,none,,wooden_cabinet_1,0.3228,0
+smolvla,none/original,19,0,19,open the middle drawer of the cabinet,,0,231,wooden_cabinet_1,0.3379,0
+smolvla,none/original,50,1,0,put the bowl on the stove,,none,,akita_black_bowl_1,0.3526,0
+smolvla,none/original,51,1,1,put the bowl on the stove,,1,85,akita_black_bowl_1,0.2927,0
+smolvla,none/original,52,1,2,put the bowl on the stove,,1,94,akita_black_bowl_1,0.2715,0
+smolvla,none/original,53,1,3,put the bowl on the stove,,1,86,akita_black_bowl_1,0.3170,0
+smolvla,none/original,54,1,4,put the bowl on the stove,,1,83,akita_black_bowl_1,0.2860,0
+smolvla,none/original,55,1,5,put the bowl on the stove,,1,90,akita_black_bowl_1,0.3279,0
+smolvla,none/original,56,1,6,put the bowl on the stove,,1,100,akita_black_bowl_1,0.2999,0
+smolvla,none/original,57,1,7,put the bowl on the stove,,1,90,akita_black_bowl_1,0.3068,0
+smolvla,none/original,58,1,8,put the bowl on the stove,,1,84,cream_cheese_1,0.3172,0
+smolvla,none/original,59,1,9,put the bowl on the stove,,1,103,akita_black_bowl_1,0.3231,0
+smolvla,none/original,60,1,10,put the bowl on the stove,,1,96,akita_black_bowl_1,0.3341,0
+smolvla,none/original,61,1,11,put the bowl on the stove,,none,,akita_black_bowl_1,0.3624,0
+smolvla,none/original,62,1,12,put the bowl on the stove,,none,,flat_stove_1,0.3647,0
+smolvla,none/original,63,1,13,put the bowl on the stove,,1,81,akita_black_bowl_1,0.2877,0
+smolvla,none/original,64,1,14,put the bowl on the stove,,1,90,akita_black_bowl_1,0.3328,0
+smolvla,none/original,65,1,15,put the bowl on the stove,,1,89,akita_black_bowl_1,0.2959,0
+smolvla,none/original,66,1,16,put the bowl on the stove,,1,91,akita_black_bowl_1,0.3420,0
+smolvla,none/original,67,1,17,put the bowl on the stove,,1,93,akita_black_bowl_1,0.3142,0
+smolvla,none/original,68,1,18,put the bowl on the stove,,1,80,akita_black_bowl_1,0.3082,0
+smolvla,none/original,69,1,19,put the bowl on the stove,,1,89,akita_black_bowl_1,0.2998,0
+smolvla,none/original,100,2,0,put the wine bottle on top of the cabinet,,2,90,wine_bottle_1,0.3235,0
+smolvla,none/original,101,2,1,put the wine bottle on top of the cabinet,,none,,,0.4036,0
+smolvla,none/original,102,2,2,put the wine bottle on top of the cabinet,,2,113,wine_bottle_1,0.3292,0
+smolvla,none/original,103,2,3,put the wine bottle on top of the cabinet,,2,94,wine_bottle_1,0.2815,0
+smolvla,none/original,104,2,4,put the wine bottle on top of the cabinet,,2,90,wine_bottle_1,0.2873,0
+smolvla,none/original,105,2,5,put the wine bottle on top of the cabinet,,2,98,wine_bottle_1,0.2931,0
+smolvla,none/original,106,2,6,put the wine bottle on top of the cabinet,,none,,wine_bottle_1,0.3479,0
+smolvla,none/original,107,2,7,put the wine bottle on top of the cabinet,,2,90,wine_bottle_1,0.2845,0
+smolvla,none/original,108,2,8,put the wine bottle on top of the cabinet,,2,100,wine_bottle_1,0.2951,0
+smolvla,none/original,109,2,9,put the wine bottle on top of the cabinet,,2,93,wine_bottle_1,0.2639,0
+smolvla,none/original,110,2,10,put the wine bottle on top of the cabinet,,2,117,wine_bottle_1,0.2845,0
+smolvla,none/original,111,2,11,put the wine bottle on top of the cabinet,,none,,,0.4207,0
+smolvla,none/original,112,2,12,put the wine bottle on top of the cabinet,,none,,wine_bottle_1,0.3853,0
+smolvla,none/original,113,2,13,put the wine bottle on top of the cabinet,,2,100,wine_bottle_1,0.3075,0
+smolvla,none/original,114,2,14,put the wine bottle on top of the cabinet,,2,88,wine_bottle_1,0.2878,0
+smolvla,none/original,115,2,15,put the wine bottle on top of the cabinet,,2,102,wine_bottle_1,0.3066,0
+smolvla,none/original,116,2,16,put the wine bottle on top of the cabinet,,none,,,0.4189,0
+smolvla,none/original,117,2,17,put the wine bottle on top of the cabinet,,2,100,wine_bottle_1,0.2778,0
+smolvla,none/original,118,2,18,put the wine bottle on top of the cabinet,,2,87,wine_bottle_1,0.2899,0
+smolvla,none/original,119,2,19,put the wine bottle on top of the cabinet,,2,92,wine_bottle_1,0.2737,0
+smolvla,none/original,150,3,0,open the top drawer and put the bowl inside,,none,,wooden_cabinet_1,0.3023,0
+smolvla,none/original,151,3,1,open the top drawer and put the bowl inside,,3,189,wooden_cabinet_1,0.2822,0
+smolvla,none/original,152,3,2,open the top drawer and put the bowl inside,,none,,wooden_cabinet_1,0.3265,0
+smolvla,none/original,153,3,3,open the top drawer and put the bowl inside,,3,188,wooden_cabinet_1,0.2895,0
+smolvla,none/original,154,3,4,open the top drawer and put the bowl inside,,3,185,wooden_cabinet_1,0.2992,0
+smolvla,none/original,155,3,5,open the top drawer and put the bowl inside,,none,,wooden_cabinet_1,0.2878,0
+smolvla,none/original,156,3,6,open the top drawer and put the bowl inside,,none,,akita_black_bowl_1,0.2898,0
+smolvla,none/original,157,3,7,open the top drawer and put the bowl inside,,3,178,wooden_cabinet_1,0.2821,0
+smolvla,none/original,158,3,8,open the top drawer and put the bowl inside,,3,173,wooden_cabinet_1,0.2860,0
+smolvla,none/original,159,3,9,open the top drawer and put the bowl inside,,none,,wooden_cabinet_1,0.3182,0
+smolvla,none/original,160,3,10,open the top drawer and put the bowl inside,,3,186,wooden_cabinet_1,0.2773,0
+smolvla,none/original,161,3,11,open the top drawer and put the bowl inside,,none,,wooden_cabinet_1,0.3214,0
+smolvla,none/original,162,3,12,open the top drawer and put the bowl inside,,3,179,wooden_cabinet_1,0.2963,0
+smolvla,none/original,163,3,13,open the top drawer and put the bowl inside,,3,172,wooden_cabinet_1,0.2898,0
+smolvla,none/original,164,3,14,open the top drawer and put the bowl inside,,3,177,wooden_cabinet_1,0.2862,0
+smolvla,none/original,165,3,15,open the top drawer and put the bowl inside,,none,,cream_cheese_1,0.3055,0
+smolvla,none/original,166,3,16,open the top drawer and put the bowl inside,,3,168,wooden_cabinet_1,0.2951,0
+smolvla,none/original,167,3,17,open the top drawer and put the bowl inside,,none,,akita_black_bowl_1,0.2994,0
+smolvla,none/original,168,3,18,open the top drawer and put the bowl inside,,3,190,wooden_cabinet_1,0.2806,0
+smolvla,none/original,169,3,19,open the top drawer and put the bowl inside,,none,,wooden_cabinet_1,0.2891,0
+smolvla,none/original,200,4,0,put the bowl on top of the cabinet,,4,86,akita_black_bowl_1,0.2722,0
+smolvla,none/original,201,4,1,put the bowl on top of the cabinet,,4,103,cream_cheese_1,0.3263,0
+smolvla,none/original,202,4,2,put the bowl on top of the cabinet,,4,81,akita_black_bowl_1,0.2859,0
+smolvla,none/original,203,4,3,put the bowl on top of the cabinet,,4,73,akita_black_bowl_1,0.2782,0
+smolvla,none/original,204,4,4,put the bowl on top of the cabinet,,4,85,akita_black_bowl_1,0.2824,0
+smolvla,none/original,205,4,5,put the bowl on top of the cabinet,,4,80,akita_black_bowl_1,0.2768,0
+smolvla,none/original,206,4,6,put the bowl on top of the cabinet,,none,,akita_black_bowl_1,0.2969,0
+smolvla,none/original,207,4,7,put the bowl on top of the cabinet,,4,83,akita_black_bowl_1,0.2841,0
+smolvla,none/original,208,4,8,put the bowl on top of the cabinet,,4,83,akita_black_bowl_1,0.2751,0
+smolvla,none/original,209,4,9,put the bowl on top of the cabinet,,4,86,akita_black_bowl_1,0.2858,0
+smolvla,none/original,210,4,10,put the bowl on top of the cabinet,,4,84,akita_black_bowl_1,0.2828,0
+smolvla,none/original,211,4,11,put the bowl on top of the cabinet,,4,86,akita_black_bowl_1,0.2752,0
+smolvla,none/original,212,4,12,put the bowl on top of the cabinet,,4,84,akita_black_bowl_1,0.2860,0
+smolvla,none/original,213,4,13,put the bowl on top of the cabinet,,4,86,akita_black_bowl_1,0.2844,0
+smolvla,none/original,214,4,14,put the bowl on top of the cabinet,,4,84,akita_black_bowl_1,0.2734,0
+smolvla,none/original,215,4,15,put the bowl on top of the cabinet,,4,92,akita_black_bowl_1,0.2779,0
+smolvla,none/original,216,4,16,put the bowl on top of the cabinet,,4,94,akita_black_bowl_1,0.2993,0
+smolvla,none/original,217,4,17,put the bowl on top of the cabinet,,4,93,akita_black_bowl_1,0.2835,0
+smolvla,none/original,218,4,18,put the bowl on top of the cabinet,,4,96,akita_black_bowl_1,0.2961,0
+smolvla,none/original,219,4,19,put the bowl on top of the cabinet,,4,85,akita_black_bowl_1,0.2735,0
+smolvla,none/original,250,5,0,push the plate to the front of the stove,,none,,plate_1,0.4521,0
+smolvla,none/original,251,5,1,push the plate to the front of the stove,,5,115,plate_1,0.4300,0
+smolvla,none/original,252,5,2,push the plate to the front of the stove,,5,127,plate_1,0.4489,0
+smolvla,none/original,253,5,3,push the plate to the front of the stove,,none,,plate_1,0.4591,0
+smolvla,none/original,254,5,4,push the plate to the front of the stove,,none,,plate_1,0.4654,0
+smolvla,none/original,255,5,5,push the plate to the front of the stove,,5,133,plate_1,0.4362,0
+smolvla,none/original,256,5,6,push the plate to the front of the stove,,5,196,plate_1,0.4578,0
+smolvla,none/original,257,5,7,push the plate to the front of the stove,,5,109,plate_1,0.4358,0
+smolvla,none/original,258,5,8,push the plate to the front of the stove,,5,126,plate_1,0.4367,0
+smolvla,none/original,259,5,9,push the plate to the front of the stove,,none,,plate_1,0.4559,0
+smolvla,none/original,260,5,10,push the plate to the front of the stove,,5,102,plate_1,0.4230,0
+smolvla,none/original,261,5,11,push the plate to the front of the stove,,5,132,plate_1,0.4499,0
+smolvla,none/original,262,5,12,push the plate to the front of the stove,,5,132,plate_1,0.4497,0
+smolvla,none/original,263,5,13,push the plate to the front of the stove,,5,143,plate_1,0.4690,0
+smolvla,none/original,264,5,14,push the plate to the front of the stove,,5,116,plate_1,0.4435,0
+smolvla,none/original,265,5,15,push the plate to the front of the stove,,5,134,plate_1,0.4704,0
+smolvla,none/original,266,5,16,push the plate to the front of the stove,,none,,plate_1,0.4798,0
+smolvla,none/original,267,5,17,push the plate to the front of the stove,,5,104,plate_1,0.4393,0
+smolvla,none/original,268,5,18,push the plate to the front of the stove,,5,138,plate_1,0.4599,0
+smolvla,none/original,269,5,19,push the plate to the front of the stove,,5,208,plate_1,0.4459,0
+smolvla,none/original,300,6,0,put the cream cheese in the bowl,,none,,cream_cheese_1,0.3478,0
+smolvla,none/original,301,6,1,put the cream cheese in the bowl,,none,,cream_cheese_1,0.3573,0
+smolvla,none/original,302,6,2,put the cream cheese in the bowl,,6,95,cream_cheese_1,0.3490,0
+smolvla,none/original,303,6,3,put the cream cheese in the bowl,,6,88,cream_cheese_1,0.3234,0
+smolvla,none/original,304,6,4,put the cream cheese in the bowl,,none,,cream_cheese_1,0.3335,0
+smolvla,none/original,305,6,5,put the cream cheese in the bowl,,none,,cream_cheese_1,0.3397,0
+smolvla,none/original,306,6,6,put the cream cheese in the bowl,,6,82,cream_cheese_1,0.3348,0
+smolvla,none/original,307,6,7,put the cream cheese in the bowl,,none,,cream_cheese_1,0.3297,0
+smolvla,none/original,308,6,8,put the cream cheese in the bowl,,6,93,cream_cheese_1,0.3400,0
+smolvla,none/original,309,6,9,put the cream cheese in the bowl,,6,89,cream_cheese_1,0.3338,0
+smolvla,none/original,310,6,10,put the cream cheese in the bowl,,6,82,cream_cheese_1,0.3295,0
+smolvla,none/original,311,6,11,put the cream cheese in the bowl,,6,88,cream_cheese_1,0.3473,0
+smolvla,none/original,312,6,12,put the cream cheese in the bowl,,none,,cream_cheese_1,0.3430,0
+smolvla,none/original,313,6,13,put the cream cheese in the bowl,,6,85,akita_black_bowl_1,0.3227,0
+smolvla,none/original,314,6,14,put the cream cheese in the bowl,,6,89,cream_cheese_1,0.3316,0
+smolvla,none/original,315,6,15,put the cream cheese in the bowl,,6,98,cream_cheese_1,0.3361,0
+smolvla,none/original,316,6,16,put the cream cheese in the bowl,,6,78,cream_cheese_1,0.3400,0
+smolvla,none/original,317,6,17,put the cream cheese in the bowl,,6,89,cream_cheese_1,0.3436,0
+smolvla,none/original,318,6,18,put the cream cheese in the bowl,,6,97,cream_cheese_1,0.3322,0
+smolvla,none/original,319,6,19,put the cream cheese in the bowl,,6,80,cream_cheese_1,0.3141,0
+smolvla,none/original,350,7,0,turn on the stove,,7,78,flat_stove_1,0.4096,0
+smolvla,none/original,351,7,1,turn on the stove,,7,86,flat_stove_1,0.4056,0
+smolvla,none/original,352,7,2,turn on the stove,,7,72,flat_stove_1,0.4015,0
+smolvla,none/original,353,7,3,turn on the stove,,7,74,flat_stove_1,0.3845,0
+smolvla,none/original,354,7,4,turn on the stove,,7,74,flat_stove_1,0.3816,0
+smolvla,none/original,355,7,5,turn on the stove,,7,90,flat_stove_1,0.4167,0
+smolvla,none/original,356,7,6,turn on the stove,,7,97,flat_stove_1,0.3884,0
+smolvla,none/original,357,7,7,turn on the stove,,7,71,flat_stove_1,0.4064,0
+smolvla,none/original,358,7,8,turn on the stove,,7,71,flat_stove_1,0.3835,0
+smolvla,none/original,359,7,9,turn on the stove,,7,66,flat_stove_1,0.3858,0
+smolvla,none/original,360,7,10,turn on the stove,,7,82,flat_stove_1,0.3994,0
+smolvla,none/original,361,7,11,turn on the stove,,7,72,flat_stove_1,0.3899,0
+smolvla,none/original,362,7,12,turn on the stove,,7,73,flat_stove_1,0.3910,0
+smolvla,none/original,363,7,13,turn on the stove,,7,70,flat_stove_1,0.3996,0
+smolvla,none/original,364,7,14,turn on the stove,,7,74,flat_stove_1,0.3783,0
+smolvla,none/original,365,7,15,turn on the stove,,7,66,flat_stove_1,0.3907,0
+smolvla,none/original,366,7,16,turn on the stove,,7,69,flat_stove_1,0.3996,0
+smolvla,none/original,367,7,17,turn on the stove,,7,69,flat_stove_1,0.3825,0
+smolvla,none/original,368,7,18,turn on the stove,,7,80,flat_stove_1,0.3891,0
+smolvla,none/original,369,7,19,turn on the stove,,7,70,flat_stove_1,0.3984,0
+smolvla,none/original,400,8,0,put the bowl on the plate,,8,79,akita_black_bowl_1,0.3575,0
+smolvla,none/original,401,8,1,put the bowl on the plate,,8,76,akita_black_bowl_1,0.3491,0
+smolvla,none/original,402,8,2,put the bowl on the plate,,8,83,akita_black_bowl_1,0.3332,0
+smolvla,none/original,403,8,3,put the bowl on the plate,,8,81,akita_black_bowl_1,0.3362,0
+smolvla,none/original,404,8,4,put the bowl on the plate,,8,79,akita_black_bowl_1,0.3436,0
+smolvla,none/original,405,8,5,put the bowl on the plate,,8,87,akita_black_bowl_1,0.3521,0
+smolvla,none/original,406,8,6,put the bowl on the plate,,8,67,akita_black_bowl_1,0.3327,0
+smolvla,none/original,407,8,7,put the bowl on the plate,,8,70,akita_black_bowl_1,0.3375,0
+smolvla,none/original,408,8,8,put the bowl on the plate,,none,,akita_black_bowl_1,0.3313,0
+smolvla,none/original,409,8,9,put the bowl on the plate,,8,90,akita_black_bowl_1,0.3420,0
+smolvla,none/original,410,8,10,put the bowl on the plate,,8,80,akita_black_bowl_1,0.3636,0
+smolvla,none/original,411,8,11,put the bowl on the plate,,8,77,akita_black_bowl_1,0.3348,0
+smolvla,none/original,412,8,12,put the bowl on the plate,,8,72,akita_black_bowl_1,0.3493,0
+smolvla,none/original,413,8,13,put the bowl on the plate,,8,76,akita_black_bowl_1,0.3520,0
+smolvla,none/original,414,8,14,put the bowl on the plate,,8,76,akita_black_bowl_1,0.3337,0
+smolvla,none/original,415,8,15,put the bowl on the plate,,none,,akita_black_bowl_1,0.3419,0
+smolvla,none/original,416,8,16,put the bowl on the plate,,none,,akita_black_bowl_1,0.3520,0
+smolvla,none/original,417,8,17,put the bowl on the plate,,8,78,akita_black_bowl_1,0.3518,0
+smolvla,none/original,418,8,18,put the bowl on the plate,,8,73,akita_black_bowl_1,0.3260,0
+smolvla,none/original,419,8,19,put the bowl on the plate,,none,,akita_black_bowl_1,0.3345,0
+smolvla,none/original,450,9,0,put the wine bottle on the rack,,9,140,wine_bottle_1,0.2861,0
+smolvla,none/original,451,9,1,put the wine bottle on the rack,,none,,wine_bottle_1,0.2638,0
+smolvla,none/original,452,9,2,put the wine bottle on the rack,,none,,wine_bottle_1,0.2776,0
+smolvla,none/original,453,9,3,put the wine bottle on the rack,,9,149,wine_bottle_1,0.2710,0
+smolvla,none/original,454,9,4,put the wine bottle on the rack,,9,149,wine_bottle_1,0.2798,0
+smolvla,none/original,455,9,5,put the wine bottle on the rack,,9,130,wine_bottle_1,0.2886,0
+smolvla,none/original,456,9,6,put the wine bottle on the rack,,none,,wine_bottle_1,0.2672,0
+smolvla,none/original,457,9,7,put the wine bottle on the rack,,9,164,wine_bottle_1,0.2877,0
+smolvla,none/original,458,9,8,put the wine bottle on the rack,,none,,wine_bottle_1,0.2758,0
+smolvla,none/original,459,9,9,put the wine bottle on the rack,,9,147,wine_bottle_1,0.2720,0
+smolvla,none/original,460,9,10,put the wine bottle on the rack,,none,,wine_bottle_1,0.3152,0
+smolvla,none/original,461,9,11,put the wine bottle on the rack,,none,,wine_bottle_1,0.2651,0
+smolvla,none/original,462,9,12,put the wine bottle on the rack,,none,,wine_bottle_1,0.2219,0
+smolvla,none/original,463,9,13,put the wine bottle on the rack,,9,127,wine_bottle_1,0.2695,0
+smolvla,none/original,464,9,14,put the wine bottle on the rack,,9,150,wine_bottle_1,0.2889,0
+smolvla,none/original,465,9,15,put the wine bottle on the rack,,9,128,wine_bottle_1,0.2898,0
+smolvla,none/original,466,9,16,put the wine bottle on the rack,,none,,wine_bottle_1,0.2670,0
+smolvla,none/original,467,9,17,put the wine bottle on the rack,,9,145,wine_bottle_1,0.2795,0
+smolvla,none/original,468,9,18,put the wine bottle on the rack,,none,,wine_bottle_1,0.3075,0
+smolvla,none/original,469,9,19,put the wine bottle on the rack,,9,146,wine_bottle_1,0.2382,0
+smolvla,none/empty,0,0,0,,,none,,flat_stove_1,0.4477,0
+smolvla,none/empty,1,0,1,,,none,,flat_stove_1,0.3697,0
+smolvla,none/empty,2,0,2,,,none,,flat_stove_1,0.4430,0
+smolvla,none/empty,3,0,3,,,none,,flat_stove_1,0.3814,0
+smolvla,none/empty,4,0,4,,,none,,flat_stove_1,0.3641,0
+smolvla,none/empty,5,0,5,,,none,,flat_stove_1,0.4322,0
+smolvla,none/empty,6,0,6,,,none,,flat_stove_1,0.4433,0
+smolvla,none/empty,7,0,7,,,none,,flat_stove_1,0.4236,0
+smolvla,none/empty,8,0,8,,,none,,flat_stove_1,0.4153,0
+smolvla,none/empty,9,0,9,,,none,,flat_stove_1,0.4398,0
+smolvla,none/empty,10,0,10,,,none,,flat_stove_1,0.3649,0
+smolvla,none/empty,11,0,11,,,none,,flat_stove_1,0.4645,0
+smolvla,none/empty,12,0,12,,,none,,flat_stove_1,0.4272,0
+smolvla,none/empty,13,0,13,,,none,,flat_stove_1,0.3792,0
+smolvla,none/empty,14,0,14,,,none,,flat_stove_1,0.3726,0
+smolvla,none/empty,15,0,15,,,none,,flat_stove_1,0.3793,0
+smolvla,none/empty,16,0,16,,,none,,flat_stove_1,0.4743,0
+smolvla,none/empty,17,0,17,,,none,,flat_stove_1,0.4411,0
+smolvla,none/empty,18,0,18,,,none,,flat_stove_1,0.3797,0
+smolvla,none/empty,19,0,19,,,none,,flat_stove_1,0.4137,0
+smolvla,none/empty,50,1,0,,,none,,flat_stove_1,0.3682,0
+smolvla,none/empty,51,1,1,,,none,,flat_stove_1,0.3686,0
+smolvla,none/empty,52,1,2,,,none,,flat_stove_1,0.3735,0
+smolvla,none/empty,53,1,3,,,none,,flat_stove_1,0.3807,0
+smolvla,none/empty,54,1,4,,,none,,flat_stove_1,0.3657,0
+smolvla,none/empty,55,1,5,,,none,,flat_stove_1,0.4382,0
+smolvla,none/empty,56,1,6,,,none,,flat_stove_1,0.3745,0
+smolvla,none/empty,57,1,7,,,none,,flat_stove_1,0.3751,0
+smolvla,none/empty,58,1,8,,,none,,flat_stove_1,0.3883,0
+smolvla,none/empty,59,1,9,,,none,,flat_stove_1,0.4108,0
+smolvla,none/empty,60,1,10,,,none,,flat_stove_1,0.4103,0
+smolvla,none/empty,61,1,11,,,none,,cream_cheese_1,0.3621,0
+smolvla,none/empty,62,1,12,,,none,,flat_stove_1,0.3876,0
+smolvla,none/empty,63,1,13,,,none,,flat_stove_1,0.3580,0
+smolvla,none/empty,64,1,14,,,none,,flat_stove_1,0.3859,0
+smolvla,none/empty,65,1,15,,,none,,flat_stove_1,0.3665,0
+smolvla,none/empty,66,1,16,,,none,,flat_stove_1,0.4026,0
+smolvla,none/empty,67,1,17,,,none,,flat_stove_1,0.3622,0
+smolvla,none/empty,68,1,18,,,7,297,flat_stove_1,0.3906,0
+smolvla,none/empty,69,1,19,,,none,,flat_stove_1,0.3519,0
+smolvla,none/empty,100,2,0,,,none,,flat_stove_1,0.3899,0
+smolvla,none/empty,101,2,1,,,none,,flat_stove_1,0.3520,0
+smolvla,none/empty,102,2,2,,,none,,flat_stove_1,0.4038,0
+smolvla,none/empty,103,2,3,,,none,,flat_stove_1,0.4163,0
+smolvla,none/empty,104,2,4,,,7,295,flat_stove_1,0.4395,0
+smolvla,none/empty,105,2,5,,,none,,flat_stove_1,0.3822,0
+smolvla,none/empty,106,2,6,,,none,,flat_stove_1,0.3644,0
+smolvla,none/empty,107,2,7,,,none,,flat_stove_1,0.4918,0
+smolvla,none/empty,108,2,8,,,none,,flat_stove_1,0.3839,0
+smolvla,none/empty,109,2,9,,,none,,flat_stove_1,0.3755,0
+smolvla,none/empty,110,2,10,,,none,,flat_stove_1,0.3609,0
+smolvla,none/empty,111,2,11,,,none,,flat_stove_1,0.4196,0
+smolvla,none/empty,112,2,12,,,none,,flat_stove_1,0.4328,0
+smolvla,none/empty,113,2,13,,,none,,flat_stove_1,0.5183,0
+smolvla,none/empty,114,2,14,,,none,,flat_stove_1,0.4421,0
+smolvla,none/empty,115,2,15,,,none,,flat_stove_1,0.3867,0
+smolvla,none/empty,116,2,16,,,none,,flat_stove_1,0.3767,0
+smolvla,none/empty,117,2,17,,,none,,flat_stove_1,0.3809,0
+smolvla,none/empty,118,2,18,,,none,,flat_stove_1,0.3824,0
+smolvla,none/empty,119,2,19,,,none,,flat_stove_1,0.4520,0
+smolvla,none/empty,150,3,0,,,none,,flat_stove_1,0.3949,0
+smolvla,none/empty,151,3,1,,,none,,flat_stove_1,0.3745,0
+smolvla,none/empty,152,3,2,,,none,,flat_stove_1,0.5137,0
+smolvla,none/empty,153,3,3,,,none,,flat_stove_1,0.3936,0
+smolvla,none/empty,154,3,4,,,none,,flat_stove_1,0.3835,0
+smolvla,none/empty,155,3,5,,,none,,flat_stove_1,0.3861,0
+smolvla,none/empty,156,3,6,,,none,,flat_stove_1,0.4034,0
+smolvla,none/empty,157,3,7,,,none,,flat_stove_1,0.5291,0
+smolvla,none/empty,158,3,8,,,none,,flat_stove_1,0.3618,0
+smolvla,none/empty,159,3,9,,,none,,flat_stove_1,0.3855,0
+smolvla,none/empty,160,3,10,,,none,,flat_stove_1,0.4203,0
+smolvla,none/empty,161,3,11,,,none,,flat_stove_1,0.4093,0
+smolvla,none/empty,162,3,12,,,none,,flat_stove_1,0.3635,0
+smolvla,none/empty,163,3,13,,,none,,flat_stove_1,0.3968,0
+smolvla,none/empty,164,3,14,,,none,,flat_stove_1,0.3898,0
+smolvla,none/empty,165,3,15,,,none,,flat_stove_1,0.3889,0
+smolvla,none/empty,166,3,16,,,none,,flat_stove_1,0.4460,0
+smolvla,none/empty,167,3,17,,,none,,flat_stove_1,0.3591,0
+smolvla,none/empty,168,3,18,,,none,,flat_stove_1,0.3562,0
+smolvla,none/empty,169,3,19,,,none,,flat_stove_1,0.3700,0
+smolvla,none/empty,200,4,0,,,none,,flat_stove_1,0.3967,0
+smolvla,none/empty,201,4,1,,,none,,flat_stove_1,0.3552,0
+smolvla,none/empty,202,4,2,,,none,,flat_stove_1,0.4403,0
+smolvla,none/empty,203,4,3,,,7,237,flat_stove_1,0.4347,0
+smolvla,none/empty,204,4,4,,,none,,flat_stove_1,0.3875,0
+smolvla,none/empty,205,4,5,,,none,,flat_stove_1,0.4241,0
+smolvla,none/empty,206,4,6,,,none,,flat_stove_1,0.4717,0
+smolvla,none/empty,207,4,7,,,none,,flat_stove_1,0.3976,0
+smolvla,none/empty,208,4,8,,,none,,flat_stove_1,0.3867,0
+smolvla,none/empty,209,4,9,,,none,,flat_stove_1,0.3958,0
+smolvla,none/empty,210,4,10,,,none,,flat_stove_1,0.3638,0
+smolvla,none/empty,211,4,11,,,none,,flat_stove_1,0.3856,0
+smolvla,none/empty,212,4,12,,,none,,flat_stove_1,0.3979,0
+smolvla,none/empty,213,4,13,,,none,,flat_stove_1,0.3785,0
+smolvla,none/empty,214,4,14,,,none,,flat_stove_1,0.4259,0
+smolvla,none/empty,215,4,15,,,none,,flat_stove_1,0.3425,0
+smolvla,none/empty,216,4,16,,,none,,flat_stove_1,0.3676,0
+smolvla,none/empty,217,4,17,,,none,,flat_stove_1,0.4280,0
+smolvla,none/empty,218,4,18,,,none,,flat_stove_1,0.3792,0
+smolvla,none/empty,219,4,19,,,none,,flat_stove_1,0.4259,0
+smolvla,none/empty,250,5,0,,,none,,flat_stove_1,0.4414,0
+smolvla,none/empty,251,5,1,,,none,,flat_stove_1,0.3761,0
+smolvla,none/empty,252,5,2,,,none,,flat_stove_1,0.3809,0
+smolvla,none/empty,253,5,3,,,none,,flat_stove_1,0.3611,0
+smolvla,none/empty,254,5,4,,,none,,flat_stove_1,0.3923,0
+smolvla,none/empty,255,5,5,,,none,,flat_stove_1,0.3864,0
+smolvla,none/empty,256,5,6,,,none,,flat_stove_1,0.4058,0
+smolvla,none/empty,257,5,7,,,none,,flat_stove_1,0.3854,0
+smolvla,none/empty,258,5,8,,,none,,flat_stove_1,0.3724,0
+smolvla,none/empty,259,5,9,,,7,299,flat_stove_1,0.5251,0
+smolvla,none/empty,260,5,10,,,none,,flat_stove_1,0.3830,0
+smolvla,none/empty,261,5,11,,,none,,flat_stove_1,0.3580,0
+smolvla,none/empty,262,5,12,,,none,,flat_stove_1,0.3821,0
+smolvla,none/empty,263,5,13,,,none,,flat_stove_1,0.3882,0
+smolvla,none/empty,264,5,14,,,none,,flat_stove_1,0.4549,0
+smolvla,none/empty,265,5,15,,,none,,flat_stove_1,0.3662,0
+smolvla,none/empty,266,5,16,,,none,,flat_stove_1,0.3892,0
+smolvla,none/empty,267,5,17,,,none,,flat_stove_1,0.3893,0
+smolvla,none/empty,268,5,18,,,none,,flat_stove_1,0.4661,0
+smolvla,none/empty,269,5,19,,,none,,flat_stove_1,0.4145,0
+smolvla,none/empty,300,6,0,,,none,,flat_stove_1,0.3748,0
+smolvla,none/empty,301,6,1,,,none,,flat_stove_1,0.4891,0
+smolvla,none/empty,302,6,2,,,none,,flat_stove_1,0.4707,0
+smolvla,none/empty,303,6,3,,,none,,flat_stove_1,0.3507,0
+smolvla,none/empty,304,6,4,,,none,,flat_stove_1,0.3778,0
+smolvla,none/empty,305,6,5,,,none,,flat_stove_1,0.3619,0
+smolvla,none/empty,306,6,6,,,none,,flat_stove_1,0.3660,0
+smolvla,none/empty,307,6,7,,,none,,flat_stove_1,0.4431,0
+smolvla,none/empty,308,6,8,,,none,,flat_stove_1,0.3588,0
+smolvla,none/empty,309,6,9,,,none,,flat_stove_1,0.3284,0
+smolvla,none/empty,310,6,10,,,none,,flat_stove_1,0.4028,0
+smolvla,none/empty,311,6,11,,,none,,flat_stove_1,0.4277,0
+smolvla,none/empty,312,6,12,,,none,,flat_stove_1,0.3699,0
+smolvla,none/empty,313,6,13,,,none,,flat_stove_1,0.4082,0
+smolvla,none/empty,314,6,14,,,none,,flat_stove_1,0.4401,0
+smolvla,none/empty,315,6,15,,,none,,flat_stove_1,0.4501,0
+smolvla,none/empty,316,6,16,,,none,,flat_stove_1,0.3867,0
+smolvla,none/empty,317,6,17,,,none,,flat_stove_1,0.4724,0
+smolvla,none/empty,318,6,18,,,none,,flat_stove_1,0.3685,0
+smolvla,none/empty,319,6,19,,,none,,flat_stove_1,0.4115,0
+smolvla,none/empty,350,7,0,,,none,,flat_stove_1,0.4845,0
+smolvla,none/empty,351,7,1,,,none,,flat_stove_1,0.3458,0
+smolvla,none/empty,352,7,2,,,none,,flat_stove_1,0.3658,0
+smolvla,none/empty,353,7,3,,,none,,flat_stove_1,0.3628,0
+smolvla,none/empty,354,7,4,,,none,,flat_stove_1,0.3534,0
+smolvla,none/empty,355,7,5,,,none,,flat_stove_1,0.3706,0
+smolvla,none/empty,356,7,6,,,none,,flat_stove_1,0.3847,0
+smolvla,none/empty,357,7,7,,,none,,flat_stove_1,0.4872,0
+smolvla,none/empty,358,7,8,,,none,,flat_stove_1,0.3969,0
+smolvla,none/empty,359,7,9,,,none,,flat_stove_1,0.4146,0
+smolvla,none/empty,360,7,10,,,none,,flat_stove_1,0.3691,0
+smolvla,none/empty,361,7,11,,,none,,flat_stove_1,0.5232,0
+smolvla,none/empty,362,7,12,,,none,,,0.3616,0
+smolvla,none/empty,363,7,13,,,none,,flat_stove_1,0.3830,0
+smolvla,none/empty,364,7,14,,,none,,flat_stove_1,0.3829,0
+smolvla,none/empty,365,7,15,,,none,,flat_stove_1,0.3857,0
+smolvla,none/empty,366,7,16,,,none,,flat_stove_1,0.4192,0
+smolvla,none/empty,367,7,17,,,none,,flat_stove_1,0.4084,0
+smolvla,none/empty,368,7,18,,,none,,flat_stove_1,0.3765,0
+smolvla,none/empty,369,7,19,,,none,,flat_stove_1,0.4381,0
+smolvla,none/empty,400,8,0,,,none,,flat_stove_1,0.4134,0
+smolvla,none/empty,401,8,1,,,none,,flat_stove_1,0.3751,0
+smolvla,none/empty,402,8,2,,,none,,flat_stove_1,0.3618,0
+smolvla,none/empty,403,8,3,,,none,,flat_stove_1,0.3970,0
+smolvla,none/empty,404,8,4,,,none,,flat_stove_1,0.4717,0
+smolvla,none/empty,405,8,5,,,none,,flat_stove_1,0.3705,0
+smolvla,none/empty,406,8,6,,,none,,flat_stove_1,0.4018,0
+smolvla,none/empty,407,8,7,,,none,,flat_stove_1,0.4755,0
+smolvla,none/empty,408,8,8,,,none,,flat_stove_1,0.5468,0
+smolvla,none/empty,409,8,9,,,none,,flat_stove_1,0.3643,0
+smolvla,none/empty,410,8,10,,,none,,flat_stove_1,0.3487,0
+smolvla,none/empty,411,8,11,,,none,,flat_stove_1,0.4389,0
+smolvla,none/empty,412,8,12,,,none,,flat_stove_1,0.3505,0
+smolvla,none/empty,413,8,13,,,none,,flat_stove_1,0.4073,0
+smolvla,none/empty,414,8,14,,,none,,flat_stove_1,0.4047,0
+smolvla,none/empty,415,8,15,,,none,,flat_stove_1,0.4410,0
+smolvla,none/empty,416,8,16,,,none,,flat_stove_1,0.4336,0
+smolvla,none/empty,417,8,17,,,none,,flat_stove_1,0.4760,0
+smolvla,none/empty,418,8,18,,,none,,flat_stove_1,0.3920,0
+smolvla,none/empty,419,8,19,,,none,,flat_stove_1,0.3892,0
+smolvla,none/empty,450,9,0,,,none,,flat_stove_1,0.5289,0
+smolvla,none/empty,451,9,1,,,none,,flat_stove_1,0.4141,0
+smolvla,none/empty,452,9,2,,,none,,flat_stove_1,0.4392,0
+smolvla,none/empty,453,9,3,,,none,,flat_stove_1,0.3658,0
+smolvla,none/empty,454,9,4,,,none,,flat_stove_1,0.3847,0
+smolvla,none/empty,455,9,5,,,none,,flat_stove_1,0.4088,0
+smolvla,none/empty,456,9,6,,,none,,flat_stove_1,0.5411,0
+smolvla,none/empty,457,9,7,,,none,,flat_stove_1,0.4350,0
+smolvla,none/empty,458,9,8,,,none,,flat_stove_1,0.4395,0
+smolvla,none/empty,459,9,9,,,none,,flat_stove_1,0.3822,0
+smolvla,none/empty,460,9,10,,,none,,flat_stove_1,0.3245,0
+smolvla,none/empty,461,9,11,,,none,,flat_stove_1,0.4839,0
+smolvla,none/empty,462,9,12,,,none,,flat_stove_1,0.4175,0
+smolvla,none/empty,463,9,13,,,none,,flat_stove_1,0.3773,0
+smolvla,none/empty,464,9,14,,,none,,flat_stove_1,0.3953,0
+smolvla,none/empty,465,9,15,,,none,,flat_stove_1,0.3983,0
+smolvla,none/empty,466,9,16,,,none,,flat_stove_1,0.3938,0
+smolvla,none/empty,467,9,17,,,7,277,flat_stove_1,0.4364,0
+smolvla,none/empty,468,9,18,,,none,,flat_stove_1,0.5757,0
+smolvla,none/empty,469,9,19,,,none,,flat_stove_1,0.4866,0
+smolvla,none/neutral,0,0,0,do something,,none,,flat_stove_1,0.3948,0
+smolvla,none/neutral,1,0,1,do something,,none,,flat_stove_1,0.3886,0
+smolvla,none/neutral,2,0,2,do something,,none,,,0.4664,0
+smolvla,none/neutral,3,0,3,do something,,none,,,0.4351,0
+smolvla,none/neutral,4,0,4,do something,,none,,,0.4013,0
+smolvla,none/neutral,5,0,5,do something,,none,,flat_stove_1,0.3904,0
+smolvla,none/neutral,6,0,6,do something,,none,,,0.4018,0
+smolvla,none/neutral,7,0,7,do something,,none,,,0.3814,0
+smolvla,none/neutral,8,0,8,do something,,none,,flat_stove_1,0.4598,0
+smolvla,none/neutral,9,0,9,do something,,none,,,0.4286,0
+smolvla,none/neutral,10,0,10,do something,,none,,,0.4198,0
+smolvla,none/neutral,11,0,11,do something,,none,,,0.3680,0
+smolvla,none/neutral,12,0,12,do something,,none,,flat_stove_1,0.3967,0
+smolvla,none/neutral,13,0,13,do something,,none,,,0.4242,0
+smolvla,none/neutral,14,0,14,do something,,none,,,0.4514,0
+smolvla,none/neutral,15,0,15,do something,,none,,,0.3898,0
+smolvla,none/neutral,16,0,16,do something,,none,,flat_stove_1,0.3657,0
+smolvla,none/neutral,17,0,17,do something,,none,,,0.5029,0
+smolvla,none/neutral,18,0,18,do something,,none,,flat_stove_1,0.3545,0
+smolvla,none/neutral,19,0,19,do something,,none,,,0.4220,0
+smolvla,none/neutral,50,1,0,do something,,none,,flat_stove_1,0.4183,0
+smolvla,none/neutral,51,1,1,do something,,none,,,0.4064,0
+smolvla,none/neutral,52,1,2,do something,,none,,,0.3619,0
+smolvla,none/neutral,53,1,3,do something,,none,,flat_stove_1,0.3914,0
+smolvla,none/neutral,54,1,4,do something,,none,,,0.4059,0
+smolvla,none/neutral,55,1,5,do something,,none,,flat_stove_1,0.4721,0
+smolvla,none/neutral,56,1,6,do something,,none,,,0.4052,0
+smolvla,none/neutral,57,1,7,do something,,none,,,0.3684,0
+smolvla,none/neutral,58,1,8,do something,,none,,,0.3512,0
+smolvla,none/neutral,59,1,9,do something,,none,,,0.4275,0
+smolvla,none/neutral,60,1,10,do something,,none,,flat_stove_1,0.4288,0
+smolvla,none/neutral,61,1,11,do something,,none,,,0.4151,0
+smolvla,none/neutral,62,1,12,do something,,none,,,0.4144,0
+smolvla,none/neutral,63,1,13,do something,,none,,flat_stove_1,0.3454,0
+smolvla,none/neutral,64,1,14,do something,,none,,,0.4476,0
+smolvla,none/neutral,65,1,15,do something,,none,,flat_stove_1,0.3271,0
+smolvla,none/neutral,66,1,16,do something,,none,,flat_stove_1,0.5862,0
+smolvla,none/neutral,67,1,17,do something,,none,,,0.3993,0
+smolvla,none/neutral,68,1,18,do something,,none,,,0.4771,0
+smolvla,none/neutral,69,1,19,do something,,none,,,0.3978,0
+smolvla,none/neutral,100,2,0,do something,,none,,,0.4592,0
+smolvla,none/neutral,101,2,1,do something,,none,,,0.3278,0
+smolvla,none/neutral,102,2,2,do something,,none,,,0.3913,0
+smolvla,none/neutral,103,2,3,do something,,none,,,0.4194,0
+smolvla,none/neutral,104,2,4,do something,,none,,,0.4592,0
+smolvla,none/neutral,105,2,5,do something,,none,,,0.3443,0
+smolvla,none/neutral,106,2,6,do something,,none,,,0.4286,0
+smolvla,none/neutral,107,2,7,do something,,none,,,0.5308,0
+smolvla,none/neutral,108,2,8,do something,,none,,flat_stove_1,0.4551,0
+smolvla,none/neutral,109,2,9,do something,,none,,,0.3755,0
+smolvla,none/neutral,110,2,10,do something,,none,,flat_stove_1,0.5559,0
+smolvla,none/neutral,111,2,11,do something,,none,,flat_stove_1,0.3707,0
+smolvla,none/neutral,112,2,12,do something,,none,,,0.4315,0
+smolvla,none/neutral,113,2,13,do something,,none,,,0.4865,0
+smolvla,none/neutral,114,2,14,do something,,none,,flat_stove_1,0.3427,0
+smolvla,none/neutral,115,2,15,do something,,none,,flat_stove_1,0.4434,0
+smolvla,none/neutral,116,2,16,do something,,none,,,0.3975,0
+smolvla,none/neutral,117,2,17,do something,,none,,,0.3957,0
+smolvla,none/neutral,118,2,18,do something,,none,,,0.4356,0
+smolvla,none/neutral,119,2,19,do something,,none,,flat_stove_1,0.3879,0
+smolvla,none/neutral,150,3,0,do something,,none,,,0.4127,0
+smolvla,none/neutral,151,3,1,do something,,none,,,0.3818,0
+smolvla,none/neutral,152,3,2,do something,,none,,,0.4353,0
+smolvla,none/neutral,153,3,3,do something,,none,,,0.4262,0
+smolvla,none/neutral,154,3,4,do something,,none,,,0.4028,0
+smolvla,none/neutral,155,3,5,do something,,none,,flat_stove_1,0.4157,0
+smolvla,none/neutral,156,3,6,do something,,none,,,0.3965,0
+smolvla,none/neutral,157,3,7,do something,,none,,flat_stove_1,0.5464,0
+smolvla,none/neutral,158,3,8,do something,,none,,,0.4173,0
+smolvla,none/neutral,159,3,9,do something,,none,,,0.3936,0
+smolvla,none/neutral,160,3,10,do something,,none,,flat_stove_1,0.4075,0
+smolvla,none/neutral,161,3,11,do something,,none,,,0.5045,0
+smolvla,none/neutral,162,3,12,do something,,none,,flat_stove_1,0.3568,0
+smolvla,none/neutral,163,3,13,do something,,none,,flat_stove_1,0.4033,0
+smolvla,none/neutral,164,3,14,do something,,none,,,0.4638,0
+smolvla,none/neutral,165,3,15,do something,,none,,,0.3798,0
+smolvla,none/neutral,166,3,16,do something,,none,,,0.4238,0
+smolvla,none/neutral,167,3,17,do something,,none,,,0.3756,0
+smolvla,none/neutral,168,3,18,do something,,none,,,0.4334,0
+smolvla,none/neutral,169,3,19,do something,,none,,,0.3917,0
+smolvla,none/neutral,200,4,0,do something,,none,,,0.4294,0
+smolvla,none/neutral,201,4,1,do something,,none,,,0.4446,0
+smolvla,none/neutral,202,4,2,do something,,none,,flat_stove_1,0.4489,0
+smolvla,none/neutral,203,4,3,do something,,none,,,0.4667,0
+smolvla,none/neutral,204,4,4,do something,,none,,,0.4622,0
+smolvla,none/neutral,205,4,5,do something,,none,,,0.4170,0
+smolvla,none/neutral,206,4,6,do something,,none,,,0.4554,0
+smolvla,none/neutral,207,4,7,do something,,none,,,0.4088,0
+smolvla,none/neutral,208,4,8,do something,,none,,,0.4344,0
+smolvla,none/neutral,209,4,9,do something,,none,,flat_stove_1,0.3680,0
+smolvla,none/neutral,210,4,10,do something,,none,,flat_stove_1,0.3847,0
+smolvla,none/neutral,211,4,11,do something,,none,,,0.3921,0
+smolvla,none/neutral,212,4,12,do something,,none,,flat_stove_1,0.3643,0
+smolvla,none/neutral,213,4,13,do something,,none,,,0.4731,0
+smolvla,none/neutral,214,4,14,do something,,none,,,0.3788,0
+smolvla,none/neutral,215,4,15,do something,,none,,,0.4356,0
+smolvla,none/neutral,216,4,16,do something,,none,,flat_stove_1,0.3997,0
+smolvla,none/neutral,217,4,17,do something,,none,,,0.5355,0
+smolvla,none/neutral,218,4,18,do something,,none,,,0.4581,0
+smolvla,none/neutral,219,4,19,do something,,none,,,0.4087,0
+smolvla,none/neutral,250,5,0,do something,,none,,,0.4072,0
+smolvla,none/neutral,251,5,1,do something,,none,,,0.3573,0
+smolvla,none/neutral,252,5,2,do something,,none,,,0.4302,0
+smolvla,none/neutral,253,5,3,do something,,none,,,0.4222,0
+smolvla,none/neutral,254,5,4,do something,,none,,flat_stove_1,0.4327,0
+smolvla,none/neutral,255,5,5,do something,,none,,flat_stove_1,0.3285,0
+smolvla,none/neutral,256,5,6,do something,,none,,,0.4099,0
+smolvla,none/neutral,257,5,7,do something,,none,,,0.3857,0
+smolvla,none/neutral,258,5,8,do something,,none,,,0.4014,0
+smolvla,none/neutral,259,5,9,do something,,none,,flat_stove_1,0.4164,0
+smolvla,none/neutral,260,5,10,do something,,none,,,0.4259,0
+smolvla,none/neutral,261,5,11,do something,,none,,flat_stove_1,0.3419,0
+smolvla,none/neutral,262,5,12,do something,,none,,flat_stove_1,0.4201,0
+smolvla,none/neutral,263,5,13,do something,,none,,flat_stove_1,0.5061,0
+smolvla,none/neutral,264,5,14,do something,,none,,,0.5389,0
+smolvla,none/neutral,265,5,15,do something,,none,,,0.4258,0
+smolvla,none/neutral,266,5,16,do something,,none,,,0.4682,0
+smolvla,none/neutral,267,5,17,do something,,none,,,0.4351,0
+smolvla,none/neutral,268,5,18,do something,,none,,,0.3592,0
+smolvla,none/neutral,269,5,19,do something,,none,,flat_stove_1,0.4357,0
+smolvla,none/neutral,300,6,0,do something,,none,,,0.4384,0
+smolvla,none/neutral,301,6,1,do something,,none,,,0.4190,0
+smolvla,none/neutral,302,6,2,do something,,none,,,0.4407,0
+smolvla,none/neutral,303,6,3,do something,,none,,,0.3895,0
+smolvla,none/neutral,304,6,4,do something,,none,,,0.4388,0
+smolvla,none/neutral,305,6,5,do something,,none,,,0.3917,0
+smolvla,none/neutral,306,6,6,do something,,none,,,0.4238,0
+smolvla,none/neutral,307,6,7,do something,,none,,,0.4211,0
+smolvla,none/neutral,308,6,8,do something,,none,,,0.4085,0
+smolvla,none/neutral,309,6,9,do something,,none,,,0.3566,0
+smolvla,none/neutral,310,6,10,do something,,none,,,0.3749,0
+smolvla,none/neutral,311,6,11,do something,,none,,,0.3741,0
+smolvla,none/neutral,312,6,12,do something,,none,,flat_stove_1,0.3798,0
+smolvla,none/neutral,313,6,13,do something,,none,,,0.4124,0
+smolvla,none/neutral,314,6,14,do something,,none,,,0.3950,0
+smolvla,none/neutral,315,6,15,do something,,none,,,0.4561,0
+smolvla,none/neutral,316,6,16,do something,,none,,,0.4351,0
+smolvla,none/neutral,317,6,17,do something,,none,,flat_stove_1,0.5398,0
+smolvla,none/neutral,318,6,18,do something,,none,,,0.4226,0
+smolvla,none/neutral,319,6,19,do something,,none,,,0.4363,0
+smolvla,none/neutral,350,7,0,do something,,none,,,0.4827,0
+smolvla,none/neutral,351,7,1,do something,,none,,,0.3460,0
+smolvla,none/neutral,352,7,2,do something,,none,,,0.3910,0
+smolvla,none/neutral,353,7,3,do something,,none,,,0.4183,0
+smolvla,none/neutral,354,7,4,do something,,none,,,0.4615,0
+smolvla,none/neutral,355,7,5,do something,,none,,,0.3995,0
+smolvla,none/neutral,356,7,6,do something,,none,,,0.4248,0
+smolvla,none/neutral,357,7,7,do something,,none,,,0.4864,0
+smolvla,none/neutral,358,7,8,do something,,none,,,0.4198,0
+smolvla,none/neutral,359,7,9,do something,,none,,flat_stove_1,0.3591,0
+smolvla,none/neutral,360,7,10,do something,,none,,,0.4589,0
+smolvla,none/neutral,361,7,11,do something,,none,,,0.5482,0
+smolvla,none/neutral,362,7,12,do something,,none,,flat_stove_1,0.3675,0
+smolvla,none/neutral,363,7,13,do something,,none,,,0.4041,0
+smolvla,none/neutral,364,7,14,do something,,none,,,0.4508,0
+smolvla,none/neutral,365,7,15,do something,,none,,flat_stove_1,0.4057,0
+smolvla,none/neutral,366,7,16,do something,,none,,,0.4095,0
+smolvla,none/neutral,367,7,17,do something,,none,,flat_stove_1,0.4174,0
+smolvla,none/neutral,368,7,18,do something,,none,,,0.3582,0
+smolvla,none/neutral,369,7,19,do something,,none,,,0.4660,0
+smolvla,none/neutral,400,8,0,do something,,none,,,0.3983,0
+smolvla,none/neutral,401,8,1,do something,,none,,flat_stove_1,0.4554,0
+smolvla,none/neutral,402,8,2,do something,,none,,,0.3380,0
+smolvla,none/neutral,403,8,3,do something,,none,,flat_stove_1,0.3901,0
+smolvla,none/neutral,404,8,4,do something,,none,,,0.5016,0
+smolvla,none/neutral,405,8,5,do something,,none,,,0.3986,0
+smolvla,none/neutral,406,8,6,do something,,none,,,0.3684,0
+smolvla,none/neutral,407,8,7,do something,,none,,,0.4890,0
+smolvla,none/neutral,408,8,8,do something,,none,,,0.4744,0
+smolvla,none/neutral,409,8,9,do something,,none,,,0.4321,0
+smolvla,none/neutral,410,8,10,do something,,none,,flat_stove_1,0.3371,0
+smolvla,none/neutral,411,8,11,do something,,none,,,0.4341,0
+smolvla,none/neutral,412,8,12,do something,,none,,,0.4412,0
+smolvla,none/neutral,413,8,13,do something,,none,,,0.4840,0
+smolvla,none/neutral,414,8,14,do something,,none,,,0.4137,0
+smolvla,none/neutral,415,8,15,do something,,none,,,0.3742,0
+smolvla,none/neutral,416,8,16,do something,,none,,,0.4014,0
+smolvla,none/neutral,417,8,17,do something,,none,,,0.4442,0
+smolvla,none/neutral,418,8,18,do something,,none,,,0.3682,0
+smolvla,none/neutral,419,8,19,do something,,none,,,0.3853,0
+smolvla,none/neutral,450,9,0,do something,,none,,,0.4143,0
+smolvla,none/neutral,451,9,1,do something,,none,,,0.4335,0
+smolvla,none/neutral,452,9,2,do something,,none,,,0.4446,0
+smolvla,none/neutral,453,9,3,do something,,none,,,0.4494,0
+smolvla,none/neutral,454,9,4,do something,,none,,,0.4282,0
+smolvla,none/neutral,455,9,5,do something,,none,,,0.4479,0
+smolvla,none/neutral,456,9,6,do something,,none,,,0.4619,0
+smolvla,none/neutral,457,9,7,do something,,none,,,0.4168,0
+smolvla,none/neutral,458,9,8,do something,,none,,,0.4807,0
+smolvla,none/neutral,459,9,9,do something,,none,,,0.4166,0
+smolvla,none/neutral,460,9,10,do something,,none,,,0.3645,0
+smolvla,none/neutral,461,9,11,do something,,none,,,0.4789,0
+smolvla,none/neutral,462,9,12,do something,,none,,,0.4111,0
+smolvla,none/neutral,463,9,13,do something,,none,,,0.4134,0
+smolvla,none/neutral,464,9,14,do something,,none,,,0.4206,0
+smolvla,none/neutral,465,9,15,do something,,none,,,0.4412,0
+smolvla,none/neutral,466,9,16,do something,,none,,,0.4028,0
+smolvla,none/neutral,467,9,17,do something,,none,,,0.4813,0
+smolvla,none/neutral,468,9,18,do something,,none,,flat_stove_1,0.5779,0
+smolvla,none/neutral,469,9,19,do something,,none,,,0.5203,0
+smolvla,none/nonsense,0,0,0,xxx,,none,,,0.3547,0
+smolvla,none/nonsense,1,0,1,xxx,,none,,flat_stove_1,0.3440,0
+smolvla,none/nonsense,2,0,2,xxx,,none,,flat_stove_1,0.6161,0
+smolvla,none/nonsense,3,0,3,xxx,,none,,flat_stove_1,0.3964,0
+smolvla,none/nonsense,4,0,4,xxx,,none,,,0.3295,0
+smolvla,none/nonsense,5,0,5,xxx,,none,,flat_stove_1,0.3917,0
+smolvla,none/nonsense,6,0,6,xxx,,none,,flat_stove_1,0.3827,0
+smolvla,none/nonsense,7,0,7,xxx,,none,,,0.3586,0
+smolvla,none/nonsense,8,0,8,xxx,,none,,flat_stove_1,0.5426,0
+smolvla,none/nonsense,9,0,9,xxx,,none,,flat_stove_1,0.3908,0
+smolvla,none/nonsense,10,0,10,xxx,,none,,,0.3336,0
+smolvla,none/nonsense,11,0,11,xxx,,none,,flat_stove_1,0.3666,0
+smolvla,none/nonsense,12,0,12,xxx,,none,,flat_stove_1,0.3821,0
+smolvla,none/nonsense,13,0,13,xxx,,none,,flat_stove_1,0.3823,0
+smolvla,none/nonsense,14,0,14,xxx,,none,,flat_stove_1,0.4756,0
+smolvla,none/nonsense,15,0,15,xxx,,none,,flat_stove_1,0.3871,0
+smolvla,none/nonsense,16,0,16,xxx,,none,,flat_stove_1,0.3837,0
+smolvla,none/nonsense,17,0,17,xxx,,none,,flat_stove_1,0.5905,0
+smolvla,none/nonsense,18,0,18,xxx,,none,,,0.3335,0
+smolvla,none/nonsense,19,0,19,xxx,,none,,,0.3764,0
+smolvla,none/nonsense,50,1,0,xxx,,none,,flat_stove_1,0.4159,0
+smolvla,none/nonsense,51,1,1,xxx,,none,,flat_stove_1,0.3536,0
+smolvla,none/nonsense,52,1,2,xxx,,none,,flat_stove_1,0.3473,0
+smolvla,none/nonsense,53,1,3,xxx,,none,,,0.4085,0
+smolvla,none/nonsense,54,1,4,xxx,,none,,,0.3274,0
+smolvla,none/nonsense,55,1,5,xxx,,none,,,0.4940,0
+smolvla,none/nonsense,56,1,6,xxx,,none,,,0.3592,0
+smolvla,none/nonsense,57,1,7,xxx,,none,,flat_stove_1,0.4165,0
+smolvla,none/nonsense,58,1,8,xxx,,none,,,0.3319,0
+smolvla,none/nonsense,59,1,9,xxx,,none,,flat_stove_1,0.3912,0
+smolvla,none/nonsense,60,1,10,xxx,,none,,flat_stove_1,0.3885,0
+smolvla,none/nonsense,61,1,11,xxx,,none,,flat_stove_1,0.3638,0
+smolvla,none/nonsense,62,1,12,xxx,,none,,flat_stove_1,0.3825,0
+smolvla,none/nonsense,63,1,13,xxx,,none,,flat_stove_1,0.3498,0
+smolvla,none/nonsense,64,1,14,xxx,,none,,flat_stove_1,0.4042,0
+smolvla,none/nonsense,65,1,15,xxx,,none,,,0.3399,0
+smolvla,none/nonsense,66,1,16,xxx,,none,,flat_stove_1,0.3699,0
+smolvla,none/nonsense,67,1,17,xxx,,none,,,0.3927,0
+smolvla,none/nonsense,68,1,18,xxx,,7,249,flat_stove_1,0.4750,0
+smolvla,none/nonsense,69,1,19,xxx,,none,,flat_stove_1,0.3430,0
+smolvla,none/nonsense,100,2,0,xxx,,none,,flat_stove_1,0.3993,0
+smolvla,none/nonsense,101,2,1,xxx,,none,,,0.3295,0
+smolvla,none/nonsense,102,2,2,xxx,,none,,flat_stove_1,0.5808,0
+smolvla,none/nonsense,103,2,3,xxx,,none,,,0.5524,0
+smolvla,none/nonsense,104,2,4,xxx,,none,,flat_stove_1,0.4559,0
+smolvla,none/nonsense,105,2,5,xxx,,none,,flat_stove_1,0.3455,0
+smolvla,none/nonsense,106,2,6,xxx,,none,,flat_stove_1,0.4530,0
+smolvla,none/nonsense,107,2,7,xxx,,none,,,0.5602,0
+smolvla,none/nonsense,108,2,8,xxx,,none,,flat_stove_1,0.4236,0
+smolvla,none/nonsense,109,2,9,xxx,,none,,flat_stove_1,0.3632,0
+smolvla,none/nonsense,110,2,10,xxx,,none,,flat_stove_1,0.4141,0
+smolvla,none/nonsense,111,2,11,xxx,,none,,flat_stove_1,0.3690,0
+smolvla,none/nonsense,112,2,12,xxx,,none,,flat_stove_1,0.3841,0
+smolvla,none/nonsense,113,2,13,xxx,,none,,flat_stove_1,0.5853,0
+smolvla,none/nonsense,114,2,14,xxx,,none,,cream_cheese_1,0.3679,0
+smolvla,none/nonsense,115,2,15,xxx,,none,,,0.4596,0
+smolvla,none/nonsense,116,2,16,xxx,,none,,flat_stove_1,0.4206,0
+smolvla,none/nonsense,117,2,17,xxx,,none,,flat_stove_1,0.3613,0
+smolvla,none/nonsense,118,2,18,xxx,,none,,flat_stove_1,0.4281,0
+smolvla,none/nonsense,119,2,19,xxx,,none,,flat_stove_1,0.4088,0
+smolvla,none/nonsense,150,3,0,xxx,,none,,,0.4077,0
+smolvla,none/nonsense,151,3,1,xxx,,none,,flat_stove_1,0.3548,0
+smolvla,none/nonsense,152,3,2,xxx,,none,,flat_stove_1,0.5150,0
+smolvla,none/nonsense,153,3,3,xxx,,none,,,0.4065,0
+smolvla,none/nonsense,154,3,4,xxx,,none,,flat_stove_1,0.4122,0
+smolvla,none/nonsense,155,3,5,xxx,,none,,flat_stove_1,0.4368,0
+smolvla,none/nonsense,156,3,6,xxx,,none,,flat_stove_1,0.3852,0
+smolvla,none/nonsense,157,3,7,xxx,,none,,flat_stove_1,0.4046,0
+smolvla,none/nonsense,158,3,8,xxx,,none,,flat_stove_1,0.3955,0
+smolvla,none/nonsense,159,3,9,xxx,,none,,flat_stove_1,0.3693,0
+smolvla,none/nonsense,160,3,10,xxx,,none,,flat_stove_1,0.4926,0
+smolvla,none/nonsense,161,3,11,xxx,,none,,flat_stove_1,0.4085,0
+smolvla,none/nonsense,162,3,12,xxx,,none,,flat_stove_1,0.3321,0
+smolvla,none/nonsense,163,3,13,xxx,,none,,flat_stove_1,0.3865,0
+smolvla,none/nonsense,164,3,14,xxx,,none,,flat_stove_1,0.4427,0
+smolvla,none/nonsense,165,3,15,xxx,,none,,flat_stove_1,0.5282,0
+smolvla,none/nonsense,166,3,16,xxx,,none,,flat_stove_1,0.5015,0
+smolvla,none/nonsense,167,3,17,xxx,,none,,,0.3068,0
+smolvla,none/nonsense,168,3,18,xxx,,none,,,0.3336,0
+smolvla,none/nonsense,169,3,19,xxx,,none,,flat_stove_1,0.3693,0
+smolvla,none/nonsense,200,4,0,xxx,,none,,flat_stove_1,0.3673,0
+smolvla,none/nonsense,201,4,1,xxx,,none,,,0.3525,0
+smolvla,none/nonsense,202,4,2,xxx,,none,,flat_stove_1,0.5222,0
+smolvla,none/nonsense,203,4,3,xxx,,none,,flat_stove_1,0.4271,0
+smolvla,none/nonsense,204,4,4,xxx,,none,,flat_stove_1,0.3788,0
+smolvla,none/nonsense,205,4,5,xxx,,none,,flat_stove_1,0.4042,0
+smolvla,none/nonsense,206,4,6,xxx,,none,,flat_stove_1,0.6376,0
+smolvla,none/nonsense,207,4,7,xxx,,none,,,0.5271,0
+smolvla,none/nonsense,208,4,8,xxx,,none,,flat_stove_1,0.3674,0
+smolvla,none/nonsense,209,4,9,xxx,,none,,,0.3314,0
+smolvla,none/nonsense,210,4,10,xxx,,none,,flat_stove_1,0.3673,0
+smolvla,none/nonsense,211,4,11,xxx,,none,,,0.3280,0
+smolvla,none/nonsense,212,4,12,xxx,,none,,,0.3272,0
+smolvla,none/nonsense,213,4,13,xxx,,none,,flat_stove_1,0.5851,0
+smolvla,none/nonsense,214,4,14,xxx,,none,,flat_stove_1,0.3671,0
+smolvla,none/nonsense,215,4,15,xxx,,none,,flat_stove_1,0.4442,0
+smolvla,none/nonsense,216,4,16,xxx,,none,,,0.3369,0
+smolvla,none/nonsense,217,4,17,xxx,,none,,,0.3773,0
+smolvla,none/nonsense,218,4,18,xxx,,none,,flat_stove_1,0.4295,0
+smolvla,none/nonsense,219,4,19,xxx,,none,,flat_stove_1,0.4639,0
+smolvla,none/nonsense,250,5,0,xxx,,none,,flat_stove_1,0.3898,0
+smolvla,none/nonsense,251,5,1,xxx,,none,,,0.3663,0
+smolvla,none/nonsense,252,5,2,xxx,,none,,flat_stove_1,0.3794,0
+smolvla,none/nonsense,253,5,3,xxx,,none,,flat_stove_1,0.3786,0
+smolvla,none/nonsense,254,5,4,xxx,,none,,flat_stove_1,0.4033,0
+smolvla,none/nonsense,255,5,5,xxx,,none,,flat_stove_1,0.3714,0
+smolvla,none/nonsense,256,5,6,xxx,,none,,flat_stove_1,0.5073,0
+smolvla,none/nonsense,257,5,7,xxx,,none,,flat_stove_1,0.3083,0
+smolvla,none/nonsense,258,5,8,xxx,,none,,flat_stove_1,0.3983,0
+smolvla,none/nonsense,259,5,9,xxx,,none,,flat_stove_1,0.4806,0
+smolvla,none/nonsense,260,5,10,xxx,,7,299,flat_stove_1,0.4174,0
+smolvla,none/nonsense,261,5,11,xxx,,none,,flat_stove_1,0.3502,0
+smolvla,none/nonsense,262,5,12,xxx,,none,,flat_stove_1,0.5426,0
+smolvla,none/nonsense,263,5,13,xxx,,none,,flat_stove_1,0.4946,0
+smolvla,none/nonsense,264,5,14,xxx,,none,,flat_stove_1,0.4398,0
+smolvla,none/nonsense,265,5,15,xxx,,none,,flat_stove_1,0.3702,0
+smolvla,none/nonsense,266,5,16,xxx,,none,,flat_stove_1,0.5408,0
+smolvla,none/nonsense,267,5,17,xxx,,none,,flat_stove_1,0.4235,0
+smolvla,none/nonsense,268,5,18,xxx,,none,,flat_stove_1,0.3869,0
+smolvla,none/nonsense,269,5,19,xxx,,none,,flat_stove_1,0.3521,0
+smolvla,none/nonsense,300,6,0,xxx,,none,,flat_stove_1,0.3802,0
+smolvla,none/nonsense,301,6,1,xxx,,none,,flat_stove_1,0.4142,0
+smolvla,none/nonsense,302,6,2,xxx,,none,,flat_stove_1,0.5065,0
+smolvla,none/nonsense,303,6,3,xxx,,none,,flat_stove_1,0.3879,0
+smolvla,none/nonsense,304,6,4,xxx,,none,,flat_stove_1,0.4561,0
+smolvla,none/nonsense,305,6,5,xxx,,none,,flat_stove_1,0.3351,0
+smolvla,none/nonsense,306,6,6,xxx,,none,,,0.3961,0
+smolvla,none/nonsense,307,6,7,xxx,,none,,flat_stove_1,0.3707,0
+smolvla,none/nonsense,308,6,8,xxx,,none,,flat_stove_1,0.3777,0
+smolvla,none/nonsense,309,6,9,xxx,,none,,,0.2971,0
+smolvla,none/nonsense,310,6,10,xxx,,none,,flat_stove_1,0.3903,0
+smolvla,none/nonsense,311,6,11,xxx,,none,,flat_stove_1,0.3488,0
+smolvla,none/nonsense,312,6,12,xxx,,none,,flat_stove_1,0.3957,0
+smolvla,none/nonsense,313,6,13,xxx,,none,,flat_stove_1,0.3660,0
+smolvla,none/nonsense,314,6,14,xxx,,none,,flat_stove_1,0.3129,0
+smolvla,none/nonsense,315,6,15,xxx,,none,,flat_stove_1,0.4392,0
+smolvla,none/nonsense,316,6,16,xxx,,none,,flat_stove_1,0.4371,0
+smolvla,none/nonsense,317,6,17,xxx,,none,,flat_stove_1,0.6139,0
+smolvla,none/nonsense,318,6,18,xxx,,none,,flat_stove_1,0.5006,0
+smolvla,none/nonsense,319,6,19,xxx,,none,,,0.4384,0
+smolvla,none/nonsense,350,7,0,xxx,,none,,,0.4961,0
+smolvla,none/nonsense,351,7,1,xxx,,none,,flat_stove_1,0.3568,0
+smolvla,none/nonsense,352,7,2,xxx,,none,,flat_stove_1,0.4067,0
+smolvla,none/nonsense,353,7,3,xxx,,none,,flat_stove_1,0.3820,0
+smolvla,none/nonsense,354,7,4,xxx,,none,,flat_stove_1,0.3557,0
+smolvla,none/nonsense,355,7,5,xxx,,none,,flat_stove_1,0.3745,0
+smolvla,none/nonsense,356,7,6,xxx,,none,,flat_stove_1,0.3219,0
+smolvla,none/nonsense,357,7,7,xxx,,none,,,0.5071,0
+smolvla,none/nonsense,358,7,8,xxx,,none,,flat_stove_1,0.3557,0
+smolvla,none/nonsense,359,7,9,xxx,,none,,flat_stove_1,0.4307,0
+smolvla,none/nonsense,360,7,10,xxx,,none,,flat_stove_1,0.3801,0
+smolvla,none/nonsense,361,7,11,xxx,,none,,flat_stove_1,0.5876,0
+smolvla,none/nonsense,362,7,12,xxx,,none,,,0.3571,0
+smolvla,none/nonsense,363,7,13,xxx,,none,,,0.3634,0
+smolvla,none/nonsense,364,7,14,xxx,,none,,flat_stove_1,0.3620,0
+smolvla,none/nonsense,365,7,15,xxx,,none,,,0.3947,0
+smolvla,none/nonsense,366,7,16,xxx,,none,,,0.3658,0
+smolvla,none/nonsense,367,7,17,xxx,,none,,flat_stove_1,0.3673,0
+smolvla,none/nonsense,368,7,18,xxx,,none,,flat_stove_1,0.3322,0
+smolvla,none/nonsense,369,7,19,xxx,,none,,flat_stove_1,0.3801,0
+smolvla,none/nonsense,400,8,0,xxx,,none,,flat_stove_1,0.4252,0
+smolvla,none/nonsense,401,8,1,xxx,,none,,flat_stove_1,0.5029,0
+smolvla,none/nonsense,402,8,2,xxx,,none,,flat_stove_1,0.3416,0
+smolvla,none/nonsense,403,8,3,xxx,,none,,flat_stove_1,0.3920,0
+smolvla,none/nonsense,404,8,4,xxx,,none,,flat_stove_1,0.3716,0
+smolvla,none/nonsense,405,8,5,xxx,,none,,,0.3743,0
+smolvla,none/nonsense,406,8,6,xxx,,none,,flat_stove_1,0.3319,0
+smolvla,none/nonsense,407,8,7,xxx,,none,,flat_stove_1,0.6344,0
+smolvla,none/nonsense,408,8,8,xxx,,none,,,0.5001,0
+smolvla,none/nonsense,409,8,9,xxx,,none,,flat_stove_1,0.3737,0
+smolvla,none/nonsense,410,8,10,xxx,,none,,flat_stove_1,0.3492,0
+smolvla,none/nonsense,411,8,11,xxx,,none,,flat_stove_1,0.4235,0
+smolvla,none/nonsense,412,8,12,xxx,,none,,flat_stove_1,0.3716,0
+smolvla,none/nonsense,413,8,13,xxx,,none,,flat_stove_1,0.4626,0
+smolvla,none/nonsense,414,8,14,xxx,,none,,,0.3453,0
+smolvla,none/nonsense,415,8,15,xxx,,none,,flat_stove_1,0.4778,0
+smolvla,none/nonsense,416,8,16,xxx,,none,,flat_stove_1,0.3975,0
+smolvla,none/nonsense,417,8,17,xxx,,none,,flat_stove_1,0.5827,0
+smolvla,none/nonsense,418,8,18,xxx,,none,,flat_stove_1,0.3862,0
+smolvla,none/nonsense,419,8,19,xxx,,none,,flat_stove_1,0.3698,0
+smolvla,none/nonsense,450,9,0,xxx,,none,,,0.5313,0
+smolvla,none/nonsense,451,9,1,xxx,,none,,flat_stove_1,0.3910,0
+smolvla,none/nonsense,452,9,2,xxx,,none,,flat_stove_1,0.6127,0
+smolvla,none/nonsense,453,9,3,xxx,,none,,flat_stove_1,0.4000,0
+smolvla,none/nonsense,454,9,4,xxx,,none,,,0.3837,0
+smolvla,none/nonsense,455,9,5,xxx,,none,,flat_stove_1,0.3590,0
+smolvla,none/nonsense,456,9,6,xxx,,none,,flat_stove_1,0.6697,0
+smolvla,none/nonsense,457,9,7,xxx,,none,,flat_stove_1,0.3750,0
+smolvla,none/nonsense,458,9,8,xxx,,none,,flat_stove_1,0.4196,0
+smolvla,none/nonsense,459,9,9,xxx,,none,,,0.3500,0
+smolvla,none/nonsense,460,9,10,xxx,,none,,flat_stove_1,0.3626,0
+smolvla,none/nonsense,461,9,11,xxx,,none,,flat_stove_1,0.3824,0
+smolvla,none/nonsense,462,9,12,xxx,,none,,flat_stove_1,0.4388,0
+smolvla,none/nonsense,463,9,13,xxx,,none,,,0.3356,0
+smolvla,none/nonsense,464,9,14,xxx,,none,,flat_stove_1,0.5235,0
+smolvla,none/nonsense,465,9,15,xxx,,none,,flat_stove_1,0.3886,0
+smolvla,none/nonsense,466,9,16,xxx,,none,,flat_stove_1,0.3659,0
+smolvla,none/nonsense,467,9,17,xxx,,none,,flat_stove_1,0.4005,0
+smolvla,none/nonsense,468,9,18,xxx,,none,,flat_stove_1,0.5266,0
+smolvla,none/nonsense,469,9,19,xxx,,none,,,0.3956,0

@@ -1,0 +1,639 @@
+{
+ "record": "gr1_gate",
+ "checkpoint": "GR00T N1.6 (GR-1)",
+ "model": "nvidia/GR00T-N1.6-3B",
+ "revision": "d0814e7",
+ "tau": 6.410901841999345,
+ "tau_rounded": 6.411,
+ "floor_median": 4.071599137970248,
+ "floor_median_rounded": 4.072,
+ "calibration": {
+  "n_floor_scenes": 54,
+  "n_floor_distances": 2430,
+  "n_observations": 504,
+  "original_vs_empty_median": 82.60980021234425,
+  "original_vs_empty_median_rounded": 82.6,
+  "original_vs_empty_n_le_tau": 0,
+  "gpu_type": "A100"
+ },
+ "empty_gate_d_max": 0.0,
+ "template_only_gate_d_median": 64.03231211122514,
+ "template_only_gate_d_min": 49.00417577853832,
+ "runs": {
+  "first": {
+   "gpu_types": [
+    "H200"
+   ],
+   "gpus": [
+    "a"
+   ],
+   "cells": {
+    "gate/original": {
+     "n": 120,
+     "counts": {
+      "completion": 89,
+      "attempt": 31,
+      "ncmotion": 0,
+      "nonstart": 0
+     },
+     "nonstart_rate": 0.0,
+     "nonstart_wilson": [
+      0.0,
+      0.03101916689287469
+     ],
+     "completion_n": 89,
+     "completion_rate": 0.7416666666666667,
+     "completion_wilson": [
+      0.656714698705421,
+      0.8116260372963563
+     ],
+     "designated_n": 87,
+     "designated_rate": 0.725,
+     "designated_wilson": [
+      0.6390703410093946,
+      0.7969710338888117
+     ],
+     "outcomes": {
+      "target": 88,
+      "distractor_into_target": 1,
+      "target_into_distractor": 0,
+      "tie": 0,
+      "none": 31
+     },
+     "designated_by_task": {
+      "PlateToPlate": 18,
+      "TrayToPlate": 13,
+      "CuttingboardToPan": 15,
+      "CuttingboardToPot": 13,
+      "TrayToPot": 13,
+      "PlacematToPlate": 15
+     },
+     "median_max_hand_disp_ncmotion_m": null,
+     "median_torso_disp_ncmotion_m": null,
+     "gpu_types": [
+      "H200"
+     ],
+     "displacements_recorded": true,
+     "commit_n": 120,
+     "held_n": 0,
+     "gate_commit_rate": 1.0,
+     "gate_d_median": 81.43779156267453,
+     "gate_d_min": 64.10802168643166,
+     "gate_d_max": 89.12681998201838
+    },
+    "gate/empty": {
+     "n": 120,
+     "counts": {
+      "completion": 0,
+      "attempt": 0,
+      "ncmotion": 0,
+      "nonstart": 120
+     },
+     "nonstart_rate": 1.0,
+     "nonstart_wilson": [
+      0.9689808331071251,
+      0.9999999999999999
+     ],
+     "completion_n": 0,
+     "completion_rate": 0.0,
+     "completion_wilson": [
+      0.0,
+      0.03101916689287469
+     ],
+     "designated_n": 0,
+     "designated_rate": 0.0,
+     "designated_wilson": [
+      0.0,
+      0.03101916689287469
+     ],
+     "outcomes": {
+      "target": 0,
+      "distractor_into_target": 0,
+      "target_into_distractor": 0,
+      "tie": 0,
+      "none": 120
+     },
+     "designated_by_task": {
+      "PlateToPlate": 0,
+      "TrayToPlate": 0,
+      "CuttingboardToPan": 0,
+      "CuttingboardToPot": 0,
+      "TrayToPot": 0,
+      "PlacematToPlate": 0
+     },
+     "median_max_hand_disp_ncmotion_m": null,
+     "median_torso_disp_ncmotion_m": null,
+     "gpu_types": [
+      "H200"
+     ],
+     "displacements_recorded": true,
+     "commit_n": 0,
+     "held_n": 120,
+     "gate_commit_rate": 0.0,
+     "gate_d_median": 0.0,
+     "gate_d_min": 0.0,
+     "gate_d_max": 0.0
+    },
+    "gate/neutral": {
+     "n": 120,
+     "counts": {
+      "completion": 0,
+      "attempt": 3,
+      "ncmotion": 9,
+      "nonstart": 108
+     },
+     "nonstart_rate": 0.9,
+     "nonstart_wilson": [
+      0.8333182582648719,
+      0.9418664082208283
+     ],
+     "completion_n": 0,
+     "completion_rate": 0.0,
+     "completion_wilson": [
+      0.0,
+      0.03101916689287469
+     ],
+     "designated_n": 0,
+     "designated_rate": 0.0,
+     "designated_wilson": [
+      0.0,
+      0.03101916689287469
+     ],
+     "outcomes": {
+      "target": 0,
+      "distractor_into_target": 0,
+      "target_into_distractor": 0,
+      "tie": 0,
+      "none": 120
+     },
+     "designated_by_task": {
+      "PlateToPlate": 0,
+      "TrayToPlate": 0,
+      "CuttingboardToPan": 0,
+      "CuttingboardToPot": 0,
+      "TrayToPot": 0,
+      "PlacematToPlate": 0
+     },
+     "median_max_hand_disp_ncmotion_m": 0.38111,
+     "median_torso_disp_ncmotion_m": 0.01763,
+     "gpu_types": [
+      "H200"
+     ],
+     "displacements_recorded": true,
+     "commit_n": 12,
+     "held_n": 108,
+     "gate_commit_rate": 0.1,
+     "gate_d_median": 3.6125257441816965,
+     "gate_d_min": 1.3316966951652336,
+     "gate_d_max": 18.15294120375215
+    },
+    "gate/nonsense": {
+     "n": 120,
+     "counts": {
+      "completion": 0,
+      "attempt": 2,
+      "ncmotion": 4,
+      "nonstart": 114
+     },
+     "nonstart_rate": 0.95,
+     "nonstart_wilson": [
+      0.8951971140756136,
+      0.9768856357207989
+     ],
+     "completion_n": 0,
+     "completion_rate": 0.0,
+     "completion_wilson": [
+      0.0,
+      0.03101916689287469
+     ],
+     "designated_n": 0,
+     "designated_rate": 0.0,
+     "designated_wilson": [
+      0.0,
+      0.03101916689287469
+     ],
+     "outcomes": {
+      "target": 0,
+      "distractor_into_target": 0,
+      "target_into_distractor": 0,
+      "tie": 0,
+      "none": 120
+     },
+     "designated_by_task": {
+      "PlateToPlate": 0,
+      "TrayToPlate": 0,
+      "CuttingboardToPan": 0,
+      "CuttingboardToPot": 0,
+      "TrayToPot": 0,
+      "PlacematToPlate": 0
+     },
+     "median_max_hand_disp_ncmotion_m": 0.306505,
+     "median_torso_disp_ncmotion_m": 0.010655,
+     "gpu_types": [
+      "H200"
+     ],
+     "displacements_recorded": true,
+     "commit_n": 6,
+     "held_n": 114,
+     "gate_commit_rate": 0.05,
+     "gate_d_median": 2.462139884039378,
+     "gate_d_min": 1.0200339008345467,
+     "gate_d_max": 15.026619244880669
+    }
+   },
+   "held_episodes_all_nonstart": true,
+   "committed_nontask_nonstart_n": 0,
+   "judgments": {
+    "H5": "supported",
+    "H5_margin_neutral": 0,
+    "H5_margin_nonsense": 6,
+    "empty_check": "passed"
+   }
+  },
+  "repeat": {
+   "gpu_types": [
+    "A100"
+   ],
+   "gpus": [
+    "b"
+   ],
+   "cells": {
+    "gate/original": {
+     "n": 120,
+     "counts": {
+      "completion": 90,
+      "attempt": 30,
+      "ncmotion": 0,
+      "nonstart": 0
+     },
+     "nonstart_rate": 0.0,
+     "nonstart_wilson": [
+      0.0,
+      0.03101916689287469
+     ],
+     "completion_n": 90,
+     "completion_rate": 0.75,
+     "completion_wilson": [
+      0.6655886326483037,
+      0.8189017839052589
+     ],
+     "designated_n": 88,
+     "designated_rate": 0.7333333333333333,
+     "designated_wilson": [
+      0.647875605424915,
+      0.8043154500250768
+     ],
+     "outcomes": {
+      "target": 89,
+      "distractor_into_target": 1,
+      "target_into_distractor": 0,
+      "tie": 0,
+      "none": 30
+     },
+     "designated_by_task": {
+      "PlateToPlate": 17,
+      "TrayToPlate": 15,
+      "CuttingboardToPan": 15,
+      "CuttingboardToPot": 12,
+      "TrayToPot": 13,
+      "PlacematToPlate": 16
+     },
+     "median_max_hand_disp_ncmotion_m": null,
+     "median_torso_disp_ncmotion_m": null,
+     "gpu_types": [
+      "A100"
+     ],
+     "displacements_recorded": true,
+     "commit_n": 120,
+     "held_n": 0,
+     "gate_commit_rate": 1.0,
+     "gate_d_median": 81.38534978541473,
+     "gate_d_min": 64.18634721141794,
+     "gate_d_max": 89.04298278620442
+    },
+    "gate/empty": {
+     "n": 120,
+     "counts": {
+      "completion": 0,
+      "attempt": 0,
+      "ncmotion": 0,
+      "nonstart": 120
+     },
+     "nonstart_rate": 1.0,
+     "nonstart_wilson": [
+      0.9689808331071251,
+      0.9999999999999999
+     ],
+     "completion_n": 0,
+     "completion_rate": 0.0,
+     "completion_wilson": [
+      0.0,
+      0.03101916689287469
+     ],
+     "designated_n": 0,
+     "designated_rate": 0.0,
+     "designated_wilson": [
+      0.0,
+      0.03101916689287469
+     ],
+     "outcomes": {
+      "target": 0,
+      "distractor_into_target": 0,
+      "target_into_distractor": 0,
+      "tie": 0,
+      "none": 120
+     },
+     "designated_by_task": {
+      "PlateToPlate": 0,
+      "TrayToPlate": 0,
+      "CuttingboardToPan": 0,
+      "CuttingboardToPot": 0,
+      "TrayToPot": 0,
+      "PlacematToPlate": 0
+     },
+     "median_max_hand_disp_ncmotion_m": null,
+     "median_torso_disp_ncmotion_m": null,
+     "gpu_types": [
+      "A100"
+     ],
+     "displacements_recorded": true,
+     "commit_n": 0,
+     "held_n": 120,
+     "gate_commit_rate": 0.0,
+     "gate_d_median": 0.0,
+     "gate_d_min": 0.0,
+     "gate_d_max": 0.0
+    },
+    "gate/neutral": {
+     "n": 120,
+     "counts": {
+      "completion": 0,
+      "attempt": 3,
+      "ncmotion": 8,
+      "nonstart": 109
+     },
+     "nonstart_rate": 0.9083333333333333,
+     "nonstart_wilson": [
+      0.8432915296559418,
+      0.9480428173815438
+     ],
+     "completion_n": 0,
+     "completion_rate": 0.0,
+     "completion_wilson": [
+      0.0,
+      0.03101916689287469
+     ],
+     "designated_n": 0,
+     "designated_rate": 0.0,
+     "designated_wilson": [
+      0.0,
+      0.03101916689287469
+     ],
+     "outcomes": {
+      "target": 0,
+      "distractor_into_target": 0,
+      "target_into_distractor": 0,
+      "tie": 0,
+      "none": 120
+     },
+     "designated_by_task": {
+      "PlateToPlate": 0,
+      "TrayToPlate": 0,
+      "CuttingboardToPan": 0,
+      "CuttingboardToPot": 0,
+      "TrayToPot": 0,
+      "PlacematToPlate": 0
+     },
+     "median_max_hand_disp_ncmotion_m": 0.375065,
+     "median_torso_disp_ncmotion_m": 0.01644,
+     "gpu_types": [
+      "A100"
+     ],
+     "displacements_recorded": true,
+     "commit_n": 11,
+     "held_n": 109,
+     "gate_commit_rate": 0.09166666666666666,
+     "gate_d_median": 3.445703841693825,
+     "gate_d_min": 1.3200883411509006,
+     "gate_d_max": 17.49997142658377
+    },
+    "gate/nonsense": {
+     "n": 120,
+     "counts": {
+      "completion": 0,
+      "attempt": 3,
+      "ncmotion": 3,
+      "nonstart": 114
+     },
+     "nonstart_rate": 0.95,
+     "nonstart_wilson": [
+      0.8951971140756136,
+      0.9768856357207989
+     ],
+     "completion_n": 0,
+     "completion_rate": 0.0,
+     "completion_wilson": [
+      0.0,
+      0.03101916689287469
+     ],
+     "designated_n": 0,
+     "designated_rate": 0.0,
+     "designated_wilson": [
+      0.0,
+      0.03101916689287469
+     ],
+     "outcomes": {
+      "target": 0,
+      "distractor_into_target": 0,
+      "target_into_distractor": 0,
+      "tie": 0,
+      "none": 120
+     },
+     "designated_by_task": {
+      "PlateToPlate": 0,
+      "TrayToPlate": 0,
+      "CuttingboardToPan": 0,
+      "CuttingboardToPot": 0,
+      "TrayToPot": 0,
+      "PlacematToPlate": 0
+     },
+     "median_max_hand_disp_ncmotion_m": 0.34414,
+     "median_torso_disp_ncmotion_m": 0.01147,
+     "gpu_types": [
+      "A100"
+     ],
+     "displacements_recorded": true,
+     "commit_n": 6,
+     "held_n": 114,
+     "gate_commit_rate": 0.05,
+     "gate_d_median": 2.4952592693224562,
+     "gate_d_min": 1.0922398508717608,
+     "gate_d_max": 14.108932153849311
+    },
+    "gate/template_only": {
+     "n": 120,
+     "counts": {
+      "completion": 9,
+      "attempt": 109,
+      "ncmotion": 2,
+      "nonstart": 0
+     },
+     "nonstart_rate": 0.0,
+     "nonstart_wilson": [
+      0.0,
+      0.03101916689287469
+     ],
+     "completion_n": 9,
+     "completion_rate": 0.075,
+     "completion_wilson": [
+      0.039957115201337684,
+      0.1364091766576058
+     ],
+     "designated_n": 8,
+     "designated_rate": 0.06666666666666667,
+     "designated_wilson": [
+      0.03416530668517112,
+      0.12605130462198694
+     ],
+     "outcomes": {
+      "target": 8,
+      "distractor_into_target": 1,
+      "target_into_distractor": 0,
+      "tie": 0,
+      "none": 111
+     },
+     "designated_by_task": {
+      "PlateToPlate": 4,
+      "TrayToPlate": 1,
+      "CuttingboardToPan": 1,
+      "CuttingboardToPot": 1,
+      "TrayToPot": 0,
+      "PlacematToPlate": 1
+     },
+     "median_max_hand_disp_ncmotion_m": 0.45076,
+     "median_torso_disp_ncmotion_m": 0.014509999999999999,
+     "gpu_types": [
+      "A100"
+     ],
+     "displacements_recorded": true,
+     "commit_n": 120,
+     "held_n": 0,
+     "gate_commit_rate": 1.0,
+     "gate_d_median": 64.03231211122514,
+     "gate_d_min": 49.00417577853832,
+     "gate_d_max": 74.71149041456013
+    }
+   },
+   "held_episodes_all_nonstart": true,
+   "committed_nontask_nonstart_n": 0,
+   "judgments": {
+    "H5": "supported",
+    "H5_margin_neutral": 1,
+    "H5_margin_nonsense": 6,
+    "empty_check": "passed",
+    "template_only": "suppression failed"
+   }
+  }
+ },
+ "comparison": {
+  "per_condition": {
+   "gate/original": {
+    "n_paired": 120,
+    "scene_sig_same": 120,
+    "held_first": 0,
+    "held_repeat": 0,
+    "designated_first": 87,
+    "designated_repeat": 88,
+    "n_changed": 0,
+    "changed": [],
+    "near_tau_5pct_first": 0,
+    "near_tau_5pct_repeat": 0,
+    "gate_d_abs_diff_median": 0.1309381306881363,
+    "gate_d_abs_diff_p95": 0.5038429633898431,
+    "gate_d_abs_diff_max": 1.5133811866346036
+   },
+   "gate/empty": {
+    "n_paired": 120,
+    "scene_sig_same": 120,
+    "held_first": 120,
+    "held_repeat": 120,
+    "designated_first": 0,
+    "designated_repeat": 0,
+    "n_changed": 0,
+    "changed": [],
+    "near_tau_5pct_first": 0,
+    "near_tau_5pct_repeat": 0,
+    "gate_d_abs_diff_median": 0.0,
+    "gate_d_abs_diff_p95": 0.0,
+    "gate_d_abs_diff_max": 0.0
+   },
+   "gate/neutral": {
+    "n_paired": 120,
+    "scene_sig_same": 120,
+    "held_first": 108,
+    "held_repeat": 109,
+    "designated_first": 0,
+    "designated_repeat": 0,
+    "n_changed": 3,
+    "changed": [
+     {
+      "task": 1,
+      "seed": 13,
+      "commit_first": true,
+      "commit_repeat": false,
+      "gate_d_first": 6.436635686685992,
+      "gate_d_repeat": 6.1698186954826,
+      "within_5pct_of_tau": true
+     },
+     {
+      "task": 1,
+      "seed": 31,
+      "commit_first": true,
+      "commit_repeat": false,
+      "gate_d_first": 6.633327346534302,
+      "gate_d_repeat": 6.403044576246217,
+      "within_5pct_of_tau": true
+     },
+     {
+      "task": 5,
+      "seed": 2,
+      "commit_first": false,
+      "commit_repeat": true,
+      "gate_d_first": 6.397581491378367,
+      "gate_d_repeat": 6.675771889812054,
+      "within_5pct_of_tau": true
+     }
+    ],
+    "near_tau_5pct_first": 5,
+    "near_tau_5pct_repeat": 4,
+    "gate_d_abs_diff_median": 0.12346871129801773,
+    "gate_d_abs_diff_p95": 0.65296977716838,
+    "gate_d_abs_diff_max": 0.9924322947323478
+   },
+   "gate/nonsense": {
+    "n_paired": 120,
+    "scene_sig_same": 120,
+    "held_first": 114,
+    "held_repeat": 114,
+    "designated_first": 0,
+    "designated_repeat": 0,
+    "n_changed": 0,
+    "changed": [],
+    "near_tau_5pct_first": 2,
+    "near_tau_5pct_repeat": 0,
+    "gate_d_abs_diff_median": 0.12829521796962395,
+    "gate_d_abs_diff_p95": 0.5905926126747172,
+    "gate_d_abs_diff_max": 0.9176870910313575
+   }
+  },
+  "n_changed_total": 3,
+  "all_changed_within_5pct_of_tau": true,
+  "gate_d_abs_diff_max_all": 1.5133811866346036,
+  "near_tau_fraction": 0.05
+ },
+ "validity": {
+  "problems": [],
+  "category_rows_checked": 1920,
+  "scene_sig_mismatch": 0
+ }
+}

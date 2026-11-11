@@ -1,0 +1,7 @@
+# Scorer, conformance test and CI of the kit (pip install -r env/kit.txt; then pip install -e libero_goal).
+# Versions used for the release checks on macOS 15 / Python 3.13 and in the CI (Ubuntu, Python 3.10 and 3.12).
+numpy==2.2.6 ; python_version < "3.11"
+numpy==2.5.4 ; python_version >= "3.11"
+pyzmq==27.2.0
+msgpack==1.2.4
+msgpack-numpy==0.4.8

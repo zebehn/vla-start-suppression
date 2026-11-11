@@ -1,0 +1,3075 @@
+{
+ "name": "gr1_instruction_strings",
+ "scene_list": "configs/gr1_scenes.json",
+ "template": "unlocked_waist: ",
+ "prefix": "if no task is given do not move",
+ "impossible_action_templates": [
+  "eat the {obj}",
+  "wash the {target} in the sink",
+  "pour water into the {target}",
+  "cut the {obj} in half",
+  "paint the {source} red",
+  "throw the {obj} at the wall"
+ ],
+ "absent_object_object_pool": [
+  "bell pepper",
+  "can",
+  "croissant",
+  "cupcake",
+  "eggplant",
+  "lemon",
+  "pear",
+  "squash",
+  "sweet potato",
+  "tomato"
+ ],
+ "rule": {
+  "original": "the environment's instruction, with the template 'unlocked_waist: ' in front",
+  "impossible_action": "template + impossible_action_templates[g mod 6], with {obj}, {source}, {target} filled from the environment's instruction of the scene (g = 300000 + 1000 * task + seed)",
+  "absent_object": "template + 'pick the {object} from the {source} and place it in the {target}' for another of the six tasks whose two containers are not in the scene (number g mod count among them, in task order), with an object from absent_object_object_pool that is not in the scene (number (g + named_task) mod count); gr1/gr1_common.py absent_object_choice",
+  "prefix/original": "prefix + ' ' + the original string (with the template)"
+ },
+ "scenes": {
+  "0:0": {
+   "original": "unlocked_waist: pick the eggplant from the plate and place it in the plate",
+   "scene_sig": "81f48f350cd868df63da614dc8331100da740904",
+   "scene_objects": {
+    "container": "plate",
+    "obj": "eggplant",
+    "obj_container": "plate"
+   },
+   "impossible_action": {
+    "text": "unlocked_waist: eat the eggplant",
+    "template": 0
+   },
+   "absent_object": {
+    "text": "unlocked_waist: pick the pear from the cutting board and place it in the pan",
+    "named_task": 2,
+    "named_task_name": "CuttingboardToPan",
+    "named_object": "pear",
+    "named_source": "cutting board",
+    "named_target": "pan"
+   },
+   "prefix/original": {
+    "text": "if no task is given do not move unlocked_waist: pick the eggplant from the plate and place it in the plate"
+   }
+  },
+  "0:1": {
+   "original": "unlocked_waist: pick the croissant from the plate and place it in the plate",
+   "scene_sig": "b7fd3a4cd9509919c3608b7bd2fb4437e657bc7a",
+   "scene_objects": {
+    "container": "plate",
+    "distractor_obj_back_edge_type_0_num_0": "candle",
+    "obj": "croissant",
+    "obj_container": "plate"
+   },
+   "impossible_action": {
+    "text": "unlocked_waist: wash the plate in the sink",
+    "template": 1
+   },
+   "absent_object": {
+    "text": "unlocked_waist: pick the sweet potato from the cutting board and place it in the pot",
+    "named_task": 3,
+    "named_task_name": "CuttingboardToPot",
+    "named_object": "sweet potato",
+    "named_source": "cutting board",
+    "named_target": "pot"
+   },
+   "prefix/original": {
+    "text": "if no task is given do not move unlocked_waist: pick the croissant from the plate and place it in the plate"
+   }
+  },
+  "0:2": {
+   "original": "unlocked_waist: pick the bell pepper from the plate and place it in the plate",
+   "scene_sig": "6b8fdff129760c038e06fe783b4002368e4d1de8",
+   "scene_objects": {
+    "container": "plate",
+    "distractor_obj_back_edge_type_0_num_0": "candle",
+    "obj": "bell_pepper",
+    "obj_container": "plate"
+   },
+   "impossible_action": {
+    "text": "unlocked_waist: pour water into the plate",
+    "template": 2
+   },
+   "absent_object": {
+    "text": "unlocked_waist: pick the can from the tray and place it in the pot",
+    "named_task": 4,
+    "named_task_name": "TrayToPot",
+    "named_object": "can",
+    "named_source": "tray",
+    "named_target": "pot"
+   },
+   "prefix/original": {
+    "text": "if no task is given do not move unlocked_waist: pick the bell pepper from the plate and place it in the plate"
+   }
+  },
+  "0:3": {
+   "original": "unlocked_waist: pick the sweet potato from the plate and place it in the plate",
+   "scene_sig": "45906baeeae7ade75140ad95d1c8808428f6e768",
+   "scene_objects": {
+    "container": "plate",
+    "obj": "sweet_potato",
+    "obj_container": "plate"
+   },
+   "impossible_action": {
+    "text": "unlocked_waist: cut the sweet potato in half",
+    "template": 3
+   },
+   "absent_object": {
+    "text": "unlocked_waist: pick the tomato from the cutting board and place it in the pan",
+    "named_task": 2,
+    "named_task_name": "CuttingboardToPan",
+    "named_object": "tomato",
+    "named_source": "cutting board",
+    "named_target": "pan"
+   },
+   "prefix/original": {
+    "text": "if no task is given do not move unlocked_waist: pick the sweet potato from the plate and place it in the plate"
+   }
+  },
+  "0:4": {
+   "original": "unlocked_waist: pick the lemon from the plate and place it in the plate",
+   "scene_sig": "8b55011513baddea3f7f0fd857c50dbcdca4ca0a",
+   "scene_objects": {
+    "container": "plate",
+    "distractor_obj_back_edge_type_0_num_0": "candle",
+    "obj": "lemon",
+    "obj_container": "plate"
+   },
+   "impossible_action": {
+    "text": "unlocked_waist: paint the plate red",
+    "template": 4
+   },
+   "absent_object": {
+    "text": "unlocked_waist: pick the can from the cutting board and place it in the pot",
+    "named_task": 3,
+    "named_task_name": "CuttingboardToPot",
+    "named_object": "can",
+    "named_source": "cutting board",
+    "named_target": "pot"
+   },
+   "prefix/original": {
+    "text": "if no task is given do not move unlocked_waist: pick the lemon from the plate and place it in the plate"
+   }
+  },
+  "0:5": {
+   "original": "unlocked_waist: pick the bell pepper from the plate and place it in the plate",
+   "scene_sig": "907bf796b3bdbf782f5b2bd9bea8b320f4a4d713",
+   "scene_objects": {
+    "container": "plate",
+    "obj": "bell_pepper",
+    "obj_container": "plate"
+   },
+   "impossible_action": {
+    "text": "unlocked_waist: throw the bell pepper at the wall",
+    "template": 5
+   },
+   "absent_object": {
+    "text": "unlocked_waist: pick the eggplant from the tray and place it in the pot",
+    "named_task": 4,
+    "named_task_name": "TrayToPot",
+    "named_object": "eggplant",
+    "named_source": "tray",
+    "named_target": "pot"
+   },
+   "prefix/original": {
+    "text": "if no task is given do not move unlocked_waist: pick the bell pepper from the plate and place it in the plate"
+   }
+  },
+  "0:6": {
+   "original": "unlocked_waist: pick the bell pepper from the plate and place it in the plate",
+   "scene_sig": "cf74ee0ad22133fe8a44d7292dd4271f8cc80054",
+   "scene_objects": {
+    "container": "plate",
+    "distractor_obj_back_edge_type_0_num_0": "candle",
+    "obj": "bell_pepper",
+    "obj_container": "plate"
+   },
+   "impossible_action": {
+    "text": "unlocked_waist: eat the bell pepper",
+    "template": 0
+   },
+   "absent_object": {
+    "text": "unlocked_waist: pick the cupcake from the cutting board and place it in the pan",
+    "named_task": 2,
+    "named_task_name": "CuttingboardToPan",
+    "named_object": "cupcake",
+    "named_source": "cutting board",
+    "named_target": "pan"
+   },
+   "prefix/original": {
+    "text": "if no task is given do not move unlocked_waist: pick the bell pepper from the plate and place it in the plate"
+   }
+  },
+  "0:8": {
+   "original": "unlocked_waist: pick the cupcake from the plate and place it in the plate",
+   "scene_sig": "a75ffe336d733a2ae69c2ad768503003e615953e",
+   "scene_objects": {
+    "container": "plate",
+    "obj": "cupcake",
+    "obj_container": "plate"
+   },
+   "impossible_action": {
+    "text": "unlocked_waist: pour water into the plate",
+    "template": 2
+   },
+   "absent_object": {
+    "text": "unlocked_waist: pick the squash from the tray and place it in the pot",
+    "named_task": 4,
+    "named_task_name": "TrayToPot",
+    "named_object": "squash",
+    "named_source": "tray",
+    "named_target": "pot"
+   },
+   "prefix/original": {
+    "text": "if no task is given do not move unlocked_waist: pick the cupcake from the plate and place it in the plate"
+   }
+  },
+  "0:9": {
+   "original": "unlocked_waist: pick the eggplant from the plate and place it in the plate",
+   "scene_sig": "55ddd7386e48f0c9a63227295fb8ce61bd3f4fca",
+   "scene_objects": {
+    "container": "plate",
+    "obj": "eggplant",
+    "obj_container": "plate"
+   },
+   "impossible_action": {
+    "text": "unlocked_waist: cut the eggplant in half",
+    "template": 3
+   },
+   "absent_object": {
+    "text": "unlocked_waist: pick the pear from the cutting board and place it in the pan",
+    "named_task": 2,
+    "named_task_name": "CuttingboardToPan",
+    "named_object": "pear",
+    "named_source": "cutting board",
+    "named_target": "pan"
+   },
+   "prefix/original": {
+    "text": "if no task is given do not move unlocked_waist: pick the eggplant from the plate and place it in the plate"
+   }
+  },
+  "0:10": {
+   "original": "unlocked_waist: pick the tomato from the plate and place it in the plate",
+   "scene_sig": "1b71ccdba46161b16d3ed7626301d4b09ec7c7fb",
+   "scene_objects": {
+    "container": "plate",
+    "obj": "tomato",
+    "obj_container": "plate"
+   },
+   "impossible_action": {
+    "text": "unlocked_waist: paint the plate red",
+    "template": 4
+   },
+   "absent_object": {
+    "text": "unlocked_waist: pick the squash from the cutting board and place it in the pot",
+    "named_task": 3,
+    "named_task_name": "CuttingboardToPot",
+    "named_object": "squash",
+    "named_source": "cutting board",
+    "named_target": "pot"
+   },
+   "prefix/original": {
+    "text": "if no task is given do not move unlocked_waist: pick the tomato from the plate and place it in the plate"
+   }
+  },
+  "0:11": {
+   "original": "unlocked_waist: pick the squash from the plate and place it in the plate",
+   "scene_sig": "867dc97020ddc438c6510cca43848561422bc820",
+   "scene_objects": {
+    "container": "plate",
+    "distractor_obj_back_edge_type_0_num_0": "candle",
+    "obj": "squash",
+    "obj_container": "plate"
+   },
+   "impossible_action": {
+    "text": "unlocked_waist: throw the squash at the wall",
+    "template": 5
+   },
+   "absent_object": {
+    "text": "unlocked_waist: pick the bell pepper from the tray and place it in the pot",
+    "named_task": 4,
+    "named_task_name": "TrayToPot",
+    "named_object": "bell pepper",
+    "named_source": "tray",
+    "named_target": "pot"
+   },
+   "prefix/original": {
+    "text": "if no task is given do not move unlocked_waist: pick the squash from the plate and place it in the plate"
+   }
+  },
+  "0:12": {
+   "original": "unlocked_waist: pick the bell pepper from the plate and place it in the plate",
+   "scene_sig": "d33199a661bd5abe16a592b4e847b906082ec4e3",
+   "scene_objects": {
+    "container": "plate",
+    "obj": "bell_pepper",
+    "obj_container": "plate"
+   },
+   "impossible_action": {
+    "text": "unlocked_waist: eat the bell pepper",
+    "template": 0
+   },
+   "absent_object": {
+    "text": "unlocked_waist: pick the tomato from the cutting board and place it in the pan",
+    "named_task": 2,
+    "named_task_name": "CuttingboardToPan",
+    "named_object": "tomato",
+    "named_source": "cutting board",
+    "named_target": "pan"
+   },
+   "prefix/original": {
+    "text": "if no task is given do not move unlocked_waist: pick the bell pepper from the plate and place it in the plate"
+   }
+  },
+  "0:13": {
+   "original": "unlocked_waist: pick the cupcake from the plate and place it in the plate",
+   "scene_sig": "a02a299701c7e0c66866b506b6a17eaa748cbeaf",
+   "scene_objects": {
+    "container": "plate",
+    "distractor_obj_back_edge_type_0_num_0": "candle",
+    "obj": "cupcake",
+    "obj_container": "plate"
+   },
+   "impossible_action": {
+    "text": "unlocked_waist: wash the plate in the sink",
+    "template": 1
+   },
+   "absent_object": {
+    "text": "unlocked_waist: pick the can from the cutting board and place it in the pot",
+    "named_task": 3,
+    "named_task_name": "CuttingboardToPot",
+    "named_object": "can",
+    "named_source": "cutting board",
+    "named_target": "pot"
+   },
+   "prefix/original": {
+    "text": "if no task is given do not move unlocked_waist: pick the cupcake from the plate and place it in the plate"
+   }
+  },
+  "0:14": {
+   "original": "unlocked_waist: pick the can from the plate and place it in the plate",
+   "scene_sig": "a4ba890eef411035da267edf1139367db7978757",
+   "scene_objects": {
+    "container": "plate",
+    "obj": "can",
+    "obj_container": "plate"
+   },
+   "impossible_action": {
+    "text": "unlocked_waist: pour water into the plate",
+    "template": 2
+   },
+   "absent_object": {
+    "text": "unlocked_waist: pick the eggplant from the tray and place it in the pot",
+    "named_task": 4,
+    "named_task_name": "TrayToPot",
+    "named_object": "eggplant",
+    "named_source": "tray",
+    "named_target": "pot"
+   },
+   "prefix/original": {
+    "text": "if no task is given do not move unlocked_waist: pick the can from the plate and place it in the plate"
+   }
+  },
+  "0:15": {
+   "original": "unlocked_waist: pick the cupcake from the plate and place it in the plate",
+   "scene_sig": "aa20f5e13ebf3b5767a7df2ebd219a004f26dc52",
+   "scene_objects": {
+    "container": "plate",
+    "distractor_obj_back_edge_type_0_num_0": "candle",
+    "obj": "cupcake",
+    "obj_container": "plate"
+   },
+   "impossible_action": {
+    "text": "unlocked_waist: cut the cupcake in half",
+    "template": 3
+   },
+   "absent_object": {
+    "text": "unlocked_waist: pick the croissant from the cutting board and place it in the pan",
+    "named_task": 2,
+    "named_task_name": "CuttingboardToPan",
+    "named_object": "croissant",
+    "named_source": "cutting board",
+    "named_target": "pan"
+   },
+   "prefix/original": {
+    "text": "if no task is given do not move unlocked_waist: pick the cupcake from the plate and place it in the plate"
+   }
+  },
+  "0:16": {
+   "original": "unlocked_waist: pick the sweet potato from the plate and place it in the plate",
+   "scene_sig": "40b291739a51f51352072e3ed3e4d6d0b961712a",
+   "scene_objects": {
+    "container": "plate",
+    "distractor_obj_back_edge_type_0_num_0": "candle",
+    "obj": "sweet_potato",
+    "obj_container": "plate"
+   },
+   "impossible_action": {
+    "text": "unlocked_waist: paint the plate red",
+    "template": 4
+   },
+   "absent_object": {
+    "text": "unlocked_waist: pick the eggplant from the cutting board and place it in the pot",
+    "named_task": 3,
+    "named_task_name": "CuttingboardToPot",
+    "named_object": "eggplant",
+    "named_source": "cutting board",
+    "named_target": "pot"
+   },
+   "prefix/original": {
+    "text": "if no task is given do not move unlocked_waist: pick the sweet potato from the plate and place it in the plate"
+   }
+  },
+  "0:17": {
+   "original": "unlocked_waist: pick the squash from the plate and place it in the plate",
+   "scene_sig": "caac94faadadde0de87c408fbf9f40896837553e",
+   "scene_objects": {
+    "container": "plate",
+    "distractor_obj_back_edge_type_0_num_0": "candle",
+    "obj": "squash",
+    "obj_container": "plate"
+   },
+   "impossible_action": {
+    "text": "unlocked_waist: throw the squash at the wall",
+    "template": 5
+   },
+   "absent_object": {
+    "text": "unlocked_waist: pick the pear from the tray and place it in the pot",
+    "named_task": 4,
+    "named_task_name": "TrayToPot",
+    "named_object": "pear",
+    "named_source": "tray",
+    "named_target": "pot"
+   },
+   "prefix/original": {
+    "text": "if no task is given do not move unlocked_waist: pick the squash from the plate and place it in the plate"
+   }
+  },
+  "0:18": {
+   "original": "unlocked_waist: pick the pear from the plate and place it in the plate",
+   "scene_sig": "63c6065a47c06355f8d6af646f2ea53be4d7b810",
+   "scene_objects": {
+    "container": "plate",
+    "obj": "pear",
+    "obj_container": "plate"
+   },
+   "impossible_action": {
+    "text": "unlocked_waist: eat the pear",
+    "template": 0
+   },
+   "absent_object": {
+    "text": "unlocked_waist: pick the lemon from the cutting board and place it in the pan",
+    "named_task": 2,
+    "named_task_name": "CuttingboardToPan",
+    "named_object": "lemon",
+    "named_source": "cutting board",
+    "named_target": "pan"
+   },
+   "prefix/original": {
+    "text": "if no task is given do not move unlocked_waist: pick the pear from the plate and place it in the plate"
+   }
+  },
+  "0:20": {
+   "original": "unlocked_waist: pick the pear from the plate and place it in the plate",
+   "scene_sig": "2fbbdac7db9b830c993f8817d25be4869258c9ba",
+   "scene_objects": {
+    "container": "plate",
+    "distractor_obj_back_edge_type_0_num_0": "candle",
+    "obj": "pear",
+    "obj_container": "plate"
+   },
+   "impossible_action": {
+    "text": "unlocked_waist: pour water into the plate",
+    "template": 2
+   },
+   "absent_object": {
+    "text": "unlocked_waist: pick the bell pepper from the tray and place it in the pot",
+    "named_task": 4,
+    "named_task_name": "TrayToPot",
+    "named_object": "bell pepper",
+    "named_source": "tray",
+    "named_target": "pot"
+   },
+   "prefix/original": {
+    "text": "if no task is given do not move unlocked_waist: pick the pear from the plate and place it in the plate"
+   }
+  },
+  "0:21": {
+   "original": "unlocked_waist: pick the eggplant from the plate and place it in the plate",
+   "scene_sig": "a32c23050c47516940e815e6b574c4f4e25f21c7",
+   "scene_objects": {
+    "container": "plate",
+    "distractor_obj_back_edge_type_0_num_0": "candle",
+    "obj": "eggplant",
+    "obj_container": "plate"
+   },
+   "impossible_action": {
+    "text": "unlocked_waist: cut the eggplant in half",
+    "template": 3
+   },
+   "absent_object": {
+    "text": "unlocked_waist: pick the tomato from the cutting board and place it in the pan",
+    "named_task": 2,
+    "named_task_name": "CuttingboardToPan",
+    "named_object": "tomato",
+    "named_source": "cutting board",
+    "named_target": "pan"
+   },
+   "prefix/original": {
+    "text": "if no task is given do not move unlocked_waist: pick the eggplant from the plate and place it in the plate"
+   }
+  },
+  "1:1": {
+   "original": "unlocked_waist: pick the sweet potato from the tray and place it in the plate",
+   "scene_sig": "9901b44c3384b473d23022ecda50e09568fdb04d",
+   "scene_objects": {
+    "container": "plate",
+    "distractor_obj_back_edge_type_0_num_0": "chips",
+    "distractor_obj_distractor_target_container_type_0_num_0": "basket",
+    "obj": "sweet_potato",
+    "obj_container": "tray"
+   },
+   "impossible_action": {
+    "text": "unlocked_waist: throw the sweet potato at the wall",
+    "template": 5
+   },
+   "absent_object": {
+    "text": "unlocked_waist: pick the tomato from the cutting board and place it in the pot",
+    "named_task": 3,
+    "named_task_name": "CuttingboardToPot",
+    "named_object": "tomato",
+    "named_source": "cutting board",
+    "named_target": "pot"
+   },
+   "prefix/original": {
+    "text": "if no task is given do not move unlocked_waist: pick the sweet potato from the tray and place it in the plate"
+   }
+  },
+  "1:4": {
+   "original": "unlocked_waist: pick the can from the tray and place it in the plate",
+   "scene_sig": "703590c1e61eb8b8155dfd86bd6070f71ebdf8e6",
+   "scene_objects": {
+    "container": "plate",
+    "distractor_obj_back_edge_type_0_num_0": "chips",
+    "distractor_obj_distractor_target_container_type_0_num_0": "cardboard_box",
+    "obj": "can",
+    "obj_container": "tray"
+   },
+   "impossible_action": {
+    "text": "unlocked_waist: pour water into the plate",
+    "template": 2
+   },
+   "absent_object": {
+    "text": "unlocked_waist: pick the croissant from the cutting board and place it in the pan",
+    "named_task": 2,
+    "named_task_name": "CuttingboardToPan",
+    "named_object": "croissant",
+    "named_source": "cutting board",
+    "named_target": "pan"
+   },
+   "prefix/original": {
+    "text": "if no task is given do not move unlocked_waist: pick the can from the tray and place it in the plate"
+   }
+  },
+  "1:6": {
+   "original": "unlocked_waist: pick the bell pepper from the tray and place it in the plate",
+   "scene_sig": "c045b4ce88f4fd04de65bbe079bab33ba1ff7f12",
+   "scene_objects": {
+    "container": "plate",
+    "distractor_obj_back_edge_type_0_num_0": "chips",
+    "distractor_obj_distractor_target_container_type_0_num_0": "basket",
+    "obj": "bell_pepper",
+    "obj_container": "tray"
+   },
+   "impossible_action": {
+    "text": "unlocked_waist: paint the tray red",
+    "template": 4
+   },
+   "absent_object": {
+    "text": "unlocked_waist: pick the eggplant from the cutting board and place it in the pan",
+    "named_task": 2,
+    "named_task_name": "CuttingboardToPan",
+    "named_object": "eggplant",
+    "named_source": "cutting board",
+    "named_target": "pan"
+   },
+   "prefix/original": {
+    "text": "if no task is given do not move unlocked_waist: pick the bell pepper from the tray and place it in the plate"
+   }
+  },
+  "1:8": {
+   "original": "unlocked_waist: pick the sweet potato from the tray and place it in the plate",
+   "scene_sig": "a027acdc4c01bdff6350ddde54200159621680a9",
+   "scene_objects": {
+    "container": "plate",
+    "distractor_obj_distractor_target_container_type_0_num_0": "bowl",
+    "obj": "sweet_potato",
+    "obj_container": "tray"
+   },
+   "impossible_action": {
+    "text": "unlocked_waist: eat the sweet potato",
+    "template": 0
+   },
+   "absent_object": {
+    "text": "unlocked_waist: pick the lemon from the cutting board and place it in the pan",
+    "named_task": 2,
+    "named_task_name": "CuttingboardToPan",
+    "named_object": "lemon",
+    "named_source": "cutting board",
+    "named_target": "pan"
+   },
+   "prefix/original": {
+    "text": "if no task is given do not move unlocked_waist: pick the sweet potato from the tray and place it in the plate"
+   }
+  },
+  "1:9": {
+   "original": "unlocked_waist: pick the cupcake from the tray and place it in the plate",
+   "scene_sig": "40f5a6d0e00d78e3d444aa928e378ff1fa4a2bed",
+   "scene_objects": {
+    "container": "plate",
+    "distractor_obj_back_edge_type_0_num_0": "chips",
+    "distractor_obj_distractor_target_container_type_0_num_0": "pan",
+    "obj": "cupcake",
+    "obj_container": "tray"
+   },
+   "impossible_action": {
+    "text": "unlocked_waist: wash the plate in the sink",
+    "template": 1
+   },
+   "absent_object": {
+    "text": "unlocked_waist: pick the sweet potato from the cutting board and place it in the pot",
+    "named_task": 3,
+    "named_task_name": "CuttingboardToPot",
+    "named_object": "sweet potato",
+    "named_source": "cutting board",
+    "named_target": "pot"
+   },
+   "prefix/original": {
+    "text": "if no task is given do not move unlocked_waist: pick the cupcake from the tray and place it in the plate"
+   }
+  },
+  "1:10": {
+   "original": "unlocked_waist: pick the bell pepper from the tray and place it in the plate",
+   "scene_sig": "b2ed2433125880f27dfd5ef789c2e3f84837090b",
+   "scene_objects": {
+    "container": "plate",
+    "distractor_obj_distractor_target_container_type_0_num_0": "tiered_shelf",
+    "obj": "bell_pepper",
+    "obj_container": "tray"
+   },
+   "impossible_action": {
+    "text": "unlocked_waist: pour water into the plate",
+    "template": 2
+   },
+   "absent_object": {
+    "text": "unlocked_waist: pick the sweet potato from the cutting board and place it in the pan",
+    "named_task": 2,
+    "named_task_name": "CuttingboardToPan",
+    "named_object": "sweet potato",
+    "named_source": "cutting board",
+    "named_target": "pan"
+   },
+   "prefix/original": {
+    "text": "if no task is given do not move unlocked_waist: pick the bell pepper from the tray and place it in the plate"
+   }
+  },
+  "1:11": {
+   "original": "unlocked_waist: pick the croissant from the tray and place it in the plate",
+   "scene_sig": "c19017b85203fa1c475e5cc58099a6efb201edb6",
+   "scene_objects": {
+    "container": "plate",
+    "distractor_obj_back_edge_type_0_num_0": "chips",
+    "distractor_obj_distractor_target_container_type_0_num_0": "cardboard_box",
+    "obj": "croissant",
+    "obj_container": "tray"
+   },
+   "impossible_action": {
+    "text": "unlocked_waist: cut the croissant in half",
+    "template": 3
+   },
+   "absent_object": {
+    "text": "unlocked_waist: pick the bell pepper from the cutting board and place it in the pot",
+    "named_task": 3,
+    "named_task_name": "CuttingboardToPot",
+    "named_object": "bell pepper",
+    "named_source": "cutting board",
+    "named_target": "pot"
+   },
+   "prefix/original": {
+    "text": "if no task is given do not move unlocked_waist: pick the croissant from the tray and place it in the plate"
+   }
+  },
+  "1:12": {
+   "original": "unlocked_waist: pick the pear from the tray and place it in the plate",
+   "scene_sig": "5c5cac61b04aec07b0e43fd7ffe1e1647373ab74",
+   "scene_objects": {
+    "container": "plate",
+    "distractor_obj_back_edge_type_0_num_0": "chips",
+    "distractor_obj_distractor_target_container_type_0_num_0": "pot",
+    "obj": "pear",
+    "obj_container": "tray"
+   },
+   "impossible_action": {
+    "text": "unlocked_waist: paint the tray red",
+    "template": 4
+   },
+   "absent_object": {
+    "text": "unlocked_waist: pick the bell pepper from the cutting board and place it in the pan",
+    "named_task": 2,
+    "named_task_name": "CuttingboardToPan",
+    "named_object": "bell pepper",
+    "named_source": "cutting board",
+    "named_target": "pan"
+   },
+   "prefix/original": {
+    "text": "if no task is given do not move unlocked_waist: pick the pear from the tray and place it in the plate"
+   }
+  },
+  "1:13": {
+   "original": "unlocked_waist: pick the croissant from the tray and place it in the plate",
+   "scene_sig": "c6d0661c5a2f5911e8585bada3fba22b1fc131a5",
+   "scene_objects": {
+    "container": "plate",
+    "distractor_obj_distractor_target_container_type_0_num_0": "pot",
+    "obj": "croissant",
+    "obj_container": "tray"
+   },
+   "impossible_action": {
+    "text": "unlocked_waist: throw the croissant at the wall",
+    "template": 5
+   },
+   "absent_object": {
+    "text": "unlocked_waist: pick the can from the cutting board and place it in the pan",
+    "named_task": 2,
+    "named_task_name": "CuttingboardToPan",
+    "named_object": "can",
+    "named_source": "cutting board",
+    "named_target": "pan"
+   },
+   "prefix/original": {
+    "text": "if no task is given do not move unlocked_waist: pick the croissant from the tray and place it in the plate"
+   }
+  },
+  "1:16": {
+   "original": "unlocked_waist: pick the tomato from the tray and place it in the plate",
+   "scene_sig": "3f98f646821163cbe525b34b282b3e9730c7ceb5",
+   "scene_objects": {
+    "container": "plate",
+    "distractor_obj_back_edge_type_0_num_0": "chips",
+    "distractor_obj_distractor_target_container_type_0_num_0": "bowl",
+    "obj": "tomato",
+    "obj_container": "tray"
+   },
+   "impossible_action": {
+    "text": "unlocked_waist: pour water into the plate",
+    "template": 2
+   },
+   "absent_object": {
+    "text": "unlocked_waist: pick the eggplant from the cutting board and place it in the pan",
+    "named_task": 2,
+    "named_task_name": "CuttingboardToPan",
+    "named_object": "eggplant",
+    "named_source": "cutting board",
+    "named_target": "pan"
+   },
+   "prefix/original": {
+    "text": "if no task is given do not move unlocked_waist: pick the tomato from the tray and place it in the plate"
+   }
+  },
+  "1:21": {
+   "original": "unlocked_waist: pick the sweet potato from the tray and place it in the plate",
+   "scene_sig": "2747fea285d8881f10ced25b2a764bfbdfdf6c8a",
+   "scene_objects": {
+    "container": "plate",
+    "distractor_obj_back_edge_type_0_num_0": "chips",
+    "distractor_obj_distractor_target_container_type_0_num_0": "pot",
+    "obj": "sweet_potato",
+    "obj_container": "tray"
+   },
+   "impossible_action": {
+    "text": "unlocked_waist: wash the plate in the sink",
+    "template": 1
+   },
+   "absent_object": {
+    "text": "unlocked_waist: pick the bell pepper from the cutting board and place it in the pan",
+    "named_task": 2,
+    "named_task_name": "CuttingboardToPan",
+    "named_object": "bell pepper",
+    "named_source": "cutting board",
+    "named_target": "pan"
+   },
+   "prefix/original": {
+    "text": "if no task is given do not move unlocked_waist: pick the sweet potato from the tray and place it in the plate"
+   }
+  },
+  "1:24": {
+   "original": "unlocked_waist: pick the bell pepper from the tray and place it in the plate",
+   "scene_sig": "56a148e9f08240e4f6396b489ebe152ec58af729",
+   "scene_objects": {
+    "container": "plate",
+    "distractor_obj_back_edge_type_0_num_0": "chips",
+    "distractor_obj_distractor_target_container_type_0_num_0": "pan",
+    "obj": "bell_pepper",
+    "obj_container": "tray"
+   },
+   "impossible_action": {
+    "text": "unlocked_waist: paint the tray red",
+    "template": 4
+   },
+   "absent_object": {
+    "text": "unlocked_waist: pick the lemon from the cutting board and place it in the pot",
+    "named_task": 3,
+    "named_task_name": "CuttingboardToPot",
+    "named_object": "lemon",
+    "named_source": "cutting board",
+    "named_target": "pot"
+   },
+   "prefix/original": {
+    "text": "if no task is given do not move unlocked_waist: pick the bell pepper from the tray and place it in the plate"
+   }
+  },
+  "1:27": {
+   "original": "unlocked_waist: pick the cupcake from the tray and place it in the plate",
+   "scene_sig": "78362ca06c47a4d414106bb25f619c3181bba9ce",
+   "scene_objects": {
+    "container": "plate",
+    "distractor_obj_distractor_target_container_type_0_num_0": "tiered_basket",
+    "obj": "cupcake",
+    "obj_container": "tray"
+   },
+   "impossible_action": {
+    "text": "unlocked_waist: wash the plate in the sink",
+    "template": 1
+   },
+   "absent_object": {
+    "text": "unlocked_waist: pick the sweet potato from the cutting board and place it in the pot",
+    "named_task": 3,
+    "named_task_name": "CuttingboardToPot",
+    "named_object": "sweet potato",
+    "named_source": "cutting board",
+    "named_target": "pot"
+   },
+   "prefix/original": {
+    "text": "if no task is given do not move unlocked_waist: pick the cupcake from the tray and place it in the plate"
+   }
+  },
+  "1:29": {
+   "original": "unlocked_waist: pick the bell pepper from the tray and place it in the plate",
+   "scene_sig": "f97e7016423ff43c18272f85c141073d06fe108d",
+   "scene_objects": {
+    "container": "plate",
+    "distractor_obj_back_edge_type_0_num_0": "chips",
+    "distractor_obj_distractor_target_container_type_0_num_0": "cardboard_box",
+    "obj": "bell_pepper",
+    "obj_container": "tray"
+   },
+   "impossible_action": {
+    "text": "unlocked_waist: cut the bell pepper in half",
+    "template": 3
+   },
+   "absent_object": {
+    "text": "unlocked_waist: pick the can from the cutting board and place it in the pot",
+    "named_task": 3,
+    "named_task_name": "CuttingboardToPot",
+    "named_object": "can",
+    "named_source": "cutting board",
+    "named_target": "pot"
+   },
+   "prefix/original": {
+    "text": "if no task is given do not move unlocked_waist: pick the bell pepper from the tray and place it in the plate"
+   }
+  },
+  "1:31": {
+   "original": "unlocked_waist: pick the squash from the tray and place it in the plate",
+   "scene_sig": "232d4a2f8a8edde7f9e238ef1ddbfb8969a5456c",
+   "scene_objects": {
+    "container": "plate",
+    "distractor_obj_back_edge_type_0_num_0": "chips",
+    "distractor_obj_distractor_target_container_type_0_num_0": "pot",
+    "obj": "squash",
+    "obj_container": "tray"
+   },
+   "impossible_action": {
+    "text": "unlocked_waist: throw the squash at the wall",
+    "template": 5
+   },
+   "absent_object": {
+    "text": "unlocked_waist: pick the can from the cutting board and place it in the pan",
+    "named_task": 2,
+    "named_task_name": "CuttingboardToPan",
+    "named_object": "can",
+    "named_source": "cutting board",
+    "named_target": "pan"
+   },
+   "prefix/original": {
+    "text": "if no task is given do not move unlocked_waist: pick the squash from the tray and place it in the plate"
+   }
+  },
+  "1:32": {
+   "original": "unlocked_waist: pick the tomato from the tray and place it in the plate",
+   "scene_sig": "21272885e9bfab761e289efc50ce27bef708bfaa",
+   "scene_objects": {
+    "container": "plate",
+    "distractor_obj_back_edge_type_0_num_0": "chips",
+    "distractor_obj_distractor_target_container_type_0_num_0": "cardboard_box",
+    "obj": "tomato",
+    "obj_container": "tray"
+   },
+   "impossible_action": {
+    "text": "unlocked_waist: eat the tomato",
+    "template": 0
+   },
+   "absent_object": {
+    "text": "unlocked_waist: pick the croissant from the cutting board and place it in the pan",
+    "named_task": 2,
+    "named_task_name": "CuttingboardToPan",
+    "named_object": "croissant",
+    "named_source": "cutting board",
+    "named_target": "pan"
+   },
+   "prefix/original": {
+    "text": "if no task is given do not move unlocked_waist: pick the tomato from the tray and place it in the plate"
+   }
+  },
+  "1:34": {
+   "original": "unlocked_waist: pick the cupcake from the tray and place it in the plate",
+   "scene_sig": "4184ff794e55bd4dbb0b5eac87e11c2564ec45f4",
+   "scene_objects": {
+    "container": "plate",
+    "distractor_obj_distractor_target_container_type_0_num_0": "pan",
+    "obj": "cupcake",
+    "obj_container": "tray"
+   },
+   "impossible_action": {
+    "text": "unlocked_waist: pour water into the plate",
+    "template": 2
+   },
+   "absent_object": {
+    "text": "unlocked_waist: pick the pear from the cutting board and place it in the pot",
+    "named_task": 3,
+    "named_task_name": "CuttingboardToPot",
+    "named_object": "pear",
+    "named_source": "cutting board",
+    "named_target": "pot"
+   },
+   "prefix/original": {
+    "text": "if no task is given do not move unlocked_waist: pick the cupcake from the tray and place it in the plate"
+   }
+  },
+  "1:36": {
+   "original": "unlocked_waist: pick the eggplant from the tray and place it in the plate",
+   "scene_sig": "e16130d7984447d90c919e30914386151ad328a2",
+   "scene_objects": {
+    "container": "plate",
+    "distractor_obj_back_edge_type_0_num_0": "chips",
+    "distractor_obj_distractor_target_container_type_0_num_0": "pot",
+    "obj": "eggplant",
+    "obj_container": "tray"
+   },
+   "impossible_action": {
+    "text": "unlocked_waist: paint the tray red",
+    "template": 4
+   },
+   "absent_object": {
+    "text": "unlocked_waist: pick the squash from the cutting board and place it in the pan",
+    "named_task": 2,
+    "named_task_name": "CuttingboardToPan",
+    "named_object": "squash",
+    "named_source": "cutting board",
+    "named_target": "pan"
+   },
+   "prefix/original": {
+    "text": "if no task is given do not move unlocked_waist: pick the eggplant from the tray and place it in the plate"
+   }
+  },
+  "1:37": {
+   "original": "unlocked_waist: pick the squash from the tray and place it in the plate",
+   "scene_sig": "c36ada7cfebb7a20b31fedab77fdea1e42f67528",
+   "scene_objects": {
+    "container": "plate",
+    "distractor_obj_back_edge_type_0_num_0": "chips",
+    "distractor_obj_distractor_target_container_type_0_num_0": "bowl",
+    "obj": "squash",
+    "obj_container": "tray"
+   },
+   "impossible_action": {
+    "text": "unlocked_waist: throw the squash at the wall",
+    "template": 5
+   },
+   "absent_object": {
+    "text": "unlocked_waist: pick the tomato from the cutting board and place it in the pot",
+    "named_task": 3,
+    "named_task_name": "CuttingboardToPot",
+    "named_object": "tomato",
+    "named_source": "cutting board",
+    "named_target": "pot"
+   },
+   "prefix/original": {
+    "text": "if no task is given do not move unlocked_waist: pick the squash from the tray and place it in the plate"
+   }
+  },
+  "1:39": {
+   "original": "unlocked_waist: pick the pear from the tray and place it in the plate",
+   "scene_sig": "127db9fcb16a7ef76a81df4f1bbb55fca723d962",
+   "scene_objects": {
+    "container": "plate",
+    "distractor_obj_back_edge_type_0_num_0": "chips",
+    "distractor_obj_distractor_target_container_type_0_num_0": "bowl",
+    "obj": "pear",
+    "obj_container": "tray"
+   },
+   "impossible_action": {
+    "text": "unlocked_waist: wash the plate in the sink",
+    "template": 1
+   },
+   "absent_object": {
+    "text": "unlocked_waist: pick the can from the cutting board and place it in the pot",
+    "named_task": 3,
+    "named_task_name": "CuttingboardToPot",
+    "named_object": "can",
+    "named_source": "cutting board",
+    "named_target": "pot"
+   },
+   "prefix/original": {
+    "text": "if no task is given do not move unlocked_waist: pick the pear from the tray and place it in the plate"
+   }
+  },
+  "2:0": {
+   "original": "unlocked_waist: pick the lemon from the cutting board and place it in the pan",
+   "scene_sig": "313be43a18f4db4b5a0b5697c256ceb7768ea050",
+   "scene_objects": {
+    "container": "pan",
+    "distractor_obj_back_edge_type_0_num_0": "cereal",
+    "distractor_obj_distractor_source_container_type_0_num_0": "squash",
+    "distractor_obj_distractor_source_container_type_0_num_0_container": "plate",
+    "obj": "lemon",
+    "obj_container": "cutting_board"
+   },
+   "impossible_action": {
+    "text": "unlocked_waist: pour water into the pan",
+    "template": 2
+   },
+   "absent_object": {
+    "text": "unlocked_waist: pick the eggplant from the tray and place it in the pot",
+    "named_task": 4,
+    "named_task_name": "TrayToPot",
+    "named_object": "eggplant",
+    "named_source": "tray",
+    "named_target": "pot"
+   },
+   "prefix/original": {
+    "text": "if no task is given do not move unlocked_waist: pick the lemon from the cutting board and place it in the pan"
+   }
+  },
+  "2:1": {
+   "original": "unlocked_waist: pick the tomato from the cutting board and place it in the pan",
+   "scene_sig": "d2f7f24a3c8943feb180e3cb5b04a0895dc659d2",
+   "scene_objects": {
+    "container": "pan",
+    "distractor_obj_back_edge_type_0_num_0": "cereal",
+    "distractor_obj_distractor_source_container_type_0_num_0": "sweet_potato",
+    "distractor_obj_distractor_source_container_type_0_num_0_container": "plate",
+    "obj": "tomato",
+    "obj_container": "cutting_board"
+   },
+   "impossible_action": {
+    "text": "unlocked_waist: cut the tomato in half",
+    "template": 3
+   },
+   "absent_object": {
+    "text": "unlocked_waist: pick the lemon from the tray and place it in the pot",
+    "named_task": 4,
+    "named_task_name": "TrayToPot",
+    "named_object": "lemon",
+    "named_source": "tray",
+    "named_target": "pot"
+   },
+   "prefix/original": {
+    "text": "if no task is given do not move unlocked_waist: pick the tomato from the cutting board and place it in the pan"
+   }
+  },
+  "2:2": {
+   "original": "unlocked_waist: pick the croissant from the cutting board and place it in the pan",
+   "scene_sig": "ff7067e048bb7bd39cd7b8e3ae655b88f37656bf",
+   "scene_objects": {
+    "container": "pan",
+    "distractor_obj_back_edge_type_0_num_0": "cereal",
+    "distractor_obj_distractor_source_container_type_0_num_0": "squash",
+    "distractor_obj_distractor_source_container_type_0_num_0_container": "placemat",
+    "obj": "croissant",
+    "obj_container": "cutting_board"
+   },
+   "impossible_action": {
+    "text": "unlocked_waist: paint the cutting board red",
+    "template": 4
+   },
+   "absent_object": {
+    "text": "unlocked_waist: pick the eggplant from the tray and place it in the plate",
+    "named_task": 1,
+    "named_task_name": "TrayToPlate",
+    "named_object": "eggplant",
+    "named_source": "tray",
+    "named_target": "plate"
+   },
+   "prefix/original": {
+    "text": "if no task is given do not move unlocked_waist: pick the croissant from the cutting board and place it in the pan"
+   }
+  },
+  "2:3": {
+   "original": "unlocked_waist: pick the sweet potato from the cutting board and place it in the pan",
+   "scene_sig": "7e0f75350832147692ea0a6094c9323f5043fe8c",
+   "scene_objects": {
+    "container": "pan",
+    "distractor_obj_distractor_source_container_type_0_num_0": "eggplant",
+    "distractor_obj_distractor_source_container_type_0_num_0_container": "placemat",
+    "obj": "sweet_potato",
+    "obj_container": "cutting_board"
+   },
+   "impossible_action": {
+    "text": "unlocked_waist: throw the sweet potato at the wall",
+    "template": 5
+   },
+   "absent_object": {
+    "text": "unlocked_waist: pick the tomato from the tray and place it in the pot",
+    "named_task": 4,
+    "named_task_name": "TrayToPot",
+    "named_object": "tomato",
+    "named_source": "tray",
+    "named_target": "pot"
+   },
+   "prefix/original": {
+    "text": "if no task is given do not move unlocked_waist: pick the sweet potato from the cutting board and place it in the pan"
+   }
+  },
+  "2:5": {
+   "original": "unlocked_waist: pick the croissant from the cutting board and place it in the pan",
+   "scene_sig": "e0eca1fd701c071b7b4438181fdb7025a96cf3cf",
+   "scene_objects": {
+    "container": "pan",
+    "distractor_obj_back_edge_type_0_num_0": "cereal",
+    "distractor_obj_distractor_source_container_type_0_num_0": "squash",
+    "distractor_obj_distractor_source_container_type_0_num_0_container": "placemat",
+    "obj": "croissant",
+    "obj_container": "cutting_board"
+   },
+   "impossible_action": {
+    "text": "unlocked_waist: wash the pan in the sink",
+    "template": 1
+   },
+   "absent_object": {
+    "text": "unlocked_waist: pick the sweet potato from the tray and place it in the plate",
+    "named_task": 1,
+    "named_task_name": "TrayToPlate",
+    "named_object": "sweet potato",
+    "named_source": "tray",
+    "named_target": "plate"
+   },
+   "prefix/original": {
+    "text": "if no task is given do not move unlocked_waist: pick the croissant from the cutting board and place it in the pan"
+   }
+  },
+  "2:6": {
+   "original": "unlocked_waist: pick the cupcake from the cutting board and place it in the pan",
+   "scene_sig": "3e934fc456050dba8b059d8ea0e7383c1c0f6f49",
+   "scene_objects": {
+    "container": "pan",
+    "distractor_obj_back_edge_type_0_num_0": "cereal",
+    "distractor_obj_distractor_source_container_type_0_num_0": "pear",
+    "distractor_obj_distractor_source_container_type_0_num_0_container": "plate",
+    "obj": "cupcake",
+    "obj_container": "cutting_board"
+   },
+   "impossible_action": {
+    "text": "unlocked_waist: pour water into the pan",
+    "template": 2
+   },
+   "absent_object": {
+    "text": "unlocked_waist: pick the croissant from the tray and place it in the pot",
+    "named_task": 4,
+    "named_task_name": "TrayToPot",
+    "named_object": "croissant",
+    "named_source": "tray",
+    "named_target": "pot"
+   },
+   "prefix/original": {
+    "text": "if no task is given do not move unlocked_waist: pick the cupcake from the cutting board and place it in the pan"
+   }
+  },
+  "2:7": {
+   "original": "unlocked_waist: pick the sweet potato from the cutting board and place it in the pan",
+   "scene_sig": "89f99143e278c5c6073a9aa5198502500f5284a5",
+   "scene_objects": {
+    "container": "pan",
+    "distractor_obj_distractor_source_container_type_0_num_0": "pear",
+    "distractor_obj_distractor_source_container_type_0_num_0_container": "plate",
+    "obj": "sweet_potato",
+    "obj_container": "cutting_board"
+   },
+   "impossible_action": {
+    "text": "unlocked_waist: cut the sweet potato in half",
+    "template": 3
+   },
+   "absent_object": {
+    "text": "unlocked_waist: pick the cupcake from the tray and place it in the pot",
+    "named_task": 4,
+    "named_task_name": "TrayToPot",
+    "named_object": "cupcake",
+    "named_source": "tray",
+    "named_target": "pot"
+   },
+   "prefix/original": {
+    "text": "if no task is given do not move unlocked_waist: pick the sweet potato from the cutting board and place it in the pan"
+   }
+  },
+  "2:8": {
+   "original": "unlocked_waist: pick the bell pepper from the cutting board and place it in the pan",
+   "scene_sig": "ac56713a6f87f0a64333ba5c70221b38f25710a7",
+   "scene_objects": {
+    "container": "pan",
+    "distractor_obj_distractor_source_container_type_0_num_0": "can",
+    "distractor_obj_distractor_source_container_type_0_num_0_container": "placemat",
+    "obj": "bell_pepper",
+    "obj_container": "cutting_board"
+   },
+   "impossible_action": {
+    "text": "unlocked_waist: paint the cutting board red",
+    "template": 4
+   },
+   "absent_object": {
+    "text": "unlocked_waist: pick the cupcake from the tray and place it in the plate",
+    "named_task": 1,
+    "named_task_name": "TrayToPlate",
+    "named_object": "cupcake",
+    "named_source": "tray",
+    "named_target": "plate"
+   },
+   "prefix/original": {
+    "text": "if no task is given do not move unlocked_waist: pick the bell pepper from the cutting board and place it in the pan"
+   }
+  },
+  "2:9": {
+   "original": "unlocked_waist: pick the lemon from the cutting board and place it in the pan",
+   "scene_sig": "03ac97ecc206576d5830fd2fc6cd07bfb4c8bc35",
+   "scene_objects": {
+    "container": "pan",
+    "distractor_obj_back_edge_type_0_num_0": "cereal",
+    "distractor_obj_distractor_source_container_type_0_num_0": "can",
+    "distractor_obj_distractor_source_container_type_0_num_0_container": "plate",
+    "obj": "lemon",
+    "obj_container": "cutting_board"
+   },
+   "impossible_action": {
+    "text": "unlocked_waist: throw the lemon at the wall",
+    "template": 5
+   },
+   "absent_object": {
+    "text": "unlocked_waist: pick the squash from the tray and place it in the pot",
+    "named_task": 4,
+    "named_task_name": "TrayToPot",
+    "named_object": "squash",
+    "named_source": "tray",
+    "named_target": "pot"
+   },
+   "prefix/original": {
+    "text": "if no task is given do not move unlocked_waist: pick the lemon from the cutting board and place it in the pan"
+   }
+  },
+  "2:10": {
+   "original": "unlocked_waist: pick the sweet potato from the cutting board and place it in the pan",
+   "scene_sig": "338e3230a2311aff56257a6f477298df1f15e307",
+   "scene_objects": {
+    "container": "pan",
+    "distractor_obj_back_edge_type_0_num_0": "cereal",
+    "distractor_obj_distractor_source_container_type_0_num_0": "squash",
+    "distractor_obj_distractor_source_container_type_0_num_0_container": "plate",
+    "obj": "sweet_potato",
+    "obj_container": "cutting_board"
+   },
+   "impossible_action": {
+    "text": "unlocked_waist: eat the sweet potato",
+    "template": 0
+   },
+   "absent_object": {
+    "text": "unlocked_waist: pick the pear from the tray and place it in the pot",
+    "named_task": 4,
+    "named_task_name": "TrayToPot",
+    "named_object": "pear",
+    "named_source": "tray",
+    "named_target": "pot"
+   },
+   "prefix/original": {
+    "text": "if no task is given do not move unlocked_waist: pick the sweet potato from the cutting board and place it in the pan"
+   }
+  },
+  "2:12": {
+   "original": "unlocked_waist: pick the tomato from the cutting board and place it in the pan",
+   "scene_sig": "cbd47c45fa6256c531b99c8b6625fc15100653e4",
+   "scene_objects": {
+    "container": "pan",
+    "distractor_obj_back_edge_type_0_num_0": "cereal",
+    "distractor_obj_distractor_source_container_type_0_num_0": "cupcake",
+    "distractor_obj_distractor_source_container_type_0_num_0_container": "plate",
+    "obj": "tomato",
+    "obj_container": "cutting_board"
+   },
+   "impossible_action": {
+    "text": "unlocked_waist: pour water into the pan",
+    "template": 2
+   },
+   "absent_object": {
+    "text": "unlocked_waist: pick the bell pepper from the tray and place it in the pot",
+    "named_task": 4,
+    "named_task_name": "TrayToPot",
+    "named_object": "bell pepper",
+    "named_source": "tray",
+    "named_target": "pot"
+   },
+   "prefix/original": {
+    "text": "if no task is given do not move unlocked_waist: pick the tomato from the cutting board and place it in the pan"
+   }
+  },
+  "2:13": {
+   "original": "unlocked_waist: pick the squash from the cutting board and place it in the pan",
+   "scene_sig": "fc6dd212f6762837b28473e83f274a1b32d5da63",
+   "scene_objects": {
+    "container": "pan",
+    "distractor_obj_distractor_source_container_type_0_num_0": "eggplant",
+    "distractor_obj_distractor_source_container_type_0_num_0_container": "plate",
+    "obj": "squash",
+    "obj_container": "cutting_board"
+   },
+   "impossible_action": {
+    "text": "unlocked_waist: cut the squash in half",
+    "template": 3
+   },
+   "absent_object": {
+    "text": "unlocked_waist: pick the can from the tray and place it in the pot",
+    "named_task": 4,
+    "named_task_name": "TrayToPot",
+    "named_object": "can",
+    "named_source": "tray",
+    "named_target": "pot"
+   },
+   "prefix/original": {
+    "text": "if no task is given do not move unlocked_waist: pick the squash from the cutting board and place it in the pan"
+   }
+  },
+  "2:14": {
+   "original": "unlocked_waist: pick the bell pepper from the cutting board and place it in the pan",
+   "scene_sig": "d6e7702cfc458c078967de989008f8d2c1c3a75a",
+   "scene_objects": {
+    "container": "pan",
+    "distractor_obj_distractor_source_container_type_0_num_0": "sweet_potato",
+    "distractor_obj_distractor_source_container_type_0_num_0_container": "plate",
+    "obj": "bell_pepper",
+    "obj_container": "cutting_board"
+   },
+   "impossible_action": {
+    "text": "unlocked_waist: paint the cutting board red",
+    "template": 4
+   },
+   "absent_object": {
+    "text": "unlocked_waist: pick the cupcake from the tray and place it in the pot",
+    "named_task": 4,
+    "named_task_name": "TrayToPot",
+    "named_object": "cupcake",
+    "named_source": "tray",
+    "named_target": "pot"
+   },
+   "prefix/original": {
+    "text": "if no task is given do not move unlocked_waist: pick the bell pepper from the cutting board and place it in the pan"
+   }
+  },
+  "2:15": {
+   "original": "unlocked_waist: pick the croissant from the cutting board and place it in the pan",
+   "scene_sig": "6eeb707f747066bbc7c948fb4f22765c3a470193",
+   "scene_objects": {
+    "container": "pan",
+    "distractor_obj_distractor_source_container_type_0_num_0": "sweet_potato",
+    "distractor_obj_distractor_source_container_type_0_num_0_container": "placemat",
+    "obj": "croissant",
+    "obj_container": "cutting_board"
+   },
+   "impossible_action": {
+    "text": "unlocked_waist: throw the croissant at the wall",
+    "template": 5
+   },
+   "absent_object": {
+    "text": "unlocked_waist: pick the eggplant from the tray and place it in the pot",
+    "named_task": 4,
+    "named_task_name": "TrayToPot",
+    "named_object": "eggplant",
+    "named_source": "tray",
+    "named_target": "pot"
+   },
+   "prefix/original": {
+    "text": "if no task is given do not move unlocked_waist: pick the croissant from the cutting board and place it in the pan"
+   }
+  },
+  "2:16": {
+   "original": "unlocked_waist: pick the bell pepper from the cutting board and place it in the pan",
+   "scene_sig": "e71e07c098d23eb1e05a936184c1dd5ca341e158",
+   "scene_objects": {
+    "container": "pan",
+    "distractor_obj_distractor_source_container_type_0_num_0": "cupcake",
+    "distractor_obj_distractor_source_container_type_0_num_0_container": "plate",
+    "obj": "bell_pepper",
+    "obj_container": "cutting_board"
+   },
+   "impossible_action": {
+    "text": "unlocked_waist: eat the bell pepper",
+    "template": 0
+   },
+   "absent_object": {
+    "text": "unlocked_waist: pick the pear from the tray and place it in the pot",
+    "named_task": 4,
+    "named_task_name": "TrayToPot",
+    "named_object": "pear",
+    "named_source": "tray",
+    "named_target": "pot"
+   },
+   "prefix/original": {
+    "text": "if no task is given do not move unlocked_waist: pick the bell pepper from the cutting board and place it in the pan"
+   }
+  },
+  "2:17": {
+   "original": "unlocked_waist: pick the squash from the cutting board and place it in the pan",
+   "scene_sig": "f858b2a0e098e973caebf1de8bbdc05abee9b0f9",
+   "scene_objects": {
+    "container": "pan",
+    "distractor_obj_distractor_source_container_type_0_num_0": "can",
+    "distractor_obj_distractor_source_container_type_0_num_0_container": "placemat",
+    "obj": "squash",
+    "obj_container": "cutting_board"
+   },
+   "impossible_action": {
+    "text": "unlocked_waist: wash the pan in the sink",
+    "template": 1
+   },
+   "absent_object": {
+    "text": "unlocked_waist: pick the cupcake from the tray and place it in the plate",
+    "named_task": 1,
+    "named_task_name": "TrayToPlate",
+    "named_object": "cupcake",
+    "named_source": "tray",
+    "named_target": "plate"
+   },
+   "prefix/original": {
+    "text": "if no task is given do not move unlocked_waist: pick the squash from the cutting board and place it in the pan"
+   }
+  },
+  "2:18": {
+   "original": "unlocked_waist: pick the pear from the cutting board and place it in the pan",
+   "scene_sig": "de0a77ea43407e9dbcbf6166f2b0015b551c434f",
+   "scene_objects": {
+    "container": "pan",
+    "distractor_obj_distractor_source_container_type_0_num_0": "tomato",
+    "distractor_obj_distractor_source_container_type_0_num_0_container": "placemat",
+    "obj": "pear",
+    "obj_container": "cutting_board"
+   },
+   "impossible_action": {
+    "text": "unlocked_waist: pour water into the pan",
+    "template": 2
+   },
+   "absent_object": {
+    "text": "unlocked_waist: pick the squash from the tray and place it in the pot",
+    "named_task": 4,
+    "named_task_name": "TrayToPot",
+    "named_object": "squash",
+    "named_source": "tray",
+    "named_target": "pot"
+   },
+   "prefix/original": {
+    "text": "if no task is given do not move unlocked_waist: pick the pear from the cutting board and place it in the pan"
+   }
+  },
+  "2:21": {
+   "original": "unlocked_waist: pick the cupcake from the cutting board and place it in the pan",
+   "scene_sig": "274e84a2d8d239ff43f5ed7761edaa630ecb0a50",
+   "scene_objects": {
+    "container": "pan",
+    "distractor_obj_distractor_source_container_type_0_num_0": "lemon",
+    "distractor_obj_distractor_source_container_type_0_num_0_container": "plate",
+    "obj": "cupcake",
+    "obj_container": "cutting_board"
+   },
+   "impossible_action": {
+    "text": "unlocked_waist: throw the cupcake at the wall",
+    "template": 5
+   },
+   "absent_object": {
+    "text": "unlocked_waist: pick the can from the tray and place it in the pot",
+    "named_task": 4,
+    "named_task_name": "TrayToPot",
+    "named_object": "can",
+    "named_source": "tray",
+    "named_target": "pot"
+   },
+   "prefix/original": {
+    "text": "if no task is given do not move unlocked_waist: pick the cupcake from the cutting board and place it in the pan"
+   }
+  },
+  "2:22": {
+   "original": "unlocked_waist: pick the bell pepper from the cutting board and place it in the pan",
+   "scene_sig": "52da377b164fb60c9006f53093afbc2977bf8fce",
+   "scene_objects": {
+    "container": "pan",
+    "distractor_obj_back_edge_type_0_num_0": "cereal",
+    "distractor_obj_distractor_source_container_type_0_num_0": "cupcake",
+    "distractor_obj_distractor_source_container_type_0_num_0_container": "plate",
+    "obj": "bell_pepper",
+    "obj_container": "cutting_board"
+   },
+   "impossible_action": {
+    "text": "unlocked_waist: eat the bell pepper",
+    "template": 0
+   },
+   "absent_object": {
+    "text": "unlocked_waist: pick the eggplant from the tray and place it in the pot",
+    "named_task": 4,
+    "named_task_name": "TrayToPot",
+    "named_object": "eggplant",
+    "named_source": "tray",
+    "named_target": "pot"
+   },
+   "prefix/original": {
+    "text": "if no task is given do not move unlocked_waist: pick the bell pepper from the cutting board and place it in the pan"
+   }
+  },
+  "2:23": {
+   "original": "unlocked_waist: pick the lemon from the cutting board and place it in the pan",
+   "scene_sig": "79a1cb5634d8cb1bdb692a37a7d97535ac3fd65f",
+   "scene_objects": {
+    "container": "pan",
+    "distractor_obj_back_edge_type_0_num_0": "cereal",
+    "distractor_obj_distractor_source_container_type_0_num_0": "croissant",
+    "distractor_obj_distractor_source_container_type_0_num_0_container": "plate",
+    "obj": "lemon",
+    "obj_container": "cutting_board"
+   },
+   "impossible_action": {
+    "text": "unlocked_waist: wash the pan in the sink",
+    "template": 1
+   },
+   "absent_object": {
+    "text": "unlocked_waist: pick the eggplant from the tray and place it in the pot",
+    "named_task": 4,
+    "named_task_name": "TrayToPot",
+    "named_object": "eggplant",
+    "named_source": "tray",
+    "named_target": "pot"
+   },
+   "prefix/original": {
+    "text": "if no task is given do not move unlocked_waist: pick the lemon from the cutting board and place it in the pan"
+   }
+  },
+  "3:0": {
+   "original": "unlocked_waist: pick the tomato from the cutting board and place it in the pot",
+   "scene_sig": "a463f2cb93884b673d9a0261bf3c09328c8e8187",
+   "scene_objects": {
+    "container": "pot",
+    "distractor_obj_back_edge_type_0_num_0": "chips",
+    "distractor_obj_distractor_target_container_type_0_num_0": "tiered_shelf",
+    "obj": "tomato",
+    "obj_container": "cutting_board"
+   },
+   "impossible_action": {
+    "text": "unlocked_waist: eat the tomato",
+    "template": 0
+   },
+   "absent_object": {
+    "text": "unlocked_waist: pick the pear from the plate and place it in the plate",
+    "named_task": 0,
+    "named_task_name": "PlateToPlate",
+    "named_object": "pear",
+    "named_source": "plate",
+    "named_target": "plate"
+   },
+   "prefix/original": {
+    "text": "if no task is given do not move unlocked_waist: pick the tomato from the cutting board and place it in the pot"
+   }
+  },
+  "3:1": {
+   "original": "unlocked_waist: pick the tomato from the cutting board and place it in the pot",
+   "scene_sig": "13fed088fc090f052327049683c36c2384667f35",
+   "scene_objects": {
+    "container": "pot",
+    "distractor_obj_back_edge_type_0_num_0": "chips",
+    "distractor_obj_distractor_target_container_type_0_num_0": "tiered_shelf",
+    "obj": "tomato",
+    "obj_container": "cutting_board"
+   },
+   "impossible_action": {
+    "text": "unlocked_waist: wash the pot in the sink",
+    "template": 1
+   },
+   "absent_object": {
+    "text": "unlocked_waist: pick the sweet potato from the tray and place it in the plate",
+    "named_task": 1,
+    "named_task_name": "TrayToPlate",
+    "named_object": "sweet potato",
+    "named_source": "tray",
+    "named_target": "plate"
+   },
+   "prefix/original": {
+    "text": "if no task is given do not move unlocked_waist: pick the tomato from the cutting board and place it in the pot"
+   }
+  },
+  "3:5": {
+   "original": "unlocked_waist: pick the croissant from the cutting board and place it in the pot",
+   "scene_sig": "609c9d048375fd26782b240046abd05bdfdb037d",
+   "scene_objects": {
+    "container": "pot",
+    "distractor_obj_back_edge_type_0_num_0": "chips",
+    "distractor_obj_distractor_target_container_type_0_num_0": "basket",
+    "obj": "croissant",
+    "obj_container": "cutting_board"
+   },
+   "impossible_action": {
+    "text": "unlocked_waist: throw the croissant at the wall",
+    "template": 5
+   },
+   "absent_object": {
+    "text": "unlocked_waist: pick the sweet potato from the placemat and place it in the plate",
+    "named_task": 5,
+    "named_task_name": "PlacematToPlate",
+    "named_object": "sweet potato",
+    "named_source": "placemat",
+    "named_target": "plate"
+   },
+   "prefix/original": {
+    "text": "if no task is given do not move unlocked_waist: pick the croissant from the cutting board and place it in the pot"
+   }
+  },
+  "3:6": {
+   "original": "unlocked_waist: pick the tomato from the cutting board and place it in the pot",
+   "scene_sig": "de5e3df5fd4e20825dd51b9e9a0b376a31667beb",
+   "scene_objects": {
+    "container": "pot",
+    "distractor_obj_back_edge_type_0_num_0": "chips",
+    "distractor_obj_distractor_target_container_type_0_num_0": "pan",
+    "obj": "tomato",
+    "obj_container": "cutting_board"
+   },
+   "impossible_action": {
+    "text": "unlocked_waist: eat the tomato",
+    "template": 0
+   },
+   "absent_object": {
+    "text": "unlocked_waist: pick the cupcake from the plate and place it in the plate",
+    "named_task": 0,
+    "named_task_name": "PlateToPlate",
+    "named_object": "cupcake",
+    "named_source": "plate",
+    "named_target": "plate"
+   },
+   "prefix/original": {
+    "text": "if no task is given do not move unlocked_waist: pick the tomato from the cutting board and place it in the pot"
+   }
+  },
+  "3:8": {
+   "original": "unlocked_waist: pick the can from the cutting board and place it in the pot",
+   "scene_sig": "2c8fd7997efedfd927bdf11c41425fce834f5d50",
+   "scene_objects": {
+    "container": "pot",
+    "distractor_obj_distractor_target_container_type_0_num_0": "tiered_basket",
+    "obj": "can",
+    "obj_container": "cutting_board"
+   },
+   "impossible_action": {
+    "text": "unlocked_waist: pour water into the pot",
+    "template": 2
+   },
+   "absent_object": {
+    "text": "unlocked_waist: pick the croissant from the placemat and place it in the plate",
+    "named_task": 5,
+    "named_task_name": "PlacematToPlate",
+    "named_object": "croissant",
+    "named_source": "placemat",
+    "named_target": "plate"
+   },
+   "prefix/original": {
+    "text": "if no task is given do not move unlocked_waist: pick the can from the cutting board and place it in the pot"
+   }
+  },
+  "3:9": {
+   "original": "unlocked_waist: pick the tomato from the cutting board and place it in the pot",
+   "scene_sig": "321b9c62e957e09de7e456de9d5edd2b21d7e4ed",
+   "scene_objects": {
+    "container": "pot",
+    "distractor_obj_back_edge_type_0_num_0": "chips",
+    "distractor_obj_distractor_target_container_type_0_num_0": "bowl",
+    "obj": "tomato",
+    "obj_container": "cutting_board"
+   },
+   "impossible_action": {
+    "text": "unlocked_waist: cut the tomato in half",
+    "template": 3
+   },
+   "absent_object": {
+    "text": "unlocked_waist: pick the pear from the plate and place it in the plate",
+    "named_task": 0,
+    "named_task_name": "PlateToPlate",
+    "named_object": "pear",
+    "named_source": "plate",
+    "named_target": "plate"
+   },
+   "prefix/original": {
+    "text": "if no task is given do not move unlocked_waist: pick the tomato from the cutting board and place it in the pot"
+   }
+  },
+  "3:11": {
+   "original": "unlocked_waist: pick the croissant from the cutting board and place it in the pot",
+   "scene_sig": "dcbca83db8b2369a00cc0536b536da539c6b3804",
+   "scene_objects": {
+    "container": "pot",
+    "distractor_obj_back_edge_type_0_num_0": "chips",
+    "distractor_obj_distractor_target_container_type_0_num_0": "pan",
+    "obj": "croissant",
+    "obj_container": "cutting_board"
+   },
+   "impossible_action": {
+    "text": "unlocked_waist: throw the croissant at the wall",
+    "template": 5
+   },
+   "absent_object": {
+    "text": "unlocked_waist: pick the lemon from the placemat and place it in the plate",
+    "named_task": 5,
+    "named_task_name": "PlacematToPlate",
+    "named_object": "lemon",
+    "named_source": "placemat",
+    "named_target": "plate"
+   },
+   "prefix/original": {
+    "text": "if no task is given do not move unlocked_waist: pick the croissant from the cutting board and place it in the pot"
+   }
+  },
+  "3:12": {
+   "original": "unlocked_waist: pick the sweet potato from the cutting board and place it in the pot",
+   "scene_sig": "d1b3dc2d05d67e98b6e1d9ad42b2d13a1ad76ab1",
+   "scene_objects": {
+    "container": "pot",
+    "distractor_obj_distractor_target_container_type_0_num_0": "pan",
+    "obj": "sweet_potato",
+    "obj_container": "cutting_board"
+   },
+   "impossible_action": {
+    "text": "unlocked_waist: eat the sweet potato",
+    "template": 0
+   },
+   "absent_object": {
+    "text": "unlocked_waist: pick the bell pepper from the plate and place it in the plate",
+    "named_task": 0,
+    "named_task_name": "PlateToPlate",
+    "named_object": "bell pepper",
+    "named_source": "plate",
+    "named_target": "plate"
+   },
+   "prefix/original": {
+    "text": "if no task is given do not move unlocked_waist: pick the sweet potato from the cutting board and place it in the pot"
+   }
+  },
+  "3:14": {
+   "original": "unlocked_waist: pick the can from the cutting board and place it in the pot",
+   "scene_sig": "4c657d6ffb0928bdccc1e96935a862d18c16a14c",
+   "scene_objects": {
+    "container": "pot",
+    "distractor_obj_distractor_target_container_type_0_num_0": "cardboard_box",
+    "obj": "can",
+    "obj_container": "cutting_board"
+   },
+   "impossible_action": {
+    "text": "unlocked_waist: pour water into the pot",
+    "template": 2
+   },
+   "absent_object": {
+    "text": "unlocked_waist: pick the sweet potato from the placemat and place it in the plate",
+    "named_task": 5,
+    "named_task_name": "PlacematToPlate",
+    "named_object": "sweet potato",
+    "named_source": "placemat",
+    "named_target": "plate"
+   },
+   "prefix/original": {
+    "text": "if no task is given do not move unlocked_waist: pick the can from the cutting board and place it in the pot"
+   }
+  },
+  "3:21": {
+   "original": "unlocked_waist: pick the squash from the cutting board and place it in the pot",
+   "scene_sig": "c82debd4d4dd6e15edbc1ca7b038c5b649ec27b4",
+   "scene_objects": {
+    "container": "pot",
+    "distractor_obj_back_edge_type_0_num_0": "chips",
+    "distractor_obj_distractor_target_container_type_0_num_0": "cardboard_box",
+    "obj": "squash",
+    "obj_container": "cutting_board"
+   },
+   "impossible_action": {
+    "text": "unlocked_waist: cut the squash in half",
+    "template": 3
+   },
+   "absent_object": {
+    "text": "unlocked_waist: pick the bell pepper from the plate and place it in the plate",
+    "named_task": 0,
+    "named_task_name": "PlateToPlate",
+    "named_object": "bell pepper",
+    "named_source": "plate",
+    "named_target": "plate"
+   },
+   "prefix/original": {
+    "text": "if no task is given do not move unlocked_waist: pick the squash from the cutting board and place it in the pot"
+   }
+  },
+  "3:22": {
+   "original": "unlocked_waist: pick the croissant from the cutting board and place it in the pot",
+   "scene_sig": "232711d9386a61993883a483e66ee1805b2c67db",
+   "scene_objects": {
+    "container": "pot",
+    "distractor_obj_distractor_target_container_type_0_num_0": "pan",
+    "obj": "croissant",
+    "obj_container": "cutting_board"
+   },
+   "impossible_action": {
+    "text": "unlocked_waist: paint the cutting board red",
+    "template": 4
+   },
+   "absent_object": {
+    "text": "unlocked_waist: pick the cupcake from the tray and place it in the plate",
+    "named_task": 1,
+    "named_task_name": "TrayToPlate",
+    "named_object": "cupcake",
+    "named_source": "tray",
+    "named_target": "plate"
+   },
+   "prefix/original": {
+    "text": "if no task is given do not move unlocked_waist: pick the croissant from the cutting board and place it in the pot"
+   }
+  },
+  "3:23": {
+   "original": "unlocked_waist: pick the eggplant from the cutting board and place it in the pot",
+   "scene_sig": "1bbcc1096ffee1d3f9128b1cb81cd47a2cfbdc55",
+   "scene_objects": {
+    "container": "pot",
+    "distractor_obj_distractor_target_container_type_0_num_0": "tiered_basket",
+    "obj": "eggplant",
+    "obj_container": "cutting_board"
+   },
+   "impossible_action": {
+    "text": "unlocked_waist: throw the eggplant at the wall",
+    "template": 5
+   },
+   "absent_object": {
+    "text": "unlocked_waist: pick the sweet potato from the placemat and place it in the plate",
+    "named_task": 5,
+    "named_task_name": "PlacematToPlate",
+    "named_object": "sweet potato",
+    "named_source": "placemat",
+    "named_target": "plate"
+   },
+   "prefix/original": {
+    "text": "if no task is given do not move unlocked_waist: pick the eggplant from the cutting board and place it in the pot"
+   }
+  },
+  "3:27": {
+   "original": "unlocked_waist: pick the croissant from the cutting board and place it in the pot",
+   "scene_sig": "04acac30b7365726615d5d3da011bdcdc5ebd23c",
+   "scene_objects": {
+    "container": "pot",
+    "distractor_obj_back_edge_type_0_num_0": "chips",
+    "distractor_obj_distractor_target_container_type_0_num_0": "bowl",
+    "obj": "croissant",
+    "obj_container": "cutting_board"
+   },
+   "impossible_action": {
+    "text": "unlocked_waist: cut the croissant in half",
+    "template": 3
+   },
+   "absent_object": {
+    "text": "unlocked_waist: pick the squash from the plate and place it in the plate",
+    "named_task": 0,
+    "named_task_name": "PlateToPlate",
+    "named_object": "squash",
+    "named_source": "plate",
+    "named_target": "plate"
+   },
+   "prefix/original": {
+    "text": "if no task is given do not move unlocked_waist: pick the croissant from the cutting board and place it in the pot"
+   }
+  },
+  "3:28": {
+   "original": "unlocked_waist: pick the tomato from the cutting board and place it in the pot",
+   "scene_sig": "53930658874fa40cfcf0efd4627cea2087b19046",
+   "scene_objects": {
+    "container": "pot",
+    "distractor_obj_back_edge_type_0_num_0": "chips",
+    "distractor_obj_distractor_target_container_type_0_num_0": "tiered_basket",
+    "obj": "tomato",
+    "obj_container": "cutting_board"
+   },
+   "impossible_action": {
+    "text": "unlocked_waist: paint the cutting board red",
+    "template": 4
+   },
+   "absent_object": {
+    "text": "unlocked_waist: pick the sweet potato from the tray and place it in the plate",
+    "named_task": 1,
+    "named_task_name": "TrayToPlate",
+    "named_object": "sweet potato",
+    "named_source": "tray",
+    "named_target": "plate"
+   },
+   "prefix/original": {
+    "text": "if no task is given do not move unlocked_waist: pick the tomato from the cutting board and place it in the pot"
+   }
+  },
+  "3:30": {
+   "original": "unlocked_waist: pick the croissant from the cutting board and place it in the pot",
+   "scene_sig": "c8b071971e0f28e9c93ab113014dbffb54bfb150",
+   "scene_objects": {
+    "container": "pot",
+    "distractor_obj_back_edge_type_0_num_0": "chips",
+    "distractor_obj_distractor_target_container_type_0_num_0": "pan",
+    "obj": "croissant",
+    "obj_container": "cutting_board"
+   },
+   "impossible_action": {
+    "text": "unlocked_waist: eat the croissant",
+    "template": 0
+   },
+   "absent_object": {
+    "text": "unlocked_waist: pick the bell pepper from the plate and place it in the plate",
+    "named_task": 0,
+    "named_task_name": "PlateToPlate",
+    "named_object": "bell pepper",
+    "named_source": "plate",
+    "named_target": "plate"
+   },
+   "prefix/original": {
+    "text": "if no task is given do not move unlocked_waist: pick the croissant from the cutting board and place it in the pot"
+   }
+  },
+  "3:35": {
+   "original": "unlocked_waist: pick the croissant from the cutting board and place it in the pot",
+   "scene_sig": "05a6402439da999f6fe8e5d07077809ab09ef990",
+   "scene_objects": {
+    "container": "pot",
+    "distractor_obj_distractor_target_container_type_0_num_0": "bowl",
+    "obj": "croissant",
+    "obj_container": "cutting_board"
+   },
+   "impossible_action": {
+    "text": "unlocked_waist: throw the croissant at the wall",
+    "template": 5
+   },
+   "absent_object": {
+    "text": "unlocked_waist: pick the can from the placemat and place it in the plate",
+    "named_task": 5,
+    "named_task_name": "PlacematToPlate",
+    "named_object": "can",
+    "named_source": "placemat",
+    "named_target": "plate"
+   },
+   "prefix/original": {
+    "text": "if no task is given do not move unlocked_waist: pick the croissant from the cutting board and place it in the pot"
+   }
+  },
+  "3:36": {
+   "original": "unlocked_waist: pick the eggplant from the cutting board and place it in the pot",
+   "scene_sig": "aadb2f491a4290428d6c6dc72a61e8fc475d90bf",
+   "scene_objects": {
+    "container": "pot",
+    "distractor_obj_back_edge_type_0_num_0": "chips",
+    "distractor_obj_distractor_target_container_type_0_num_0": "pan",
+    "obj": "eggplant",
+    "obj_container": "cutting_board"
+   },
+   "impossible_action": {
+    "text": "unlocked_waist: eat the eggplant",
+    "template": 0
+   },
+   "absent_object": {
+    "text": "unlocked_waist: pick the squash from the plate and place it in the plate",
+    "named_task": 0,
+    "named_task_name": "PlateToPlate",
+    "named_object": "squash",
+    "named_source": "plate",
+    "named_target": "plate"
+   },
+   "prefix/original": {
+    "text": "if no task is given do not move unlocked_waist: pick the eggplant from the cutting board and place it in the pot"
+   }
+  },
+  "3:38": {
+   "original": "unlocked_waist: pick the croissant from the cutting board and place it in the pot",
+   "scene_sig": "d971c447ae4d07c9792e64ba38e012a30827f871",
+   "scene_objects": {
+    "container": "pot",
+    "distractor_obj_back_edge_type_0_num_0": "chips",
+    "distractor_obj_distractor_target_container_type_0_num_0": "cardboard_box",
+    "obj": "croissant",
+    "obj_container": "cutting_board"
+   },
+   "impossible_action": {
+    "text": "unlocked_waist: pour water into the pot",
+    "template": 2
+   },
+   "absent_object": {
+    "text": "unlocked_waist: pick the lemon from the placemat and place it in the plate",
+    "named_task": 5,
+    "named_task_name": "PlacematToPlate",
+    "named_object": "lemon",
+    "named_source": "placemat",
+    "named_target": "plate"
+   },
+   "prefix/original": {
+    "text": "if no task is given do not move unlocked_waist: pick the croissant from the cutting board and place it in the pot"
+   }
+  },
+  "3:39": {
+   "original": "unlocked_waist: pick the cupcake from the cutting board and place it in the pot",
+   "scene_sig": "86d8ad7ac534b080bebe0dc05a39063375f9db0f",
+   "scene_objects": {
+    "container": "pot",
+    "distractor_obj_distractor_target_container_type_0_num_0": "bowl",
+    "obj": "cupcake",
+    "obj_container": "cutting_board"
+   },
+   "impossible_action": {
+    "text": "unlocked_waist: cut the cupcake in half",
+    "template": 3
+   },
+   "absent_object": {
+    "text": "unlocked_waist: pick the bell pepper from the plate and place it in the plate",
+    "named_task": 0,
+    "named_task_name": "PlateToPlate",
+    "named_object": "bell pepper",
+    "named_source": "plate",
+    "named_target": "plate"
+   },
+   "prefix/original": {
+    "text": "if no task is given do not move unlocked_waist: pick the cupcake from the cutting board and place it in the pot"
+   }
+  },
+  "3:40": {
+   "original": "unlocked_waist: pick the squash from the cutting board and place it in the pot",
+   "scene_sig": "6ae970ca8fe0666887cd2981eaaba660328f2e13",
+   "scene_objects": {
+    "container": "pot",
+    "distractor_obj_distractor_target_container_type_0_num_0": "basket",
+    "obj": "squash",
+    "obj_container": "cutting_board"
+   },
+   "impossible_action": {
+    "text": "unlocked_waist: paint the cutting board red",
+    "template": 4
+   },
+   "absent_object": {
+    "text": "unlocked_waist: pick the croissant from the tray and place it in the plate",
+    "named_task": 1,
+    "named_task_name": "TrayToPlate",
+    "named_object": "croissant",
+    "named_source": "tray",
+    "named_target": "plate"
+   },
+   "prefix/original": {
+    "text": "if no task is given do not move unlocked_waist: pick the squash from the cutting board and place it in the pot"
+   }
+  },
+  "4:0": {
+   "original": "unlocked_waist: pick the croissant from the tray and place it in the pot",
+   "scene_sig": "0443bcebd07d09f28d0581e0f2b1e3ceaa3f7900",
+   "scene_objects": {
+    "container": "pot",
+    "distractor_obj_back_edge_type_0_num_0": "cereal",
+    "obj": "croissant",
+    "obj_container": "tray"
+   },
+   "impossible_action": {
+    "text": "unlocked_waist: paint the tray red",
+    "template": 4
+   },
+   "absent_object": {
+    "text": "unlocked_waist: pick the bell pepper from the cutting board and place it in the pan",
+    "named_task": 2,
+    "named_task_name": "CuttingboardToPan",
+    "named_object": "bell pepper",
+    "named_source": "cutting board",
+    "named_target": "pan"
+   },
+   "prefix/original": {
+    "text": "if no task is given do not move unlocked_waist: pick the croissant from the tray and place it in the pot"
+   }
+  },
+  "4:2": {
+   "original": "unlocked_waist: pick the sweet potato from the tray and place it in the pot",
+   "scene_sig": "2fb98b867ae7dbb68819de2e767844872457ee86",
+   "scene_objects": {
+    "container": "pot",
+    "distractor_obj_back_edge_type_0_num_0": "cereal",
+    "obj": "sweet_potato",
+    "obj_container": "tray"
+   },
+   "impossible_action": {
+    "text": "unlocked_waist: eat the sweet potato",
+    "template": 0
+   },
+   "absent_object": {
+    "text": "unlocked_waist: pick the bell pepper from the plate and place it in the plate",
+    "named_task": 0,
+    "named_task_name": "PlateToPlate",
+    "named_object": "bell pepper",
+    "named_source": "plate",
+    "named_target": "plate"
+   },
+   "prefix/original": {
+    "text": "if no task is given do not move unlocked_waist: pick the sweet potato from the tray and place it in the pot"
+   }
+  },
+  "4:3": {
+   "original": "unlocked_waist: pick the squash from the tray and place it in the pot",
+   "scene_sig": "ee51ece561c63aae89063015bb7e7f00ba3f9ba7",
+   "scene_objects": {
+    "container": "pot",
+    "distractor_obj_back_edge_type_0_num_0": "cereal",
+    "obj": "squash",
+    "obj_container": "tray"
+   },
+   "impossible_action": {
+    "text": "unlocked_waist: wash the pot in the sink",
+    "template": 1
+   },
+   "absent_object": {
+    "text": "unlocked_waist: pick the cupcake from the cutting board and place it in the pan",
+    "named_task": 2,
+    "named_task_name": "CuttingboardToPan",
+    "named_object": "cupcake",
+    "named_source": "cutting board",
+    "named_target": "pan"
+   },
+   "prefix/original": {
+    "text": "if no task is given do not move unlocked_waist: pick the squash from the tray and place it in the pot"
+   }
+  },
+  "4:5": {
+   "original": "unlocked_waist: pick the lemon from the tray and place it in the pot",
+   "scene_sig": "7775ddf8fd1172075d01bd0187ad30ee6ab462b9",
+   "scene_objects": {
+    "container": "pot",
+    "obj": "lemon",
+    "obj_container": "tray"
+   },
+   "impossible_action": {
+    "text": "unlocked_waist: cut the lemon in half",
+    "template": 3
+   },
+   "absent_object": {
+    "text": "unlocked_waist: pick the cupcake from the plate and place it in the plate",
+    "named_task": 0,
+    "named_task_name": "PlateToPlate",
+    "named_object": "cupcake",
+    "named_source": "plate",
+    "named_target": "plate"
+   },
+   "prefix/original": {
+    "text": "if no task is given do not move unlocked_waist: pick the lemon from the tray and place it in the pot"
+   }
+  },
+  "4:6": {
+   "original": "unlocked_waist: pick the bell pepper from the tray and place it in the pot",
+   "scene_sig": "b13b918ed562b7149324cd7cf673d5f0b425104e",
+   "scene_objects": {
+    "container": "pot",
+    "distractor_obj_back_edge_type_0_num_0": "cereal",
+    "obj": "bell_pepper",
+    "obj_container": "tray"
+   },
+   "impossible_action": {
+    "text": "unlocked_waist: paint the tray red",
+    "template": 4
+   },
+   "absent_object": {
+    "text": "unlocked_waist: pick the squash from the cutting board and place it in the pan",
+    "named_task": 2,
+    "named_task_name": "CuttingboardToPan",
+    "named_object": "squash",
+    "named_source": "cutting board",
+    "named_target": "pan"
+   },
+   "prefix/original": {
+    "text": "if no task is given do not move unlocked_waist: pick the bell pepper from the tray and place it in the pot"
+   }
+  },
+  "4:7": {
+   "original": "unlocked_waist: pick the sweet potato from the tray and place it in the pot",
+   "scene_sig": "80f8c9ead6d92100e94c8b9407228e62f2fe5c3f",
+   "scene_objects": {
+    "container": "pot",
+    "obj": "sweet_potato",
+    "obj_container": "tray"
+   },
+   "impossible_action": {
+    "text": "unlocked_waist: throw the sweet potato at the wall",
+    "template": 5
+   },
+   "absent_object": {
+    "text": "unlocked_waist: pick the can from the placemat and place it in the plate",
+    "named_task": 5,
+    "named_task_name": "PlacematToPlate",
+    "named_object": "can",
+    "named_source": "placemat",
+    "named_target": "plate"
+   },
+   "prefix/original": {
+    "text": "if no task is given do not move unlocked_waist: pick the sweet potato from the tray and place it in the pot"
+   }
+  },
+  "4:8": {
+   "original": "unlocked_waist: pick the lemon from the tray and place it in the pot",
+   "scene_sig": "b85e09ec7ae06c1d4ae338f9fd17c8481434c806",
+   "scene_objects": {
+    "container": "pot",
+    "distractor_obj_back_edge_type_0_num_0": "cereal",
+    "obj": "lemon",
+    "obj_container": "tray"
+   },
+   "impossible_action": {
+    "text": "unlocked_waist: eat the lemon",
+    "template": 0
+   },
+   "absent_object": {
+    "text": "unlocked_waist: pick the squash from the plate and place it in the plate",
+    "named_task": 0,
+    "named_task_name": "PlateToPlate",
+    "named_object": "squash",
+    "named_source": "plate",
+    "named_target": "plate"
+   },
+   "prefix/original": {
+    "text": "if no task is given do not move unlocked_waist: pick the lemon from the tray and place it in the pot"
+   }
+  },
+  "4:10": {
+   "original": "unlocked_waist: pick the can from the tray and place it in the pot",
+   "scene_sig": "9ca0bbba105abf59f07105ce764c548247aba985",
+   "scene_objects": {
+    "container": "pot",
+    "obj": "can",
+    "obj_container": "tray"
+   },
+   "impossible_action": {
+    "text": "unlocked_waist: pour water into the pot",
+    "template": 2
+   },
+   "absent_object": {
+    "text": "unlocked_waist: pick the lemon from the placemat and place it in the plate",
+    "named_task": 5,
+    "named_task_name": "PlacematToPlate",
+    "named_object": "lemon",
+    "named_source": "placemat",
+    "named_target": "plate"
+   },
+   "prefix/original": {
+    "text": "if no task is given do not move unlocked_waist: pick the can from the tray and place it in the pot"
+   }
+  },
+  "4:12": {
+   "original": "unlocked_waist: pick the tomato from the tray and place it in the pot",
+   "scene_sig": "9d4203465d402a7bc78692745d1fcde01e21e1ad",
+   "scene_objects": {
+    "container": "pot",
+    "obj": "tomato",
+    "obj_container": "tray"
+   },
+   "impossible_action": {
+    "text": "unlocked_waist: paint the tray red",
+    "template": 4
+   },
+   "absent_object": {
+    "text": "unlocked_waist: pick the cupcake from the cutting board and place it in the pan",
+    "named_task": 2,
+    "named_task_name": "CuttingboardToPan",
+    "named_object": "cupcake",
+    "named_source": "cutting board",
+    "named_target": "pan"
+   },
+   "prefix/original": {
+    "text": "if no task is given do not move unlocked_waist: pick the tomato from the tray and place it in the pot"
+   }
+  },
+  "4:13": {
+   "original": "unlocked_waist: pick the pear from the tray and place it in the pot",
+   "scene_sig": "b13157b2712f708a660e65bd3abcd33c1f0c8ab4",
+   "scene_objects": {
+    "container": "pot",
+    "obj": "pear",
+    "obj_container": "tray"
+   },
+   "impossible_action": {
+    "text": "unlocked_waist: throw the pear at the wall",
+    "template": 5
+   },
+   "absent_object": {
+    "text": "unlocked_waist: pick the sweet potato from the placemat and place it in the plate",
+    "named_task": 5,
+    "named_task_name": "PlacematToPlate",
+    "named_object": "sweet potato",
+    "named_source": "placemat",
+    "named_target": "plate"
+   },
+   "prefix/original": {
+    "text": "if no task is given do not move unlocked_waist: pick the pear from the tray and place it in the pot"
+   }
+  },
+  "4:14": {
+   "original": "unlocked_waist: pick the sweet potato from the tray and place it in the pot",
+   "scene_sig": "a63169c48f4c459839bace6deead689655edb206",
+   "scene_objects": {
+    "container": "pot",
+    "obj": "sweet_potato",
+    "obj_container": "tray"
+   },
+   "impossible_action": {
+    "text": "unlocked_waist: eat the sweet potato",
+    "template": 0
+   },
+   "absent_object": {
+    "text": "unlocked_waist: pick the cupcake from the plate and place it in the plate",
+    "named_task": 0,
+    "named_task_name": "PlateToPlate",
+    "named_object": "cupcake",
+    "named_source": "plate",
+    "named_target": "plate"
+   },
+   "prefix/original": {
+    "text": "if no task is given do not move unlocked_waist: pick the sweet potato from the tray and place it in the pot"
+   }
+  },
+  "4:16": {
+   "original": "unlocked_waist: pick the bell pepper from the tray and place it in the pot",
+   "scene_sig": "41ca89ef4b67446a03efb7be1c5b7a1c06a5a3bb",
+   "scene_objects": {
+    "container": "pot",
+    "obj": "bell_pepper",
+    "obj_container": "tray"
+   },
+   "impossible_action": {
+    "text": "unlocked_waist: pour water into the pot",
+    "template": 2
+   },
+   "absent_object": {
+    "text": "unlocked_waist: pick the croissant from the placemat and place it in the plate",
+    "named_task": 5,
+    "named_task_name": "PlacematToPlate",
+    "named_object": "croissant",
+    "named_source": "placemat",
+    "named_target": "plate"
+   },
+   "prefix/original": {
+    "text": "if no task is given do not move unlocked_waist: pick the bell pepper from the tray and place it in the pot"
+   }
+  },
+  "4:17": {
+   "original": "unlocked_waist: pick the bell pepper from the tray and place it in the pot",
+   "scene_sig": "19f87789d8ad591e59d2cdec10c83bc37739c422",
+   "scene_objects": {
+    "container": "pot",
+    "obj": "bell_pepper",
+    "obj_container": "tray"
+   },
+   "impossible_action": {
+    "text": "unlocked_waist: cut the bell pepper in half",
+    "template": 3
+   },
+   "absent_object": {
+    "text": "unlocked_waist: pick the squash from the plate and place it in the plate",
+    "named_task": 0,
+    "named_task_name": "PlateToPlate",
+    "named_object": "squash",
+    "named_source": "plate",
+    "named_target": "plate"
+   },
+   "prefix/original": {
+    "text": "if no task is given do not move unlocked_waist: pick the bell pepper from the tray and place it in the pot"
+   }
+  },
+  "4:18": {
+   "original": "unlocked_waist: pick the sweet potato from the tray and place it in the pot",
+   "scene_sig": "eb19770f683ad0a0a35f2183fffcee4ceca97617",
+   "scene_objects": {
+    "container": "pot",
+    "obj": "sweet_potato",
+    "obj_container": "tray"
+   },
+   "impossible_action": {
+    "text": "unlocked_waist: paint the tray red",
+    "template": 4
+   },
+   "absent_object": {
+    "text": "unlocked_waist: pick the bell pepper from the cutting board and place it in the pan",
+    "named_task": 2,
+    "named_task_name": "CuttingboardToPan",
+    "named_object": "bell pepper",
+    "named_source": "cutting board",
+    "named_target": "pan"
+   },
+   "prefix/original": {
+    "text": "if no task is given do not move unlocked_waist: pick the sweet potato from the tray and place it in the pot"
+   }
+  },
+  "4:19": {
+   "original": "unlocked_waist: pick the bell pepper from the tray and place it in the pot",
+   "scene_sig": "dd82487d73de49bc7a9c4962f38ebd2c06f37b38",
+   "scene_objects": {
+    "container": "pot",
+    "obj": "bell_pepper",
+    "obj_container": "tray"
+   },
+   "impossible_action": {
+    "text": "unlocked_waist: throw the bell pepper at the wall",
+    "template": 5
+   },
+   "absent_object": {
+    "text": "unlocked_waist: pick the lemon from the placemat and place it in the plate",
+    "named_task": 5,
+    "named_task_name": "PlacematToPlate",
+    "named_object": "lemon",
+    "named_source": "placemat",
+    "named_target": "plate"
+   },
+   "prefix/original": {
+    "text": "if no task is given do not move unlocked_waist: pick the bell pepper from the tray and place it in the pot"
+   }
+  },
+  "4:21": {
+   "original": "unlocked_waist: pick the lemon from the tray and place it in the pot",
+   "scene_sig": "9e2acdfa28eec95f0571525ccfb2b4716076c4ea",
+   "scene_objects": {
+    "container": "pot",
+    "obj": "lemon",
+    "obj_container": "tray"
+   },
+   "impossible_action": {
+    "text": "unlocked_waist: wash the pot in the sink",
+    "template": 1
+   },
+   "absent_object": {
+    "text": "unlocked_waist: pick the cupcake from the cutting board and place it in the pan",
+    "named_task": 2,
+    "named_task_name": "CuttingboardToPan",
+    "named_object": "cupcake",
+    "named_source": "cutting board",
+    "named_target": "pan"
+   },
+   "prefix/original": {
+    "text": "if no task is given do not move unlocked_waist: pick the lemon from the tray and place it in the pot"
+   }
+  },
+  "4:22": {
+   "original": "unlocked_waist: pick the pear from the tray and place it in the pot",
+   "scene_sig": "8465f7d761035683489754a84b3a4810ea37728b",
+   "scene_objects": {
+    "container": "pot",
+    "distractor_obj_back_edge_type_0_num_0": "cereal",
+    "obj": "pear",
+    "obj_container": "tray"
+   },
+   "impossible_action": {
+    "text": "unlocked_waist: pour water into the pot",
+    "template": 2
+   },
+   "absent_object": {
+    "text": "unlocked_waist: pick the sweet potato from the placemat and place it in the plate",
+    "named_task": 5,
+    "named_task_name": "PlacematToPlate",
+    "named_object": "sweet potato",
+    "named_source": "placemat",
+    "named_target": "plate"
+   },
+   "prefix/original": {
+    "text": "if no task is given do not move unlocked_waist: pick the pear from the tray and place it in the pot"
+   }
+  },
+  "4:24": {
+   "original": "unlocked_waist: pick the tomato from the tray and place it in the pot",
+   "scene_sig": "6973f45cd3e4e991ef98df37d4eca0a443805a24",
+   "scene_objects": {
+    "container": "pot",
+    "obj": "tomato",
+    "obj_container": "tray"
+   },
+   "impossible_action": {
+    "text": "unlocked_waist: paint the tray red",
+    "template": 4
+   },
+   "absent_object": {
+    "text": "unlocked_waist: pick the pear from the cutting board and place it in the pan",
+    "named_task": 2,
+    "named_task_name": "CuttingboardToPan",
+    "named_object": "pear",
+    "named_source": "cutting board",
+    "named_target": "pan"
+   },
+   "prefix/original": {
+    "text": "if no task is given do not move unlocked_waist: pick the tomato from the tray and place it in the pot"
+   }
+  },
+  "4:25": {
+   "original": "unlocked_waist: pick the squash from the tray and place it in the pot",
+   "scene_sig": "01728cf85052de8c5a20c71d68f4ae74c4f5ceae",
+   "scene_objects": {
+    "container": "pot",
+    "obj": "squash",
+    "obj_container": "tray"
+   },
+   "impossible_action": {
+    "text": "unlocked_waist: throw the squash at the wall",
+    "template": 5
+   },
+   "absent_object": {
+    "text": "unlocked_waist: pick the can from the placemat and place it in the plate",
+    "named_task": 5,
+    "named_task_name": "PlacematToPlate",
+    "named_object": "can",
+    "named_source": "placemat",
+    "named_target": "plate"
+   },
+   "prefix/original": {
+    "text": "if no task is given do not move unlocked_waist: pick the squash from the tray and place it in the pot"
+   }
+  },
+  "4:26": {
+   "original": "unlocked_waist: pick the squash from the tray and place it in the pot",
+   "scene_sig": "eb9fdadbc8db1a3a9be36b177f99090c435d07ff",
+   "scene_objects": {
+    "container": "pot",
+    "distractor_obj_back_edge_type_0_num_0": "cereal",
+    "obj": "squash",
+    "obj_container": "tray"
+   },
+   "impossible_action": {
+    "text": "unlocked_waist: eat the squash",
+    "template": 0
+   },
+   "absent_object": {
+    "text": "unlocked_waist: pick the pear from the plate and place it in the plate",
+    "named_task": 0,
+    "named_task_name": "PlateToPlate",
+    "named_object": "pear",
+    "named_source": "plate",
+    "named_target": "plate"
+   },
+   "prefix/original": {
+    "text": "if no task is given do not move unlocked_waist: pick the squash from the tray and place it in the pot"
+   }
+  },
+  "5:0": {
+   "original": "unlocked_waist: pick the can from the placemat and place it in the plate",
+   "scene_sig": "5040929a78e44e47227e06c64f7b757739d79d8e",
+   "scene_objects": {
+    "container": "plate",
+    "distractor_obj_distractor_obj_type_0_num_0": "pear",
+    "obj": "can",
+    "obj_container": "placemat"
+   },
+   "impossible_action": {
+    "text": "unlocked_waist: pour water into the plate",
+    "template": 2
+   },
+   "absent_object": {
+    "text": "unlocked_waist: pick the lemon from the tray and place it in the pot",
+    "named_task": 4,
+    "named_task_name": "TrayToPot",
+    "named_object": "lemon",
+    "named_source": "tray",
+    "named_target": "pot"
+   },
+   "prefix/original": {
+    "text": "if no task is given do not move unlocked_waist: pick the can from the placemat and place it in the plate"
+   }
+  },
+  "5:1": {
+   "original": "unlocked_waist: pick the bell pepper from the placemat and place it in the plate",
+   "scene_sig": "722ab29fc4380650b066fdc0ef61ad732458eecb",
+   "scene_objects": {
+    "container": "plate",
+    "distractor_obj_distractor_obj_type_0_num_0": "cupcake",
+    "obj": "bell_pepper",
+    "obj_container": "placemat"
+   },
+   "impossible_action": {
+    "text": "unlocked_waist: cut the bell pepper in half",
+    "template": 3
+   },
+   "absent_object": {
+    "text": "unlocked_waist: pick the lemon from the cutting board and place it in the pan",
+    "named_task": 2,
+    "named_task_name": "CuttingboardToPan",
+    "named_object": "lemon",
+    "named_source": "cutting board",
+    "named_target": "pan"
+   },
+   "prefix/original": {
+    "text": "if no task is given do not move unlocked_waist: pick the bell pepper from the placemat and place it in the plate"
+   }
+  },
+  "5:2": {
+   "original": "unlocked_waist: pick the sweet potato from the placemat and place it in the plate",
+   "scene_sig": "df7eb259bf4fa6d68e4ed2fb50aa8c4973fe59b7",
+   "scene_objects": {
+    "container": "plate",
+    "distractor_obj_distractor_obj_type_0_num_0": "pear",
+    "obj": "sweet_potato",
+    "obj_container": "placemat"
+   },
+   "impossible_action": {
+    "text": "unlocked_waist: paint the placemat red",
+    "template": 4
+   },
+   "absent_object": {
+    "text": "unlocked_waist: pick the lemon from the cutting board and place it in the pot",
+    "named_task": 3,
+    "named_task_name": "CuttingboardToPot",
+    "named_object": "lemon",
+    "named_source": "cutting board",
+    "named_target": "pot"
+   },
+   "prefix/original": {
+    "text": "if no task is given do not move unlocked_waist: pick the sweet potato from the placemat and place it in the plate"
+   }
+  },
+  "5:3": {
+   "original": "unlocked_waist: pick the lemon from the placemat and place it in the plate",
+   "scene_sig": "0da2dde7902d242f5498e874b112b65429ec51db",
+   "scene_objects": {
+    "container": "plate",
+    "distractor_obj_back_edge_type_0_num_0": "candle",
+    "distractor_obj_distractor_obj_type_0_num_0": "can",
+    "obj": "lemon",
+    "obj_container": "placemat"
+   },
+   "impossible_action": {
+    "text": "unlocked_waist: throw the lemon at the wall",
+    "template": 5
+   },
+   "absent_object": {
+    "text": "unlocked_waist: pick the tomato from the tray and place it in the pot",
+    "named_task": 4,
+    "named_task_name": "TrayToPot",
+    "named_object": "tomato",
+    "named_source": "tray",
+    "named_target": "pot"
+   },
+   "prefix/original": {
+    "text": "if no task is given do not move unlocked_waist: pick the lemon from the placemat and place it in the plate"
+   }
+  },
+  "5:4": {
+   "original": "unlocked_waist: pick the tomato from the placemat and place it in the plate",
+   "scene_sig": "d75691d52bddb608e99a414ed88692186deb4784",
+   "scene_objects": {
+    "container": "plate",
+    "distractor_obj_distractor_obj_type_0_num_0": "croissant",
+    "obj": "tomato",
+    "obj_container": "placemat"
+   },
+   "impossible_action": {
+    "text": "unlocked_waist: eat the tomato",
+    "template": 0
+   },
+   "absent_object": {
+    "text": "unlocked_waist: pick the squash from the cutting board and place it in the pan",
+    "named_task": 2,
+    "named_task_name": "CuttingboardToPan",
+    "named_object": "squash",
+    "named_source": "cutting board",
+    "named_target": "pan"
+   },
+   "prefix/original": {
+    "text": "if no task is given do not move unlocked_waist: pick the tomato from the placemat and place it in the plate"
+   }
+  },
+  "5:5": {
+   "original": "unlocked_waist: pick the croissant from the placemat and place it in the plate",
+   "scene_sig": "bf209b9df97370c9dd001f6f65c48a83273fda5d",
+   "scene_objects": {
+    "container": "plate",
+    "distractor_obj_distractor_obj_type_0_num_0": "tomato",
+    "obj": "croissant",
+    "obj_container": "placemat"
+   },
+   "impossible_action": {
+    "text": "unlocked_waist: wash the plate in the sink",
+    "template": 1
+   },
+   "absent_object": {
+    "text": "unlocked_waist: pick the bell pepper from the cutting board and place it in the pot",
+    "named_task": 3,
+    "named_task_name": "CuttingboardToPot",
+    "named_object": "bell pepper",
+    "named_source": "cutting board",
+    "named_target": "pot"
+   },
+   "prefix/original": {
+    "text": "if no task is given do not move unlocked_waist: pick the croissant from the placemat and place it in the plate"
+   }
+  },
+  "5:6": {
+   "original": "unlocked_waist: pick the cupcake from the placemat and place it in the plate",
+   "scene_sig": "635ce14d389f079bd631b47637b8c93836e53b44",
+   "scene_objects": {
+    "container": "plate",
+    "distractor_obj_distractor_obj_type_0_num_0": "eggplant",
+    "obj": "cupcake",
+    "obj_container": "placemat"
+   },
+   "impossible_action": {
+    "text": "unlocked_waist: pour water into the plate",
+    "template": 2
+   },
+   "absent_object": {
+    "text": "unlocked_waist: pick the croissant from the tray and place it in the pot",
+    "named_task": 4,
+    "named_task_name": "TrayToPot",
+    "named_object": "croissant",
+    "named_source": "tray",
+    "named_target": "pot"
+   },
+   "prefix/original": {
+    "text": "if no task is given do not move unlocked_waist: pick the cupcake from the placemat and place it in the plate"
+   }
+  },
+  "5:7": {
+   "original": "unlocked_waist: pick the bell pepper from the placemat and place it in the plate",
+   "scene_sig": "ef0c05382f6cb0c6cf0cd34dd0d002c81e4ad75c",
+   "scene_objects": {
+    "container": "plate",
+    "distractor_obj_back_edge_type_0_num_0": "candle",
+    "distractor_obj_distractor_obj_type_0_num_0": "cupcake",
+    "obj": "bell_pepper",
+    "obj_container": "placemat"
+   },
+   "impossible_action": {
+    "text": "unlocked_waist: cut the bell pepper in half",
+    "template": 3
+   },
+   "absent_object": {
+    "text": "unlocked_waist: pick the croissant from the cutting board and place it in the pan",
+    "named_task": 2,
+    "named_task_name": "CuttingboardToPan",
+    "named_object": "croissant",
+    "named_source": "cutting board",
+    "named_target": "pan"
+   },
+   "prefix/original": {
+    "text": "if no task is given do not move unlocked_waist: pick the bell pepper from the placemat and place it in the plate"
+   }
+  },
+  "5:8": {
+   "original": "unlocked_waist: pick the tomato from the placemat and place it in the plate",
+   "scene_sig": "d35d690eaf174ad33607e3f60fc83e74e4bbabb0",
+   "scene_objects": {
+    "container": "plate",
+    "distractor_obj_distractor_obj_type_0_num_0": "bell_pepper",
+    "obj": "tomato",
+    "obj_container": "placemat"
+   },
+   "impossible_action": {
+    "text": "unlocked_waist: paint the placemat red",
+    "template": 4
+   },
+   "absent_object": {
+    "text": "unlocked_waist: pick the eggplant from the cutting board and place it in the pot",
+    "named_task": 3,
+    "named_task_name": "CuttingboardToPot",
+    "named_object": "eggplant",
+    "named_source": "cutting board",
+    "named_target": "pot"
+   },
+   "prefix/original": {
+    "text": "if no task is given do not move unlocked_waist: pick the tomato from the placemat and place it in the plate"
+   }
+  },
+  "5:9": {
+   "original": "unlocked_waist: pick the pear from the placemat and place it in the plate",
+   "scene_sig": "a406b08c86a349df55016a161e91e9c06afd3d6a",
+   "scene_objects": {
+    "container": "plate",
+    "distractor_obj_back_edge_type_0_num_0": "candle",
+    "distractor_obj_distractor_obj_type_0_num_0": "sweet_potato",
+    "obj": "pear",
+    "obj_container": "placemat"
+   },
+   "impossible_action": {
+    "text": "unlocked_waist: throw the pear at the wall",
+    "template": 5
+   },
+   "absent_object": {
+    "text": "unlocked_waist: pick the lemon from the tray and place it in the pot",
+    "named_task": 4,
+    "named_task_name": "TrayToPot",
+    "named_object": "lemon",
+    "named_source": "tray",
+    "named_target": "pot"
+   },
+   "prefix/original": {
+    "text": "if no task is given do not move unlocked_waist: pick the pear from the placemat and place it in the plate"
+   }
+  },
+  "5:10": {
+   "original": "unlocked_waist: pick the pear from the placemat and place it in the plate",
+   "scene_sig": "ea0e3fdaeb65e3a746f3e4f158fd0d4edaf9df64",
+   "scene_objects": {
+    "container": "plate",
+    "distractor_obj_distractor_obj_type_0_num_0": "tomato",
+    "obj": "pear",
+    "obj_container": "placemat"
+   },
+   "impossible_action": {
+    "text": "unlocked_waist: eat the pear",
+    "template": 0
+   },
+   "absent_object": {
+    "text": "unlocked_waist: pick the eggplant from the cutting board and place it in the pan",
+    "named_task": 2,
+    "named_task_name": "CuttingboardToPan",
+    "named_object": "eggplant",
+    "named_source": "cutting board",
+    "named_target": "pan"
+   },
+   "prefix/original": {
+    "text": "if no task is given do not move unlocked_waist: pick the pear from the placemat and place it in the plate"
+   }
+  },
+  "5:11": {
+   "original": "unlocked_waist: pick the bell pepper from the placemat and place it in the plate",
+   "scene_sig": "d8c5ad8386272809f591d2ef3ba32a4daff45f0d",
+   "scene_objects": {
+    "container": "plate",
+    "distractor_obj_distractor_obj_type_0_num_0": "cupcake",
+    "obj": "bell_pepper",
+    "obj_container": "placemat"
+   },
+   "impossible_action": {
+    "text": "unlocked_waist: wash the plate in the sink",
+    "template": 1
+   },
+   "absent_object": {
+    "text": "unlocked_waist: pick the sweet potato from the cutting board and place it in the pot",
+    "named_task": 3,
+    "named_task_name": "CuttingboardToPot",
+    "named_object": "sweet potato",
+    "named_source": "cutting board",
+    "named_target": "pot"
+   },
+   "prefix/original": {
+    "text": "if no task is given do not move unlocked_waist: pick the bell pepper from the placemat and place it in the plate"
+   }
+  },
+  "5:12": {
+   "original": "unlocked_waist: pick the lemon from the placemat and place it in the plate",
+   "scene_sig": "ba1025136ad8224ad9730b8a8822db38d822cc37",
+   "scene_objects": {
+    "container": "plate",
+    "distractor_obj_distractor_obj_type_0_num_0": "croissant",
+    "obj": "lemon",
+    "obj_container": "placemat"
+   },
+   "impossible_action": {
+    "text": "unlocked_waist: pour water into the plate",
+    "template": 2
+   },
+   "absent_object": {
+    "text": "unlocked_waist: pick the bell pepper from the tray and place it in the pot",
+    "named_task": 4,
+    "named_task_name": "TrayToPot",
+    "named_object": "bell pepper",
+    "named_source": "tray",
+    "named_target": "pot"
+   },
+   "prefix/original": {
+    "text": "if no task is given do not move unlocked_waist: pick the lemon from the placemat and place it in the plate"
+   }
+  },
+  "5:13": {
+   "original": "unlocked_waist: pick the tomato from the placemat and place it in the plate",
+   "scene_sig": "b785f29ec47a15fbdd93cc70a5bfc1d6983049e3",
+   "scene_objects": {
+    "container": "plate",
+    "distractor_obj_distractor_obj_type_0_num_0": "eggplant",
+    "obj": "tomato",
+    "obj_container": "placemat"
+   },
+   "impossible_action": {
+    "text": "unlocked_waist: cut the tomato in half",
+    "template": 3
+   },
+   "absent_object": {
+    "text": "unlocked_waist: pick the sweet potato from the cutting board and place it in the pan",
+    "named_task": 2,
+    "named_task_name": "CuttingboardToPan",
+    "named_object": "sweet potato",
+    "named_source": "cutting board",
+    "named_target": "pan"
+   },
+   "prefix/original": {
+    "text": "if no task is given do not move unlocked_waist: pick the tomato from the placemat and place it in the plate"
+   }
+  },
+  "5:14": {
+   "original": "unlocked_waist: pick the cupcake from the placemat and place it in the plate",
+   "scene_sig": "6a50f4a2c21099a9032653d39c1f5a7bd295b795",
+   "scene_objects": {
+    "container": "plate",
+    "distractor_obj_back_edge_type_0_num_0": "candle",
+    "distractor_obj_distractor_obj_type_0_num_0": "eggplant",
+    "obj": "cupcake",
+    "obj_container": "placemat"
+   },
+   "impossible_action": {
+    "text": "unlocked_waist: paint the placemat red",
+    "template": 4
+   },
+   "absent_object": {
+    "text": "unlocked_waist: pick the can from the cutting board and place it in the pot",
+    "named_task": 3,
+    "named_task_name": "CuttingboardToPot",
+    "named_object": "can",
+    "named_source": "cutting board",
+    "named_target": "pot"
+   },
+   "prefix/original": {
+    "text": "if no task is given do not move unlocked_waist: pick the cupcake from the placemat and place it in the plate"
+   }
+  },
+  "5:15": {
+   "original": "unlocked_waist: pick the pear from the placemat and place it in the plate",
+   "scene_sig": "18f3dc41e7c43957a72cf39cad110fc715d8bd1f",
+   "scene_objects": {
+    "container": "plate",
+    "distractor_obj_back_edge_type_0_num_0": "candle",
+    "distractor_obj_distractor_obj_type_0_num_0": "lemon",
+    "obj": "pear",
+    "obj_container": "placemat"
+   },
+   "impossible_action": {
+    "text": "unlocked_waist: throw the pear at the wall",
+    "template": 5
+   },
+   "absent_object": {
+    "text": "unlocked_waist: pick the cupcake from the tray and place it in the pot",
+    "named_task": 4,
+    "named_task_name": "TrayToPot",
+    "named_object": "cupcake",
+    "named_source": "tray",
+    "named_target": "pot"
+   },
+   "prefix/original": {
+    "text": "if no task is given do not move unlocked_waist: pick the pear from the placemat and place it in the plate"
+   }
+  },
+  "5:16": {
+   "original": "unlocked_waist: pick the eggplant from the placemat and place it in the plate",
+   "scene_sig": "3b2585fbb8442ada68377db34fd241d341f5e38f",
+   "scene_objects": {
+    "container": "plate",
+    "distractor_obj_back_edge_type_0_num_0": "candle",
+    "distractor_obj_distractor_obj_type_0_num_0": "can",
+    "obj": "eggplant",
+    "obj_container": "placemat"
+   },
+   "impossible_action": {
+    "text": "unlocked_waist: eat the eggplant",
+    "template": 0
+   },
+   "absent_object": {
+    "text": "unlocked_waist: pick the cupcake from the cutting board and place it in the pan",
+    "named_task": 2,
+    "named_task_name": "CuttingboardToPan",
+    "named_object": "cupcake",
+    "named_source": "cutting board",
+    "named_target": "pan"
+   },
+   "prefix/original": {
+    "text": "if no task is given do not move unlocked_waist: pick the eggplant from the placemat and place it in the plate"
+   }
+  },
+  "5:17": {
+   "original": "unlocked_waist: pick the bell pepper from the placemat and place it in the plate",
+   "scene_sig": "4b03f155564cdec927a53dd529374ca73bda7cc4",
+   "scene_objects": {
+    "container": "plate",
+    "distractor_obj_distractor_obj_type_0_num_0": "sweet_potato",
+    "obj": "bell_pepper",
+    "obj_container": "placemat"
+   },
+   "impossible_action": {
+    "text": "unlocked_waist: wash the plate in the sink",
+    "template": 1
+   },
+   "absent_object": {
+    "text": "unlocked_waist: pick the lemon from the cutting board and place it in the pot",
+    "named_task": 3,
+    "named_task_name": "CuttingboardToPot",
+    "named_object": "lemon",
+    "named_source": "cutting board",
+    "named_target": "pot"
+   },
+   "prefix/original": {
+    "text": "if no task is given do not move unlocked_waist: pick the bell pepper from the placemat and place it in the plate"
+   }
+  },
+  "5:18": {
+   "original": "unlocked_waist: pick the bell pepper from the placemat and place it in the plate",
+   "scene_sig": "110be55338b9940bbc6b5bd167c1d9e81511ef0b",
+   "scene_objects": {
+    "container": "plate",
+    "distractor_obj_distractor_obj_type_0_num_0": "lemon",
+    "obj": "bell_pepper",
+    "obj_container": "placemat"
+   },
+   "impossible_action": {
+    "text": "unlocked_waist: pour water into the plate",
+    "template": 2
+   },
+   "absent_object": {
+    "text": "unlocked_waist: pick the sweet potato from the tray and place it in the pot",
+    "named_task": 4,
+    "named_task_name": "TrayToPot",
+    "named_object": "sweet potato",
+    "named_source": "tray",
+    "named_target": "pot"
+   },
+   "prefix/original": {
+    "text": "if no task is given do not move unlocked_waist: pick the bell pepper from the placemat and place it in the plate"
+   }
+  },
+  "5:19": {
+   "original": "unlocked_waist: pick the tomato from the placemat and place it in the plate",
+   "scene_sig": "bd4cbf0a96eb1327f65d015959c5d7808ecfb683",
+   "scene_objects": {
+    "container": "plate",
+    "distractor_obj_distractor_obj_type_0_num_0": "pear",
+    "obj": "tomato",
+    "obj_container": "placemat"
+   },
+   "impossible_action": {
+    "text": "unlocked_waist: cut the tomato in half",
+    "template": 3
+   },
+   "absent_object": {
+    "text": "unlocked_waist: pick the lemon from the cutting board and place it in the pan",
+    "named_task": 2,
+    "named_task_name": "CuttingboardToPan",
+    "named_object": "lemon",
+    "named_source": "cutting board",
+    "named_target": "pan"
+   },
+   "prefix/original": {
+    "text": "if no task is given do not move unlocked_waist: pick the tomato from the placemat and place it in the plate"
+   }
+  }
+ }
+}

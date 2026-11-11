@@ -1,0 +1,12 @@
+# LIBERO-Goal episode worker (EGL rendering on one GPU). Python 3.10.
+# LIBERO: https://github.com/Lifelong-Robot-Learning/LIBERO at commit 8f1084e3132a39270c3a13ebe37270a43ece2a01 (pip install -e .)
+# The reference runs used the LIBERO copy shipped as Isaac-GR00T's external_dependencies/LIBERO at that commit.
+robosuite==1.4.0
+mujoco==3.9.0
+numpy==1.26.4
+bddl==1.0.1
+opencv-python==4.6.0.66
+pyzmq==27.2.0
+msgpack==1.2.3
+msgpack-numpy==0.4.8
+# Not recorded: the exact versions of robomimic, gym, egl-probe, imageio and the remaining LIBERO requirements.

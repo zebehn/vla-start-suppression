@@ -1,0 +1,122 @@
+{
+ "libero_commit": "8f1084e3132a39270c3a13ebe37270a43ece2a01",
+ "shape": [
+  10,
+  50,
+  79
+ ],
+ "dtype": "float64",
+ "array_sha256": "be96ab6d4cf535bb2e3b2226195755ea42382fea441390505a3c9a1654ca8c7a",
+ "tasks": [
+  {
+   "task": 0,
+   "language": "open the middle drawer of the cabinet",
+   "init_file": "open_the_middle_drawer_of_the_cabinet.pruned_init",
+   "init_sha256": "977efe1216bee72bb4e9fa9ec4be1bcfe37fb00ece815eac117feba019b34b9f",
+   "bddl_file": "open_the_middle_drawer_of_the_cabinet.bddl",
+   "bddl_sha256": "832ab48ec476807c767e8985666e295700f92d1f8daeae1c34eee1e75293769b",
+   "n_states": 50,
+   "state_dim": 79,
+   "states_sha256": "1133a02c725c13f847a25681b4918c8ef28e86aeafd038c821d234567857b468"
+  },
+  {
+   "task": 1,
+   "language": "put the bowl on the stove",
+   "init_file": "put_the_bowl_on_the_stove.pruned_init",
+   "init_sha256": "7c1819725af8d08988078d6efb98ddb6dbefadb2e6d20df4ed23a2074f4d9ed1",
+   "bddl_file": "put_the_bowl_on_the_stove.bddl",
+   "bddl_sha256": "c6812d6c988be830412aa6fc4801af04d60f8c4565d2625763b6a0f2b843a87f",
+   "n_states": 50,
+   "state_dim": 79,
+   "states_sha256": "d41fd0d4a44d414512002a066269359130e8dd38669b20ddf9cdd3bf05882cf0"
+  },
+  {
+   "task": 2,
+   "language": "put the wine bottle on top of the cabinet",
+   "init_file": "put_the_wine_bottle_on_top_of_the_cabinet.pruned_init",
+   "init_sha256": "b8c659d17c722bf848065bec6b4d088ab8e90f48b5ae991b2f118b0f2b5bbe4b",
+   "bddl_file": "put_the_wine_bottle_on_top_of_the_cabinet.bddl",
+   "bddl_sha256": "2ef6f403a8451e216af44158c1a6c975cf8e5058ad02d78367ac0be443d096fe",
+   "n_states": 50,
+   "state_dim": 79,
+   "states_sha256": "cf36284929e175df3782a2f6c844aa8c0466ca15c089c804ddb862cb728630d7"
+  },
+  {
+   "task": 3,
+   "language": "open the top drawer and put the bowl inside",
+   "init_file": "open_the_top_drawer_and_put_the_bowl_inside.pruned_init",
+   "init_sha256": "1cd5354ade9ab9f323a518515f961df96123b7daeca017df1f62d3e9ff18794f",
+   "bddl_file": "open_the_top_drawer_and_put_the_bowl_inside.bddl",
+   "bddl_sha256": "3056e4dc72ee590432cfb18c610fd077a572c8b8f256e45328031005dd0b6757",
+   "n_states": 50,
+   "state_dim": 79,
+   "states_sha256": "df3b940e6b49778a85c8fce7383fff1f55b99b5850b7732d69802cf14277366b"
+  },
+  {
+   "task": 4,
+   "language": "put the bowl on top of the cabinet",
+   "init_file": "put_the_bowl_on_top_of_the_cabinet.pruned_init",
+   "init_sha256": "c0b7baf82f36f5304488bac91d788800a1c93d0a9fd19a73f448992d5366e145",
+   "bddl_file": "put_the_bowl_on_top_of_the_cabinet.bddl",
+   "bddl_sha256": "2ffba859a154f50c3c99ffb3420743fa5aa65c70bf7d4cd26f5bc81d07be5713",
+   "n_states": 50,
+   "state_dim": 79,
+   "states_sha256": "3fbc901878061de9f9a61914c4aa89649e266ed9cfd5cd4e1b456e28eb70979e"
+  },
+  {
+   "task": 5,
+   "language": "push the plate to the front of the stove",
+   "init_file": "push_the_plate_to_the_front_of_the_stove.pruned_init",
+   "init_sha256": "794beed679b18bbd7d9fb851c81877a974915ad63addff2d5ac5af0607fafac9",
+   "bddl_file": "push_the_plate_to_the_front_of_the_stove.bddl",
+   "bddl_sha256": "26f22f8ad39a4b2b344b049115c45661a877fa0b4821fb78246725e7e87d8c0b",
+   "n_states": 50,
+   "state_dim": 79,
+   "states_sha256": "6d698a58b164ec2c9a53b1043d1327cf05afa2594614c60c6eca78db24353f29"
+  },
+  {
+   "task": 6,
+   "language": "put the cream cheese in the bowl",
+   "init_file": "put_the_cream_cheese_in_the_bowl.pruned_init",
+   "init_sha256": "524de11d240f33b93d5218b1779a1ded1037950fcf865f07d0c0029cc48cf3f5",
+   "bddl_file": "put_the_cream_cheese_in_the_bowl.bddl",
+   "bddl_sha256": "81c54eace32b92466598103b3b6e8435ce90f10996ef18cec4a35fe6c4d31a98",
+   "n_states": 50,
+   "state_dim": 79,
+   "states_sha256": "3fc023d474f38f670bba4e2abbd00969409cf155eebe4d79e754d2f129b51a73"
+  },
+  {
+   "task": 7,
+   "language": "turn on the stove",
+   "init_file": "turn_on_the_stove.pruned_init",
+   "init_sha256": "ed121db31d749647d70741c4c4ef0bd8e0876663986578795968e962d9b91340",
+   "bddl_file": "turn_on_the_stove.bddl",
+   "bddl_sha256": "cbd2a0514d53226c5d09e17af40b22935d4cb6ff8fdaff0d55f555de1adecc13",
+   "n_states": 50,
+   "state_dim": 79,
+   "states_sha256": "ca5b1592af2b579a9949f714ba50c0d89164037315c6c2bbba35d65501e8adb1"
+  },
+  {
+   "task": 8,
+   "language": "put the bowl on the plate",
+   "init_file": "put_the_bowl_on_the_plate.pruned_init",
+   "init_sha256": "ef3466ffad734754dc40eba1f6f5712e37aa46b9692c595e0da34f16d3a0c668",
+   "bddl_file": "put_the_bowl_on_the_plate.bddl",
+   "bddl_sha256": "358b7781437e412c67d6a7648c1c28796b6b1bf117a25e61316cb8dfeb940e5b",
+   "n_states": 50,
+   "state_dim": 79,
+   "states_sha256": "a98d552fc52e737b5506d0f91a4f0ab7608e48b7752f48391160b8d933b55679"
+  },
+  {
+   "task": 9,
+   "language": "put the wine bottle on the rack",
+   "init_file": "put_the_wine_bottle_on_the_rack.pruned_init",
+   "init_sha256": "fa09aa4ade871c1c6be3dd8c93eb3437ea15190fd7dc73b8c986c8d2d3cfb062",
+   "bddl_file": "put_the_wine_bottle_on_the_rack.bddl",
+   "bddl_sha256": "3d3ee18139056aa3780572cde17b1c50dc20ae0d299403f65e514e8471ba0e8e",
+   "n_states": 50,
+   "state_dim": 79,
+   "states_sha256": "64179af525adbea6e34e96da68b491897c43c36820f861c02d645457a7ad6211"
+  }
+ ]
+}

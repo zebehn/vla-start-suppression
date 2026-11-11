@@ -1,0 +1,20 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+# the short name is also defined in wnta/_name.py
+name = "wnta"
+version = "1.0.0rc1"
+description = "Evaluation kit of the paper 'VLA Policies Do Not Know When Not to Act': does a VLA policy start acting on LIBERO-Goal when no executable instruction is given? Worker, adapters, wire protocol, conformance test, scorer."
+requires-python = ">=3.10"
+dependencies = ["numpy>=1.24"]
+
+[project.optional-dependencies]
+wire = ["pyzmq>=25", "msgpack>=1.0", "msgpack-numpy>=0.4.8"]
+
+[tool.setuptools.packages.find]
+include = ["wnta*"]
+
+[tool.setuptools.package-data]
+"*" = ["spec/*.json", "spec/*.npz"]
